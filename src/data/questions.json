@@ -1,0 +1,328 @@
+[
+    {
+      "question": "Where can nitrogen-fixing bacteria be found in legumes?",
+      "options": ["On the leaves", "In the root nodules", "On the stem", "In the flowers"],
+      "answer": "In the root nodules"
+    },
+    {
+      "question": "Which type of bacteria converts nitrates into nitrogen gas?",
+      "options": ["Nitrogen-fixing", "Denitrifying", "Nitrifying", "Decomposing"],
+      "answer": "Denitrifying"
+    },
+    {
+      "question": "Which process produces oxygen in nature?",
+      "options": ["Respiration", "Combustion", "Photosynthesis", "Decay"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What is the relationship where both organisms benefit called?",
+      "options": ["Symbiosis", "Commensalism", "Parasitism", "Predation"],
+      "answer": "Symbiosis"
+    },
+    {
+      "question": "Which type of bacteria converts ammonia to nitrites?",
+      "options": ["Denitrifying bacteria", "Nitrifying bacteria", "Decomposers", "Sulfur bacteria"],
+      "answer": "Nitrifying bacteria"
+    },
+    {
+      "question": "Which of the following is NOT a conservation method?",
+      "options": ["Afforestation", "Recycling", "Excessive hunting", "Wildlife protection"],
+      "answer": "Excessive hunting"
+    },
+    {
+      "question": "What is the best way to ensure natural resources are used sustainably?",
+      "options": [
+        "Encouraging overgrazing",
+        "Polluting water sources",
+        "Clearing forests for farming",
+        "Implementing conservation strategies"
+      ],
+      "answer": "Implementing conservation strategies"
+    },
+    {
+      "question": "Which conservation practice encourages sustainable use of trees?",
+      "options": ["Overgrazing", "Deforestation", "Reforestation", "Bush burning"],
+      "answer": "Reforestation"
+    },
+    {
+      "question": "What is an example of biological control?",
+      "options": [
+        "Spraying pesticides on crops",
+        "Using chemicals to kill insects",
+        "Introducing Tilapia fish to eat mosquito larvae",
+        "Burning bushes to destroy pests"
+      ],
+      "answer": "Introducing Tilapia fish to eat mosquito larvae"
+    },
+    {
+      "question": "Which level of classification consists of organisms capable of interbreeding?",
+      "options": ["Kingdom", "Phylum", "Class", "Species"],
+      "answer": "Species"
+    },
+    {
+      "question": "Where can nitrogen-fixing bacteria be found in legumes?",
+      "options": ["On the leaves", "In the root nodules", "On the stem", "In the flowers"],
+      "answer": "In the root nodules"
+    },
+    {
+      "question": "Which type of bacteria converts nitrates into nitrogen gas?",
+      "options": ["Nitrogen-fixing", "Denitrifying", "Nitrifying", "Decomposing"],
+      "answer": "Denitrifying"
+    },
+    {
+      "question": "Which process produces oxygen in nature?",
+      "options": ["Respiration", "Combustion", "Photosynthesis", "Decay"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What is the relationship where both organisms benefit called?",
+      "options": ["Symbiosis", "Commensalism", "Parasitism", "Predation"],
+      "answer": "Symbiosis"
+    },
+    {
+      "question": "Which type of bacteria converts ammonia to nitrites?",
+      "options": ["Denitrifying bacteria", "Nitrifying bacteria", "Decomposers", "Sulfur bacteria"],
+      "answer": "Nitrifying bacteria"
+    },
+    {
+      "question": "Which of the following is NOT a conservation method?",
+      "options": ["Afforestation", "Recycling", "Excessive hunting", "Wildlife protection"],
+      "answer": "Excessive hunting"
+    },
+    {
+      "question": "What is the best way to ensure natural resources are used sustainably?",
+      "options": [
+        "Encouraging overgrazing",
+        "Polluting water sources",
+        "Clearing forests for farming",
+        "Implementing conservation strategies"
+      ],
+      "answer": "Implementing conservation strategies"
+    },
+    {
+      "question": "Which conservation practice encourages sustainable use of trees?",
+      "options": ["Overgrazing", "Deforestation", "Reforestation", "Bush burning"],
+      "answer": "Reforestation"
+    },
+    {
+      "question": "What is an example of biological control?",
+      "options": [
+        "Spraying pesticides on crops",
+        "Using chemicals to kill insects",
+        "Introducing Tilapia fish to eat mosquito larvae",
+        "Burning bushes to destroy pests"
+      ],
+      "answer": "Introducing Tilapia fish to eat mosquito larvae"
+    },
+    {
+      "question": "Which level of classification consists of organisms capable of interbreeding?",
+      "options": ["Kingdom", "Phylum", "Class", "Species"],
+      "answer": "Species"
+    },
+    {
+      "question": "What is the major function of white blood cells?",
+      "options": ["Transporting oxygen", "Fighting infections", "Clotting blood", "Carrying nutrients"],
+      "answer": "Fighting infections"
+    },
+    {
+      "question": "Which blood vessels carry blood back to the heart?",
+      "options": ["Arteries", "Capillaries", "Veins", "Nerves"],
+      "answer": "Veins"
+    },
+    {
+      "question": "Which organ in the human body produces insulin?",
+      "options": ["Liver", "Pancreas", "Kidney", "Heart"],
+      "answer": "Pancreas"
+    },
+    {
+      "question": "Which system controls voluntary and involuntary actions in the body?",
+      "options": ["Circulatory system", "Nervous system", "Digestive system", "Respiratory system"],
+      "answer": "Nervous system"
+    },
+    {
+      "question": "Which organ is responsible for filtering waste from the blood?",
+      "options": ["Lungs", "Liver", "Kidneys", "Heart"],
+      "answer": "Kidneys"
+    },
+    {
+      "question": "Which part of the plant is responsible for photosynthesis?",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "answer": "Leaves"
+    },
+    {
+      "question": "Which gas is absorbed by plants during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which type of reproduction does not involve gametes?",
+      "options": ["Asexual reproduction", "Sexual reproduction", "Binary fission", "Fertilization"],
+      "answer": "Asexual reproduction"
+    },
+    {
+      "question": "Which part of the human brain controls balance and coordination?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "Which nutrient is the main source of energy in the human diet?",
+      "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+      "answer": "Carbohydrates"
+    },
+    {
+      "question": "What is the function of hemoglobin in red blood cells?",
+      "options": ["Fighting infections", "Transporting oxygen", "Clotting blood", "Digesting food"],
+      "answer": "Transporting oxygen"
+    },
+    {
+      "question": "What is the smallest unit of life?",
+      "options": ["Organ", "Tissue", "Cell", "Organism"],
+      "answer": "Cell"
+    },
+    {
+      "question": "Which part of the digestive system absorbs nutrients?",
+      "options": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+      "answer": "Small intestine"
+    },
+    {
+      "question": "What is the term for organisms that make their own food?",
+      "options": ["Consumers", "Decomposers", "Producers", "Scavengers"],
+      "answer": "Producers"
+    },
+    {
+      "question": "Which organ in the human body removes toxins and produces bile?",
+      "options": ["Heart", "Liver", "Lungs", "Kidneys"],
+      "answer": "Liver"
+    },
+    {
+      "question": "Which type of joint allows movement in all directions?",
+      "options": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Fixed joint"],
+      "answer": "Ball and socket joint"
+    },
+    {
+      "question": "Which part of the cell contains genetic material?",
+      "options": ["Cytoplasm", "Mitochondria", "Nucleus", "Ribosome"],
+      "answer": "Nucleus"
+    },
+    {
+      "question": "Which process allows water to move through a semi-permeable membrane?",
+      "options": ["Diffusion", "Osmosis", "Active transport", "Photosynthesis"],
+      "answer": "Osmosis"
+    },
+    {
+      "question": "Which hormone regulates blood sugar levels?",
+      "options": ["Adrenaline", "Insulin", "Thyroxine", "Testosterone"],
+      "answer": "Insulin"
+    },
+    {
+      "question": "Where can nitrogen-fixing bacteria be found in legumes?",
+      "options": ["On the leaves", "In the root nodules", "On the stem", "In the flowers"],
+      "answer": "In the root nodules"
+    },
+    {
+      "question": "Which type of bacteria converts nitrates into nitrogen gas?",
+      "options": ["Nitrogen-fixing", "Denitrifying", "Nitrifying", "Decomposing"],
+      "answer": "Denitrifying"
+    },
+    {
+      "question": "Which process produces oxygen in nature?",
+      "options": ["Respiration", "Combustion", "Photosynthesis", "Decay"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What is the relationship where both organisms benefit called?",
+      "options": ["Symbiosis", "Commensalism", "Parasitism", "Predation"],
+      "answer": "Symbiosis"
+    },
+    {
+      "question": "Which type of bacteria converts ammonia to nitrites?",
+      "options": ["Denitrifying bacteria", "Nitrifying bacteria", "Decomposers", "Sulfur bacteria"],
+      "answer": "Nitrifying bacteria"
+    },
+    {
+      "question": "Which of the following is NOT a conservation method?",
+      "options": ["Afforestation", "Recycling", "Excessive hunting", "Wildlife protection"],
+      "answer": "Excessive hunting"
+    },
+    {
+      "question": "What is the best way to ensure natural resources are used sustainably?",
+      "options": [
+        "Encouraging overgrazing",
+        "Polluting water sources",
+        "Clearing forests for farming",
+        "Implementing conservation strategies"
+      ],
+      "answer": "Implementing conservation strategies"
+    },
+    {
+      "question": "Which conservation practice encourages sustainable use of trees?",
+      "options": ["Overgrazing", "Deforestation", "Reforestation", "Bush burning"],
+      "answer": "Reforestation"
+    },
+    {
+      "question": "What is an example of biological control?",
+      "options": [
+        "Spraying pesticides on crops",
+        "Using chemicals to kill insects",
+        "Introducing Tilapia fish to eat mosquito larvae",
+        "Burning bushes to destroy pests"
+      ],
+      "answer": "Introducing Tilapia fish to eat mosquito larvae"
+    },
+    {
+      "question": "Which level of classification consists of organisms capable of interbreeding?",
+      "options": ["Kingdom", "Phylum", "Class", "Species"],
+      "answer": "Species"
+    },
+    {
+      "question": "What is the major function of white blood cells?",
+      "options": ["Transporting oxygen", "Fighting infections", "Clotting blood", "Carrying nutrients"],
+      "answer": "Fighting infections"
+    },
+    {
+      "question": "Which blood vessels carry blood back to the heart?",
+      "options": ["Arteries", "Capillaries", "Veins", "Nerves"],
+      "answer": "Veins"
+    },
+    {
+      "question": "Which organ in the human body produces insulin?",
+      "options": ["Liver", "Pancreas", "Kidney", "Heart"],
+      "answer": "Pancreas"
+    },
+    {
+      "question": "Which system controls voluntary and involuntary actions in the body?",
+      "options": ["Circulatory system", "Nervous system", "Digestive system", "Respiratory system"],
+      "answer": "Nervous system"
+    },
+    {
+      "question": "Which organ is responsible for filtering waste from the blood?",
+      "options": ["Lungs", "Liver", "Kidneys", "Heart"],
+      "answer": "Kidneys"
+    },
+    {
+      "question": "Which part of the plant is responsible for photosynthesis?",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "answer": "Leaves"
+    },
+    {
+      "question": "Which gas is absorbed by plants during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which type of reproduction does not involve gametes?",
+      "options": ["Asexual reproduction", "Sexual reproduction", "Binary fission", "Fertilization"],
+      "answer": "Asexual reproduction"
+    },
+    {
+      "question": "Which part of the human brain controls balance and coordination?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "Which nutrient is the main source of energy in the human diet?",
+      "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+      "answer": "Carbohydrates"
+    }
+  ]
+      
