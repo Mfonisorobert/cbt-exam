@@ -278,50 +278,7 @@
       "question": "What is the major function of white blood cells?",
       "options": ["Transporting oxygen", "Fighting infections", "Clotting blood", "Carrying nutrients"],
       "answer": "Fighting infections"
-    },
-    {
-      "question": "Which blood vessels carry blood back to the heart?",
-      "options": ["Arteries", "Capillaries", "Veins", "Nerves"],
-      "answer": "Veins"
-    },
-    {
-      "question": "Which organ in the human body produces insulin?",
-      "options": ["Liver", "Pancreas", "Kidney", "Heart"],
-      "answer": "Pancreas"
-    },
-    {
-      "question": "Which system controls voluntary and involuntary actions in the body?",
-      "options": ["Circulatory system", "Nervous system", "Digestive system", "Respiratory system"],
-      "answer": "Nervous system"
-    },
-    {
-      "question": "Which organ is responsible for filtering waste from the blood?",
-      "options": ["Lungs", "Liver", "Kidneys", "Heart"],
-      "answer": "Kidneys"
-    },
-    {
-      "question": "Which part of the plant is responsible for photosynthesis?",
-      "options": ["Roots", "Stem", "Leaves", "Flowers"],
-      "answer": "Leaves"
-    },
-    {
-      "question": "Which gas is absorbed by plants during photosynthesis?",
-      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-      "answer": "Carbon dioxide"
-    },
-    {
-      "question": "Which type of reproduction does not involve gametes?",
-      "options": ["Asexual reproduction", "Sexual reproduction", "Binary fission", "Fertilization"],
-      "answer": "Asexual reproduction"
-    },
-    {
-      "question": "Which part of the human brain controls balance and coordination?",
-      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
-      "answer": "Cerebellum"
-    },
-    {
-      "question": "Which nutrient is the main source of energy in the human diet?",
-      "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
-      "answer": "Carbohydrates"
-    } 
+    }
+   
+   
   ]
