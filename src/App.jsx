@@ -126,7 +126,7 @@ if (!hasStarted) {
     <div className="min-h-screen flex items-center  justify-center">
       {/* <img src="/cbt-bg.jpg" className="absolute">
       </img> */}
-      <div className="bg-white p-8 rounded-2xl opacity-70 shadow-lg w-full max-w-md text-center">
+      <div className="bg-white p-8 rounded-2xl opacity-90 shadow-lg w-full max-w-md text-center">
         <h1 className="text-3xl font-poppins font-bold mb-6">Welcome to CBT Exam</h1>
         <input
           type="text"
@@ -137,7 +137,7 @@ if (!hasStarted) {
         />
         <button
           onClick={handleStart}
-          className="bg-blue-600 text-white px-6 py-2 rounded-xl hover:bg-blue-700"
+          className="bg-blue-800 text-white px-6 py-2 rounded-xl hover:bg-blue-700"
         >
           Start Exam
         </button>
@@ -169,13 +169,13 @@ if (!hasStarted) {
 
      <div className="max-w-2xl mx-auto mt-10 p-6 bg-gray-50 opacity-90 rounded-2xl shadow-xl">
       <h1 className="text-3xl font-bold text-center text-blue-950 mb-2">SUN DREAM INT'L SCHOOL</h1>
-      <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">BIOLOGY</h3>
+      <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">YEAR 10 - CIVIC EDUCATION</h3>
 
       {!showScore && (
         <>
         <p className="text-1xl text-green-800 -mb-2  text-center"><span className="font-medium">{studentName}</span></p>
           
-          <Timer duration={1000} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
+          <Timer duration={1800} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
           {questions.length > 0 && (
             <Question
               questionObj={questions[currentQIndex]}
@@ -215,7 +215,7 @@ if (!hasStarted) {
       {showScore && (
         <div className="text-center mt-6">
           <h2 className="text-2xl font-semibold">Your Score:</h2>
-          <p className="text-3xl font-bold text-green-600 mt-2">
+          <p className="text-3xl font-bold text-green-700 mt-2">
             {score} / {questions.length}
           </p>
         </div>
@@ -223,13 +223,8 @@ if (!hasStarted) {
 
 {/* This portion shows the result after submission */}
 
-{/* {showScore && (
+{showScore && (
   <div className="text-center mt-6">
-    <h2 className="text-2xl font-semibold mb-2">Your Score:</h2>
-    <p className="text-3xl font-bold text-green-600">
-      {score} / {questions.length}
-    </p>
-
     <h3 className="text-xl font-semibold mt-6 mb-2">Review:</h3>
     <div className="space-y-4 text-left mt-4">
       {questions.map((q, idx) => {
@@ -246,7 +241,7 @@ if (!hasStarted) {
       })}
     </div>
   </div>
-)} */}
+)}
 
 
 </div>
