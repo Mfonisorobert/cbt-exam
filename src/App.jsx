@@ -115,7 +115,17 @@ const handleSubmit = () => {
 
 if (!hasStarted) {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-blue-100">
+    <div className="relative py-4"
+  style={{
+    backgroundImage: "url('/cbt-bg.jpg')",
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    minHeight: '100vh',
+  }}
+>
+    <div className="min-h-screen flex items-center  justify-center">
+      {/* <img src="/cbt-bg.jpg" className="absolute">
+      </img> */}
       <div className="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md text-center">
         <h1 className="text-3xl font-poppins font-bold mb-6">Welcome to CBT Exam</h1>
         <input
@@ -133,6 +143,7 @@ if (!hasStarted) {
         </button>
       </div>
     </div>
+    </div>
   );
 }
 
@@ -145,6 +156,17 @@ if (!hasStarted) {
 // It ends here
 
   return (
+    <div className="relative py-4"
+  style={{
+    backgroundImage: "url('/cbt-bg.jpg')",
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    minHeight: '100vh',
+  }}
+>
+  {/* Your CBT content here */}
+
+
      <div className="max-w-2xl mx-auto mt-10 p-6 bg-gray-50 rounded-2xl shadow-xl">
       <h1 className="text-3xl font-bold text-center text-blue-950 mb-2">SUN DREAM INT'L SCHOOL</h1>
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">BIOLOGY</h3>
@@ -227,7 +249,7 @@ if (!hasStarted) {
 )} */}
 
 
-      
+</div>
     </div>
   );
 }

@@ -9,7 +9,10 @@ export default {
     extend: {
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
-      }
+      },
+      // backgroundImage: {
+      //   'exam-bg': "url('/public/cbt-bg.jpg')",
+      // },
     },
   },
   plugins: [],
