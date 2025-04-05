@@ -117,7 +117,7 @@ if (!hasStarted) {
   return (
     <div className="relative py-4"
   style={{
-    backgroundImage: "url('/cbt-bg.jpg')",
+    backgroundImage: "url('/bg-img.jpeg')",
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     minHeight: '100vh',
@@ -158,7 +158,7 @@ if (!hasStarted) {
   return (
     <div className="relative py-4"
   style={{
-    backgroundImage: "url('/cbt-bg.jpg')",
+    backgroundImage: "url('/bg-img.jpeg')",
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     minHeight: '100vh',
