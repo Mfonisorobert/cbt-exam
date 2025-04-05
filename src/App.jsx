@@ -212,18 +212,24 @@ if (!hasStarted) {
         </>
       )}
 
-      {showScore && (
+      {/* {showScore && (
         <div className="text-center mt-6">
           <h2 className="text-2xl font-semibold">Your Score:</h2>
           <p className="text-3xl font-bold text-green-700 mt-2">
             {score} / {questions.length}
           </p>
         </div>
-      )}
+      )} */}
 
 {/* This portion shows the result after submission */}
 
-{/* {showScore && (
+{showScore && (
+ <div className="text-center mt-6">
+          <h2 className="text-2xl font-semibold">Your Score:</h2>
+          <p className="text-3xl font-bold text-green-700 mt-2">
+            {score} / {questions.length}
+          </p>
+
   <div className="text-center mt-6">
     <h3 className="text-xl font-semibold mt-6 mb-2">Review:</h3>
     <div className="space-y-4 text-left mt-4">
@@ -240,8 +246,9 @@ if (!hasStarted) {
         );
       })}
     </div>
+    </div>
   </div>
-)} */}
+)}
 
 
 </div>
