@@ -1,253 +1,327 @@
 [
     {
-      "question": "The state of being happy and satisfied with whatever one owns is called",
-      "options": ["commitment", "contentment", "envy", "equality"],
-      "answer": "contentment"
+      "question": "Where can nitrogen-fixing bacteria be found in legumes?",
+      "options": ["On the leaves", "In the root nodules", "On the stem", "In the flowers"],
+      "answer": "In the root nodules"
     },
     {
-      "question": "A feature of written constitution is",
-      "options": ["corruptibility", "flexibility", "instability", "rigidity"],
-      "answer": "rigidity"
+      "question": "Which type of bacteria converts nitrates into nitrogen gas?",
+      "options": ["Nitrogen-fixing", "Denitrifying", "Nitrifying", "Decomposing"],
+      "answer": "Denitrifying"
     },
     {
-      "question": "The use of illicit substances can be discouraged through",
-      "options": ["building more pharmaceutical companies", "campaign against drug abuse", "closure of rehabilitation centers", "encouraging drug manufacturing"],
-      "answer": "campaign against drug abuse"
+      "question": "Which process produces oxygen in nature?",
+      "options": ["Respiration", "Combustion", "Photosynthesis", "Decay"],
+      "answer": "Photosynthesis"
     },
     {
-      "question": "One of the factors that can limit the enjoyment of human rights in Nigeria is the",
-      "options": ["acceptance of foreign aid by the government", "improvement of literacy rate of citizens", "declaration of state of emergency by government", "periodic review of the constitution by the government"],
-      "answer": "declaration of state of emergency by government"
+      "question": "What is the relationship where both organisms benefit called?",
+      "options": ["Symbiosis", "Commensalism", "Parasitism", "Predation"],
+      "answer": "Symbiosis"
     },
     {
-      "question": "One major factor that attracts some Nigerians into human trafficking is",
-      "options": ["over-population related issues", "influx of foreigners into the country", "insatiable quest for quick wealth", "influence of western and social"],
-      "answer": "insatiable quest for quick wealth"
+      "question": "Which type of bacteria converts ammonia to nitrites?",
+      "options": ["Denitrifying bacteria", "Nitrifying bacteria", "Decomposers", "Sulfur bacteria"],
+      "answer": "Nitrifying bacteria"
     },
     {
-      "question": "Which of the following may prevent a citizen from voting in a general election?",
-      "options": ["Lack of stable income", "High cost of living", "Non-registration", "Political neutrality"],
-      "answer": "Non-registration"
+      "question": "Which of the following is NOT a conservation method?",
+      "options": ["Afforestation", "Recycling", "Excessive hunting", "Wildlife protection"],
+      "answer": "Excessive hunting"
     },
     {
-      "question": "The smooth operation of the public service in Nigeria is being hampered by",
-      "options": ["debt burden", "adequate training", "privatization", "bribery and corruption"],
-      "answer": "bribery and corruption"
+      "question": "What is the best way to ensure natural resources are used sustainably?",
+      "options": [
+        "Encouraging overgrazing",
+        "Polluting water sources",
+        "Clearing forests for farming",
+        "Implementing conservation strategies"
+      ],
+      "answer": "Implementing conservation strategies"
     },
     {
-      "question": "The standards that are considered ethical by an individual or the society are known as",
-      "options": ["dignity", "rights", "values", "materialism"],
-      "answer": "values"
+      "question": "Which conservation practice encourages sustainable use of trees?",
+      "options": ["Overgrazing", "Deforestation", "Reforestation", "Bush burning"],
+      "answer": "Reforestation"
     },
     {
-      "question": "The status of being a legal member of a country is referred to as",
-      "options": ["alien", "asylum", "citizenship", "migrant"],
-      "answer": "citizenship"
+      "question": "What is an example of biological control?",
+      "options": [
+        "Spraying pesticides on crops",
+        "Using chemicals to kill insects",
+        "Introducing Tilapia fish to eat mosquito larvae",
+        "Burning bushes to destroy pests"
+      ],
+      "answer": "Introducing Tilapia fish to eat mosquito larvae"
     },
     {
-      "question": "The inalienable rights of citizens can be guaranteed through",
-      "options": ["an unwritten constitution", "parliamentary system of government", "unitary system of government", "an independent judiciary"],
-      "answer": "an independent judiciary"
+      "question": "Which level of classification consists of organisms capable of interbreeding?",
+      "options": ["Kingdom", "Phylum", "Class", "Species"],
+      "answer": "Species"
     },
     {
-      "question": "A type of constitution that allows the concentration of powers in a single tier of government is",
-      "options": ["confederal", "federal", "flexible", "unitary"],
-      "answer": "unitary"
+      "question": "Where can nitrogen-fixing bacteria be found in legumes?",
+      "options": ["On the leaves", "In the root nodules", "On the stem", "In the flowers"],
+      "answer": "In the root nodules"
     },
     {
-      "question": "NYSC was established in the year",
-      "options": ["1960", "1963", "1966", "1973"],
-      "answer": "1973"
+      "question": "Which type of bacteria converts nitrates into nitrogen gas?",
+      "options": ["Nitrogen-fixing", "Denitrifying", "Nitrifying", "Decomposing"],
+      "answer": "Denitrifying"
     },
     {
-      "question": "A group of people that makes law in a democratic government is the",
-      "options": ["executive", "legislators", "judiciary", "judges"],
-      "answer": "legislators"
+      "question": "Which process produces oxygen in nature?",
+      "options": ["Respiration", "Combustion", "Photosynthesis", "Decay"],
+      "answer": "Photosynthesis"
     },
     {
-      "question": "Participatory democracy means",
-      "options": ["division into constituencies", "funding political parties", "involvement of the populace in politics", "rulership by the elite"],
-      "answer": "involvement of the populace in politics"
+      "question": "What is the relationship where both organisms benefit called?",
+      "options": ["Symbiosis", "Commensalism", "Parasitism", "Predation"],
+      "answer": "Symbiosis"
     },
     {
-      "question": "According to the Nigerian constitution, a presidential aspirant must attain the age of _____ years.",
-      "options": ["18", "21", "30", "35"],
-      "answer": "35"
+      "question": "Which type of bacteria converts ammonia to nitrites?",
+      "options": ["Denitrifying bacteria", "Nitrifying bacteria", "Decomposers", "Sulfur bacteria"],
+      "answer": "Nitrifying bacteria"
     },
     {
-      "question": "The amendment of a rigid constitution requires ______ majority vote.",
-      "options": ["one-fifth", "one-fourth", "one-third", "two-third"],
-      "answer": "two-third"
+      "question": "Which of the following is NOT a conservation method?",
+      "options": ["Afforestation", "Recycling", "Excessive hunting", "Wildlife protection"],
+      "answer": "Excessive hunting"
     },
     {
-      "question": "Which of the following institutions is established to promote national unity in Nigeria?",
-      "options": ["NAFDAC", "NAPEP", "NDE", "NYSC"],
-      "answer": "NYSC"
+      "question": "What is the best way to ensure natural resources are used sustainably?",
+      "options": [
+        "Encouraging overgrazing",
+        "Polluting water sources",
+        "Clearing forests for farming",
+        "Implementing conservation strategies"
+      ],
+      "answer": "Implementing conservation strategies"
     },
     {
-      "question": "A type of government in which people exercise their political power through periodic election is",
-      "options": ["autocracy", "democracy", "monarchy", "oligarchy"],
-      "answer": "democracy"
+      "question": "Which conservation practice encourages sustainable use of trees?",
+      "options": ["Overgrazing", "Deforestation", "Reforestation", "Bush burning"],
+      "answer": "Reforestation"
     },
     {
-      "question": "The highest court in Nigeria is the ______ court.",
-      "options": ["customary", "high", "magistrate", "supreme"],
-      "answer": "supreme"
+      "question": "What is an example of biological control?",
+      "options": [
+        "Spraying pesticides on crops",
+        "Using chemicals to kill insects",
+        "Introducing Tilapia fish to eat mosquito larvae",
+        "Burning bushes to destroy pests"
+      ],
+      "answer": "Introducing Tilapia fish to eat mosquito larvae"
     },
     {
-      "question": "Disenfranchisement is a violation of one’s right to",
-      "options": ["life", "vote", "movement", "speech"],
-      "answer": "vote"
+      "question": "Which level of classification consists of organisms capable of interbreeding?",
+      "options": ["Kingdom", "Phylum", "Class", "Species"],
+      "answer": "Species"
     },
     {
-      "question": "The House of Representative in Nigeria consist of ____ legislators.",
-      "options": ["36", "37", "109", "360"],
-      "answer": "360"
+      "question": "What is the major function of white blood cells?",
+      "options": ["Transporting oxygen", "Fighting infections", "Clotting blood", "Carrying nutrients"],
+      "answer": "Fighting infections"
     },
     {
-      "question": "The use of _____ is applied to avoid the abuse of power among the three arms of government.",
-      "options": ["bye-laws", "checks and balances", "code of conducts", "rule of law"],
-      "answer": "checks and balances"
+      "question": "Which blood vessels carry blood back to the heart?",
+      "options": ["Arteries", "Capillaries", "Veins", "Nerves"],
+      "answer": "Veins"
     },
     {
-      "question": "The exhibition of queuing culture in a society is good example of",
-      "options": ["participation", "empowerment", "nationalism", "orderliness"],
-      "answer": "orderliness"
+      "question": "Which organ in the human body produces insulin?",
+      "options": ["Liver", "Pancreas", "Kidney", "Heart"],
+      "answer": "Pancreas"
     },
     {
-      "question": "In the constitution, the area where both federal and state government exercise joint authority are on the",
-      "options": ["residual list", "concurrent list", "exclusive list", "reserved list"],
-      "answer": "concurrent list"
+      "question": "Which system controls voluntary and involuntary actions in the body?",
+      "options": ["Circulatory system", "Nervous system", "Digestive system", "Respiratory system"],
+      "answer": "Nervous system"
     },
     {
-      "question": "A major feature of representative democracy is",
-      "options": ["free and fair election", "absolute application of law", "civil liberty groups", "enlightened electorate"],
-      "answer": "free and fair election"
+      "question": "Which organ is responsible for filtering waste from the blood?",
+      "options": ["Lungs", "Liver", "Kidneys", "Heart"],
+      "answer": "Kidneys"
     },
     {
-      "question": "Use of hard drugs can best be curtailed through",
-      "options": ["compensation", "rehabilitation", "enlightenment", "compromise"],
-      "answer": "enlightenment"
+      "question": "Which part of the plant is responsible for photosynthesis?",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "answer": "Leaves"
     },
     {
-      "question": "Which of the following is not a symptom of HIV/AIDS?",
-      "options": ["Loss of appetite and weight", "Unexpected feverish condition", "Infections that often resist treatment", "Systematic growth of the body"],
-      "answer": "Systematic growth of the body"
+      "question": "Which gas is absorbed by plants during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "answer": "Carbon dioxide"
     },
     {
-      "question": "One way of being infected with HIV/AIDS is through",
-      "options": ["the use of unsterilized sharp objects", "sitting close to HIV/AIDS patients", "having handshakes with persons living with HIV/AIDS", "sharing clothes with HIV/AIDS infected persons"],
-      "answer": "the use of unsterilized sharp objects"
+      "question": "Which type of reproduction does not involve gametes?",
+      "options": ["Asexual reproduction", "Sexual reproduction", "Binary fission", "Fertilization"],
+      "answer": "Asexual reproduction"
     },
     {
-      "question": "Which of the following is not a reason for self reliance?",
-      "options": ["Creation of employment opportunities", "Innovation and creativity", "Diversification", "Quest for white collar jobs"],
-      "answer": "Quest for white collar jobs"
+      "question": "Which part of the human brain controls balance and coordination?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+      "answer": "Cerebellum"
     },
     {
-      "question": "A major characteristic of civil society is",
-      "options": ["the desire to win election", "corporate responsibility", "social responsibility", "political gerrymandering"],
-      "answer": "social responsibility"
+      "question": "Which nutrient is the main source of energy in the human diet?",
+      "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+      "answer": "Carbohydrates"
     },
     {
-      "question": "How many local governments are present in Nigeria?",
-      "options": ["664", "804", "774", "554"],
-      "answer": "774"
+      "question": "What is the function of hemoglobin in red blood cells?",
+      "options": ["Fighting infections", "Transporting oxygen", "Clotting blood", "Digesting food"],
+      "answer": "Transporting oxygen"
     },
     {
-      "question": "The say “ask for what you can do for your country and not what your country can do for you” denotes that",
-      "options": ["the country owes you no obligation as a citizen", "citizens have both constitutional rights and obligation", "fundamental rights are to be safeguarded by the citizens", "service and reward does not go together"],
-      "answer": "citizens have both constitutional rights and obligation"
+      "question": "What is the smallest unit of life?",
+      "options": ["Organ", "Tissue", "Cell", "Organism"],
+      "answer": "Cell"
     },
     {
-      "question": "An active involvement of people in the decision-making process in a state indicates political",
-      "options": ["indoctrination", "participation", "struggle", "apathy"],
-      "answer": "participation"
+      "question": "Which part of the digestive system absorbs nutrients?",
+      "options": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+      "answer": "Small intestine"
     },
     {
-      "question": "The process of enabling someone to perform an action which adds value to his/her life is known as",
-      "options": ["employment", "recruitment", "socialization", "empowerment"],
-      "answer": "empowerment"
+      "question": "What is the term for organisms that make their own food?",
+      "options": ["Consumers", "Decomposers", "Producers", "Scavengers"],
+      "answer": "Producers"
     },
     {
-      "question": "The general attitude of government and the society towards cultism is that of",
-      "options": ["affection", "sympathy", "abhorrence", "support"],
-      "answer": "abhorrence"
+      "question": "Which organ in the human body removes toxins and produces bile?",
+      "options": ["Heart", "Liver", "Lungs", "Kidneys"],
+      "answer": "Liver"
     },
     {
-      "question": "Youth empowerment promotes",
-      "options": ["self reliance", "youth exuberance", "pursuit of higher education", "foreign scholarship"],
-      "answer": "self reliance"
+      "question": "Which type of joint allows movement in all directions?",
+      "options": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Fixed joint"],
+      "answer": "Ball and socket joint"
     },
     {
-      "question": "The supreme court of Nigeria helps in law",
-      "options": ["application", "interpretation", "enforcement", "drafting"],
-      "answer": "interpretation"
+      "question": "Which part of the cell contains genetic material?",
+      "options": ["Cytoplasm", "Mitochondria", "Nucleus", "Ribosome"],
+      "answer": "Nucleus"
     },
     {
-      "question": "Democracy thrives more where there is",
-      "options": ["non partisan judiciary", "freedom of speech and association", "absence of universal suffrage", "one party system"],
-      "answer": "non partisan judiciary"
+      "question": "Which process allows water to move through a semi-permeable membrane?",
+      "options": ["Diffusion", "Osmosis", "Active transport", "Photosynthesis"],
+      "answer": "Osmosis"
     },
     {
-      "question": "Which state is the confluence town in Nigeria?",
-      "options": ["Niger", "Abia", "Oyo", "Kogi"],
-      "answer": "Kogi"
+      "question": "Which hormone regulates blood sugar levels?",
+      "options": ["Adrenaline", "Insulin", "Thyroxine", "Testosterone"],
+      "answer": "Insulin"
     },
     {
-      "question": "Responsible parenthood is important because it",
-      "options": ["promotes recreation", "fosters orderliness", "grooms disciplined children", "provides solution to all societal problems"],
-      "answer": "grooms disciplined children"
+      "question": "Where can nitrogen-fixing bacteria be found in legumes?",
+      "options": ["On the leaves", "In the root nodules", "On the stem", "In the flowers"],
+      "answer": "In the root nodules"
     },
     {
-      "question": "Which of the following should not be encouraged by a responsible parent?",
-      "options": ["Moral development", "Religious fundamentalist", "Spiritual development", "respect for elders"],
-      "answer": "Religious fundamentalist"
+      "question": "Which type of bacteria converts nitrates into nitrogen gas?",
+      "options": ["Nitrogen-fixing", "Denitrifying", "Nitrifying", "Decomposing"],
+      "answer": "Denitrifying"
     },
     {
-      "question": "Preventive measures of HIV/AIDS do not include",
-      "options": ["abstinence", "screening of blood before transfusion", "use of barrier methods", "stigmatization of victims"],
-      "answer": "stigmatization of victims"
+      "question": "Which process produces oxygen in nature?",
+      "options": ["Respiration", "Combustion", "Photosynthesis", "Decay"],
+      "answer": "Photosynthesis"
     },
     {
-      "question": "Which of the following is not a form of political participation?",
-      "options": ["Taking part in voters registration exercise", "Voting during election", "Joining during election", "Ballot box stuffing"],
-      "answer": "Ballot box stuffing"
+      "question": "What is the relationship where both organisms benefit called?",
+      "options": ["Symbiosis", "Commensalism", "Parasitism", "Predation"],
+      "answer": "Symbiosis"
     },
     {
-      "question": "In which year did the United Nations General assembly adopt the universal declaration of human rights?",
-      "options": ["1945", "1946", "1947", "1948"],
-      "answer": "1948"
+      "question": "Which type of bacteria converts ammonia to nitrites?",
+      "options": ["Denitrifying bacteria", "Nitrifying bacteria", "Decomposers", "Sulfur bacteria"],
+      "answer": "Nitrifying bacteria"
     },
     {
-      "question": "An enabling environment created to help an individual have effective control of his/her situation is known as",
-      "options": ["empowerment", "endowment", "enhancement", "endorsement"],
-      "answer": "empowerment"
+      "question": "Which of the following is NOT a conservation method?",
+      "options": ["Afforestation", "Recycling", "Excessive hunting", "Wildlife protection"],
+      "answer": "Excessive hunting"
     },
     {
-      "question": "In order to avoid undue interference in the process of governance, there should be",
-      "options": ["clear cut separation of governmental power", "proper fusion of governmental powers and functions", "more roles for traditional rulers in the governmental process", "additional responsibility for local government council"],
-      "answer": "clear cut separation of governmental power"
+      "question": "What is the best way to ensure natural resources are used sustainably?",
+      "options": [
+        "Encouraging overgrazing",
+        "Polluting water sources",
+        "Clearing forests for farming",
+        "Implementing conservation strategies"
+      ],
+      "answer": "Implementing conservation strategies"
     },
     {
-      "question": "An ideology that aims at promoting national consciousness and identity is",
-      "options": ["nationalism", "socialization", "civic culture", "progressiveness"],
-      "answer": "nationalism"
+      "question": "Which conservation practice encourages sustainable use of trees?",
+      "options": ["Overgrazing", "Deforestation", "Reforestation", "Bush burning"],
+      "answer": "Reforestation"
     },
     {
-      "question": "HIV/AIDS is generally described as terminal in nature because it is",
-      "options": ["preventable", "transmittable", "avertable", "incurable"],
-      "answer": "incurable"
+      "question": "What is an example of biological control?",
+      "options": [
+        "Spraying pesticides on crops",
+        "Using chemicals to kill insects",
+        "Introducing Tilapia fish to eat mosquito larvae",
+        "Burning bushes to destroy pests"
+      ],
+      "answer": "Introducing Tilapia fish to eat mosquito larvae"
     },
     {
-      "question": "Effective and responsible parenthood is primarily",
-      "options": ["a national duty", "a military duty", "a political duty", "an economic duty"],
-      "answer": "an economic duty"
+      "question": "Which level of classification consists of organisms capable of interbreeding?",
+      "options": ["Kingdom", "Phylum", "Class", "Species"],
+      "answer": "Species"
     },
     {
-      "question": "One of the reasons most HIV/AIDS patients act reluctant to disclose their status is because of",
-      "options": ["the incurable nature of the ailment", "fear of social stigmatization", "lack of sufficient public awareness", "shortage of health counselors"],
-      "answer": "fear of social stigmatization"
-    }
+      "question": "What is the major function of white blood cells?",
+      "options": ["Transporting oxygen", "Fighting infections", "Clotting blood", "Carrying nutrients"],
+      "answer": "Fighting infections"
+    },
+    {
+      "question": "Which blood vessels carry blood back to the heart?",
+      "options": ["Arteries", "Capillaries", "Veins", "Nerves"],
+      "answer": "Veins"
+    },
+    {
+      "question": "Which organ in the human body produces insulin?",
+      "options": ["Liver", "Pancreas", "Kidney", "Heart"],
+      "answer": "Pancreas"
+    },
+    {
+      "question": "Which system controls voluntary and involuntary actions in the body?",
+      "options": ["Circulatory system", "Nervous system", "Digestive system", "Respiratory system"],
+      "answer": "Nervous system"
+    },
+    {
+      "question": "Which organ is responsible for filtering waste from the blood?",
+      "options": ["Lungs", "Liver", "Kidneys", "Heart"],
+      "answer": "Kidneys"
+    },
+    {
+      "question": "Which part of the plant is responsible for photosynthesis?",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "answer": "Leaves"
+    },
+    {
+      "question": "Which gas is absorbed by plants during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which type of reproduction does not involve gametes?",
+      "options": ["Asexual reproduction", "Sexual reproduction", "Binary fission", "Fertilization"],
+      "answer": "Asexual reproduction"
+    },
+    {
+      "question": "Which part of the human brain controls balance and coordination?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "Which nutrient is the main source of energy in the human diet?",
+      "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+      "answer": "Carbohydrates"
+    } 
   ]
-  
