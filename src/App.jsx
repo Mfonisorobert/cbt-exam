@@ -168,8 +168,19 @@ if (!hasStarted) {
 
 
      <div className="max-w-2xl mx-auto mt-10 p-6 bg-gray-50 opacity-90 rounded-2xl shadow-xl">
+
+     {!showScore && (
       <h1 className="text-3xl font-bold text-center text-blue-950 mb-2">SUN DREAM INT'L SCHOOL</h1>
-      <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">YEAR 10 - CIVIC EDUCATION</h3>
+    )}
+      <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
+
+      {showScore ? studentName : "YEAR 10 - CIVIC EDUCATION"}
+      </h3>
+
+      
+  
+
+
 
       {!showScore && (
         <>
@@ -212,24 +223,18 @@ if (!hasStarted) {
         </>
       )}
 
-      {/* {showScore && (
+      {showScore && (
         <div className="text-center mt-6">
-          <h2 className="text-2xl font-semibold">Your Score:</h2>
+          <h2 className="text-2xl font-semibold">Your Score is:</h2>
           <p className="text-3xl font-bold text-green-700 mt-2">
             {score} / {questions.length}
           </p>
         </div>
-      )} */}
+      )}
 
 {/* This portion shows the result after submission */}
 
-{showScore && (
- <div className="text-center mt-6">
-          <h2 className="text-2xl font-semibold">Your Score:</h2>
-          <p className="text-3xl font-bold text-green-700 mt-2">
-            {score} / {questions.length}
-          </p>
-
+{/* {showScore && (
   <div className="text-center mt-6">
     <h3 className="text-xl font-semibold mt-6 mb-2">Review:</h3>
     <div className="space-y-4 text-left mt-4">
@@ -246,9 +251,8 @@ if (!hasStarted) {
         );
       })}
     </div>
-    </div>
   </div>
-)}
+)} */}
 
 
 </div>
