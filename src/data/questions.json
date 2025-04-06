@@ -1,284 +1,254 @@
-[
+{
+  "questions": [
     {
-      "question": "Where can nitrogen-fixing bacteria be found in legumes?",
-      "options": ["On the leaves", "In the root nodules", "On the stem", "In the flowers"],
-      "answer": "In the root nodules"
+      "question": "Which one of the following reduces the amount of solar radiation from reaching the earth.",
+      "options": ["(a) Cloud", "(b) Ozone layer", "(c) Weather", "(d) Insulation"],
+      "answer": "A"
     },
     {
-      "question": "Which type of bacteria converts nitrates into nitrogen gas?",
-      "options": ["Nitrogen-fixing", "Denitrifying", "Nitrifying", "Decomposing"],
-      "answer": "Denitrifying"
+      "question": "One of these absorbs heat better",
+      "options": ["(a) darker soil", "(b) light soil", "(c) loamy soil", "(d) sandy soil"],
+      "answer": "A"
     },
     {
-      "question": "Which process produces oxygen in nature?",
-      "options": ["Respiration", "Combustion", "Photosynthesis", "Decay"],
-      "answer": "Photosynthesis"
+      "question": "______ cut off incoming sunlight energy in the forest.",
+      "options": ["(a) Thick foliage", "(b) Insulation", "(c) Cool temperature", "(d) All of the above"],
+      "answer": "A"
     },
     {
-      "question": "What is the relationship where both organisms benefit called?",
-      "options": ["Symbiosis", "Commensalism", "Parasitism", "Predation"],
-      "answer": "Symbiosis"
+      "question": "One of these is the characteristics of climate",
+      "options": ["(a) varies from one place to another", "(b) change often", "(c) is not constant", "(d) very unfriendly"],
+      "answer": "A"
     },
     {
-      "question": "Which type of bacteria converts ammonia to nitrites?",
-      "options": ["Denitrifying bacteria", "Nitrifying bacteria", "Decomposers", "Sulfur bacteria"],
-      "answer": "Nitrifying bacteria"
+      "question": "Savanna vegetation has one of the following characteristics",
+      "options": ["(a) development of game reserves", "(b) not arable for cultivation", "(c) no life is found there", "(d) has fly infestation"],
+      "answer": "A"
     },
     {
-      "question": "Which of the following is NOT a conservation method?",
-      "options": ["Afforestation", "Recycling", "Excessive hunting", "Wildlife protection"],
-      "answer": "Excessive hunting"
+      "question": "There are two types of cold climate, which are",
+      "options": ["(a) polar climate and thunder climate", "(b) warm climate and cold climate", "(c) Cold and tundra climate", "(d) Polar climate and cold climate"],
+      "answer": "C"
     },
     {
-      "question": "What is the best way to ensure natural resources are used sustainably?",
-      "options": [
-        "Encouraging overgrazing",
-        "Polluting water sources",
-        "Clearing forests for farming",
-        "Implementing conservation strategies"
-      ],
-      "answer": "Implementing conservation strategies"
+      "question": "Human activities in cold climate is limited to",
+      "options": ["(a) fishing in summer only", "(b) fishing all year round", "(c) fishing only when necessary", "(d) there are little or less fishes in this climate"],
+      "answer": "B"
     },
     {
-      "question": "Which conservation practice encourages sustainable use of trees?",
-      "options": ["Overgrazing", "Deforestation", "Reforestation", "Bush burning"],
-      "answer": "Reforestation"
+      "question": "Environmental resources refer to ______.",
+      "options": ["(a) any useful item in the environment, or material and substance useful in the environment", "(b) items in the environment", "(c) biotic environment of man", "(d) abiotic elements of the environment"],
+      "answer": "A"
     },
     {
-      "question": "What is an example of biological control?",
-      "options": [
-        "Spraying pesticides on crops",
-        "Using chemicals to kill insects",
-        "Introducing Tilapia fish to eat mosquito larvae",
-        "Burning bushes to destroy pests"
-      ],
-      "answer": "Introducing Tilapia fish to eat mosquito larvae"
+      "question": "One of these is not an environmental resource",
+      "options": ["(a) atmospheric resources", "(b) solar resources", "(c) wind resources", "(d) energy resources"],
+      "answer": "B"
     },
     {
-      "question": "Which level of classification consists of organisms capable of interbreeding?",
-      "options": ["Kingdom", "Phylum", "Class", "Species"],
-      "answer": "Species"
+      "question": "One of these is a problem in harnessing solar energy",
+      "options": ["(a) poor technological know how", "(b) reliability on the solar system", "(c) unreliability of solar system", "(d) easy to build panels"],
+      "answer": "A"
     },
     {
-      "question": "Where can nitrogen-fixing bacteria be found in legumes?",
-      "options": ["On the leaves", "In the root nodules", "On the stem", "In the flowers"],
-      "answer": "In the root nodules"
+      "question": "The scope of Geography entails all of the following except",
+      "options": ["(a) deals with the study of man", "(b) does not concern the environment", "(c) relevant to our everyday lives", "(d) none of the above"],
+      "answer": "B"
     },
     {
-      "question": "Which type of bacteria converts nitrates into nitrogen gas?",
-      "options": ["Nitrogen-fixing", "Denitrifying", "Nitrifying", "Decomposing"],
-      "answer": "Denitrifying"
+      "question": "A state is formed from the combination of ____.",
+      "options": ["(a) states", "(b) local government", "(c) tertiary", "(d) state capitals"],
+      "answer": "B"
     },
     {
-      "question": "Which process produces oxygen in nature?",
-      "options": ["Respiration", "Combustion", "Photosynthesis", "Decay"],
-      "answer": "Photosynthesis"
+      "question": "The paths followed by the nine planets around the sun is known as",
+      "options": ["(a) round", "(b) elliptical orbit", "(c) revolution", "(d) rotation"],
+      "answer": "B"
     },
     {
-      "question": "What is the relationship where both organisms benefit called?",
-      "options": ["Symbiosis", "Commensalism", "Parasitism", "Predation"],
-      "answer": "Symbiosis"
+      "question": "The solar system consists of ____ and nine planets",
+      "options": ["(a) moon", "(b) sun", "(c) asteroids", "(d) space"],
+      "answer": "B"
     },
     {
-      "question": "Which type of bacteria converts ammonia to nitrites?",
-      "options": ["Denitrifying bacteria", "Nitrifying bacteria", "Decomposers", "Sulfur bacteria"],
-      "answer": "Nitrifying bacteria"
+      "question": "Stars that are viewed from the earth that actually exist in group are known as",
+      "options": ["(a) groups", "(b) nebula", "(c) navigation", "(d) clusters"],
+      "answer": "D"
     },
     {
-      "question": "Which of the following is NOT a conservation method?",
-      "options": ["Afforestation", "Recycling", "Excessive hunting", "Wildlife protection"],
-      "answer": "Excessive hunting"
+      "question": "The earth has its own satellite which is the ___.",
+      "options": ["(a) orbit satellite", "(b) moon", "(c) planetary satellite", "(d) moon son"],
+      "answer": "B"
     },
     {
-      "question": "What is the best way to ensure natural resources are used sustainably?",
-      "options": [
-        "Encouraging overgrazing",
-        "Polluting water sources",
-        "Clearing forests for farming",
-        "Implementing conservation strategies"
-      ],
-      "answer": "Implementing conservation strategies"
+      "question": "The moon gets its sun from ______.",
+      "options": ["(a) its own satellite", "(b) reflection of the sun", "(c) reflection from space", "(d) reflection from the nearest planet"],
+      "answer": "B"
     },
     {
-      "question": "Which conservation practice encourages sustainable use of trees?",
-      "options": ["Overgrazing", "Deforestation", "Reforestation", "Bush burning"],
-      "answer": "Reforestation"
+      "question": "A solar system can be defined as ______.",
+      "options": ["(a) the nine planets", "(b) that which consists of the nine planets", "(c) the sun and the earth", "(d) all of the above"],
+      "answer": "B"
     },
     {
-      "question": "What is an example of biological control?",
-      "options": [
-        "Spraying pesticides on crops",
-        "Using chemicals to kill insects",
-        "Introducing Tilapia fish to eat mosquito larvae",
-        "Burning bushes to destroy pests"
-      ],
-      "answer": "Introducing Tilapia fish to eat mosquito larvae"
+      "question": "A satellite can be defined as ______.",
+      "options": ["(a) a body which moves on its own", "(b) a smaller body which moves around a planet", "(c) a smaller body which stays still", "(d) a smaller body which orbits the space"],
+      "answer": "B"
     },
     {
-      "question": "Which level of classification consists of organisms capable of interbreeding?",
-      "options": ["Kingdom", "Phylum", "Class", "Species"],
-      "answer": "Species"
+      "question": "One of these is not a prove that the earth is a sphere",
+      "options": ["(a) sunrise and sunset", "(b) circular navigation and falling off the edge", "(c) planetary bodies", "(d) arid photograph"],
+      "answer": "B"
     },
     {
-      "question": "What is the major function of white blood cells?",
-      "options": ["Transporting oxygen", "Fighting infections", "Clotting blood", "Carrying nutrients"],
-      "answer": "Fighting infections"
+      "question": "The core of the earth is also called the",
+      "options": ["(a) mesosphere", "(b) lithosphere", "(c) barrysphere", "(d) hydrosphere"],
+      "answer": "C"
     },
     {
-      "question": "Which blood vessels carry blood back to the heart?",
-      "options": ["Arteries", "Capillaries", "Veins", "Nerves"],
-      "answer": "Veins"
+      "question": "Which of the following environmental resources is non renewable?",
+      "options": ["(a) Water", "(b) Rain", "(c) Mineral", "(d) Oxygen"],
+      "answer": "C"
     },
     {
-      "question": "Which organ in the human body produces insulin?",
-      "options": ["Liver", "Pancreas", "Kidney", "Heart"],
-      "answer": "Pancreas"
+      "question": "Relief rainfall is common around the",
+      "options": ["(a) lowland", "(b) peneplains", "(c) highland areas", "(d) Sahara desert"],
+      "answer": "C"
     },
     {
-      "question": "Which system controls voluntary and involuntary actions in the body?",
-      "options": ["Circulatory system", "Nervous system", "Digestive system", "Respiratory system"],
-      "answer": "Nervous system"
+      "question": "The instrument used in measuring atmospheric pressure is",
+      "options": ["(a) hygrometer", "(b) thermometer", "(c) barometer", "(d) anemometer"],
+      "answer": "C"
     },
     {
-      "question": "Which organ is responsible for filtering waste from the blood?",
-      "options": ["Lungs", "Liver", "Kidneys", "Heart"],
-      "answer": "Kidneys"
+      "question": "The gradual breakdown of rock in site by either physical or chemical weathering is called",
+      "options": ["(a) erosion", "(b) denudation", "(c) weathering", "(d) deposition"],
+      "answer": "C"
     },
     {
-      "question": "Which part of the plant is responsible for photosynthesis?",
-      "options": ["Roots", "Stem", "Leaves", "Flowers"],
-      "answer": "Leaves"
+      "question": "Which type of rock involves stratification?",
+      "options": ["(a) Metamorphic rock", "(b) Volcanic rock", "(c) Sedimentary rock", "(d) Igneous rock"],
+      "answer": "C"
     },
     {
-      "question": "Which gas is absorbed by plants during photosynthesis?",
-      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-      "answer": "Carbon dioxide"
+      "question": "The fourth planet from the sun in the solar system is the",
+      "options": ["(a) venus", "(b) earth", "(c) mars", "(d) Neptune"],
+      "answer": "C"
     },
     {
-      "question": "Which type of reproduction does not involve gametes?",
-      "options": ["Asexual reproduction", "Sexual reproduction", "Binary fission", "Fertilization"],
-      "answer": "Asexual reproduction"
+      "question": "One relative advantage of water transport over road transport is its",
+      "options": ["(a) great speed over long distance", "(b) ability to withstand bad weather", "(c) ability to carry bulky goods", "(d) ability to link all countries"],
+      "answer": "C"
     },
     {
-      "question": "Which part of the human brain controls balance and coordination?",
-      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
-      "answer": "Cerebellum"
+      "question": "An effect of rural-urban migration on the source region is",
+      "options": ["(a) urban depopulation", "(b) rural unemployment", "(c) rural depopulation", "(d) rural employment"],
+      "answer": "C"
     },
     {
-      "question": "Which nutrient is the main source of energy in the human diet?",
-      "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
-      "answer": "Carbohydrates"
+      "question": "Which one of the following best describes the high rate of population growth in West Africa?",
+      "options": ["(a) Birth control", "(b) High rate of immigration", "(c) High birth rate and low death rate", "(d) Low birth rate and high death rate"],
+      "answer": "C"
     },
     {
-      "question": "What is the function of hemoglobin in red blood cells?",
-      "options": ["Fighting infections", "Transporting oxygen", "Clotting blood", "Digesting food"],
-      "answer": "Transporting oxygen"
+      "question": "The cheapest mode of transportation for the conveyance of bulky goods across countries is",
+      "options": ["(a) air", "(b) land", "(c) pipeline", "(d) water"],
+      "answer": "D"
     },
     {
-      "question": "What is the smallest unit of life?",
-      "options": ["Organ", "Tissue", "Cell", "Organism"],
-      "answer": "Cell"
+      "question": "Which of the following criteria is not important in distinguishing between a village and a town?",
+      "options": ["(a) Population size", "(b) Range of function", "(c) Variety of activities", "(d) Geographical situation"],
+      "answer": "D"
     },
     {
-      "question": "Which part of the digestive system absorbs nutrients?",
-      "options": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
-      "answer": "Small intestine"
+      "question": "Cattle ranching is common in some part of the world because of ______.",
+      "options": ["(a) presence of tsetse fly", "(b) presence of wildlife", "(c) presence of hard men", "(d) presence of grass for fodders"],
+      "answer": "D"
     },
     {
-      "question": "What is the term for organisms that make their own food?",
-      "options": ["Consumers", "Decomposers", "Producers", "Scavengers"],
-      "answer": "Producers"
+      "question": "A community of plant and animals living in harmony within the same physical environment is referred to as",
+      "options": ["(a) environment", "(b) terrestrial bio-cycle", "(c) biosphere", "(d) ecosystem"],
+      "answer": "D"
     },
     {
-      "question": "Which organ in the human body removes toxins and produces bile?",
-      "options": ["Heart", "Liver", "Lungs", "Kidneys"],
-      "answer": "Liver"
+      "question": "What is the time in Accra at longitude 00 when the local time at longitude 450w is 12noon?",
+      "options": ["(a) 3:00pm", "(b) 5:00pm", "(c) 7:00pm", "(d) 9:00pm"],
+      "answer": "A"
     },
     {
-      "question": "Which type of joint allows movement in all directions?",
-      "options": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Fixed joint"],
-      "answer": "Ball and socket joint"
+      "question": "The cluster/gathering of gases surrounding the earth’s crust is called",
+      "options": ["(a) hydrosphere", "(b) barysphere", "(c) lithosphere", "(d) atmosphere"],
+      "answer": "D"
     },
     {
-      "question": "Which part of the cell contains genetic material?",
-      "options": ["Cytoplasm", "Mitochondria", "Nucleus", "Ribosome"],
-      "answer": "Nucleus"
+      "question": "Which of the following is not a characteristic of subsistence farming?",
+      "options": ["(a) The produce is mainly for home consumption", "(b) Simple farming tool are used", "(c) Its labour intensive", "(d) It is a capital intensive farming"],
+      "answer": "D"
     },
     {
-      "question": "Which process allows water to move through a semi-permeable membrane?",
-      "options": ["Diffusion", "Osmosis", "Active transport", "Photosynthesis"],
-      "answer": "Osmosis"
+      "question": "The most predominant occupation of most of the population of West African countries is",
+      "options": ["(a) fishing", "(b) mining", "(c) teaching", "(d) family"],
+      "answer": "D"
     },
     {
-      "question": "Which hormone regulates blood sugar levels?",
-      "options": ["Adrenaline", "Insulin", "Thyroxine", "Testosterone"],
-      "answer": "Insulin"
+      "question": "Heavy industries requires",
+      "options": ["(a) mostly coal to run them", "(b) cheap raw materials", "(c) only generators are source of energy", "(d) it is labour intensive"],
+      "answer": "B"
     },
     {
-      "question": "Where can nitrogen-fixing bacteria be found in legumes?",
-      "options": ["On the leaves", "In the root nodules", "On the stem", "In the flowers"],
-      "answer": "In the root nodules"
+      "question": "One of the usefulness of importation tax on imported goods is the",
+      "options": ["(a) encourages importation", "(b) multiplication of foreign goods", "(c) saving money", "(d) protection of infant industries"],
+      "answer": "D"
     },
     {
-      "question": "Which type of bacteria converts nitrates into nitrogen gas?",
-      "options": ["Nitrogen-fixing", "Denitrifying", "Nitrifying", "Decomposing"],
-      "answer": "Denitrifying"
+      "question": "Textile industries are located near _____.",
+      "options": ["(a) the market", "(b) wide plains", "(c) near source of raw materials", "(d) where water resource is scarce"],
+      "answer": "C"
     },
     {
-      "question": "Which process produces oxygen in nature?",
-      "options": ["Respiration", "Combustion", "Photosynthesis", "Decay"],
-      "answer": "Photosynthesis"
+      "question": "All the following agricultural practices are intensive farming techniques except",
+      "options": ["(a) mixed farming", "(b) crop rotation", "(c) market gardening", "(d) land rotation"],
+      "answer": "D"
     },
     {
-      "question": "What is the relationship where both organisms benefit called?",
-      "options": ["Symbiosis", "Commensalism", "Parasitism", "Predation"],
-      "answer": "Symbiosis"
+      "question": "Natural increase in population mean excess of",
+      "options": ["(a) birth over death", "(b) death over", "(c) immigration over emigration", "(d) emigration over immigration"],
+      "answer": "A"
     },
     {
-      "question": "Which type of bacteria converts ammonia to nitrites?",
-      "options": ["Denitrifying bacteria", "Nitrifying bacteria", "Decomposers", "Sulfur bacteria"],
-      "answer": "Nitrifying bacteria"
+      "question": "The temperature of the environment changes with",
+      "options": ["(a) altitude", "(b) mass wasting", "(c) erosion", "(d) longitude"],
+      "answer": "A"
     },
     {
-      "question": "Which of the following is NOT a conservation method?",
-      "options": ["Afforestation", "Recycling", "Excessive hunting", "Wildlife protection"],
-      "answer": "Excessive hunting"
+      "question": "The degree of longitude through which the earth spins within 1 hour is",
+      "options": ["(a) 150", "(b) 300", "(c) 450", "(d) 600"],
+      "answer": "B"
     },
     {
-      "question": "What is the best way to ensure natural resources are used sustainably?",
-      "options": [
-        "Encouraging overgrazing",
-        "Polluting water sources",
-        "Clearing forests for farming",
-        "Implementing conservation strategies"
-      ],
-      "answer": "Implementing conservation strategies"
+      "question": "Which of the following rocks is sedimentary rock?",
+      "options": ["(a) Coal", "(b) Gneiss", "(c) Granite", "(d) Marble"],
+      "answer": "A"
     },
     {
-      "question": "Which conservation practice encourages sustainable use of trees?",
-      "options": ["Overgrazing", "Deforestation", "Reforestation", "Bush burning"],
-      "answer": "Reforestation"
+      "question": "Chemical weathering can take place most effectively when the conditions are",
+      "options": ["(a) cold and wet", "(b) cold and dry", "(c) hot and dry", "(d) hot and wet"],
+      "answer": "D"
     },
     {
-      "question": "What is an example of biological control?",
-      "options": [
-        "Spraying pesticides on crops",
-        "Using chemicals to kill insects",
-        "Introducing Tilapia fish to eat mosquito larvae",
-        "Burning bushes to destroy pests"
-      ],
-      "answer": "Introducing Tilapia fish to eat mosquito larvae"
+      "question": "Under the Greek system of climatic classification, the world is divided into",
+      "options": ["(a) torrid, temperature and frigid zone", "(b) temperature, frigid and hot zone", "(c) torrid, equatorial and dry zone", "(d) hot, temperature and dry zone"],
+      "answer": "A"
     },
     {
-      "question": "Which level of classification consists of organisms capable of interbreeding?",
-      "options": ["Kingdom", "Phylum", "Class", "Species"],
-      "answer": "Species"
+      "question": "The planet which revolves round the sun in a clockwise direction is _____.",
+      "options": ["(a) Uranus", "(b) Jupiter", "(c) Saturn", "(d) mars"],
+      "answer": "A"
     },
     {
-      "question": "What is the major function of white blood cells?",
-      "options": ["Transporting oxygen", "Fighting infections", "Clotting blood", "Carrying nutrients"],
-      "answer": "Fighting infections"
+      "question": "What is the shape of the earth?",
+      "options": ["(a) Geoid", "(b) Eclipse", "(c) Round", "(d) Cube"],
+      "answer": "A"
     }
-   
-   
   ]
+}
