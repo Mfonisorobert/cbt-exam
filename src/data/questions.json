@@ -1,253 +1,253 @@
+
 [
   {
-    "question": "Which one of the following reduces the amount of solar radiation from reaching the earth.",
-    "options": ["Ozone layer", "Cloud", "Weather", "Insulation"],
-    "answer": "Ozone layer"
+    "question": "Which of the following is not an element of climate?",
+    "options": ["Fig", "Rainfall", "Humidity", "Temperature"],
+    "answer": "Fig"
   },
   {
-    "question": "One of these absorbs heat better",
-    "options": ["darker soil", "light soil", "loamy soil", "sandy soil"],
-    "answer": "darker soil"
+    "question": "Which of the following weather elements is paired with the wrong instrument?",
+    "options": ["Humidity and anemometer", "Rainfall and rain gauge", "Wind direction and wind vane", "Atmosphere and barometer"],
+    "answer": "Humidity and anemometer"
   },
   {
-    "question": "______ cut off incoming sunlight energy in the forest.",
-    "options": ["Thick foliage", "Insulation", "Cool temperature", "All of the above"],
-    "answer": "Thick foliage"
+    "question": "The layer of the earth found immediately beneath the earth crust is called",
+    "options": ["atmosphere", "lithosphere", "biosphere", "hydrosphere"],
+    "answer": "hydrosphere"
   },
   {
-    "question": "One of these is the characteristics of climate",
-    "options": ["varies from one place to another", "change often", "is not constant", "very unfriendly"],
-    "answer": "varies from one place to another"
-  },
-  {
-    "question": "Savanna vegetation has one of the following characteristics",
-    "options": ["development of game reserves", "not arable for cultivation", "no life is found there", "has fly infestation"],
-    "answer": "development of game reserves"
-  },
-  {
-    "question": "There are two types of cold climate, which are",
-    "options": ["polar climate and thunder climate", "warm climate and cold climate", "Cold and tundra climate", "Polar climate and cold climate"],
-    "answer": "Cold and tundra climate"
-  },
-  {
-    "question": "Human activities in cold climate is limited to",
-    "options": ["fishing in summer only", "fishing all year round", "fishing only when necessary", "there are little or less fishes in this climate"],
-    "answer": "fishing all year round"
-  },
-  {
-    "question": "Environmental resources refer to ______.",
-    "options": ["any useful item in the environment, or material and substance useful in the environment", "items in the environment", "biotic environment of man", "abiotic elements of the environment"],
-    "answer": "any useful item in the environment, or material and substance useful in the environment"
-  },
-  {
-    "question": "One of these is not an environmental resources",
-    "options": ["atmospheric resources", "solar resources", "wind resources", "energy resources"],
-    "answer": "solar resources"
-  },
-  {
-    "question": "One of these is a problem in harnessing solar energy",
-    "options": ["poor technological know how", "reliability on the solar system", "unreliability of solar system", "easy to build panels"],
-    "answer": "poor technological know how"
-  },
-  {
-    "question": "The scope of Geography entails all of the following except",
-    "options": ["deals with the study of man", "does not concern the environment", "relevant to our everyday lives", "none of the above"],
-    "answer": "does not concern the environment"
-  },
-  {
-    "question": "A state is formed from the combination of ____.",
-    "options": ["states", "local government", "tertiary", "state capitals"],
-    "answer": "local government"
-  },
-  {
-    "question": "The paths followed by the nine planets around the sun is known as",
-    "options": ["Round", "elliptical orbit", "revolution", "rotation"],
-    "answer": "elliptical orbit"
-  },
-  {
-    "question": "The solar system consists of ____ and nine planets",
-    "options": ["moon", "sun", "asteroids", "space"],
-    "answer": "sun"
-  },
-  {
-    "question": "Stars that are viewed from the earth that actually exist in group are known as",
-    "options": ["groups", "nebula", "navigation", "clusters"],
-    "answer": "clusters"
-  },
-  {
-    "question": "The earth has its own satellite which is the ___.",
-    "options": ["orbit satellite", "moon", "planetary satellite", "moon son"],
-    "answer": "moon"
-  },
-  {
-    "question": "The moon gets its sun from ______.",
-    "options": ["its own satellite", "reflection of the sun", "reflection from space", "reflection from the nearest planet"],
-    "answer": "reflection of the sun"
-  },
-  {
-    "question": "A solar system can be defined as ______.",
-    "options": ["the nine planets", "that which consists of the nine planets", "the sun and the earth", "all of the above"],
-    "answer": "that which consists of the nine planets"
-  },
-  {
-    "question": "A satellite can be defined as ______.",
-    "options": ["a body which moves on its own", "a smaller body which moves around a planet", "a smaller body which stays still", "a smaller body which orbits the space"],
-    "answer": "a smaller body which moves around a planet"
-  },
-  {
-    "question": "One of these is not a prove that the earth is a sphere",
-    "options": ["sunrise and sunset", "circular navigation and falling off the edge", "planetary bodies", "arid photograph"],
-    "answer": "circular navigation and falling off the edge"
-  },
-  {
-    "question": "The core of the earth is also called the",
-    "options": ["mesosphere", "lithosphere", "barrysphere", "hydrosphere"],
-    "answer": "barrysphere"
-  },
-  {
-    "question": "Which of the following environmental resources is non renewable?",
-    "options": ["Water", "Rain", "Mineral", "Oxygen"],
-    "answer": "Mineral"
-  },
-  {
-    "question": "Relief rainfall is common around the",
-    "options": ["lowland", "peneplains", "highland areas", "Sahara desert"],
-    "answer": "highland areas"
-  },
-  {
-    "question": "The instrument used in measuring atmospheric pressure is",
-    "options": ["hygrometer", "thermometer", "barometer", "anemometer"],
+    "question": "The instrument used for measuring atmospheric pressure is ______.",
+    "options": ["thermometer", "barometer", "anemometer", "hygrometer"],
     "answer": "barometer"
   },
   {
-    "question": "The gradual breakdown of rock in site by either physical or chemical weathering is called",
-    "options": ["erosion", "denudation", "weathering", "deposition"],
-    "answer": "weathering"
+    "question": "The direction of wind is recorded by an instrument called ______.",
+    "options": ["wind vane", "anemometer", "hygrometer", "barometer"],
+    "answer": "wind vane"
   },
   {
-    "question": "Which type of rock involves stratification?",
-    "options": ["Metamorphic rock", "Volcanic rock", "Sedimentary rock", "Igneous rock"],
-    "answer": "Sedimentary rock"
+    "question": "Humidity is the amount of _____.",
+    "options": ["water vapour in the atmosphere", "oxygen in the air", "mist in the atmosphere", "cloud cover in the sky"],
+    "answer": "water vapour in the atmosphere"
   },
   {
-    "question": "The fourth planet from the sun in the solar system is the",
-    "options": ["venus", "earth", "mars", "Neptune"],
-    "answer": "mars"
+    "question": "Due to its shape, the earth is best described as a",
+    "options": ["geoid", "circle", "triangle", "square"],
+    "answer": "geoid"
   },
   {
-    "question": "One relative advantage of water transport over road transport is its",
-    "options": ["great speed over long distance", "ability to withstand bad weather", "ability to carry bulky goods", "ability to link all countries"],
-    "answer": "ability to carry bulky goods"
+    "question": "The biosphere contains all of the following except",
+    "options": ["rock", "man", "organism", "animals"],
+    "answer": "rock"
   },
   {
-    "question": "An effect of rural-urban migration on the source region is",
-    "options": ["urban depopulation", "rural unemployment", "rural depopulation", "rural employment"],
-    "answer": "rural depopulation"
+    "question": "Wind has direction and ______.",
+    "options": ["speed", "location", "pressure", "wing"],
+    "answer": "speed"
   },
   {
-    "question": "Which one of the following best describes the high rate of population growth in West Africa?",
-    "options": ["Birth control", "High rate of immigration", "High birth rate and low death rate", "Low birth rate and high death rate"],
-    "answer": "High birth rate and low death rate"
+    "question": "Local government is formed from the combination of ______.",
+    "options": ["towns and villages", "cities and town", "communities and village", "all of the above"],
+    "answer": "all of the above"
   },
   {
-    "question": "The cheapest mode of transportation for the conveyance of bulky goods across countries is",
-    "options": ["air", "land", "pipeline", "water"],
-    "answer": "water"
+    "question": "Rock which have been formed by the cooling and solidification of motion magma are called",
+    "options": ["metamorphic rock", "igneous rock", "sedimentary rock", "marble rock"],
+    "answer": "igneous rock"
   },
   {
-    "question": "Which of the following criteria is not important in distinguishing between a village and a town?",
-    "options": ["Population size", "Range of function", "Variety of activities", "Geographical situation"],
-    "answer": "Geographical situation"
+    "question": "Village is usually involved in which of these activities",
+    "options": ["secondary", "primary", "tertiary", "socio-cultural"],
+    "answer": "primary"
   },
   {
-    "question": "Cattle ranching is common in some part of the world because of ______.",
-    "options": ["presence of tsetse fly", "presence of wildlife", "presence of hard men", "presence of grass for fodders"],
-    "answer": "presence of grass for fodders"
+    "question": "The line that divides the earth is called _____.",
+    "options": ["solstice", "equator", "equinox", "lines"],
+    "answer": "equator"
   },
   {
-    "question": "A community of plant and animals living in harmony within the same physical environment is referred to as",
-    "options": ["environment", "terrestrial bio-cycle", "biosphere", "ecosystem"],
-    "answer": "ecosystem"
+    "question": "One of these is an attribute of climate",
+    "options": ["land", "variability", "pressure", "ocean"],
+    "answer": "variability"
   },
   {
-    "question": "What is the time in Accra at longitude 00 when the local time at longitude 450w is 12noon?",
-    "options": ["3:00pm", "5:00pm", "7:00pm", "9:00pm"],
-    "answer": "3:00pm"
+    "question": "One of these is a factor affecting climate",
+    "options": ["longitude", "latitude", "temperature", "pressure"],
+    "answer": "latitude"
   },
   {
-    "question": "The cluster/gathering of gases surrounding the earth’s crust is called",
-    "options": ["hydrosphere", "barysphere", "lithosphere", "atmosphere"],
-    "answer": "atmosphere"
+    "question": "Ocean current affect one of the following",
+    "options": ["pressure", "temperature", "slope", "desert"],
+    "answer": "temperature"
   },
   {
-    "question": "Which of the following is not a characteristic of subsistence farming?",
-    "options": ["The produce is mainly for home consumption", "Simple farming tool are used", "Its labour intensive", "It is a capital intensive farming"],
-    "answer": "It is a capital intensive farming"
+    "question": "Cloud cover reduces the amount of ______.",
+    "options": ["sunlight", "solar radiation", "darkness", "daylight"],
+    "answer": "solar radiation"
   },
   {
-    "question": "The most predominant occupation of most of the population of West African countries is",
-    "options": ["fishing", "mining", "teaching", "family"],
-    "answer": "family"
+    "question": "One of the factor which influences climatic change is _____.",
+    "options": ["snow", "temperature", "wind", "fog"],
+    "answer": "temperature"
   },
   {
-    "question": "Heavy industries requires",
-    "options": ["mostly coal to run them", "cheap raw materials", "only generators are source of energy", "it is labour intensive"],
-    "answer": "cheap raw materials"
+    "question": "Which of the following causes soil erosion?",
+    "options": ["Bush fallowing", "Over grazing", "Crop rotation", "Soil management"],
+    "answer": "Over grazing"
   },
   {
-    "question": "One of the usefulness of importation tax on imported goods is the",
-    "options": ["encourages importation", "multiplication of foreign goods", "saving money", "protection of infant industries"],
-    "answer": "protection of infant industries"
+    "question": "The hottest planet in the solar system is the",
+    "options": ["Venus", "mercury", "Pluto", "earth"],
+    "answer": "Venus"
   },
   {
-    "question": "Textile industries are located near _____.",
-    "options": ["the market", "wide plains", "near source of raw materials", "where water resource is scarce"],
-    "answer": "near source of raw materials"
+    "question": "The farthest planet from the sun in the solar system is the ______.",
+    "options": ["mercury", "Pluto", "earth", "Saturn"],
+    "answer": "Pluto"
   },
   {
-    "question": "All the following agricultural practices are intensive farming techniques except",
-    "options": ["mixed farming", "crop rotation", "market gardening", "land rotation"],
-    "answer": "land rotation"
+    "question": "The structure of the earth is grouped into",
+    "options": ["3", "4", "2", "5"],
+    "answer": "3"
   },
   {
-    "question": "Natural increase in population mean excess of",
-    "options": ["birth over death", "death over", "immigration over emigration", "emigration over immigration"],
-    "answer": "birth over death"
+    "question": "The zone of the earth occupied by living organisms is ______.",
+    "options": ["outer layer", "biosphere", "hydrosphere", "lithosphere"],
+    "answer": "biosphere"
   },
   {
-    "question": "The temperature of the environment changes with",
-    "options": ["altitude", "mass wasting", "erosion", "longitude"],
-    "answer": "altitude"
+    "question": "The non living thing of an Eco-system is known as ______.",
+    "options": ["biotic", "abiotic", "abiotic", "bio-body"],
+    "answer": "abiotic"
   },
   {
-    "question": "The degree of longitude through which the earth spins within 1 hour is",
-    "options": ["150", "300", "450", "600"],
-    "answer": "300"
+    "question": "The deliberate removal of trees from the forest without replacement is _____.",
+    "options": ["forest removal", "deforestation", "afforestation", "tree removal"],
+    "answer": "deforestation"
   },
   {
-    "question": "Which of the following rocks is sedimentary rock?",
-    "options": ["Coal", "Gneiss", "Granite", "Marble"],
-    "answer": "Coal"
+    "question": "The weather of a place is always very ______.",
+    "options": ["long", "brief", "shining", "cool"],
+    "answer": "brief"
   },
   {
-    "question": "Chemical weathering can take place most effectively when the conditions are",
-    "options": ["cold and wet", "cold and dry", "hot and dry", "hot and wet"],
-    "answer": "hot and wet"
+    "question": "The following are cultural environment except one",
+    "options": ["religious activities", "temperature", "dressing", "hair style"],
+    "answer": "temperature"
   },
   {
-    "question": "Under the Greek system of climatic classification, the world is divided into",
-    "options": ["torrid, temperature and frigid zone", "temperature, frigid and hot zone", "torrid, equatorial and dry zone", "hot, temperature and dry zone"],
-    "answer": "torrid, temperature and frigid zone"
+    "question": "A village is characterized by ______.",
+    "options": ["pressure of several refineries", "agricultural and other primary economic activities", "developed infrastructural facilities", "availability of health care facilities"],
+    "answer": "agricultural and other primary economic activities"
   },
   {
-    "question": "The planet which revolves round the sun in a clockwise direction is _____.",
-    "options": ["Uranus", "Jupiter", "Saturn", "mars"],
-    "answer": "Uranus"
+    "question": "All of the following leads to depletion of ozone layer except",
+    "options": ["volcanic eruption", "evaporation", "bush burning", "combination of coal and oil"],
+    "answer": "evaporation"
   },
   {
-    "question": "What is the shape of the earth?",
-    "options": ["Geoid", "Eclipse", "Round", "Cube"],
-    "answer": "Geoid"
+    "question": "More hydroelectric power (HEP) projects should be constructed in developing countries because",
+    "options": ["there is increasing demand for power", "there is abundant rainfall", "skilled labour abundance", "many waterfalls on their river"],
+    "answer": "there is increasing demand for power"
+  },
+  {
+    "question": "Element such as wind, water vapour, sunlight and gases which are benefit to man, animals and plants are called ______.",
+    "options": ["human resources", "atmospheric resources", "vegetation resources", "water resources"],
+    "answer": "atmospheric resources"
+  },
+  {
+    "question": "What is the name of the trade between one country and another?",
+    "options": ["Domestic trade", "International trade", "Interstate trade", "Internal trade"],
+    "answer": "International trade"
+  },
+  {
+    "question": "Isotherm is the line joining places of equal",
+    "options": ["cloud cover", "pressure", "temperature", "rainfall"],
+    "answer": "temperature"
+  },
+  {
+    "question": "How many types of cloud do we have?",
+    "options": ["4", "2", "3", "5"],
+    "answer": "4"
+  },
+  {
+    "question": "These are types of rainfall except",
+    "options": ["ozone rainfall", "typical rainfall", "conventional rainfall", "frost rainfall"],
+    "answer": "ozone rainfall"
+  },
+  {
+    "question": "One of these is an importance of climate to man",
+    "options": ["happiness", "hell", "human settlement", "I don’t know"],
+    "answer": "human settlement"
+  },
+  {
+    "question": "Temperature is defined as the ______.",
+    "options": ["degree of dryness of a place", "degree of coldness of a place", "degree of hotness or coldness of a place", "all of the above"],
+    "answer": "degree of hotness or coldness of a place"
+  },
+  {
+    "question": "Housing is determined by one of these factors",
+    "options": ["church", "ecosystem", "weather", "none of the above"],
+    "answer": "weather"
+  },
+  {
+    "question": "Soil formation is the breaking down of parent rock which has been affected by",
+    "options": ["climate", "environmental hazard", "weather", "ozone layer"],
+    "answer": "climate"
+  },
+  {
+    "question": "One of these is the major determinant of vegetation",
+    "options": ["cloud", "climate", "weather", "function"],
+    "answer": "climate"
+  },
+  {
+    "question": "Which of these is not a value of Geography",
+    "options": ["to know physical features", "to understand physical feature", "to understand depth of environment", "to know the policies of the country"],
+    "answer": "to know the policies of the country"
+  },
+  {
+    "question": "Which of these is not a physical feature of a village?",
+    "options": ["Relief", "Vegetation", "Weather", "Drainage"],
+    "answer": "Weather"
+  },
+  {
+    "question": "The earth is the _____ largest planet.",
+    "options": ["12th", "5th", "6th", "4th"],
+    "answer": "5th"
+  },
+  {
+    "question": "The meridians are lines of",
+    "options": ["great arc", "great prime", "longitude", "equator"],
+    "answer": "longitude"
+  },
+  {
+    "question": "Twilight is defined as _______.",
+    "options": ["period between day and night", "period between sunrise and sunset", "the period between evening and afternoon", "the period between sunset and complete darkness"],
+    "answer": "period between day and night"
+  },
+  {
+    "question": "Dawn refers to a ______.",
+    "options": ["period between morning and afternoon", "period between noon and evening", "period between night and day", "period between sunrise and complete daylight"],
+    "answer": "period between night and day"
+  },
+  {
+    "question": "Communication and transportation are the major factors of ______.",
+    "options": ["movement of animal", "transportation of environment", "invasion of aliens", "movement of human resources and raw materials"],
+    "answer": "movement of human resources and raw materials"
+  },
+  {
+    "question": "______ affects the cultural activities of some people.",
+    "options": ["Rainfall", "Snow", "Water", "Climate"],
+    "answer": "Climate"
+  },
+  {
+    "question": "The health status of a particular area can be determined by the type of",
+    "options": ["weather", "environment", "snow", "climate"],
+    "answer": "environment"
+  },
+  {
+    "question": "Rainfall is the _______.",
+    "options": ["release of oxygen into the atmosphere", "release of water vapour", "release of fog", "release of excess water vapour into the earth"],
+    "answer": "release of excess water vapour into the earth"
   }
 ]
-
