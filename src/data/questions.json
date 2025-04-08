@@ -1,305 +1,252 @@
-
 [
   {
-    "question": "Which one of the following reduces the amount of solar radiation from reaching the earth.",
-    "options": ["Ozone layer", "Cloud", "Weather", "Insulation"],
-    "answer": "Ozone layer"
+    "question": "Faith without work is",
+    "options": ["questionable", "fake", "condemnation", "dead"],
+    "answer": "dead"
   },
   {
-    "question": "One of these absorbs heat better",
-    "options": ["darker soil", "light soil", "loamy soil", "sandy soil"],
-    "answer": "darker soil"
+    "question": "Salvation is solely by",
+    "options": ["merit", "faith", "action", "power"],
+    "answer": "faith"
   },
   {
-    "question": "______ cut off incoming sunlight energy in the forest.",
-    "options": ["Thick foliage", "Insulation", "Cool temperature", "All of the above"],
-    "answer": "Thick foliage"
+    "question": "God blessed and hallowed the seventh day because it was a day of",
+    "options": ["fast", "worship", "rest", "praise"],
+    "answer": "rest"
   },
   {
-    "question": "One of these is the characteristics of climate",
-    "options": ["varies from one place to another", "change often", "is not constant", "very unfriendly"],
-    "answer": "varies from one place to another"
+    "question": "The creation of woman was necessity by the need for",
+    "options": ["companionship", "consultant", "love", "solidarity"],
+    "answer": "companionship"
   },
   {
-    "question": "Savanna vegetation has one of the following characteristics",
-    "options": ["development of game reserves", "not arable for cultivation", "no life is found there", "has fly infestation"],
-    "answer": "development of game reserves"
+    "question": "Jacob showed preference for Joseph because Joseph",
+    "options": ["always spoke the truth", "loved his brothers unconditionally", "was born in his old age", "had the spirit of God in him"],
+    "answer": "was born in his old age"
   },
   {
-    "question": "There are two types of cold climate, which are",
-    "options": ["polar climate and thunder climate", "warm climate and cold climate", "Cold and tundra climate", "Polar climate and cold climate"],
-    "answer": "Cold and tundra climate"
+    "question": "The main reason for which Joseph’s brothers sold him was",
+    "options": ["love for money", "desire to eliminate others", "hatred", "jealousy"],
+    "answer": "hatred"
   },
   {
-    "question": "Human activities in cold climate is limited to",
-    "options": ["fishing in summer only", "fishing all year round", "fishing only when necessary", "there are little or less fishes in this climate"],
-    "answer": "fishing all year round"
+    "question": "The temptation of Jesus were meant to",
+    "options": ["make Him the son of God", "prepare Him for His ministry", "make Him a wonder working messiah", "help Him to overcome the devil"],
+    "answer": "prepare Him for His ministry"
   },
   {
-    "question": "Environmental resources refer to ______.",
-    "options": ["any useful item in the environment, or material and substance useful in the environment", "items in the environment", "biotic environment of man", "abiotic elements of the environment"],
-    "answer": "any useful item in the environment, or material and substance useful in the environment"
+    "question": "It is good for Christians to avoid the following EXCEPT",
+    "options": ["hatred", "malice", "fighting", "agape love of Christ"],
+    "answer": "agape love of Christ"
   },
   {
-    "question": "One of these is not an environmental resources",
-    "options": ["atmospheric resources", "solar resources", "wind resources", "energy resources"],
-    "answer": "solar resources"
+    "question": "A bond or agreement which binds two parties in a relationship of trust and obedience is called",
+    "options": ["family", "marriage", "covenant", "relationship"],
+    "answer": "covenant"
   },
   {
-    "question": "One of these is a problem in harnessing solar energy",
-    "options": ["poor technological know how", "reliability on the solar system", "unreliability of solar system", "easy to build panels"],
-    "answer": "poor technological know how"
+    "question": "Showing kindness to the needy around us means we are being",
+    "options": ["impressive", "generous", "gracious", "industries"],
+    "answer": "generous"
   },
   {
-    "question": "The scope of Geography entails all of the following except",
-    "options": ["deals with the study of man", "does not concern the environment", "relevant to our everyday lives", "none of the above"],
-    "answer": "does not concern the environment"
+    "question": "How old was Abram when Isaac was born?",
+    "options": ["70", "100", "99", "75"],
+    "answer": "100"
   },
   {
-    "question": "A state is formed from the combination of ____.",
-    "options": ["states", "local government", "tertiary", "state capitals"],
-    "answer": "local government"
+    "question": "Which of these is not a consequence of disobedience to God’s commands?",
+    "options": ["Blessing", "Curse", "Destruction", "God’s anger"],
+    "answer": "Blessing"
   },
   {
-    "question": "The paths followed by the nine planets around the sun is known as",
-    "options": ["Round", "elliptical orbit", "revolution", "rotation"],
-    "answer": "elliptical orbit"
+    "question": "One of the ways humility can be demonstrated include",
+    "options": ["paying of tax", "greeting people", "regards to higher authority", "shedding tears"],
+    "answer": "greeting people"
   },
   {
-    "question": "The solar system consists of ____ and nine planets",
-    "options": ["moon", "sun", "asteroids", "space"],
-    "answer": "sun"
+    "question": "Salvation means?",
+    "options": ["deliverance from sickness", "deliverance from satan", "deliverance from sin", "deliverance from confession"],
+    "answer": "deliverance from sin"
   },
   {
-    "question": "Stars that are viewed from the earth that actually exist in group are known as",
-    "options": ["groups", "nebula", "navigation", "clusters"],
-    "answer": "clusters"
+    "question": "What is the end product of any seed?",
+    "options": ["attitude", "deed", "action", "fruits"],
+    "answer": "fruits"
   },
   {
-    "question": "The earth has its own satellite which is the ___.",
-    "options": ["orbit satellite", "moon", "planetary satellite", "moon son"],
-    "answer": "moon"
+    "question": "Christians can bear the fruits of the spirit when",
+    "options": ["their flesh is crucified", "they are dead", "they are matured", "the devil is crucified"],
+    "answer": "their flesh is crucified"
   },
   {
-    "question": "The moon gets its sun from ______.",
-    "options": ["its own satellite", "reflection of the sun", "reflection from space", "reflection from the nearest planet"],
-    "answer": "reflection of the sun"
+    "question": "Justification by faith according to Paul is",
+    "options": ["the state of being a blessed child of God", "acquitted from moral sin and satanic oppressed", "the state of being acquitted and accepted by God", "acquitted by the one offended"],
+    "answer": "the state of being acquitted and accepted by God"
   },
   {
-    "question": "A solar system can be defined as ______.",
-    "options": ["the nine planets", "that which consists of the nine planets", "the sun and the earth", "all of the above"],
-    "answer": "that which consists of the nine planets"
+    "question": "The act of pardoning an offender from the heart for an offence committed is known as",
+    "options": ["forgiveness", "forgetting", "foregoing", "forfeiting"],
+    "answer": "forgiveness"
   },
   {
-    "question": "A satellite can be defined as ______.",
-    "options": ["a body which moves on its own", "a smaller body which moves around a planet", "a smaller body which stays still", "a smaller body which orbits the space"],
-    "answer": "a smaller body which moves around a planet"
+    "question": "One of the effects of unforgiveness include",
+    "options": ["God will applaud us", "suicide", "the offender will kill us", "God will not forgive us"],
+    "answer": "God will not forgive us"
   },
   {
-    "question": "One of these is not a prove that the earth is a sphere",
-    "options": ["sunrise and sunset", "circular navigation and falling off the edge", "planetary bodies", "arid photograph"],
-    "answer": "circular navigation and falling off the edge"
+    "question": "According to Paul’s letter to the Romans, a citizen owes all the following duties to the government EXCEPT",
+    "options": ["payment of taxes", "obeying all good laws", "support for all anti – Christian regulation", "respect for those in authority"],
+    "answer": "support for all anti – Christian regulation"
   },
   {
-    "question": "The core of the earth is also called the",
-    "options": ["mesosphere", "lithosphere", "barrysphere", "hydrosphere"],
-    "answer": "barrysphere"
+    "question": "According to James, effectiveness of prayer depends on",
+    "options": ["privacy in prayer", "unshaken faith", "number of prayer", "praying aloud repeatedly"],
+    "answer": "unshaken faith"
   },
   {
-    "question": "Which of the following environmental resources is non renewable?",
-    "options": ["Water", "Rain", "Mineral", "Oxygen"],
-    "answer": "Mineral"
+    "question": "Joseph’s brothers hated him because of his father’s love for him and hated him more because of his",
+    "options": ["gossips", "dreams", "coat of divers colours", "handsomeness"],
+    "answer": "dreams"
   },
   {
-    "question": "Relief rainfall is common around the",
-    "options": ["lowland", "peneplains", "highland areas", "Sahara desert"],
-    "answer": "highland areas"
+    "question": "Joseph was sold to the Ishmaelites for how many shekels of silver",
+    "options": ["forty five", "thirty", "thirty five", "twenty"],
+    "answer": "twenty"
   },
   {
-    "question": "The instrument used in measuring atmospheric pressure is",
-    "options": ["hygrometer", "thermometer", "barometer", "anemometer"],
-    "answer": "barometer"
+    "question": "God asked Abraham to circumcise his male descendants as",
+    "options": ["a sign of God’s covenant with him", "mark of humiliation", "mark of faith", "a rule bringing all mankind together"],
+    "answer": "a sign of God’s covenant with him"
   },
   {
-    "question": "The gradual breakdown of rock in site by either physical or chemical weathering is called",
-    "options": ["erosion", "denudation", "weathering", "deposition"],
-    "answer": "weathering"
+    "question": "For the Christians, Jesus Christ came that they may",
+    "options": ["grow rich", "have eternal life", "overcome difficulties", "inherit the holy land"],
+    "answer": "have eternal life"
   },
   {
-    "question": "Which type of rock involves stratification?",
-    "options": ["Metamorphic rock", "Volcanic rock", "Sedimentary rock", "Igneous rock"],
-    "answer": "Sedimentary rock"
+    "question": "All have sinned and come short of the glory of God, “but we have been justified by",
+    "options": ["Faith", "Power", "Jesus Christ becoming man", "Works of men"],
+    "answer": "Faith"
   },
   {
-    "question": "The fourth planet from the sun in the solar system is the",
-    "options": ["venus", "earth", "mars", "Neptune"],
-    "answer": "mars"
+    "question": "One essential requirement for salvation according to St. Paul is",
+    "options": ["keeping the law of Moses", "praying fervently", "believing that Jesus Christ rose from the dead", "being self righteous"],
+    "answer": "believing that Jesus Christ rose from the dead"
   },
   {
-    "question": "One relative advantage of water transport over road transport is its",
-    "options": ["great speed over long distance", "ability to withstand bad weather", "ability to carry bulky goods", "ability to link all countries"],
-    "answer": "ability to carry bulky goods"
+    "question": "The main condition for justification according to Paul is",
+    "options": ["faith in Christ’s redemptive work", "human credit", "ability to keep law", "possession of a spiritual gift"],
+    "answer": "faith in Christ’s redemptive work"
   },
   {
-    "question": "An effect of rural-urban migration on the source region is",
-    "options": ["urban depopulation", "rural unemployment", "rural depopulation", "rural employment"],
-    "answer": "rural depopulation"
+    "question": "“Let us love one another because love comes from ____”",
+    "options": ["God", "Jesus", "Holy spirit", "the Trinity"],
+    "answer": "God"
   },
   {
-    "question": "Which one of the following best describes the high rate of population growth in West Africa?",
-    "options": ["Birth control", "High rate of immigration", "High birth rate and low death rate", "Low birth rate and high death rate"],
-    "answer": "High birth rate and low death rate"
+    "question": "Jesus teaching us through Paul on love is written in his first letter to the",
+    "options": ["Corinthians", "Galatians", "Romans", "Philippians"],
+    "answer": "Corinthians"
   },
   {
-    "question": "The cheapest mode of transportation for the conveyance of bulky goods across countries is",
-    "options": ["air", "land", "pipeline", "water"],
-    "answer": "water"
+    "question": "But we know that when Christ appears, we shall be like him because we ____",
+    "options": ["shall see Him as he really is", "love Him as He is", "obey his commandment", "are his adopted children"],
+    "answer": "shall see Him as he really is"
   },
   {
-    "question": "Which of the following criteria is not important in distinguishing between a village and a town?",
-    "options": ["Population size", "Range of function", "Variety of activities", "Geographical situation"],
-    "answer": "Geographical situation"
+    "question": "The Bible is",
+    "options": ["God’s revelation of Himself", "the account of heaven and earth", "the story of the saints", "sayings and visions of the prophet"],
+    "answer": "God’s revelation of Himself"
   },
   {
-    "question": "Cattle ranching is common in some part of the world because of ______.",
-    "options": ["presence of tsetse fly", "presence of wildlife", "presence of hard men", "presence of grass for fodders"],
-    "answer": "presence of grass for fodders"
+    "question": "We can resist temptation through the ____ in us",
+    "options": ["flesh", "spirit of God", "intervention", "prayer"],
+    "answer": "spirit of God"
   },
   {
-    "question": "A community of plant and animals living in harmony within the same physical environment is referred to as",
-    "options": ["environment", "terrestrial bio-cycle", "biosphere", "ecosystem"],
-    "answer": "ecosystem"
+    "question": "When the earth was created, it was completely covered with water and",
+    "options": ["darkness", "sunshine", "nothing else", "grasses"],
+    "answer": "darkness"
   },
   {
-    "question": "What is the time in Accra at longitude 00 when the local time at longitude 450w is 12noon?",
-    "options": ["3:00pm", "5:00pm", "7:00pm", "9:00pm"],
-    "answer": "3:00pm"
+    "question": "The mightiest deed of God is",
+    "options": ["His miracles and wonders", "His death on the cross", "His ability to bear pain", "His decision to become man"],
+    "answer": "His miracles and wonders"
   },
   {
-    "question": "The cluster/gathering of gases surrounding the earth’s crust is called",
-    "options": ["hydrosphere", "barysphere", "lithosphere", "atmosphere"],
-    "answer": "atmosphere"
+    "question": "The Ten Commandments can be summarized into two as",
+    "options": ["love of God and love of animals", "love of God and love of man", "love of the kingdom and of the earth", "divine love and material love"],
+    "answer": "love of God and love of man"
   },
   {
-    "question": "Which of the following is not a characteristic of subsistence farming?",
-    "options": ["The produce is mainly for home consumption", "Simple farming tool are used", "Its labour intensive", "It is a capital intensive farming"],
-    "answer": "It is a capital intensive farming"
+    "question": "The first created man enjoyed freedom in",
+    "options": ["Earth", "Eden", "hell", "heaven"],
+    "answer": "Eden"
   },
   {
-    "question": "The most predominant occupation of most of the population of West African countries is",
-    "options": ["fishing", "mining", "teaching", "family"],
-    "answer": "family"
+    "question": "In the bible, who was known as the father of the faithful?",
+    "options": ["Abraham", "David", "Elijah", "Moses"],
+    "answer": "Abraham"
   },
   {
-    "question": "Heavy industries requires",
-    "options": ["mostly coal to run them", "cheap raw materials", "only generators are source of energy", "it is labour intensive"],
-    "answer": "cheap raw materials"
+    "question": "Daniel was delivered from the lion’s den because",
+    "options": ["of his faith in God’s power", "of the king’s prayer", "he was able to charm the lions", "the lions were kind to him"],
+    "answer": "of his faith in God’s power"
   },
   {
-    "question": "One of the usefulness of importation tax on imported goods is the",
-    "options": ["encourages importation", "multiplication of foreign goods", "saving money", "protection of infant industries"],
-    "answer": "protection of infant industries"
+    "question": "Christians are encouraged to",
+    "options": ["Go out to the streets and look for someone to help", "Show compassion and render help to the needy", "Avoid doing good as it will be used against us", "Acquire wealth for themselves"],
+    "answer": "Show compassion and render help to the needy"
   },
   {
-    "question": "Textile industries are located near _____.",
-    "options": ["the market", "wide plains", "near source of raw materials", "where water resource is scarce"],
-    "answer": "near source of raw materials"
+    "question": "Who is the role model of Christian in humanity?",
+    "options": ["Virgin Mary", "John the Baptist", "Paul", "Jesus Christ"],
+    "answer": "Jesus Christ"
   },
   {
-    "question": "All the following agricultural practices are intensive farming techniques except",
-    "options": ["mixed farming", "crop rotation", "market gardening", "land rotation"],
-    "answer": "land rotation"
+    "question": "What did God create on the third and fourth day?",
+    "options": ["land, sea and vegetation/the sun, moon and stars", "land, sea and vegetation/firmament", "the sun, moon and star/firmament", "firmament/birds"],
+    "answer": "land, sea and vegetation/the sun, moon and stars"
   },
   {
-    "question": "Natural increase in population mean excess of",
-    "options": ["birth over death", "death over", "immigration over emigration", "emigration over immigration"],
-    "answer": "birth over death"
+    "question": "One of these is NOT a condition for justification by faith",
+    "options": ["Confession of sin", "faith in Jesus Christ", "Praying five times a day", "acknowledge justification as a gift of God"],
+    "answer": "Praying five times a day"
   },
   {
-    "question": "The temperature of the environment changes with",
-    "options": ["altitude", "mass wasting", "erosion", "longitude"],
-    "answer": "altitude"
+    "question": "Christians are taught that in ideal family there should exist",
+    "options": ["cheat", "hate", "Love", "quarrel"],
+    "answer": "Love"
   },
   {
-    "question": "The degree of longitude through which the earth spins within 1 hour is",
-    "options": ["150", "300", "450", "600"],
-    "answer": "300"
+    "question": "The phrase old life in Paul’s letters means",
+    "options": ["old age", "sinful life", "careless life", "good life"],
+    "answer": "sinful life"
   },
   {
-    "question": "Which of the following rocks is sedimentary rock?",
-    "options": ["Coal", "Gneiss", "Granite", "Marble"],
-    "answer": "Coal"
+    "question": "The sons of Samuel misused their privileged positions by",
+    "options": ["by disobeying their father at Ramah", "not allowing the fats of animals at Ramah to burn for God", "bribery and false judgment", "Fighting with the Philistines"],
+    "answer": "bribery and false judgment"
   },
   {
-    "question": "Chemical weathering can take place most effectively when the conditions are",
-    "options": ["cold and wet", "cold and dry", "hot and dry", "hot and wet"],
-    "answer": "hot and wet"
+    "question": "The new life in Christ manifests all the following fruits EXCEPT",
+    "options": ["being with Christ", "putting on love", "putting on the old nature", "setting one’s mind on things that are above"],
+    "answer": "putting on the old nature"
   },
   {
-    "question": "Under the Greek system of climatic classification, the world is divided into",
-    "options": ["torrid, temperature and frigid zone", "temperature, frigid and hot zone", "torrid, equatorial and dry zone", "hot, temperature and dry zone"],
-    "answer": "torrid, temperature and frigid zone"
+    "question": "The Lord will sell Sisera into the hand of a woman.” This statement was made by Deborah to",
+    "options": ["Barrack", "Joel", "Joachim", "Hebor"],
+    "answer": "Barrack"
   },
   {
-    "question": "The planet which revolves round the sun in a clockwise direction is _____.",
-    "options": ["Uranus", "Jupiter", "Saturn", "mars"],
-    "answer": "Uranus"
+    "question": "The following are the ways Christians will overcome temptations EXCEPT",
+    "options": ["avoiding places where one can be tempted", "by using the word of God", "by being afraid of the devil", "avoiding bad friends"],
+    "answer": "by being afraid of the devil"
   },
   {
-    "question": "What is the shape of the earth?",
-    "options": ["Geoid", "Eclipse", "Round", "Cube"],
-    "answer": "Geoid"
-  },
-  {
-    "question": "When the moon comes in between the earth and the sun in a perfect line, which of the following eclipse occurs?",
-    "options": ["Partial", "Solar", "Lunar", "Full"],
-    "answer": "Solar"
-  },
-  {
-    "question": "Factors which influences the practice of irrigation includes all except",
-    "options": ["unreliable rainfall", "high rainfall", "need for more food", "pressure of fertile soil"],
-    "answer": "high rainfall"
-  },
-  {
-    "question": "A negative effect of mineral exploitation is",
-    "options": ["afforestation", "pollution", "oxidation", "hydration"],
-    "answer": "pollution"
-  },
-  {
-    "question": "Which of the following is a service industry?",
-    "options": ["Food processing industry", "Banking industry", "Cement industry", "Hospital industry"],
-    "answer": "Banking industry"
-  },
-  {
-    "question": "The system of agriculture which combines the growing of crops and rearing of animals is known as",
-    "options": ["dairy farming", "mixed farming", "mixed cropping", "shifting cultivation"],
-    "answer": "mixed farming"
-  },
-  {
-    "question": "One of these is not an economic tree in Nigeria",
-    "options": ["obeche", "bamboo", "iroko", "sapele"],
-    "answer": "bamboo"
-  },
-  {
-    "question": "One of the problem of lumbering in Nigeria includes all of the following except",
-    "options": ["it results in soil leaching", "increases soil fertility", "high cost of forest product", "deforestation causes flooding"],
-    "answer": "increases soil fertility"
-  },
-  {
-    "question": "One of these is an importance of cattle rearing in Nigeria",
-    "options": ["source of income", "foreign exchange", "source of food", "all of the above"],
-    "answer": "all of the above"
-  },
-  {
-    "question": "River basin development authorities charges each authority with the following responsibilities except",
-    "options": ["to study water resource potentials", "to allow water overflow their banks", "to control flooding, erosion and pollution", "none of the above"],
-    "answer": "to study water resource potentials"
-  },
-  {
-    "question": "Commodities which are used in world trade exclude",
-    "options": ["agricultural goods", "human trafficking", "manufactured goods", "mineral resources"],
-    "answer": "mineral resources"
+    "question": "The sign of the covenant made between God and Abraham was",
+    "options": ["circumcision", "killing of a ram", "paying of tribute every year", "paying of tithe"],
+    "answer": "circumcision"
   }
 ]
-
-
