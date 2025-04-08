@@ -1,252 +1,348 @@
+
 [
   {
-    "question": "Faith without work is",
-    "options": ["questionable", "fake", "condemnation", "dead"],
-    "answer": "dead"
+    "question": "What was the first thing God created according to the first account of creation?",
+    "options": ["Heaven", "Heavenly bodies", "Light", "Sea"],
+    "answer": "Heaven"
   },
   {
-    "question": "Salvation is solely by",
-    "options": ["merit", "faith", "action", "power"],
-    "answer": "faith"
+    "question": "Why was Saul asked to destroy the Amalekites?",
+    "options": [
+      "They were worshipping false gods",
+      "They opposed the Israelites when they left Egypt",
+      "They did not assist the Israelites",
+      "God did not like the Amalekites"
+    ],
+    "answer": "They opposed the Israelites when they left Egypt"
   },
   {
-    "question": "God blessed and hallowed the seventh day because it was a day of",
-    "options": ["fast", "worship", "rest", "praise"],
-    "answer": "rest"
+    "question": "Why did the first king of Israel lose his throne? Because he",
+    "options": [
+      "was a wicked king",
+      "knew little about governance",
+      "lost the support of God",
+      "was irresponsible"
+    ],
+    "answer": "lost the support of God"
   },
   {
-    "question": "The creation of woman was necessity by the need for",
-    "options": ["companionship", "consultant", "love", "solidarity"],
-    "answer": "companionship"
+    "question": "Which other miracle did Jesus Christ perform at Canaan of Galilee apart from the miracles at the wedding feast?",
+    "options": [
+      "Feeding the four thousand",
+      "Healing the noble man’s son",
+      "Healing of a man born blind",
+      "Healing a paralytic man"
+    ],
+    "answer": "Healing the noble man’s son"
   },
   {
-    "question": "Jacob showed preference for Joseph because Joseph",
-    "options": ["always spoke the truth", "loved his brothers unconditionally", "was born in his old age", "had the spirit of God in him"],
-    "answer": "was born in his old age"
+    "question": "Why did Uriah disobey King David by refusing to go to his house to sleep during the Ammonite war? Because",
+    "options": [
+      "it was wrong to go home drunk",
+      "his wife would regard him a coward",
+      "it would be unpatriotic to break military vow",
+      "suspected that the king had lost interest in the battles"
+    ],
+    "answer": "it would be unpatriotic to break military vow"
   },
   {
-    "question": "The main reason for which Joseph’s brothers sold him was",
-    "options": ["love for money", "desire to eliminate others", "hatred", "jealousy"],
-    "answer": "hatred"
+    "question": "Which of the following is not the purpose God created the sun, moon and stars?",
+    "options": [
+      "To separate the day from the night",
+      "For signs of seasons, days and years",
+      "To give light upon the earth",
+      "To dry up flood from the face of the earth"
+    ],
+    "answer": "To dry up flood from the face of the earth"
   },
   {
-    "question": "The temptation of Jesus were meant to",
-    "options": ["make Him the son of God", "prepare Him for His ministry", "make Him a wonder working messiah", "help Him to overcome the devil"],
-    "answer": "prepare Him for His ministry"
+    "question": "Which of the following rivers flowed out of Eden to water its garden? River",
+    "options": ["Abana", "Pharpar", "Pishon", "Nile"],
+    "answer": "Pishon"
   },
   {
-    "question": "It is good for Christians to avoid the following EXCEPT",
-    "options": ["hatred", "malice", "fighting", "agape love of Christ"],
-    "answer": "agape love of Christ"
+    "question": "Why did God curse Eve to have pains at childbirth? Because she",
+    "options": [
+      "seduced Adam",
+      "conversed with serpent",
+      "ate of the tree of life",
+      "ate of the tree of good and evil"
+    ],
+    "answer": "ate of the tree of good and evil"
   },
   {
-    "question": "A bond or agreement which binds two parties in a relationship of trust and obedience is called",
-    "options": ["family", "marriage", "covenant", "relationship"],
-    "answer": "covenant"
+    "question": "What was Abram’s obligation in his covenant with God?",
+    "options": [
+      "Change Sarai’s name to Sarah",
+      "Walk before God blameless",
+      "Change his name to Abraham",
+      "Offer his son Isaac as a sacrifice"
+    ],
+    "answer": "Walk before God blameless"
   },
   {
-    "question": "Showing kindness to the needy around us means we are being",
-    "options": ["impressive", "generous", "gracious", "industries"],
-    "answer": "generous"
+    "question": "How did God prepare Joseph for his leadership role in Egypt? Through",
+    "options": [
+      "the love which his father had for him",
+      "the trials and temptations of his earlier years",
+      "his disagreement with his brothers",
+      "his encounter with Potiphar’s wife"
+    ],
+    "answer": "the trials and temptations of his earlier years"
   },
   {
-    "question": "How old was Abram when Isaac was born?",
-    "options": ["70", "100", "99", "75"],
-    "answer": "100"
+    "question": "Why did Moses remove his sandals before the burning bush? Moses was showing a sense of",
+    "options": [
+      "honour and love",
+      "curiosity and adventure",
+      "humility and respect",
+      "reverence and submissiveness"
+    ],
+    "answer": "humility and respect"
   },
   {
-    "question": "Which of these is not a consequence of disobedience to God’s commands?",
-    "options": ["Blessing", "Curse", "Destruction", "God’s anger"],
-    "answer": "Blessing"
+    "question": "Why did God reject Eli’s line of priesthood? Because",
+    "options": [
+      "his children were idolaters",
+      "they did not obey the prophets",
+      "Eli and his children took bribes",
+      "His children lust after women at worship"
+    ],
+    "answer": "His children lust after women at worship"
   },
   {
-    "question": "One of the ways humility can be demonstrated include",
-    "options": ["paying of tax", "greeting people", "regards to higher authority", "shedding tears"],
-    "answer": "greeting people"
+    "question": "“It is the Lord, let Him do what seems good to Him” who made the above statement?",
+    "options": ["Saul", "Samuel", "Moses", "Eli"],
+    "answer": "Eli"
   },
   {
-    "question": "Salvation means?",
-    "options": ["deliverance from sickness", "deliverance from satan", "deliverance from sin", "deliverance from confession"],
-    "answer": "deliverance from sin"
+    "question": "What reasons were put forward by the Israelites in asking for a king?",
+    "options": [
+      "The age of Samuel and the conduct of his sons",
+      "The conduct of Samuel and the strength of the Philistines",
+      "The age of Samuel and the conduct of Eli",
+      "The conduct of Samuel and the age of his sons"
+    ],
+    "answer": "The age of Samuel and the conduct of his sons"
   },
   {
-    "question": "What is the end product of any seed?",
-    "options": ["attitude", "deed", "action", "fruits"],
-    "answer": "fruits"
+    "question": "Who was the wife of Moses?",
+    "options": ["Rebecca", "Rachel", "Zipporah", "Deborah"],
+    "answer": "Zipporah"
   },
   {
-    "question": "Christians can bear the fruits of the spirit when",
-    "options": ["their flesh is crucified", "they are dead", "they are matured", "the devil is crucified"],
-    "answer": "their flesh is crucified"
+    "question": "Which of these is not among the synoptic writers?",
+    "options": ["Mark", "Luke", "Mathew", "John"],
+    "answer": "John"
   },
   {
-    "question": "Justification by faith according to Paul is",
-    "options": ["the state of being a blessed child of God", "acquitted from moral sin and satanic oppressed", "the state of being acquitted and accepted by God", "acquitted by the one offended"],
-    "answer": "the state of being acquitted and accepted by God"
+    "question": "Who was the father of Mathew, the tax collector?",
+    "options": ["Alexander", "Manasseh", "Alphaeus", "Zealot"],
+    "answer": "Alphaeus"
   },
   {
-    "question": "The act of pardoning an offender from the heart for an offence committed is known as",
-    "options": ["forgiveness", "forgetting", "foregoing", "forfeiting"],
-    "answer": "forgiveness"
+    "question": "Which of these gospel writers confirmed that Jesus called the first four disciples when He was standing by the Lake of Gennesaret?",
+    "options": ["Luke", "John", "Mathew", "Mark"],
+    "answer": "Luke"
   },
   {
-    "question": "One of the effects of unforgiveness include",
-    "options": ["God will applaud us", "suicide", "the offender will kill us", "God will not forgive us"],
-    "answer": "God will not forgive us"
+    "question": "“Depart from me, for I am a sinful man, O Lord.” Who made the above statement?",
+    "options": ["Andrew", "Peter", "John", "James"],
+    "answer": "Peter"
   },
   {
-    "question": "According to Paul’s letter to the Romans, a citizen owes all the following duties to the government EXCEPT",
-    "options": ["payment of taxes", "obeying all good laws", "support for all anti – Christian regulation", "respect for those in authority"],
-    "answer": "support for all anti – Christian regulation"
+    "question": "Who among the gospel writers wrote that Jesus Christ saw James and John with their father in the boat, mending their nets?",
+    "options": ["Luke", "John", "Mathew", "John"],
+    "answer": "Mathew"
   },
   {
-    "question": "According to James, effectiveness of prayer depends on",
-    "options": ["privacy in prayer", "unshaken faith", "number of prayer", "praying aloud repeatedly"],
-    "answer": "unshaken faith"
+    "question": "Which of these gospel writers called Mathew the tax collector, Levi?",
+    "options": ["Luke", "John", "Mathew", "Mark"],
+    "answer": "Mathew"
   },
   {
-    "question": "Joseph’s brothers hated him because of his father’s love for him and hated him more because of his",
-    "options": ["gossips", "dreams", "coat of divers colours", "handsomeness"],
-    "answer": "dreams"
+    "question": "What was Jesus reply to the man who said that he would for Him but he would first say farewell to those at his home?",
+    "options": [
+      "The plough is ready for the kingdom of God",
+      "The plough is the symbol of God’s words",
+      "Anyone who put his hand to the plough and looked back is ready for the kingdom of God",
+      "No one who put his hand to the plough and looked back is fit for the kingdom of God"
+    ],
+    "answer": "No one who put his hand to the plough and looked back is fit for the kingdom of God"
   },
   {
-    "question": "Joseph was sold to the Ishmaelites for how many shekels of silver",
-    "options": ["forty five", "thirty", "thirty five", "twenty"],
-    "answer": "twenty"
+    "question": "Which of these gospel writers had this caption, 'the would – be – disciples'?",
+    "options": ["Mark", "Mathew", "John", "Luke"],
+    "answer": "Mathew"
   },
   {
-    "question": "God asked Abraham to circumcise his male descendants as",
-    "options": ["a sign of God’s covenant with him", "mark of humiliation", "mark of faith", "a rule bringing all mankind together"],
-    "answer": "a sign of God’s covenant with him"
+    "question": "“I need to be baptized by you and you come to me”? Where was the above statement recorded?",
+    "options": ["Mark", "Mathew", "John", "Luke"],
+    "answer": "Luke"
   },
   {
-    "question": "For the Christians, Jesus Christ came that they may",
-    "options": ["grow rich", "have eternal life", "overcome difficulties", "inherit the holy land"],
-    "answer": "have eternal life"
+    "question": "“This is my beloved son with whom I am well pleased listen to Him.” when was the above statement made? During the",
+    "options": ["baptism", "transfiguration", "Ascension", "Resurrection"],
+    "answer": "baptism"
   },
   {
-    "question": "All have sinned and come short of the glory of God, “but we have been justified by",
-    "options": ["Faith", "Power", "Jesus Christ becoming man", "Works of men"],
-    "answer": "Faith"
+    "question": "Whose account of the temptation of Jesus Christ was brief?",
+    "options": ["Luke", "John", "Mathew", "Mark"],
+    "answer": "Mark"
   },
   {
-    "question": "One essential requirement for salvation according to St. Paul is",
-    "options": ["keeping the law of Moses", "praying fervently", "believing that Jesus Christ rose from the dead", "being self righteous"],
-    "answer": "believing that Jesus Christ rose from the dead"
+    "question": "What was the second temptation of Jesus according to Mathew? The devil wanted Jesus to",
+    "options": [
+      "fall down from the pinnacle of the temple",
+      "bow down and worship him",
+      "turn stones to loaves of bread",
+      "acquire the kingdoms of the world and the glory of them"
+    ],
+    "answer": "fall down from the pinnacle of the temple"
   },
   {
-    "question": "The main condition for justification according to Paul is",
-    "options": ["faith in Christ’s redemptive work", "human credit", "ability to keep law", "possession of a spiritual gift"],
-    "answer": "faith in Christ’s redemptive work"
+    "question": "What was Jesus’ reply when Satan told Him to bow down and worship him?",
+    "options": [
+      "You shall not tempt the Lord your God",
+      "Be gone Satan, for it is written, you shall worship the Lord your God and Him only shall you serve",
+      "Be gone Satan, you shall not tempt the Lord your God",
+      "Be gone Satan, you shall not tempt the Lord your God, and Him only shall you serve"
+    ],
+    "answer": "Be gone Satan, for it is written, you shall worship the Lord your God and Him only shall you serve"
   },
   {
-    "question": "“Let us love one another because love comes from ____”",
-    "options": ["God", "Jesus", "Holy spirit", "the Trinity"],
-    "answer": "God"
+    "question": "Who was the forerunner of Jesus Christ?",
+    "options": ["John the Baptist", "Isaiah", "Amos", "Jeremiah"],
+    "answer": "John the Baptist"
   },
   {
-    "question": "Jesus teaching us through Paul on love is written in his first letter to the",
-    "options": ["Corinthians", "Galatians", "Romans", "Philippians"],
-    "answer": "Corinthians"
+    "question": "What was the significance of the voice from Heaven during the baptism of Jesus? That Jesus is",
+    "options": ["the son of God", "prince of princes", "creator", "Omnipotent God"],
+    "answer": "the son of God"
   },
   {
-    "question": "But we know that when Christ appears, we shall be like him because we ____",
-    "options": ["shall see Him as he really is", "love Him as He is", "obey his commandment", "are his adopted children"],
-    "answer": "shall see Him as he really is"
+    "question": "“This is my beloved son, with whom I am well pleased” when was the above statement made? During the",
+    "options": ["baptism", "Ascension", "transfiguration", "temptation"],
+    "answer": "baptism"
   },
   {
-    "question": "The Bible is",
-    "options": ["God’s revelation of Himself", "the account of heaven and earth", "the story of the saints", "sayings and visions of the prophet"],
-    "answer": "God’s revelation of Himself"
+    "question": "Which of the gospel writers confirmed that Jesus saw Peter and Andrew when He was walking by the Sea of Galilee?",
+    "options": ["Mathew", "Luke", "John", "All of the above"],
+    "answer": "Luke"
   },
   {
-    "question": "We can resist temptation through the ____ in us",
-    "options": ["flesh", "spirit of God", "intervention", "prayer"],
-    "answer": "spirit of God"
+    "question": "Which of the would-be-disciples did Jesus reply, “Foxes have holes and the birds of air have nests, but the son of man has nowhere to lay His head”. The",
+    "options": ["Pharisee", "Scribe", "Sadducees", "Sanhedrin"],
+    "answer": "Scribe"
   },
   {
-    "question": "When the earth was created, it was completely covered with water and",
-    "options": ["darkness", "sunshine", "nothing else", "grasses"],
-    "answer": "darkness"
+    "question": "Which of the synoptic account of the mission of the twelve recorded that the disciples were sent out in twos?",
+    "options": ["Mathew", "Mark", "Luke", "John"],
+    "answer": "John"
   },
   {
-    "question": "The mightiest deed of God is",
-    "options": ["His miracles and wonders", "His death on the cross", "His ability to bear pain", "His decision to become man"],
-    "answer": "His miracles and wonders"
+    "question": "Which of the synoptic account of the mission of the twelve mentioned the names of the disciples, who were sent on the mission?",
+    "options": ["Luke", "John", "Mark", "Mathew"],
+    "answer": "Mark"
   },
   {
-    "question": "The Ten Commandments can be summarized into two as",
-    "options": ["love of God and love of animals", "love of God and love of man", "love of the kingdom and of the earth", "divine love and material love"],
-    "answer": "love of God and love of man"
+    "question": "Who betrayed Jesus Christ?",
+    "options": ["Peter", "Thomas", "Judas Iscariot", "Philip"],
+    "answer": "Thomas"
   },
   {
-    "question": "The first created man enjoyed freedom in",
-    "options": ["Earth", "Eden", "hell", "heaven"],
-    "answer": "Eden"
+    "question": "Which of these was not among the instructions Jesus gave the mission of the twelve?",
+    "options": [
+      "To preach and gather the lost sheep of the children of Israel",
+      "To preach to the Gentiles alone",
+      "To heal the sick, raise the dead and cleanse the lepers",
+      "To stay with any worthy person in each town they visited until their departure"
+    ],
+    "answer": "To preach and gather the lost sheep of the children of Israel"
   },
   {
-    "question": "In the bible, who was known as the father of the faithful?",
-    "options": ["Abraham", "David", "Elijah", "Moses"],
-    "answer": "Abraham"
+    "question": "Which of these apostles were called “Sons of thunder”?",
+    "options": ["James and John", "Peter and Andrew", "Philip and Bartholomew", "Judas Iscariot and Thomas"],
+    "answer": "Peter and Andrew"
   },
   {
-    "question": "Daniel was delivered from the lion’s den because",
-    "options": ["of his faith in God’s power", "of the king’s prayer", "he was able to charm the lions", "the lions were kind to him"],
-    "answer": "of his faith in God’s power"
+    "question": "Who made this statement? “You shall not eat of the fruit of the tree which is in the mist of the garden neither shall you touch it, lest you die.”",
+    "options": ["An angel", "God", "Jesus Christ", "Holy Spirit"],
+    "answer": "An angel"
   },
   {
-    "question": "Christians are encouraged to",
-    "options": ["Go out to the streets and look for someone to help", "Show compassion and render help to the needy", "Avoid doing good as it will be used against us", "Acquire wealth for themselves"],
-    "answer": "Show compassion and render help to the needy"
+    "question": "Which of these is not an attribute of God?",
+    "options": ["Imperfect", "Omnipotent", "Omniscience", "Supernatural"],
+    "answer": "Imperfect"
   },
   {
-    "question": "Who is the role model of Christian in humanity?",
-    "options": ["Virgin Mary", "John the Baptist", "Paul", "Jesus Christ"],
-    "answer": "Jesus Christ"
+    "question": "Which of these is not among the factors responsible for disobedience in our youths today?",
+    "options": ["Hardwork", "Bad company", "Unemployment", "Improper home training"],
+    "answer": "Hardwork"
   },
   {
-    "question": "What did God create on the third and fourth day?",
-    "options": ["land, sea and vegetation/the sun, moon and stars", "land, sea and vegetation/firmament", "the sun, moon and star/firmament", "firmament/birds"],
-    "answer": "land, sea and vegetation/the sun, moon and stars"
+    "question": "What is the meaning of reconciliation?",
+    "options": [
+      "Resisting all disagreement",
+      "Seeking confirmation",
+      "Resisting broken relationship",
+      "Choosing your best friends"
+    ],
+    "answer": "Seeking confirmation"
   },
   {
-    "question": "One of these is NOT a condition for justification by faith",
-    "options": ["Confession of sin", "faith in Jesus Christ", "Praying five times a day", "acknowledge justification as a gift of God"],
-    "answer": "Praying five times a day"
+    "question": "Which of these is defined as the process by which a person changes from one religion to another?",
+    "options": ["Baptism", "Conversion", "Transformation", "Soul winning"],
+    "answer": "Conversion"
   },
   {
-    "question": "Christians are taught that in ideal family there should exist",
-    "options": ["cheat", "hate", "Love", "quarrel"],
+    "question": "What did Jesus create on the third day according to first account of creation?",
+    "options": [
+      "All land animals and man",
+      "Land, seas and vegetation",
+      "Firmament or heaven",
+      "All sea animals and birds of the air"
+    ],
+    "answer": "All land animals and man"
+  },
+  {
+    "question": "What did God create on the sixth day according to the first account of creation?",
+    "options": [
+      "All land animals and man",
+      "Land, sea and vegetation",
+      "Firmament or heaven",
+      "All sea animals and birds"
+    ],
+    "answer": "All land animals and man"
+  },
+  {
+    "question": "Which of these is the greatest of all virtues?",
+    "options": ["Love", "Hope", "Faith", "Preaching"],
     "answer": "Love"
   },
   {
-    "question": "The phrase old life in Paul’s letters means",
-    "options": ["old age", "sinful life", "careless life", "good life"],
-    "answer": "sinful life"
+    "question": "Which of the following is not a significance of the baptism of Jesus?",
+    "options": [
+      "The descendent of the dove portrayed Him as a messiah",
+      "To fulfill all righteousness in obedience to the law",
+      "To identify with those He came to save",
+      "To show that He is a cousin to John the Baptist"
+    ],
+    "answer": " To show that He is a cousin to John the Baptist"
   },
   {
-    "question": "The sons of Samuel misused their privileged positions by",
-    "options": ["by disobeying their father at Ramah", "not allowing the fats of animals at Ramah to burn for God", "bribery and false judgment", "Fighting with the Philistines"],
-    "answer": "bribery and false judgment"
+    "question": "After the baptism, Jesus was coming out of the water, the heavens opened and the ____ of God came upon Him",
+    "options": ["angel", "light", "spirit", "glory"],
+    "answer": "light"
   },
   {
-    "question": "The new life in Christ manifests all the following fruits EXCEPT",
-    "options": ["being with Christ", "putting on love", "putting on the old nature", "setting one’s mind on things that are above"],
-    "answer": "putting on the old nature"
+    "question": "What did Jesus instruct the disciples to release in any house that received them? Blessings of",
+    "options": ["love", "peace", "faith", "hope"],
+    "answer": "love"
   },
   {
-    "question": "The Lord will sell Sisera into the hand of a woman.” This statement was made by Deborah to",
-    "options": ["Barrack", "Joel", "Joachim", "Hebor"],
-    "answer": "Barrack"
-  },
-  {
-    "question": "The following are the ways Christians will overcome temptations EXCEPT",
-    "options": ["avoiding places where one can be tempted", "by using the word of God", "by being afraid of the devil", "avoiding bad friends"],
-    "answer": "by being afraid of the devil"
-  },
-  {
-    "question": "The sign of the covenant made between God and Abraham was",
-    "options": ["circumcision", "killing of a ram", "paying of tribute every year", "paying of tithe"],
-    "answer": "circumcision"
+    "question": "Which of these gospel accounts does not allow staff and sandals in mission of the twelve?",
+    "options": ["Mathew account", "Luke’s account", "John’s account", "Mark’s account"],
+    "answer": "Luke’s account"
   }
 ]
