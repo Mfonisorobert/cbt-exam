@@ -171,14 +171,15 @@
     "answer": "No one who put his hand to the plough and looked back is fit for the kingdom of God"
   },
   {
-    "question": "Which of these gospel writers had this caption, 'the would – be – disciples'?",
-    "options": ["Mark", "Mathew", "John", "Luke"],
-    "answer": "Mathew"
+    "question": "What did the people of Israel do when they received the minority report from the spies. They decided to?",
+    "options": ["Kill Moses for taking them out of Egypt", "Go back to Egypt", 
+    "Choose Caleb as their new leader", "Stone the two spies to death"],
+    "answer": "Go back to Egypt"
   },
   {
     "question": "“I need to be baptized by you and you come to me”? Where was the above statement recorded?",
     "options": ["Mark", "Mathew", "John", "Luke"],
-    "answer": "Luke"
+    "answer": "Mathew"
   },
   {
     "question": "“This is my beloved son with whom I am well pleased listen to Him.” when was the above statement made? During the",
@@ -221,14 +222,9 @@
     "answer": "the son of God"
   },
   {
-    "question": "“This is my beloved son, with whom I am well pleased” when was the above statement made? During the",
-    "options": ["baptism", "Ascension", "transfiguration", "temptation"],
-    "answer": "baptism"
-  },
-  {
     "question": "Which of the gospel writers confirmed that Jesus saw Peter and Andrew when He was walking by the Sea of Galilee?",
     "options": ["Mathew", "Luke", "John", "All of the above"],
-    "answer": "Luke"
+    "answer": "Mathew"
   },
   {
     "question": "Which of the would-be-disciples did Jesus reply, “Foxes have holes and the birds of air have nests, but the son of man has nowhere to lay His head”. The",
@@ -238,17 +234,17 @@
   {
     "question": "Which of the synoptic account of the mission of the twelve recorded that the disciples were sent out in twos?",
     "options": ["Mathew", "Mark", "Luke", "John"],
-    "answer": "John"
+    "answer": "Mark"
   },
   {
     "question": "Which of the synoptic account of the mission of the twelve mentioned the names of the disciples, who were sent on the mission?",
     "options": ["Luke", "John", "Mark", "Mathew"],
-    "answer": "Mark"
+    "answer": "Mathew"
   },
   {
     "question": "Who betrayed Jesus Christ?",
     "options": ["Peter", "Thomas", "Judas Iscariot", "Philip"],
-    "answer": "Thomas"
+    "answer": "Judas Iscariot"
   },
   {
     "question": "Which of these was not among the instructions Jesus gave the mission of the twelve?",
@@ -258,17 +254,17 @@
       "To heal the sick, raise the dead and cleanse the lepers",
       "To stay with any worthy person in each town they visited until their departure"
     ],
-    "answer": "To preach and gather the lost sheep of the children of Israel"
+    "answer": "To preach to the Gentiles alone"
   },
   {
     "question": "Which of these apostles were called “Sons of thunder”?",
     "options": ["James and John", "Peter and Andrew", "Philip and Bartholomew", "Judas Iscariot and Thomas"],
-    "answer": "Peter and Andrew"
+    "answer": "James and John"
   },
   {
     "question": "Who made this statement? “You shall not eat of the fruit of the tree which is in the mist of the garden neither shall you touch it, lest you die.”",
     "options": ["An angel", "God", "Jesus Christ", "Holy Spirit"],
-    "answer": "An angel"
+    "answer": "God"
   },
   {
     "question": "Which of these is not an attribute of God?",
@@ -288,7 +284,7 @@
       "Resisting broken relationship",
       "Choosing your best friends"
     ],
-    "answer": "Seeking confirmation"
+    "answer": "Resisting all disagreement"
   },
   {
     "question": "Which of these is defined as the process by which a person changes from one religion to another?",
@@ -303,7 +299,7 @@
       "Firmament or heaven",
       "All sea animals and birds of the air"
     ],
-    "answer": "All land animals and man"
+    "answer": "Land, seas and vegetation"
   },
   {
     "question": "What did God create on the sixth day according to the first account of creation?",
@@ -332,17 +328,23 @@
   },
   {
     "question": "After the baptism, Jesus was coming out of the water, the heavens opened and the ____ of God came upon Him",
-    "options": ["angel", "light", "spirit", "glory"],
-    "answer": "light"
+    "options": ["angel", "light", "Spirit", "glory"],
+    "answer": "Spirit"
   },
   {
     "question": "What did Jesus instruct the disciples to release in any house that received them? Blessings of",
     "options": ["love", "peace", "faith", "hope"],
-    "answer": "love"
+    "answer": "peace"
   },
   {
     "question": "Which of these gospel accounts does not allow staff and sandals in mission of the twelve?",
-    "options": ["Mathew account", "Luke’s account", "John’s account", "Mark’s account"],
-    "answer": "Luke’s account"
+    "options": ["Mathew account", "Peter’s account", "John’s account", "Mark’s account"],
+    "answer": "Peter’s account"
+  },
+  {
+  "question": "What was the purpose of Joshua's address at Shechem? To",
+    "options": ["show his love for God", "Pestablish a new covenant with God", 
+    "remind Israel of their unfaithfulness", "make Israel trust God"],
+    "answer": "show his love for God"
   }
 ]
