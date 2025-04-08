@@ -174,7 +174,7 @@ if (!hasStarted) {
     )}
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
 
-      {showScore ? studentName : "YEAR 10 - CRS"}
+      {showScore ? studentName : "YEAR 10 - MARKETING"}
       </h3>
 
       
