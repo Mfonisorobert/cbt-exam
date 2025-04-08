@@ -1,253 +1,253 @@
 
-[
-  {
-    "question": "Faith without work is",
-    "options": ["questionable", "fake", "condemnation", "dead"],
-    "answer": "dead"
-  },
-  {
-    "question": "Salvation is solely by",
-    "options": ["merit", "faith", "action", "power"],
-    "answer": "faith"
-  },
-  {
-    "question": "God blessed and hallowed the seventh day because it was a day of",
-    "options": ["fast", "worship", "rest", "praise"],
-    "answer": "rest"
-  },
-  {
-    "question": "The creation of woman was necessity by the need for",
-    "options": ["companionship", "consultant", "love", "solidarity"],
-    "answer": "companionship"
-  },
-  {
-    "question": "Jacob showed preference for Joseph because Joseph",
-    "options": ["always spoke the truth", "loved his brothers unconditionally", "was born in his old age", "had the spirit of God in him"],
-    "answer": "was born in his old age"
-  },
-  {
-    "question": "The main reason for which Joseph’s brothers sold him was",
-    "options": ["love for money", "desire to eliminate others", "hatred", "jealousy"],
-    "answer": "hatred"
-  },
-  {
-    "question": "The temptation of Jesus were meant to",
-    "options": ["make Him the son of God", "prepare Him for His ministry", "make Him a wonder working messiah", "help Him to overcome the devil"],
-    "answer": "prepare Him for His ministry"
-  },
-  {
-    "question": "It is good for Christians to avoid the following EXCEPT",
-    "options": ["hatred", "malice", "fighting", "agape love of Christ"],
-    "answer": "agape love of Christ"
-  },
-  {
-    "question": "A bond or agreement which binds two parties in a relationship of trust and obedience is called",
-    "options": ["family", "marriage", "covenant", "relationship"],
-    "answer": "covenant"
-  },
-  {
-    "question": "Showing kindness to the needy around us means we are being",
-    "options": ["impressive", "generous", "gracious", "industries"],
-    "answer": "generous"
-  },
-  {
-    "question": "How old was Abram when Isaac was born?",
-    "options": ["70", "100", "99", "75"],
-    "answer": "100"
-  },
-  {
-    "question": "Which of these is not a consequence of disobedience to God’s commands?",
-    "options": ["Blessing", "Curse", "Destruction", "God’s anger"],
-    "answer": "Blessing"
-  },
-  {
-    "question": "One of the ways humility can be demonstrated include",
-    "options": ["paying of tax", "greeting people", "regards to higher authority", "shedding tears"],
-    "answer": "greeting people"
-  },
-  {
-    "question": "Salvation means?",
-    "options": ["deliverance from sickness", "deliverance from satan", "deliverance from sin", "deliverance from confession"],
-    "answer": "deliverance from sin"
-  },
-  {
-    "question": "What is the end product of any seed?",
-    "options": ["attitude", "deed", "action", "fruits"],
-    "answer": "fruits"
-  },
-  {
-    "question": "Christians can bear the fruits of the spirit when",
-    "options": ["their flesh is crucified", "they are dead", "they are matured", "the devil is crucified"],
-    "answer": "their flesh is crucified"
-  },
-  {
-    "question": "Justification by faith according to Paul is",
-    "options": ["the state of being a blessed child of God", "acquitted from moral sin and satanic oppressed", "the state of being acquitted and accepted by God", "acquitted by the one offended"],
-    "answer": "the state of being acquitted and accepted by God"
-  },
-  {
-    "question": "The act of pardoning an offender from the heart for an offence committed is known as",
-    "options": ["forgiveness", "forgetting", "foregoing", "forfeiting"],
-    "answer": "forgiveness"
-  },
-  {
-    "question": "One of the effects of unforgiveness include",
-    "options": ["God will applaud us", "suicide", "the offender will kill us", "God will not forgive us"],
-    "answer": "God will not forgive us"
-  },
-  {
-    "question": "According to Paul’s letter to the Romans, a citizen owes all the following duties to the government EXCEPT",
-    "options": ["payment of taxes", "obeying all good laws", "support for all anti – Christian regulation", "respect for those in authority"],
-    "answer": "support for all anti – Christian regulation"
-  },
-  {
-    "question": "According to James, effectiveness of prayer depends on",
-    "options": ["privacy in prayer", "unshaken faith", "number of prayer", "praying aloud repeatedly"],
-    "answer": "unshaken faith"
-  },
-  {
-    "question": "Joseph’s brothers hated him because of his father’s love for him and hated him more because of his",
-    "options": ["gossips", "dreams", "coat of divers colours", "handsomeness"],
-    "answer": "dreams"
-  },
-  {
-    "question": "Joseph was sold to the Ishmaelites for how many shekels of silver",
-    "options": ["forty five", "thirty", "thirty five", "twenty"],
-    "answer": "twenty"
-  },
-  {
-    "question": "God asked Abraham to circumcise his male descendants as",
-    "options": ["a sign of God’s covenant with him", "mark of humiliation", "mark of faith", "a rule bringing all mankind together"],
-    "answer": "a sign of God’s covenant with him"
-  },
-  {
-    "question": "For the Christians, Jesus Christ came that they may",
-    "options": ["grow rich", "have eternal life", "overcome difficulties", "inherit the holy land"],
-    "answer": "have eternal life"
-  },
-  {
-    "question": "All have sinned and come short of the glory of God, “but we have been justified by",
-    "options": ["Faith", "Power", "Jesus Christ becoming man", "Works of men"],
-    "answer": "Faith"
-  },
-  {
-    "question": "One essential requirement for salvation according to St. Paul is",
-    "options": ["keeping the law of Moses", "praying fervently", "believing that Jesus Christ rose from the dead", "being self righteous"],
-    "answer": "believing that Jesus Christ rose from the dead"
-  },
-  {
-    "question": "The main condition for justification according to Paul is",
-    "options": ["faith in Christ’s redemptive work", "human credit", "ability to keep law", "possession of a spiritual gift"],
-    "answer": "faith in Christ’s redemptive work"
-  },
-  {
-    "question": "“Let us love one another because love comes from ____”",
-    "options": ["God", "Jesus", "Holy spirit", "the Trinity"],
-    "answer": "God"
-  },
-  {
-    "question": "Jesus teaching us through Paul on love is written in his first letter to the",
-    "options": ["Corinthians", "Galatians", "Romans", "Philippians"],
-    "answer": "Corinthians"
-  },
-  {
-    "question": "But we know that when Christ appears, we shall be like him because we ____",
-    "options": ["shall see Him as he really is", "love Him as He is", "obey his commandment", "are his adopted children"],
-    "answer": "shall see Him as he really is"
-  },
-  {
-    "question": "The Bible is",
-    "options": ["God’s revelation of Himself", "the account of heaven and earth", "the story of the saints", "sayings and visions of the prophet"],
-    "answer": "God’s revelation of Himself"
-  },
-  {
-    "question": "We can resist temptation through the ____ in us",
-    "options": ["flesh", "spirit of God", "intervention", "prayer"],
-    "answer": "spirit of God"
-  },
-  {
-    "question": "When the earth was created, it was completely covered with water and",
-    "options": ["darkness", "sunshine", "nothing else", "grasses"],
-    "answer": "darkness"
-  },
-  {
-    "question": "The mightiest deed of God is",
-    "options": ["His miracles and wonders", "His death on the cross", "His ability to bear pain", "His decision to become man"],
-    "answer": "His miracles and wonders"
-  },
-  {
-    "question": "The Ten Commandments can be summarized into two as",
-    "options": ["love of God and love of animals", "love of God and love of man", "love of the kingdom and of the earth", "divine love and material love"],
-    "answer": "love of God and love of man"
-  },
-  {
-    "question": "The first created man enjoyed freedom in",
-    "options": ["Earth", "Eden", "hell", "heaven"],
-    "answer": "Eden"
-  },
-  {
-    "question": "In the bible, who was known as the father of the faithful?",
-    "options": ["Abraham", "David", "Elijah", "Moses"],
-    "answer": "Abraham"
-  },
-  {
-    "question": "Daniel was delivered from the lion’s den because",
-    "options": ["of his faith in God’s power", "of the king’s prayer", "he was able to charm the lions", "the lions were kind to him"],
-    "answer": "of his faith in God’s power"
-  },
-  {
-    "question": "Christians are encouraged to",
-    "options": ["Go out to the streets and look for someone to help", "Show compassion and render help to the needy", "Avoid doing good as it will be used against us", "Acquire wealth for themselves"],
-    "answer": "Show compassion and render help to the needy"
-  },
-  {
-    "question": "Who is the role model of Christian in humanity?",
-    "options": ["Virgin Mary", "John the Baptist", "Paul", "Jesus Christ"],
-    "answer": "Jesus Christ"
-  },
-  {
-    "question": "What did God create on the third and fourth day?",
-    "options": ["land, sea and vegetation/the sun, moon and stars", "land, sea and vegetation/firmament", "the sun, moon and star/firmament", "firmament/birds"],
-    "answer": "land, sea and vegetation/the sun, moon and stars"
-  },
-  {
-    "question": "One of these is NOT a condition for justification by faith",
-    "options": ["Confession of sin", "faith in Jesus Christ", "Praying five times a day", "acknowledge justification as a gift of God"],
-    "answer": "Praying five times a day"
-  },
-  {
-    "question": "Christians are taught that in ideal family there should exist",
-    "options": ["cheat", "hate", "Love", "quarrel"],
-    "answer": "Love"
-  },
-  {
-    "question": "The phrase old life in Paul’s letters means",
-    "options": ["old age", "sinful life", "careless life", "good life"],
-    "answer": "sinful life"
-  },
-  {
-    "question": "The sons of Samuel misused their privileged positions by",
-    "options": ["by disobeying their father at Ramah", "not allowing the fats of animals at Ramah to burn for God", "bribery and false judgment", "Fighting with the Philistines"],
-    "answer": "bribery and false judgment"
-  },
-  {
-    "question": "The new life in Christ manifests all the following fruits EXCEPT",
-    "options": ["being with Christ", "putting on love", "putting on the old nature", "setting one’s mind on things that are above"],
-    "answer": "putting on the old nature"
-  },
-  {
-    "question": "The Lord will sell Sisera into the hand of a woman.” This statement was made by Deborah to",
-    "options": ["Barrack", "Joel", "Joachim", "Hebor"],
-    "answer": "Barrack"
-  },
-  {
-    "question": "The following are the ways Christians will overcome temptations EXCEPT",
-    "options": ["avoiding places where one can be tempted", "by using the word of God", "by being afraid of the devil", "avoiding bad friends"],
-    "answer": "by being afraid of the devil"
-  },
-  {
-    "question": "The sign of the covenant made between God and Abraham was",
-    "options": ["circumcision", "killing of a ram", "paying of tribute every year", "paying of tithe"],
-    "answer": "circumcision"
-  }
-]
+ [
+    {
+      "question": "The stage in buyer’s decision process at which customer satisfaction occurs is",
+      "options": ["post purchase behaviour", "need recognition", "information search", "pre purchase behaviour"],
+      "answer": "post purchase behaviour"
+    },
+    {
+      "question": "The information obtained from a marketing plan is",
+      "options": ["feedback", "data", "result", "turnover"],
+      "answer": "data"
+    },
+    {
+      "question": "Competitive price in marketing is arrived at by",
+      "options": ["considering competitive demand for the product", "adding mark-up to the cost price", "setting price in relation to competitor’s price", "adding margin to the best price"],
+      "answer": "setting price in relation to competitor’s price"
+    },
+    {
+      "question": "A distinction between advertising and publicity is that",
+      "options": ["advertising is paid for while publicity is not", "publicity is more readily believed than advertising", "publicity is more thoroughly read than advertising", "advertising is usually done through an agency which publicity is not"],
+      "answer": "advertising is paid for while publicity is not"
+    },
+    {
+      "question": "An offer of free sample of goods is a form of",
+      "options": ["conditional rule", "tied buying", "after sales service", "sales promotion"],
+      "answer": "sales promotion"
+    },
+    {
+      "question": "A merchandiser is a person who is responsible for the",
+      "options": ["security of the store", "storing of the products", "quality of the goods", "attractive display of products"],
+      "answer": "attractive display of products"
+    },
+    {
+      "question": "The selling of goods in small units is normally performed by",
+      "options": ["distributors", "wholesalers", "brokers", "retailers"],
+      "answer": "retailers"
+    },
+    {
+      "question": "Air transport is preferred to other modes because it is",
+      "options": ["faster in transporting goods for long distance", "relatively cheaper than other modes", "affected by weather conditions", "suitable for door-to-door services"],
+      "answer": "faster in transporting goods for long distance"
+    },
+    {
+      "question": "One of the functions of a warehouse is",
+      "options": ["advertising of goods", "merchandising of goods", "grading of goods", "buying of goods"],
+      "answer": "grading of goods"
+    },
+    {
+      "question": "A market that deals in soft drinks and cosmetics is a",
+      "options": ["consumer market", "business market", "government market", "reseller market"],
+      "answer": "consumer market"
+    },
+    {
+      "question": "An activity or process undertaken by a company to acquire raw materials is",
+      "options": ["consumer buying behaviour", "marketing intelligences", "organizational buying behaviour", "marketing research"],
+      "answer": "organizational buying behaviour"
+    },
+    {
+      "question": "An entrepreneur is primarily engaged in",
+      "options": ["innovation", "transportation", "distribution", "promotion"],
+      "answer": "innovation"
+    },
+    {
+      "question": "The pricing method that consists of production cost and mark-up is",
+      "options": ["cost-plus", "loss-leader", "target pricing", "imitation pricing"],
+      "answer": "cost-plus"
+    },
+    {
+      "question": "The stage in a product life circle where advertising is needed most is",
+      "options": ["decline stage", "maturity stage", "growth stage", "introduction stage"],
+      "answer": "introduction stage"
+    },
+    {
+      "question": "A part form of non-personal presentation and promotion of products is",
+      "options": ["sales promotion", "advertising", "personal selling", "exhibition"],
+      "answer": "advertising"
+    },
+    {
+      "question": "The creation of awareness for products at the point of sale is",
+      "options": ["sales promotion", "sampling", "personal selling", "merchandising"],
+      "answer": "merchandising"
+    },
+    {
+      "question": "The closest channel member to the consumer is",
+      "options": ["retailer", "wholesaler", "agent", "producer"],
+      "answer": "retailer"
+    },
+    {
+      "question": "The cheapest mode of transporting imported cars from America to Nigeria is by",
+      "options": ["air", "road", "rail", "water"],
+      "answer": "water"
+    },
+    {
+      "question": "A commercial building for the storage of goods is a",
+      "options": ["cash and carry store", "mobile store", "warehouse", "clearing house"],
+      "answer": "warehouse"
+    },
+    {
+      "question": "A company that offers storage facility to a buyer is",
+      "options": ["a marketing intermediary", "an insurer", "a market facilitator", "a buyer"],
+      "answer": "a market facilitator"
+    },
+    {
+      "question": "A celebrity who influences the buying decision of consumers is categorized under",
+      "options": ["social group", "reference group", "peer group", "cultural group"],
+      "answer": "social group"
+    },
+    {
+      "question": "The systematic design, collection, analysis and reporting of data for decision making in marketing is",
+      "options": ["planning", "strategy", "research", "audit"],
+      "answer": "research"
+    },
+    {
+      "question": "If the unit cost price of a product is ₦90 and sold at a profit margin of 50%, what is the selling price?",
+      "options": ["₦45", "₦90", "₦135", "₦180"],
+      "answer": "₦135"
+    },
+    {
+      "question": "Which of these means of advertising is an electronic medium?",
+      "options": ["Catalogue", "television", "newspaper", "magazine"],
+      "answer": "television"
+    },
+    {
+      "question": "A company’s programme of “buy one product and get one free” is an example of",
+      "options": ["advertising", "publicity", "sales promotion", "personal selling"],
+      "answer": "sales promotion"
+    },
+    {
+      "question": "The activities that stimulate the purchase of a company’s products at the retail outlet is",
+      "options": ["selling", "merchandising", "advertising", "prospecting"],
+      "answer": "merchandising"
+    },
+    {
+      "question": "Which of the following channels of distribution will be used by a company that wants to have control over its price?",
+      "options": ["manufacturer consumer", "manufacturer agent consumer", "manufacturer wholesaler retailer consumer", "manufacturer agent retailer consumer"],
+      "answer": "manufacturer consumer"
+    },
+    {
+      "question": "A factor to be considered in the choice of a mode of transporting goods is the",
+      "options": ["price of the goods", "nature of the goods", "brand of the goods", "packaging of the goods"],
+      "answer": "nature of the goods"
+    },
+    {
+      "question": "A disadvantage of warehousing is that it",
+      "options": ["encourages hoarding of goods to create scarcity", "ensures the availability of goods when needed", "helps to protect goods from damages", "none of the above"],
+      "answer": "encourages hoarding of goods to create scarcity"
+    },
+    {
+      "question": "Another term for e-marketing is",
+      "options": ["direct marketing", "electronic banking", "electronic purchasing", "internet marketing"],
+      "answer": "internet marketing"
+    },
+    {
+      "question": "All individuals and units that buy goods for personal use constitute the",
+      "options": ["industrial market", "consumer market", "government market", "reseller market"],
+      "answer": "consumer market"
+    },
+    {
+      "question": "The last stage in the consumer buying decision process is",
+      "options": ["information search", "evaluation of alternatives", "problem recognition", "post purchase decision"],
+      "answer": "post purchase decision"
+    },
+    {
+      "question": "An importance of marketing research is that it",
+      "options": ["increases the quality of products", "increases cost of production", "increases the risk involved in decision", "reduces the quality of products"],
+      "answer": "increases the quality of products"
+    },
+    {
+      "question": "Which of the following factors is not a price determination?",
+      "options": ["Cost of production", "competitor’s prices", "level of demand", "consumer’s culture"],
+      "answer": "consumer’s culture"
+    },
+    {
+      "question": "An advertising media with the highest coverage area is",
+      "options": ["billboard", "catalogue", "television", "magazine"],
+      "answer": "television"
+    },
+    {
+      "question": "A form of sales promotion that rewards customers for consistently purchasing a company’s product is",
+      "options": ["loyalty scheme", "quantity discount", "promotional allowance", "sales contest"],
+      "answer": "loyalty scheme"
+    },
+    {
+      "question": "An example of merchandising activities is",
+      "options": ["canvassing for customers by salesmen", "displaying products at the retail store", "distribution of goods to customers", "sales call by salesmen"],
+      "answer": "displaying products at the retail store"
+    },
+    {
+      "question": "A source of financing option available to a provision store owner is",
+      "options": ["sale of shares", "issue of debenture", "leasing", "personal savings"],
+      "answer": "personal savings"
+    },
+    {
+      "question": "Which of these transportation modes is appropriate for transporting gas from Nigeria to Ghana?",
+      "options": ["pipeline", "air", "rail", "truck"],
+      "answer": "pipeline"
+    },
+    {
+      "question": "A storage facility that uses advanced material handling system under the control of a central computer is",
+      "options": ["a public warehouse", "an automated warehouse", "a distribution warehouse", "a storage warehouse"],
+      "answer": "an automated warehouse"
+    },
+    {
+      "question": "Marketing activities carried out in more than one country is",
+      "options": ["International marketing", "national marketing", "home trade", "entrepot trade"],
+      "answer": "International marketing"
+    },
+    {
+      "question": "Which of the following statements explains an organizational market?",
+      "options": ["buyers are widespread", "buyers are price conscious", "purchasing is on first come, first served basis", "purchasing is done by trained personnel"],
+      "answer": "purchasing is done by trained personnel"
+    },
+    {
+      "question": "Which of the following behaviours would a satisfied customer exhibit?",
+      "options": ["buy similar products from other companies", "pay attention to other companies product advertisements", "talk favorably about the purchased products", "recommend competing products for buying"],
+      "answer": "talk favorably about the purchased products"
+    },
+    {
+      "question": "The formation of key strategy to attain established marketing objectives is",
+      "options": ["marketing concept", "market forecast", "market demand", "marketing planning"],
+      "answer": "marketing planning"
+    },
+    {
+      "question": "The amount of money charged for a product is the",
+      "options": ["fare", "cash", "revenue", "price"],
+      "answer": "price"
+    },
+    {
+      "question": "The activity that is involved in making products visible, accessible and attractive to consumers in a retail outlet is",
+      "options": ["personal selling", "prospecting", "direct selling", "merchandizing"],
+      "answer": "merchandizing"
+    },
+    {
+      "question": "Sales promotion is important because it enables a business to",
+      "options": ["fix prices for its products and services", "locate customers in different areas", "stimulate demand for its products", "create competition between different products"],
+      "answer": "stimulate demand for its products"
+    },
+    {
+      "question": "Which of the following is not a factor influencing the choice of distribution channel?",
+      "options": ["company goals and objectives", "brand of the product", "consumer consideration", "nature of the product"],
+      "answer": "brand of the product"
+    },
+    {
+      "question": "Which of the following factors would not be considered by a current manufacturing firm in the choice of transportation mode for its goods?",
+      "options": ["cost of the mode", "quality of the product", "availability of the mode", "government policies"],
+      "answer": "government policies"
+    },
+    {
+      "question": "Which of the following goods are kept in bonded warehouse?",
+      "options": ["Semi-finished goods", "dutiable goods", "consumer goods", "finished goods"],
+      "answer": "dutiable goods"
+    }
+  ]
