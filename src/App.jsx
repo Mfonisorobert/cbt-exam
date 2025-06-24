@@ -206,8 +206,8 @@ if (!hasStarted) {
       <h1 className="text-3xl font-bold text-center text-blue-950 mb-2">SUN DREAM INT'L SCHOOL</h1>
     )}
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
-
-      {showScore ? studentName : "COMPUTER STUDIES"}
+      {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
+      {showScore ? studentName : "CRS - YEAR 10"}
       </h3>
 
       

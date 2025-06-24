@@ -1,252 +1,502 @@
 [
-    {
-      "question": "Which one of the following reduces the amount of solar radiation from reaching the earth.",
-      "options": ["Cloud", "Ozone layer", "Weather", "Insulation"],
-      "answer": "Ozone layer"
-    },
-    {
-      "question": "One of these absorbs heat better",
-      "options": ["darker soil", "light soil", "loamy soil", "sandy soil"],
-      "answer": "darker soil"
-    },
-    {
-      "question": "______ cut off incoming sunlight energy in the forest.",
-      "options": ["Thick foliage", "Insulation", "Cool temperature", "All of the above"],
-      "answer": "Thick foliage"
-    },
-    {
-      "question": "One of these is the characteristics of climate",
-      "options": ["varies from one place to another", "change often", "is not constant", "very unfriendly"],
-      "answer": "varies from one place to another"
-    },
-    {
-      "question": "Savanna vegetation has one of the following characteristics",
-      "options": ["development of game reserves", "not arable for cultivation", "no life is found there", "has fly infestation"],
-      "answer": "development of game reserves"
-    },
-    {
-      "question": "There are two types of cold climate, which are",
-      "options": ["polar climate and thunder climate", "warm climate and cold climate", "Cold and tundra climate", "Polar climate and cold climate"],
-      "answer": "Cold and tundra climate"
-    },
-    {
-      "question": "Human activities in cold climate is limited to",
-      "options": ["fishing in summer only", "fishing all year round", "fishing only when necessary", "there are little or less fishes in this climate"],
-      "answer": "fishing all year round"
-    },
-    {
-      "question": "Environmental resources refer to ______.",
-      "options": ["any useful item in the environment, or material and substance useful in the environment", "items in the environment", "biotic environment of man", "abiotic elements of the environment"],
-      "answer": "any useful item in the environment, or material and substance useful in the environment"
-    },
-    {
-      "question": "One of these is not an environmental resources",
-      "options": ["atmospheric resources", "solar resources", "wind resources", "energy resources"],
-      "answer": "solar resources"
-    },
-    {
-      "question": "One of these is a problem in harnessing solar energy",
-      "options": ["poor technological know how", "reliability on the solar system", "unreliability of solar system", "easy to build panels"],
-      "answer": "poor technological know how"
-    },
-    {
-      "question": "The scope of Geography entails all of the following except",
-      "options": ["deals with the study of man", "does not concern the environment", "relevant to our everyday lives", "none of the above"],
-      "answer": "does not concern the environment"
-    },
-    {
-      "question": "A state is formed from the combination of ____.",
-      "options": ["states", "local government", "tertiary", "state capitals"],
-      "answer": "local government"
-    },
-    {
-      "question": "The paths followed by the nine planets around the sun is known as",
-      "options": ["Round", "elliptical orbit", "revolution", "rotation"],
-      "answer": "elliptical orbit"
-    },
-    {
-      "question": "The solar system consists of ____ and nine planets",
-      "options": ["moon", "sun", "asteroids", "space"],
-      "answer": "sun"
-    },
-    {
-      "question": "Stars that are viewed from the earth that actually exist in group are known as",
-      "options": ["groups", "nebula", "navigation", "clusters"],
-      "answer": "clusters"
-    },
-    {
-      "question": "The earth has its own satellite which is the ___.",
-      "options": ["orbit satellite", "moon", "planetary satellite", "moon son"],
-      "answer": "moon"
-    },
-    {
-      "question": "The moon gets its sun from ______.",
-      "options": ["its own satellite", "reflection of the sun", "reflection from space", "reflection from the nearest planet"],
-      "answer": "reflection of the sun"
-    },
-    {
-      "question": "A solar system can be defined as ______.",
-      "options": ["the nine planets", "that which consists of the nine planets", "the sun and the earth", "all of the above"],
-      "answer": "that which consists of the nine planets"
-    },
-    {
-      "question": "A satellite can be defined as ______.",
-      "options": ["a body which moves on its own", "a smaller body which moves around a planet", "a smaller body which stays still", "a smaller body which orbits the space"],
-      "answer": "a smaller body which moves around a planet"
-    },
-    {
-      "question": "One of these is not a prove that the earth is a sphere",
-      "options": ["sunrise and sunset", "circular navigation and falling off the edge", "planetary bodies", "arid photograph"],
-      "answer": "circular navigation and falling off the edge"
-    },
-    {
-      "question": "The core of the earth is also called the",
-      "options": ["mesosphere", "lithosphere", "barrysphere", "hydrosphere"],
-      "answer": "barrysphere"
-    },
-    {
-      "question": "Which of the following environmental resources is non renewable?",
-      "options": ["Water", "Rain", "Mineral", "Oxygen"],
-      "answer": "Mineral"
-    },
-    {
-      "question": "Relief rainfall is common around the",
-      "options": ["lowland", "peneplains", "highland areas", "Sahara desert"],
-      "answer": "highland areas"
-    },
-    {
-      "question": "The instrument used in measuring atmospheric pressure is",
-      "options": ["hygrometer", "thermometer", "barometer", "anemometer"],
-      "answer": "barometer"
-    },
-    {
-      "question": "The gradual breakdown of rock in site by either physical or chemical weathering is called",
-      "options": ["erosion", "denudation", "weathering", "deposition"],
-      "answer": "weathering"
-    },
-    {
-      "question": "Which type of rock involves stratification?",
-      "options": ["Metamorphic rock", "Volcanic rock", "Sedimentary rock", "Igneous rock"],
-      "answer": "Sedimentary rock"
-    },
-    {
-      "question": "The fourth planet from the sun in the solar system is the",
-      "options": ["venus", "earth", "mars", "Neptune"],
-      "answer": "mars"
-    },
-    {
-      "question": "One relative advantage of water transport over road transport is its",
-      "options": ["great speed over long distance", "ability to withstand bad weather", "ability to carry bulky goods", "ability to link all countries"],
-      "answer": "ability to carry bulky goods"
-    },
-    {
-      "question": "An effect of rural-urban migration on the source region is",
-      "options": ["urban depopulation", "rural unemployment", "rural depopulation", "rural employment"],
-      "answer": "rural depopulation"
-    },
-    {
-      "question": "Which one of the following best describes the high rate of population growth in West Africa?",
-      "options": ["Birth control", "High rate of immigration", "High birth rate and low death rate", "Low birth rate and high death rate"],
-      "answer": "High birth rate and low death rate"
-    },
-    {
-      "question": "The cheapest mode of transportation for the conveyance of bulky goods across countries is",
-      "options": ["air", "land", "pipeline", "water"],
-      "answer": "water"
-    },
-    {
-      "question": "Which of the following criteria is not important in distinguishing between a village and a town?",
-      "options": ["Population size", "Range of function", "Variety of activities", "Geographical situation"],
-      "answer": "Geographical situation"
-    },
-    {
-      "question": "Cattle ranching is common in some part of the world because of ______.",
-      "options": ["presence of tsetse fly", "presence of wildlife", "presence of hard men", "presence of grass for fodders"],
-      "answer": "presence of grass for fodders"
-    },
-    {
-      "question": "A community of plant and animals living in harmony within the same physical environment is referred to as",
-      "options": ["environment", "terrestrial bio-cycle", "biosphere", "ecosystem"],
-      "answer": "ecosystem"
-    },
-    {
-      "question": "What is the time in Accra at longitude 00 when the local time at longitude 450w is 12noon?",
-      "options": ["3:00pm", "5:00pm", "7:00pm", "9:00pm"],
-      "answer": "3:00pm"
-    },
-    {
-      "question": "The cluster/gathering of gases surrounding the earth’s crust is called",
-      "options": ["hydrosphere", "barysphere", "lithosphere", "atmosphere"],
-      "answer": "atmosphere"
-    },
-    {
-      "question": "Which of the following is not a characteristic of subsistence farming?",
-      "options": ["The produce is mainly for home consumption", "Simple farming tool are used", "Its labour intensive", "It is a capital intensive farming"],
-      "answer": "It is a capital intensive farming"
-    },
-    {
-      "question": "The most predominant occupation of most of the population of West African countries is",
-      "options": ["fishing", "mining", "teaching", "family"],
-      "answer": "family"
-    },
-    {
-      "question": "Heavy industries requires",
-      "options": ["mostly coal to run them", "cheap raw materials", "only generators are source of energy", "it is labour intensive"],
-      "answer": "cheap raw materials"
-    },
-    {
-      "question": "One of the usefulness of importation tax on imported goods is the",
-      "options": ["encourages importation", "multiplication of foreign goods", "saving money", "protection of infant industries"],
-      "answer": "protection of infant industries"
-    },
-    {
-      "question": "Textile industries are located near _____.",
-      "options": ["the market", "wide plains", "near source of raw materials", "where water resource is scarce"],
-      "answer": "near source of raw materials"
-    },
-    {
-      "question": "All the following agricultural practices are intensive farming techniques except",
-      "options": ["mixed farming", "crop rotation", "market gardening", "land rotation"],
-      "answer": "land rotation"
-    },
-    {
-      "question": "Natural increase in population mean excess of",
-      "options": ["birth over death", "death over", "immigration over emigration", "emigration over immigration"],
-      "answer": "birth over death"
-    },
-    {
-      "question": "The temperature of the environment changes with",
-      "options": ["altitude", "mass wasting", "erosion", "longitude"],
-      "answer": "altitude"
-    },
-    {
-      "question": "The degree of longitude through which the earth spins within 1 hour is",
-      "options": ["150", "300", "450", "600"],
-      "answer": "300"
-    },
-    {
-      "question": "Which of the following rocks is sedimentary rock?",
-      "options": ["Coal", "Gneiss", "Granite", "Marble"],
-      "answer": "Coal"
-    },
-    {
-      "question": "Chemical weathering can take place most effectively when the conditions are",
-      "options": ["cold and wet", "cold and dry", "hot and dry", "hot and wet"],
-      "answer": "hot and wet"
-    },
-    {
-      "question": "Under the Greek system of climatic classification, the world is divided into",
-      "options": ["torrid, temperature and frigid zone", "temperature, frigid and hot zone", "torrid, equatorial and dry zone", "hot, temperature and dry zone"],
-      "answer": "torrid, temperature and frigid zone"
-    },
-    {
-      "question": "The planet which revolves round the sun in a clockwise direction is _____.",
-      "options": ["Uranus", "Jupiter", "Saturn", "mars"],
-      "answer": "Uranus"
-    },
-    {
-      "question": "What is the shape of the earth?",
-      "options": ["Geoid", "Eclipse", "Round", "Cube"],
-      "answer": "Geoid"
-    }
-  ]
+  {
+    "question": "Why was Paul confident in his epistle to Philemon that the letter would grant his request? Because",
+    "options": [
+      "Philemon was a Roman citizen like Paul",
+      "They were from the same town",
+      "Onesimus would no longer be a slave",
+      "They were partners in the faith of Christ"
+    ],
+    "answer": "They were partners in the faith of Christ"
+  },
+  {
+    "question": "Which of these was the greatest of all the commandments?",
+    "options": [
+      "Charity",
+      "Hope",
+      "Love",
+      "Faith"
+    ],
+    "answer": "Love"
+  },
+  {
+    "question": "Which of these is not among the spiritual gifts as enumerated by Paul in the first Epistle to the Corinthians?",
+    "options": [
+      "Hearing",
+      "Wisdom",
+      "Healing",
+      "Speaking in tongues"
+    ],
+    "answer": "Hearing"
+  },
+  {
+    "question": "How does the various spiritual gifts work as stated by Paul in the letter to the Corinthians? The various spiritual gifts work for",
+    "options": [
+      "individual members",
+      "one body in Christ",
+      "both Jews and Gentiles",
+      "all organs of the body"
+    ],
+    "answer": "one body in Christ"
+  },
+  {
+    "question": "What did Paul advise the Roman Christians concerning their individual talents? He advised them to use their talents with",
+    "options": [
+      "righteousness",
+      "cheerfulness",
+      "fear and trembling",
+      "soberness"
+    ],
+    "answer": "righteousness"
+  },
+  {
+    "question": "Why did Paul encourage Christians to desire prophecy more than speaking in tongues? Because",
+    "options": [
+      "prophecy appeals to unbelivers",
+      "speaking in tongue is based in self-righteousness",
+      "speaking in tongues always creates noise in the church",
+      "very few people have the gift of prophecy"
+    ],
+    "answer": "very few people have the gift of prophecy"
+  },
+  {
+    "question": "Why did Paul warned fathers not to provoke their children? Because they",
+    "options": [
+      "might become angry",
+      "could disrespect their fathers",
+      "could become discouraged",
+      "may become rebellious"
+    ],
+    "answer": "could become discouraged"
+  },
+  {
+    "question": "Who was the man James used as example of how the effective prayer of the righteous man works?",
+    "options": [
+      "Jesus Christ",
+      "Peter",
+      "Paul",
+      "Elijah"
+    ],
+    "answer": "Elijah"
+  },
+  {
+    "question": "Which of these is the type of prayer on which we pray for others?",
+    "options": [
+      "Apprehension",
+      "appreciation",
+      "Intercession",
+      "interpretation"
+    ],
+    "answer": "Intercession"
+  },
+  {
+    "question": "\u201cAnd the prayer of ______ shall save the sick. And the Lord shall raise him up, and if he hath committed sins, they shall be forgiven him\u201d which of these should be used to complete the above statement?",
+    "options": [
+      "Petition",
+      "Intercession",
+      "Hope",
+      "Faith"
+    ],
+    "answer": "Faith"
+  },
+  {
+    "question": "What is the meaning of being baptized into Christ, according to the epistle of the Galatians?",
+    "options": [
+      "Discrimination among races",
+      "Descent from Abraham",
+      "Putting on Christ like life",
+      "Raising from companion"
+    ],
+    "answer": "Putting on Christ like life"
+  },
+  {
+    "question": "What is the significance of the dove in the baptism of Jesus Christ?",
+    "options": [
+      "Word of God",
+      "Holy Spirit",
+      "Love of God",
+      "Glory of God"
+    ],
+    "answer": "Holy Spirit"
+  },
+  {
+    "question": "Which of these is not the quality of God\u2019s children?",
+    "options": [
+      "Love",
+      "Hatred",
+      "Kindness",
+      "Humanity"
+    ],
+    "answer": "Hatred"
+  },
+  {
+    "question": "How did Christians become sons of God? By",
+    "options": [
+      "being Abraham\u2019s descendants",
+      "being Gentiles",
+      "the works of the law",
+      "adoption through faith"
+    ],
+    "answer": "adoption through faith"
+  },
+  {
+    "question": "Which of the following groups represents the gift of the Holy Spirit?",
+    "options": [
+      "Utterance of wisdom and respect for elders",
+      "Prophecy and interpretation of tongues",
+      "Worthy of miracles and favour prayer",
+      "Going to church and fasting"
+    ],
+    "answer": "Prophecy and interpretation of tongues"
+  },
+  {
+    "question": "What did St. Paul say concerning how to make use of our individual talents? He instructed that Christians should",
+    "options": [
+      "make others know of their importance",
+      "think soberly according to the measure of their faith",
+      "act as if they are indispensable",
+      "deny others what they would gain from them"
+    ],
+    "answer": "think soberly according to the measure of their faith"
+  },
+  {
+    "question": "Which of these did Paul emphasize on when he was writing to the Corinthians on the metaphor of the body and the functions of the different parts? He emphasize the individual\u2019s",
+    "options": [
+      "rights",
+      "reward",
+      "pride",
+      "duties"
+    ],
+    "answer": "duties"
+  },
+  {
+    "question": "How old was Abraham when God made a covenant with him in the land of Canaan?",
+    "options": [
+      "65",
+      "90",
+      "99",
+      "100"
+    ],
+    "answer": "99"
+  },
+  {
+    "question": "Who was the first martyr among these disciples?",
+    "options": [
+      "James",
+      "Philip",
+      "Peter",
+      "Stephen"
+    ],
+    "answer": "Stephen"
+  },
+  {
+    "question": "How did Jesus describe His father in His teaching on the true vine?",
+    "options": [
+      "Branch",
+      "Vine maker",
+      "Everlasting vine",
+      "Vine dresser"
+    ],
+    "answer": "Vine dresser"
+  },
+  {
+    "question": "How many days had Lazarus been in the tomb when Jesus reached Bethany?",
+    "options": [
+      "three",
+      "four",
+      "two",
+      "five"
+    ],
+    "answer": "four"
+  },
+  {
+    "question": "What did John say concerning love? God is love and love is of Him. He who loves, knows God and is _____ of Him",
+    "options": [
+      "Born",
+      "begotten",
+      "created",
+      "adopted"
+    ],
+    "answer": "begotten"
+  },
+  {
+    "question": "How did Gods promise to Abraham and his descendants that they would inherit the world become a reality? Through",
+    "options": [
+      "strict observance of the law",
+      "the good works of Abraham",
+      "the circumcision of Isaac",
+      "righteous of faith"
+    ],
+    "answer": "righteous of faith"
+  },
+  {
+    "question": "What was the sign of God\u2019s covenant with Abraham?",
+    "options": [
+      "Circumcision",
+      "Birth of Isaac",
+      "Promised land",
+      "He changed his name from Abram to Abraham"
+    ],
+    "answer": "Circumcision"
+  },
+  {
+    "question": "Which of these attributes of God is mostly revealed as regards the fact that whatever God said during the process of creation happened?",
+    "options": [
+      "loves all that He has made",
+      "wanted man to have dominion over all that He had created",
+      "had sovereignty over the universe",
+      "is merciful to His creatures"
+    ],
+    "answer": "had sovereignty over the universe"
+  },
+  {
+    "question": "Who performed the function of giving names to all creatures in the creation story?",
+    "options": [
+      "God",
+      "Adam",
+      "The angels",
+      "Eve"
+    ],
+    "answer": "Adam"
+  },
+  {
+    "question": "Why did Adam call Eve, \u201cwoman\u201d? Because she",
+    "options": [
+      "was the author of woes",
+      "caused the fall of man",
+      "was taken out of man",
+      "was a weaker vessel"
+    ],
+    "answer": "was taken out of man"
+  },
+  {
+    "question": "What is the significance of living water according to St. John?",
+    "options": [
+      "Spring from Jacob\u2019s well",
+      "Holy Spirit",
+      "Teachings of Christ",
+      "Spirit of God"
+    ],
+    "answer": "Holy Spirit"
+  },
+  {
+    "question": "One of these is not the attribute of the good shepherd as described by St. John",
+    "options": [
+      "He enters the sheepfold by the door",
+      "He lays down his life for his sheep",
+      "He enters the sheep fold through the locked gate",
+      "He knows the sheep by their names"
+    ],
+    "answer": "He enters the sheep fold through the locked gate"
+  },
+  {
+    "question": "Who is the gatekeeper of the sheep fold according to St. John",
+    "options": [
+      "God",
+      "Jesus Christ",
+      "Good shepherd",
+      "Word of God"
+    ],
+    "answer": "God"
+  },
+  {
+    "question": "Which of these best completes Paul\u2019s teaching on new life in Christ? \u201cIf you have been raised with Christ, seek the things that are?\u201d",
+    "options": [
+      "holy",
+      "pure",
+      "above",
+      "Christian"
+    ],
+    "answer": "above"
+  },
+  {
+    "question": "In which of this incidence did Jesus explain Himself as the light of the world? When He",
+    "options": [
+      "healed the paralytic",
+      "healed the man born blind",
+      "casted out evil spirit",
+      "raised Lazarus from the dead"
+    ],
+    "answer": "healed the man born blind"
+  },
+  {
+    "question": "In which city did Jesus has an encounter with the Samaritan woman?",
+    "options": [
+      "Capernaum",
+      "Sychar",
+      "Samaria",
+      "lystra"
+    ],
+    "answer": "Sychar"
+  },
+  {
+    "question": "Why was the Samaritan woman surprise when Jesus told her to give him water? Because",
+    "options": [
+      "Jesus was not from the descendant of Jacob",
+      "She had not seen Jesus in her life",
+      "Jews did not associate with Samaritans",
+      "Jews were not allowed to drink from Jacob\u2019s well"
+    ],
+    "answer": "Jews did not associate with Samaritans"
+  },
+  {
+    "question": "When did Jesus make the above statement? After the",
+    "options": [
+      "feeding of the four thousand",
+      "feeding of the five thousand",
+      "feeding of His disciples",
+      "last supper"
+    ],
+    "answer": "feeding of the five thousand"
+  },
+  {
+    "question": "What is the meaning of the above statement? This means that they were seeking Him because of",
+    "options": [
+      "spiritual bread that gives eternal life",
+      "His redemptive power",
+      "miracles",
+      "His heavenly inheritance"
+    ],
+    "answer": "miracles"
+  },
+  {
+    "question": "Which of these commandments did Jesus give to His disciples?",
+    "options": [
+      "Love for one another",
+      "Worship with one another",
+      "Pay homage to one another",
+      "Visit one another"
+    ],
+    "answer": "Love for one another"
+  },
+  {
+    "question": "One of these is correct: the false shepherds had come to steal, kill and",
+    "options": [
+      "mislead",
+      "undermine",
+      "slay",
+      "destroy"
+    ],
+    "answer": "destroy"
+  },
+  {
+    "question": "Which of these people did Paul address his teaching on humility?",
+    "options": [
+      "Corinthians",
+      "Romans",
+      "Philippians",
+      "Ephesians"
+    ],
+    "answer": "Philippians"
+  },
+  {
+    "question": "One of these is not among the teaching of Peter on humility",
+    "options": [
+      "younger Christians should be subject to elders",
+      "those who are proud receives God\u2019s opposition",
+      "younger Christians should cast their anxieties on the elders",
+      "they should always be watchful and ready to combat the actions of the devil, their enemy"
+    ],
+    "answer": "younger Christians should cast their anxieties on the elders"
+  },
+  {
+    "question": "What did Peter say concerning the humble in 1st Peter 5:5-11? The humble are gifted with the _____ of God",
+    "options": [
+      "grace",
+      "power",
+      "love",
+      "glory"
+    ],
+    "answer": "grace"
+  },
+  {
+    "question": "How did Christians become children of God according to Paul\u2019s letter to the Galatians? Through",
+    "options": [
+      "Faith",
+      "going to church",
+      "adoption",
+      "repentance"
+    ],
+    "answer": "Faith"
+  },
+  {
+    "question": "What was the work of the law before the coming of Christ according to Paul\u2019s letter to the Galatians?",
+    "options": [
+      "The law is supreme",
+      "The law is binding",
+      "The law acted as a custodian",
+      "The law is not a respecter of persons"
+    ],
+    "answer": "The law acted as a custodian"
+  },
+  {
+    "question": "Which of these completes this statement? \u201cThrough God, you are no longer a slave, but a son, and if a son, then an _____",
+    "options": [
+      "ambassador",
+      "heir",
+      "orator of Christ",
+      "editor"
+    ],
+    "answer": "heir"
+  },
+  {
+    "question": "Which of these was not stated by Paul in his teaching on justification by faith?",
+    "options": [
+      "No human being would be justified in His sight by works of the law",
+      "Through the law comes the knowledge of sin",
+      "All have sinned and fallen short of the glory of God",
+      "Abraham was justified because he is the father of all nations"
+    ],
+    "answer": "Abraham was justified because he is the father of all nations"
+  },
+  {
+    "question": "What is the meaning of the above statement, God is",
+    "options": [
+      "Universal",
+      "Omnipotent",
+      "Omniscience",
+      "Omnipresence"
+    ],
+    "answer": "Universal"
+  },
+  {
+    "question": "Which of these gifts of the Holy Spirit could be regarded as vocal gifts?",
+    "options": [
+      "Healing, miracles and faith",
+      "Wisdom, knowledge and discernment",
+      "Prophecy, speaking in tongues and interpretation",
+      "Tongues, faith and wisdom"
+    ],
+    "answer": "Prophecy, speaking in tongues and interpretation"
+  },
+  {
+    "question": "Who was the former slave to Philemon?",
+    "options": [
+      "Jethro",
+      "Titus",
+      "Onesimus",
+      "Asa"
+    ],
+    "answer": "Onesimus"
+  },
+  {
+    "question": "What is the meaning of \u201cprocreation\u201d?",
+    "options": [
+      "Adoption",
+      "Reproduction",
+      "Confirmation",
+      "Innovation"
+    ],
+    "answer": "Reproduction"
+  },
+  {
+    "question": "Which of these definition is necessary for the word, \u201cDivorce\u201d",
+    "options": [
+      "legal probation of marriage",
+      "legal suspension of marriage",
+      "family ending of a marriage",
+      "legal ending of a marriage"
+    ],
+    "answer": "legal ending of a marriage"
+  }
+]
