@@ -1,502 +1,502 @@
- [
-    {
-      "question": "Which of the following statements about asexual reproduction is correct?",
-      "options": [
-        "always involves one parent but the offspring are genetically different from the parent",
-        "may involve two parents but the offspring is always identical to one parent.",
-        "always involves one parent and the offspring are identical to the parent",
-        "involves two parents but the offspring is not genetically identical to any of the parents."
-      ],
-      "answer": " always involves one parent and the offspring are identical to the parent "
-    },
-    {
-      "question": "A group of closely related organisms capable of interbreeding to produce fertile offspring are known as members of a",
-      "options": [
-        "kingdom",
-        "class",
-        "family",
-        "specie"
-      ],
-      "answer": " specie "
-    },
-    {
-      "question": "Which of the following conditions in flowering plants enhances self-pollination?",
-      "options": [
-        "cleistogamy",
-        "heterostyly",
-        "protandry",
-        "protogyny"
-      ],
-      "answer": " protandry "
-    },
-    {
-      "question": "The natural dwelling place of an organism is called",
-      "options": [
-        "ecological niche",
-        "habitat",
-        "population",
-        "environment"
-      ],
-      "answer": " habitat "
-    },
-    {
-      "question": "Movement of water across a semi-permeable membrane from a weaker solution to a stronger solution is known as",
-      "options": [
-        "transpiration",
-        "diffusion",
-        "active transport",
-        "osmosis"
-      ],
-      "answer": "osmosis "
-    },
-    {
-      "question": "Which of the following is an abiotic factor which affects a population?",
-      "options": [
-        "Temperature",
-        "Producer",
-        "Consumer",
-        "Parasite"
-      ],
-      "answer": " Temperature "
-    },
-    {
-      "question": "An inferior ovary of a flower is situated",
-      "options": [
-        "below the floral parts",
-        "above the floral parts",
-        "at the same level with the floral parts",
-        "at the centre of the floral parts"
-      ],
-      "answer": " below the floral parts "
-    },
-    {
-      "question": "Conservation may be promoted by",
-      "options": [
-        "encouraging tree plants",
-        "deforestation",
-        "overgrazing",
-        "bush burning"
-      ],
-      "answer": " encouraging tree plants "
-    },
-    {
-      "question": "Which of the following is a biotic components of an ecosystem?",
-      "options": [
-        "Soil",
-        "Rainfall",
-        "Light",
-        "Fungi"
-      ],
-      "answer": " Fungi "
-    },
-    {
-      "question": "The process by which plants manufacture their food from carbondioxide and water using energy from the sun is called",
-      "options": [
-        "chemosynthesis",
-        "photosynthesis",
-        "anabolism",
-        "catabolism"
-      ],
-      "answer": " photosynthesis "
-    },
-    {
-      "question": "Rhizobium which lives in the root nodules of leguminous plants is an example of association known as",
-      "options": [
-        "commensalism",
-        "epiphytism",
-        "mutualism",
-        "saprophytism"
-      ],
-      "answer": " mutualism "
-    },
-    {
-      "question": "Ecology simply means the study of",
-      "options": [
-        "the properties of a habitat",
-        "inter-relationship between organisms and their environment",
-        "several species of plants and animals",
-        "inter-relationship between plants and animals"
-      ],
-      "answer": " inter-relationship between organisms and their environment "
-    },
-    {
-      "question": "A population is best described as",
-      "options": [
-        "a group of organisms of the same species living together",
-        "a group of animals and plants living together",
-        "a group of insects and grasses",
-        "different species of wild animals"
-      ],
-      "answer": " a group of organisms of the same species living together "
-    },
-    {
-      "question": "Which of the following instruments is not used in measuring abiotic factors in a habitat",
-      "options": [
-        "wind vane",
-        "thermometer",
-        "microscope",
-        "hygrometer"
-      ],
-      "answer": " microscope "
-    },
-    {
-      "question": "The term syncarpous is used to described a flower when the carpels are",
-      "options": [
-        "many and fused",
-        "two only",
-        "two and nectar",
-        "lying at different parts of a flower"
-      ],
-      "answer": " many and fused "
-    },
-    {
-      "question": "Which of the following structures are characteristics of insect pollinated flowers?",
-      "options": [
-        "Dull coloured flowers with no nectar",
-        "Very light, numerous and peridulous stamen",
-        "Brightly coloured petals, scent and nectar",
-        "Flowers are usually small and inconspicuous"
-      ],
-      "answer": " Brightly coloured petals, scent and nectar "
-    },
-    {
-      "question": "Which of the following is an advantage of dispersal of fruits and seeds? It allows",
-      "options": [
-        "fair distribution of source of food for animals",
-        "growth in close association with parent plant",
-        "even distribution of plants and reduction of intra specific competition",
-        "the seeds to evolve new species"
-      ],
-      "answer": " even distribution of plants and reduction of intra specific competition "
-    },
-    {
-      "question": "The series of changes that occur in a seed by which the embryo develops into a seedling is known as",
-      "options": [
-        "fertilizer",
-        "gametogenesis",
-        "pollination",
-        "germination"
-      ],
-      "answer": " germination "
-    },
-    {
-      "question": "An association between two organisms in which both benefit is called",
-      "options": [
-        "parasitism",
-        "commensalism",
-        "symbiosis",
-        "predation"
-      ],
-      "answer": " symbiosis "
-    },
-    {
-      "question": "Which of the following pairs consists of gametes?",
-      "options": [
-        "Ova and spermatozoan",
-        "Spores and sporangium",
-        "Flowers and pollen grains",
-        "Testes and ovaries"
-      ],
-      "answer": " Ova and spermatozoan "
-    },
-    {
-      "question": "Which of these groups of organisms is responsible for capturing energy for the biotic community?",
-      "options": [
-        "Decomposers",
-        "Omnivore",
-        "Consumers",
-        "Producers"
-      ],
-      "answer": " Producers "
-    },
-    {
-      "question": "Which of these is not true characteristics of the tropical rain forest?",
-      "options": [
-        "Vegetation consists predominantly of tall trees with thick canopy",
-        "Forest is rich in epiphytes and climbers",
-        "Annual rainfall is less than 100cm",
-        "Fruits of trees are often large sized and are generally without adaptation to wind dispersal"
-      ],
-      "answer": " Annual rainfall is less than 100cm "
-    },
-    {
-      "question": "Which of the following is not a way of conserving natural resources?",
-      "options": [
-        "Adopting good farming practices",
-        "Establishing forest reserves",
-        "Establishing game reserves",
-        "Encouraging poaching"
-      ],
-      "answer": " Encouraging poaching "
-    },
-    {
-      "question": "The transfer of pollen grains from the anther to the stigma of the same flower is known as",
-      "options": [
-        "fertilization",
-        "self pollination",
-        "reproduction",
-        "conjugation"
-      ],
-      "answer": " self pollination "
-    },
-    {
-      "question": "Respiration is an essential life process providing the living cells with",
-      "options": [
-        "carbondioxide",
-        "energy",
-        "sugars",
-        "glycogen"
-      ],
-      "answer": " energy "
-    },
-    {
-      "question": "A major pollutant around airport residential areas is",
-      "options": [
-        "oil spillage",
-        "soot",
-        "noise",
-        "dust"
-      ],
-      "answer": " noise "
-    },
-    {
-      "question": "The feeding relationship between the organisms labelled III and IV is",
-      "options": [
-        "parasitism",
-        "mutualism",
-        "predation",
-        "saprophytism"
-      ],
-      "answer": " predation "
-    },
-    {
-      "question": "The producer is",
-      "options": [
-        "I because it contains the least amount of energy",
-        "I because it uses sunlight to manufacture food",
-        "IV because it is the largest organism in the diagram",
-        "IV because it is the organism that receives the highest amount of sunlight."
-      ],
-      "answer": " I because it uses sunlight to manufacture food "
-    },
-    {
-      "question": "Which of the following is not part of the male reproductive system?",
-      "options": [
-        "Penis",
-        "Testes",
-        "Uterus",
-        "Prostate gland"
-      ],
-      "answer": " Uterus "
-    },
-    {
-      "question": "About how long does the menstrual cycle takes?",
-      "options": [
-        "5days",
-        "25days",
-        "14days",
-        "28days"
-      ],
-      "answer": "28days "
-    },
-    {
-      "question": "What is a zygote?",
-      "options": [
-        "A cell formed when two embryos join which will develop into a gamete",
-        "A cell formed when two gametes join which will develop into a gland",
-        "A cell formed when two gametes join which will develop into an embryo",
-        "A cell formed when two gland meet to produce an hormone"
-      ],
-      "answer": " A cell formed when two gametes join which will develop into an embryo "
-    },
-    {
-      "question": "Ovulation is best defined as",
-      "options": [
-        "the release of mature egg cell",
-        "the loss of the endometrium lining of the uterus",
-        "the joining of a sperm and an egg",
-        "the cell passing through the fallopian tube"
-      ],
-      "answer": " the release of mature egg cell "
-    },
-    {
-      "question": "Which hormone is responsible for the development of male secondary sexual characteristics?",
-      "options": [
-        "Luitenizing hormone",
-        "oestrogen",
-        "progesterone",
-        "testosterone"
-      ],
-      "answer": " testosterone "
-    },
-    {
-      "question": "In reproduction, what is fertilization?",
-      "options": [
-        "When a male and female gamete join",
-        "When a farmer puts manure on farmland",
-        "When a plant drop seeds onto the ground",
-        "The ripening of egg cell"
-      ],
-      "answer": " When a male and female gamete join "
-    },
-    {
-      "question": "Which statement about flowering plants is correct?",
-      "options": [
-        "The stamen is the female part of the flower and comprises the filament and anther",
-        "The stamen is the male part of the flower and comprises the filament and anther",
-        "The carpel is the female part of the flower and comprises the ovary and filament",
-        "The stamen consists of pistil and anther"
-      ],
-      "answer": " The stamen is the male part of the flower and comprises the filament and anther "
-    },
-    {
-      "question": "How are the pollen grains of insect pollinated plants adapted for transfer?",
-      "options": [
-        "They are smooth and light",
-        "They are produced in very large amounts",
-        "They are sticky and brightly coloured",
-        "Flowers have no scent, no nectar"
-      ],
-      "answer": " They are sticky and brightly coloured "
-    },
-    {
-      "question": "The transfer of pollen grain from the anther to the stigma of a flower to another of the same species is known as",
-      "options": [
-        "self pollination",
-        "cross pollination",
-        "germination",
-        "fertilization"
-      ],
-      "answer": " cross pollination "
-    },
-    {
-      "question": "The arrangement of the ovules in the ovary is known as",
-      "options": [
-        "syncarpous",
-        "pollination",
-        "marginal",
-        "placentation"
-      ],
-      "answer": " placentation "
-    },
-    {
-      "question": "When a flower contains both pistil and stamen it is referred to as",
-      "options": [
-        "complete flower",
-        "incomplete flower",
-        "hermaphrodite flower",
-        "imperfect flower"
-      ],
-      "answer": " complete flower "
-    },
-    {
-      "question": "The type of reproduction in which eggs are released from the female parents body to hatch and develop in external environment is termed",
-      "options": [
-        "viviparity",
-        "oviparity",
-        "ovoviviparity",
-        "desiccation"
-      ],
-      "answer": " oviparity "
-    },
-    {
-      "question": "An effective management of natural resources to ensure their continuous yield from generation to generation may involve all the following except",
-      "options": [
-        "protection of wildlife",
-        "prevention of habitat destruction",
-        "biological control of pests",
-        "disposal of raw sewage into the sea"
-      ],
-      "answer": " disposal of raw sewage into the sea "
-    },
-    {
-      "question": "the type of asexual reproduction in which part of an organism breaks up to give rise to a new individual is known as",
-      "options": [
-        "spore formation",
-        "budding",
-        "fragmentation",
-        "vegetative propagation"
-      ],
-      "answer": " fragmentation "
-    },
-    {
-      "question": "The drugs which inhibit the growth of disease-causing organisms and thus used in the treatment of infections are referred to as",
-      "options": [
-        "antibodies",
-        "antibiotics",
-        "anti-toxics",
-        "septics"
-      ],
-      "answer": " antibiotics "
-    },
-    {
-      "question": "Organisms that feed essentially on plants within an ecosystem may be referred to as",
-      "options": [
-        "carnivores",
-        "herbivores",
-        "saprophytes",
-        "omnivores"
-      ],
-      "answer": " herbivores "
-    },
-    {
-      "question": "Endangered species are organisms that ought to be",
-      "options": [
-        "hunted",
-        "killed",
-        "poached",
-        "protected"
-      ],
-      "answer": " protected "
-    },
-    {
-      "question": "Which of the following substances is not a conservable natural resources?",
-      "options": [
-        "Mineral",
-        "Soil",
-        "Water",
-        "Air"
-      ],
-      "answer": " Air "
-    },
-    {
-      "question": "Which of the following male reproductive organs help in the production of sperm?",
-      "options": [
-        "Vas deferens",
-        "Epididymis",
-        "Prepuce",
-        "Seminiferous tubules"
-      ],
-      "answer": " Seminiferous tubules "
-    },
-    {
-      "question": "Which of the following female reproductive system represents a penis and erectile in nature?",
-      "options": [
-        "Cervix",
-        "Fallopian tube",
-        "Clitoris",
-        "Uterus"
-      ],
-      "answer": " Clitoris "
-    },
-    {
-      "question": "Sperm is stored in the",
-      "options": [
-        "prostrate gland",
-        "seminiferous tubule",
-        "testes",
-        "epididymis"
-      ],
-      "answer": " epididymis "
-    },
-    {
-      "question": "The male sexual reproductive organ in flowering plant is",
-      "options": [
-        "corolla",
-        "sepal",
-        "gynoecium",
-        "androecium"
-      ],
-      "answer": " androecium "
-    }
-  ]
+[
+  {
+    "question": "What is population?",
+    "options": [
+      "The number of people living in a particular area",
+      "The number of animals in a zoo",
+      "The number of roads in a city",
+      "The number of schools in a region"
+    ],
+    "answer": "The number of people living in a particular area"
+  },
+  {
+    "question": "Which continent has the highest population?",
+    "options": [
+      "Europe",
+      "Asia",
+      "Africa",
+      "South America"
+    ],
+    "answer": "Asia"
+  },
+  {
+    "question": "Which country is currently the most populous in the world?",
+    "options": [
+      "United States",
+      "India",
+      "China",
+      "Brazil"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "What is population density?",
+    "options": [
+      "The total number of births in a year",
+      "The number of people per unit area",
+      "The number of cars in a city",
+      "The number of hospitals per country"
+    ],
+    "answer": "The number of people per unit area"
+  },
+  {
+    "question": "Which of these tools is used to study population?",
+    "options": [
+      "Thermometer",
+      "Census",
+      "Barometer",
+      "Seismograph"
+    ],
+    "answer": "Census"
+  },
+  {
+    "question": "Which of the following increases population size?",
+    "options": [
+      "Emigration",
+      "High death rate",
+      "Immigration",
+      "Epidemics"
+    ],
+    "answer": "Immigration"
+  },
+  {
+    "question": "Which of the following causes population growth?",
+    "options": [
+      "High birth rate",
+      "High death rate",
+      "Wars",
+      "Famine"
+    ],
+    "answer": "High birth rate"
+  },
+  {
+    "question": "Which of these can reduce population growth?",
+    "options": [
+      "Improved medical care",
+      "High literacy rate",
+      "Family planning",
+      "Political stability"
+    ],
+    "answer": "Family planning"
+  },
+  {
+    "question": "What is natural increase in population?",
+    "options": [
+      "Immigration minus emigration",
+      "Birth rate minus death rate",
+      "Census count",
+      "Urbanization rate"
+    ],
+    "answer": "Birth rate minus death rate"
+  },
+  {
+    "question": "Which of these is not a factor of population growth?",
+    "options": [
+      "Better sanitation",
+      "Availability of food",
+      "High infant mortality",
+      "Improved healthcare"
+    ],
+    "answer": "High infant mortality"
+  },
+  {
+    "question": "What is migration?",
+    "options": [
+      "Movement of animals only",
+      "Movement of people from one place to another",
+      "Movement of water in rivers",
+      "Spread of diseases"
+    ],
+    "answer": "Movement of people from one place to another"
+  },
+  {
+    "question": "What is rural-urban migration?",
+    "options": [
+      "Movement from cities to villages",
+      "Movement within rural areas",
+      "Movement from villages to cities",
+      "Movement from one country to another"
+    ],
+    "answer": "Movement from villages to cities"
+  },
+  {
+    "question": "Which is an example of international migration?",
+    "options": [
+      "From Lagos to Abuja",
+      "From Paris to London",
+      "From Ibadan to Kano",
+      "From Owerri to Enugu"
+    ],
+    "answer": "From Paris to London"
+  },
+  {
+    "question": "What type of migration occurs when people move seasonally for farming?",
+    "options": [
+      "Permanent migration",
+      "Urban-rural migration",
+      "Seasonal migration",
+      "Forced migration"
+    ],
+    "answer": "Seasonal migration"
+  },
+  {
+    "question": "When people are forced to leave due to war, what type of migration is that?",
+    "options": [
+      "Voluntary migration",
+      "Chain migration",
+      "Economic migration",
+      "Forced migration"
+    ],
+    "answer": "Forced migration"
+  },
+  {
+    "question": "Which of these is a push factor in migration?",
+    "options": [
+      "Job opportunities",
+      "Political stability",
+      "War and conflict",
+      "Better healthcare"
+    ],
+    "answer": "War and conflict"
+  },
+  {
+    "question": "Which of these is a pull factor in migration?",
+    "options": [
+      "Flood disaster",
+      "Job availability",
+      "High crime rate",
+      "Famine"
+    ],
+    "answer": "Job availability"
+  },
+  {
+    "question": "Which factor can attract people to migrate to urban areas?",
+    "options": [
+      "Scarcity of water",
+      "Insecurity",
+      "Employment opportunities",
+      "Overpopulation"
+    ],
+    "answer": "Employment opportunities"
+  },
+  {
+    "question": "One major disadvantage of migration to cities is:",
+    "options": [
+      "Agricultural development",
+      "Increased rural population",
+      "Urban congestion and slums",
+      "Better infrastructure"
+    ],
+    "answer": "Urban congestion and slums"
+  },
+  {
+    "question": "Which of these is a negative effect of brain drain?",
+    "options": [
+      "Increase in local employment",
+      "Loss of skilled labor",
+      "Growth in rural economy",
+      "Increase in birth rate"
+    ],
+    "answer": "Loss of skilled labor"
+  },
+  {
+    "question": "One of the major factors that contribute to population growth is:",
+    "options": [
+      "Poor sanitation",
+      "Epidemics",
+      "Availability of food",
+      "Climate change"
+    ],
+    "answer": "Availability of food"
+  },
+  {
+    "question": "A high birth rate leads to:",
+    "options": [
+      "Decrease in population",
+      "Population growth",
+      "Population stability",
+      "None of the above"
+    ],
+    "answer": "Population growth"
+  },
+  {
+    "question": "Migration contributes to population growth when:",
+    "options": [
+      "People emigrate",
+      "People die",
+      "Immigrants arrive in large numbers",
+      "Cities are abandoned"
+    ],
+    "answer": "Immigrants arrive in large numbers"
+  },
+  {
+    "question": "Which of the following is a benefit of high population density?",
+    "options": [
+      "Low labor supply",
+      "Reduced productivity",
+      "Large market for goods",
+      "High cost of living"
+    ],
+    "answer": "Large market for goods"
+  },
+  {
+    "question": "Which is a disadvantage of high population density?",
+    "options": [
+      "Efficient resource use",
+      "Improved standard of living",
+      "Overcrowding and pollution",
+      "Rapid transportation"
+    ],
+    "answer": "Overcrowding and pollution"
+  },
+  {
+    "question": "High population density can lead to all except:",
+    "options": [
+      "Traffic congestion",
+      "Unemployment",
+      "Depletion of natural resources",
+      "Low birth rate"
+    ],
+    "answer": "Low birth rate"
+  },
+  {
+    "question": "One advantage of high population density in urban areas is:",
+    "options": [
+      "Scarcity of labor",
+      "Better innovation and ideas",
+      "Increased land availability",
+      "Low economic growth"
+    ],
+    "answer": "Better innovation and ideas"
+  },
+  {
+    "question": "One effective way to control rapid population growth is:",
+    "options": [
+      "Encouraging early marriage",
+      "Family planning programs",
+      "Abolishing education",
+      "Increasing birth rate"
+    ],
+    "answer": "Family planning programs"
+  },
+  {
+    "question": "Educating women can help reduce population growth by:",
+    "options": [
+      "Promoting migration",
+      "Delaying childbearing",
+      "Encouraging more births",
+      "Reducing mortality."
+    ],
+    "answer": "Delaying childbearing"
+  },
+  {
+    "question": "A government can solve overpopulation by:",
+    "options": [
+      "Providing incentives for large families",
+      "Ignoring rural development",
+      "Enforcing population policies",
+      "Promoting war"
+    ],
+    "answer": "Enforcing population policies"
+  },
+  {
+    "question": "Which of the following can help reduce pressure on urban areas?",
+    "options": [
+      "Increasing rural-urban migration",
+      "Urban sprawl",
+      "Development of rural areas",
+      "Limiting education"
+    ],
+    "answer": "Development of rural areas"
+  },
+  {
+    "question": "What is a settlement?",
+    "options": [
+      "A place where only animals live",
+      "A temporary camp",
+      "A place where people live and carry out activities.",
+      "A place where activities alone are carried."
+    ],
+    "answer": "A place where people live and carry out activities."
+  },
+  {
+    "question": "What is a settlement?",
+    "options": [
+      "A natural forest",
+      "A body of water",
+      "A place where people live",
+      "A road network"
+    ],
+    "answer": "A place where people live"
+  },
+  {
+    "question": "Which of the following is an example of a rural settlement?",
+    "options": [
+      "London",
+      "New York",
+      "A small farming village",
+      "Lagos"
+    ],
+    "answer": "A small farming village"
+  },
+  {
+    "question": "Which of these is a type of settlement?",
+    "options": [
+      "Road settlement",
+      "Circular settlement",
+      "Airborne settlement",
+      "Mountainous settlement"
+    ],
+    "answer": "Circular settlement"
+  },
+  {
+    "question": "The most common type of settlement in cities is:",
+    "options": [
+      "Dispersed settlement",
+      "Linear settlement",
+      "Nucleated settlement",
+      "Seasonal settlement"
+    ],
+    "answer": "Nucleated settlement"
+  },
+  {
+    "question": "Which of the following promotes urbanization?",
+    "options": [
+      "Availability of jobs",
+      "Scarcity of water",
+      "Poor infrastructure",
+      "Desertification"
+    ],
+    "answer": "Availability of jobs"
+  },
+  {
+    "question": "The growth of industries in an area leads to:",
+    "options": [
+      "Urban decline",
+      "Migration to rural areas",
+      "Urbanization",
+      "Decrease in services"
+    ],
+    "answer": "Urbanization"
+  },
+  {
+    "question": "Which physical factor affects the location of settlements?",
+    "options": [
+      "Birth rate",
+      "Political campaign",
+      "Availability of water",
+      "Population growth"
+    ],
+    "answer": "Availability of water"
+  },
+  {
+    "question": "One of the main human factors that affect the growth of a settlement is:",
+    "options": [
+      "Mountains",
+      "Employment opportunities",
+      "Climate",
+      "Rivers"
+    ],
+    "answer": "Employment opportunities"
+  },
+  {
+    "question": "Which of the following encourages population growth?",
+    "options": [
+      "Famine",
+      "High death rate",
+      "Improved healthcare",
+      "War"
+    ],
+    "answer": "Improved healthcare"
+  },
+  {
+    "question": "Which of the following is NOT a basis for the classification of settlements?",
+    "options": [
+      "Size",
+      "Shape",
+      "Function",
+      "Color"
+    ],
+    "answer": "Color"
+  },
+  {
+    "question": "What is a linear settlement?",
+    "options": [
+      "Buildings arranged around a central point",
+      "Buildings scattered randomly",
+      "Buildings arranged in a line along a road or river",
+      "High-rise buildings in a city center"
+    ],
+    "answer": "Buildings arranged in a line along a road or river"
+  },
+  {
+    "question": "Which type of settlement is typically found in rural areas?",
+    "options": [
+      "Isolated settlements",
+      "Conurbation",
+      "Metropolis",
+      "Megalopolis"
+    ],
+    "answer": "Isolated settlements"
+  },
+  {
+    "question": "Which of the following correctly arranges settlements in increasing order of size?",
+    "options": [
+      "Town – City – Hamlet – Village",
+      "Village – Hamlet – Town – City",
+      "Hamlet – Village – Town – City",
+      "City – Hamlet – Town – Village"
+    ],
+    "answer": "Hamlet – Village – Town – City"
+  },
+  {
+    "question": "What is the smallest type of human settlement?",
+    "options": [
+      "Village",
+      "Hamlet",
+      "Town",
+      "Suburb"
+    ],
+    "answer": "Hamlet"
+  },
+  {
+    "question": "A conurbation is best described as:",
+    "options": [
+      "A small rural settlement",
+      "A town with many farms",
+      "A group of merged towns and cities",
+      "A planned industrial zone"
+    ],
+    "answer": "A group of merged towns and cities"
+  },
+  {
+    "question": "One major problem caused by rapid urbanization is:",
+    "options": [
+      "Improved air quality",
+      "Traffic congestion",
+      "Increase in agricultural land",
+      "Decrease in communication"
+    ],
+    "answer": "Traffic congestion"
+  },
+  {
+    "question": "Urban sprawl can lead to:",
+    "options": [
+      "Improved rural life",
+      "Preservation of natural habitats",
+      "Loss of agricultural land",
+      "Decreased housing demand"
+    ],
+    "answer": "Loss of agricultural land"
+  },
+  {
+    "question": "Which of the following is a social problem linked with urbanization?",
+    "options": [
+      "Soil erosion",
+      "Deforestation",
+      "Increase in crime rate",
+      "Crop failure"
+    ],
+    "answer": "Increase in crime rate"
+  }
+]
