@@ -1,332 +1,222 @@
 [
   {
     "number": 1,
-    "question": "Anything that can be offered to the market for attention, acquisition, use or consumption is called",
-    "options": ["Product", "Asset", "Market", "Advertising"],
-    "answer": "Product"
+    "question": "What is the motto of Sun Dream International School?",
+    "options": [
+      "Learning Today, Leading Tomorrow",
+      "Knowledge for Excellence",
+      "Wisdom, Knowledge and Service",
+      "Inspiring the Future"
+    ],
+    "answer": "Wisdom, Knowledge and Service"
   },
   {
     "number": 2,
-    "question": "The industrial products include the following, except",
-    "options": ["Installations", "Raw materials", "Accessory equipment", "Unsorted products"],
-    "answer": "Unsorted products"
+    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Purple"
+    ],
+    "answer": "Blue"
   },
   {
     "number": 3,
-    "question": "The act of buying a product at a spot without previous knowledge of it, is known as",
-    "options": ["Emergency buying", "Shopping", "Impulse buying", "Special buying"],
-    "answer": "Impulse buying"
+    "question": "What is the name of the school's annual inter-house sports competition?",
+    "options": [
+      "Sun Dream Olympics",
+      "DreamFit Games",
+      "Sun Dream Inter-House Fiesta",
+      "Sun Sprint Classic"
+    ],
+    "answer": "Sun Dream Inter-House Fiesta"
   },
   {
     "number": 4,
-    "question": "A philosophy which sees the consumer as the central focus of all organizational activities",
-    "options": ["Product concept", "Consumer concept", "Marketing concept", "Selling concept"],
-    "answer": "Marketing concept"
+    "question": "In what year was Sun Dream International School established?",
+    "options": [
+      "2010",
+      "2012",
+      "2018",
+      "2017"
+    ],
+    "answer": "2018"
   },
   {
     "number": 5,
-    "question": "Which of the following is not a component of marketing mix?",
-    "options": ["Price", "Product", "Profit", "Promotion"],
-    "answer": "Profit"
+    "question": "Which house won the last inter-house sports competition?",
+    "options": [
+      "Ruby House",
+      "Emerald House",
+      "Sapphire House",
+      "Topaz House"
+    ],
+    "answer": "Emerald House"
   },
   {
     "number": 6,
-    "question": "Establishing and maintaining mutual understanding between an organization and its customers is known as",
-    "options": ["Marketing concept", "Advertising", "Public relations", "Sales promotion"],
-    "answer": "Public relations"
+    "question": "What is the name of the student-led media group in Sun Dream School?",
+    "options": [
+      "DreamCast",
+      "The Sunshine Press Club",
+      "Sun Dream Media House",
+      "Sun Dream Reporters"
+    ],
+    "answer": "Sun Dream Media House"
   },
   {
     "number": 7,
-    "question": "Want backed by the ability to pay is called",
-    "options": ["Exchange", "Transaction", "Demand", "Needs"],
-    "answer": "Demand"
+    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
+    "options": [
+      "Mathematics",
+      "ICT",
+      "Civic Education",
+      "Home Economics"
+    ],
+    "answer": "ICT"
   },
   {
     "number": 8,
-    "question": "Communicating the benefit of a particular product to a customer is known as",
-    "options": ["Advertising", "Physical distribution", "Sales promotion", "Market research"],
-    "answer": "Advertising"
+    "question": "Which of these is a core value promoted by Sun Dream International School?",
+    "options": [
+      "Fame",
+      "Humility",
+      "Power",
+      "Popularity"
+    ],
+    "answer": "Humility"
   },
   {
     "number": 9,
-    "question": "Promotion comprises the following except",
-    "options": ["Market research", "Personal selling", "Sales promotion", "Advertising"],
-    "answer": "Market research"
+    "question": "How many campuses does Sun Dream School currently have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
   },
   {
     "number": 10,
-    "question": "Intangible products can also be called",
-    "options": ["Services", "Materials", "Viable products", "Accessory equipments"],
-    "answer": "Services"
+    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
+    "options": [
+      "Jet Club",
+      "Press Club",
+      "Green Club",
+      "Creative Arts Club"
+    ],
+    "answer": "Green Club"
   },
   {
     "number": 11,
-    "question": "Understanding of human needs is the core concept of",
-    "options": ["Demand", "Marketing", "Selling", "Supply"],
-    "answer": "Marketing"
+    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
+    "options": [
+      "Adaora M.",
+      "Christabel U.",
+      "Amarachi O.",
+      "Blessing A."
+    ],
+    "answer": "Christabel U."
   },
   {
     "number": 12,
-    "question": "The closest channel member to the consumer is",
-    "options": ["Retailer", "Wholesaler", "Agent", "Producer"],
-    "answer": "Retailer"
+    "question": "Which of the following is a tradition during the school’s end-of-year party?",
+    "options": [
+      "Talent Hunt",
+      "Principal’s Debate",
+      "Cultural Dance Parade",
+      "Parents vs Teachers Football Match"
+    ],
+    "answer": "Cultural Dance Parade"
   },
   {
     "number": 13,
-    "question": "The amount deducted from a regular price of a product to ensure continual patronage from customers is regarded as",
-    "options": ["Bonus", "Commission", "Discount", "Credit"],
-    "answer": "Discount"
+    "question": "What is the title of the school anthem?",
+    "options": [
+      "Dream Beyond the Stars",
+      "Great Sun Dream",
+      "Light of the Future",
+      "Together We Rise"
+    ],
+    "answer": "Great Sun Dream"
   },
   {
     "number": 14,
-    "question": "The path through which goods move from the producer to the consumer is called channel of",
-    "options": ["Consumption", "Distribution", "Marketing", "Production"],
-    "answer": "Distribution"
+    "question": "What language is taught as a second language in Sun Dream School?",
+    "options": [
+      "French",
+      "Spanish",
+      "Chinese",
+      "German"
+    ],
+    "answer": "French"
   },
   {
     "number": 15,
-    "question": "Which of the following is not a stage in the product life cycle?",
-    "options": ["Growth stage", "Decline stage", "Market analysis", "Introduction stage"],
-    "answer": "Market analysis"
+    "question": "Which award is usually given to the most disciplined student?",
+    "options": [
+      "Star Award",
+      "Model Student Award",
+      "Dream Ambassador",
+      "Excellence Badge"
+    ],
+    "answer": "Model Student Award"
   },
   {
     "number": 16,
-    "question": "An example of non-durable goods is",
-    "options": ["Shoe", "Bread", "Television", "Refrigerator"],
-    "answer": "Bread"
+    "question": "What is the name of the weekly assembly presentation organized by students?",
+    "options": [
+      "Dream Talk",
+      "Value Time",
+      "Sunrise Spotlight",
+      "Assembly Showcase"
+    ],
+    "answer": "Dream Talk"
   },
   {
     "number": 17,
-    "question": "The stage in the consumer buying decision process where the consumer assesses different products on the basis of what he has learnt is",
-    "options": ["Alternative evaluation", "Alternative search", "Need recognition stage", "Purchase decision"],
-    "answer": "Alternative evaluation"
+    "question": "Which of these activities is held every Friday afternoon?",
+    "options": [
+      "School Sanitation",
+      "House Meetings",
+      "PTA Forum",
+      "Club Activities"
+    ],
+    "answer": "Club Activities"
   },
   {
     "number": 18,
-    "question": "An activity or process undertaken by a company to acquire raw material is",
-    "options": ["Consumer buying behaviour", "Marketing intelligence", "Organizational buying behavior", "Marketing research"],
-    "answer": "Organizational buying behavior"
+    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
+    "options": [
+      "Mr. Joshua",
+      "Mr. Samuel",
+      "Mr. Mfoniso",
+      "Mr. Emeka"
+    ],
+    "answer": "Mr. Mfoniso"
   },
   {
     "number": 19,
-    "question": "One of these is a consumer product:",
-    "options": ["Raw materials", "Convenience product", "Accessory equipment", "Installations"],
-    "answer": "Convenience product"
+    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
+    "options": [
+      "National Girls in ICT Competition",
+      "Junior Tech Stars",
+      "Code Nigeria Hackathon",
+      "Digital Youth Challenge"
+    ],
+    "answer": "National Girls in ICT Competition"
   },
   {
     "number": 20,
-    "question": "__________ and __________ are the two types of market:",
-    "options": ["Industrial and organizational oriented", "Consumer and organizational market", "Ijegun and industrial market", "Organizational and industrial market"],
-    "answer": "Consumer and organizational market"
-  },
-  {
-    "number": 21,
-    "question": "A function of packaging is to:",
-    "options": ["Improve product quality", "Reduce competition", "Protect the product", "Prevent adulteration"],
-    "answer": "Protect the product"
-  },
-  {
-    "number": 22,
-    "question": "Branding in marketing means:",
-    "options": ["Padding a product for sale", "Giving unique name to a product", "Using another company’s name", "Classifying products into groups"],
-    "answer": "Giving unique name to a product"
-  },
-  {
-    "number": 23,
-    "question": "Iron ore is classified as",
-    "options": ["Secondary product", "Semi-finished product", "Consumer product", "Primary product"],
-    "answer": "Primary product"
-  },
-  {
-    "number": 24,
-    "question": "Marketing is defined as:",
-    "options": ["Buying and selling to customers", "Selling and distribution to customers", "Meeting customer needs profitably", "Advertising and promotion to customers"],
-    "answer": "Meeting customer needs profitably"
-  },
-  {
-    "number": 25,
-    "question": "The first institution to introduce a degree programme in marketing in Nigeria is University of:",
-    "options": ["Ibadan", "Nigeria, Nsukka", "Lagos", "Jos"],
-    "answer": "Nigeria, Nsukka"
-  },
-  {
-    "number": 26,
-    "question": "A reduction in general personal income which leads to a change in company's pricing strategy is an element of the:",
-    "options": ["Competitive environment", "Political environment", "Economic environment", "Technological environment"],
-    "answer": "Economic environment"
-  },
-  {
-    "number": 27,
-    "question": "Marketers are involved in production process because",
-    "options": ["They also work in the factory floor", "Their ideas are developed into products", "They set product price", "They purchase raw materials for production"],
-    "answer": "Their ideas are developed into products"
-  },
-  {
-    "number": 28,
-    "question": "The differentiation of a firm’s product from other competing goods is",
-    "options": ["Packaging", "Labelling", "Coding", "Branding"],
-    "answer": "Branding"
-  },
-  {
-    "number": 29,
-    "question": "One of the influencing factors in an organization’s buying behaviour is",
-    "options": ["Taste", "Preference", "Company’s policy", "Company’s values"],
-    "answer": "Company’s values"
-  },
-  {
-    "number": 30,
-    "question": "Which of the following is not an example of institutional consumers?",
-    "options": ["Schools", "Hospitals", "Hotels", "Households"],
-    "answer": "Households"
-  },
-  {
-    "number": 31,
-    "question": "The systematic analysis of a problem with the aim of improving decision making on sales is marketing",
-    "options": ["Research", "Planning", "Concept", "Forecasting"],
-    "answer": "Research"
-  },
-  {
-    "number": 32,
-    "question": "In marketing research, data that is collected from the target market is",
-    "options": ["Secondary data", "Primary data", "Qualitative data", "Quantitative data"],
-    "answer": "Primary data"
-  },
-  {
-    "number": 33,
-    "question": "A source of primary data for marketing research is",
-    "options": ["Sales report", "Customer feedback", "Inventory report", "Marketing budget"],
-    "answer": "Customer feedback"
-  },
-  {
-    "number": 34,
-    "question": "Competitive price in marketing is arrived at by",
-    "options": ["Considering competitive demand for the product", "Adding mark up to the cost price", "Setting price in relation to competitors’ price", "Adding margin to the best price"],
-    "answer": "Setting price in relation to competitors’ price"
-  },
-  {
-    "number": 35,
-    "question": "The pricing strategy which involves the addition of a margin to the total amount spent on production by a company is",
-    "options": ["Psychological pricing", "Cost-plus pricing", "Competitive pricing", "Geographical pricing"],
-    "answer": "Cost-plus pricing"
-  },
-  {
-    "number": 36,
-    "question": "Which pricing strategy is adopted by a company that sells its product for ₦200 when the prevailing market price for same product is ₦150?",
-    "options": ["Skimming pricing", "Penetration pricing", "Psychological pricing", "Competitive pricing"],
-    "answer": "Skimming pricing"
-  },
-  {
-    "number": 37,
-    "question": "A place where the trading of goods takes place is called",
-    "options": ["Transaction", "Want", "Market", "Demand"],
-    "answer": "Market"
-  },
-  {
-    "number": 38,
-    "question": "The information obtained from carrying out marketing research is",
-    "options": ["Data", "Turnover", "Demand", "Market"],
-    "answer": "Data"
-  },
-  {
-    "number": 39,
-    "question": "An entrepreneur is primarily engaged in",
-    "options": ["Transportation", "Innovation", "Distribution", "Promotion"],
-    "answer": "Innovation"
-  },
-  {
-    "number": 40,
-    "question": "Which of the following factors is not a price determinant?",
-    "options": ["Cost of production", "Competitor’s price", "Level of demand", "Consumer’s culture"],
-    "answer": "Consumer’s culture"
-  },
-  {
-    "number": 41,
-    "question": "A distinction between advertising and publicity is that",
+    "question": "What is the nickname often used by students for the school?",
     "options": [
-      "Advertising is paid for while publicity is not",
-      "Publicity is more readily believed than advertising",
-      "Publicity is more thoroughly read than advertising",
-      "Advertising is usually done through an agency while publicity is not"
+      "SD Nation",
+      "Sunshine City",
+      "Dreamers' Den",
+      "SDIS"
     ],
-    "answer": "Advertising is paid for while publicity is not"
-  },
-  {
-    "number": 42,
-    "question": "Which of these means of advertising is an electronic medium?",
-    "options": ["Catalogue", "Television", "Magazine", "Newspaper"],
-    "answer": "Television"
-  },
-  {
-    "number": 43,
-    "question": "The stage in a product life circle where advertising is needed most is",
-    "options": ["Decline stage", "Maturity stage", "Growth stage", "Introduction stage"],
-    "answer": "Growth stage"
-  },
-  {
-    "number": 44,
-    "question": "A benefit the company would derive from advertising the product is",
-    "options": [
-      "Increase in competition",
-      "Increase in market share",
-      "Decrease in production cost",
-      "Decrease in tax liabilities"
-    ],
-    "answer": "Increase in market share"
-  },
-  {
-    "number": 45,
-    "question": "Advertising carried out at giving facts about a product is",
-    "options": [
-      "Competitive advertising",
-      "Persuasive advertising",
-      "Informative advertising",
-      "Direct advertising"
-    ],
-    "answer": "Informative advertising"
-  },
-  {
-    "number": 46,
-    "question": "Which of the following activities is not a function of advertising?",
-    "options": [
-      "Remind potential customers",
-      "Persuade potential customers",
-      "Interact with potential customers",
-      "Inform potential customers"
-    ],
-    "answer": "Interact with potential customers"
-  },
-  {
-    "number": 47,
-    "question": "A medium of advertising that has the advantage of mass audience is",
-    "options": ["Newspaper", "Billboard", "Radio", "Magazine"],
-    "answer": "Radio"
-  },
-  {
-    "number": 48,
-    "question": "An offer of free sample of goods is a form of",
-    "options": [
-      "Conditional sale",
-      "Tied buying",
-      "After-sales service",
-      "Sales promotion"
-    ],
-    "answer": "Sales promotion"
-  },
-  {
-    "number": 49,
-    "question": "A toothbrush attached to a toothpaste is an example of",
-    "options": [
-      "Premium offer",
-      "Price off",
-      "Loyalty scheme",
-      "Merchandising incentive"
-    ],
-    "answer": "Loyalty scheme"
-  },
-  {
-    "number": 50,
-    "question": "A short-term incentive used to encourage consumers to buy a product is",
-    "options": ["Advertising", "Public relations", "Sales promotion", "Publicity"],
-    "answer": "Sales promotion"
+    "answer": "SDIS"
   }
 ]
