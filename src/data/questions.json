@@ -2,112 +2,66 @@
   {
     "number": 1,
     "question": "Which of the following statements about asexual reproduction is correct?",
-    "options": {
-      "a": "always involves one parent but the offspring are genetically different from the parent",
-      "b": "may involve two parents but the offspring is always identical to one parent.",
-      "c": "always involves one parent and the offspring are identical to the parent",
-      "d": "involves two parents but the offspring is not genetically identical to any of the parents."
-    },
-    "answer": "c"
+    "options": [
+      "always involves one parent but the offspring are genetically different from the parent",
+      "may involve two parents but the offspring is always identical to one parent.",
+      "always involves one parent and the offspring are identical to the parent",
+      "involves two parents but the offspring is not genetically identical to any of the parents."
+    ],
+    "answer": "always involves one parent and the offspring are identical to the parent"
   },
   {
     "number": 2,
     "question": "A group of closely related organisms capable of interbreeding to produce fertile offspring are known as members of a",
-    "options": {
-      "a": "kingdom",
-      "b": "class",
-      "c": "family",
-      "d": "specie"
-    },
-    "answer": "d"
+    "options": ["kingdom", "class", "family", "specie"],
+    "answer": "specie"
   },
   {
     "number": 3,
     "question": "Which of the following conditions in flowering plants enhances self-pollination?",
-    "options": {
-      "a": "cleistogamy",
-      "b": "heterostyly",
-      "c": "protandry",
-      "d": "protogyny"
-    },
-    "answer": "c"
+    "options": ["cleistogamy", "heterostyly", "protandry", "protogyny"],
+    "answer": "protandry"
   },
   {
     "number": 4,
     "question": "The natural dwelling place of an organism is called",
-    "options": {
-      "a": "ecological niche",
-      "b": "habitat",
-      "c": "population",
-      "d": "environment"
-    },
-    "answer": "b"
+    "options": ["ecological niche", "habitat", "population", "environment"],
+    "answer": "habitat"
   },
   {
     "number": 5,
     "question": "Movement of water across a semi-permeable membrane from a weaker solution to a stronger solution is known as",
-    "options": {
-      "a": "transpiration",
-      "b": "diffusion",
-      "c": "active transport",
-      "d": "osmosis"
-    },
-    "answer": "d"
+    "options": ["transpiration", "diffusion", "active transport", "osmosis"],
+    "answer": "osmosis"
   },
   {
     "number": 6,
     "question": "Which of the following is an abiotic factor which affects a population?",
-    "options": {
-      "a": "Temperature",
-      "b": "Producer",
-      "c": "Consumer",
-      "d": "Parasite"
-    },
-    "answer": "a"
+    "options": ["Temperature", "Producer", "Consumer", "Parasite"],
+    "answer": "Temperature"
   },
   {
     "number": 7,
     "question": "An inferior ovary of a flower is situated",
-    "options": {
-      "a": "below the floral parts",
-      "b": "above the floral parts",
-      "c": "at the same level with the floral parts",
-      "d": "at the centre of the floral parts"
-    },
-    "answer": "a"
+    "options": ["below the floral parts", "above the floral parts", "at the same level with the floral parts", "at the centre of the floral parts"],
+    "answer": "below the floral parts"
   },
   {
     "number": 8,
     "question": "Conservation may be promoted by",
-    "options": {
-      "a": "encouraging tree plants",
-      "b": "deforestation",
-      "c": "overgrazing",
-      "d": "bush burning"
-    },
-    "answer": "a"
+    "options": ["encouraging tree plants", "deforestation", "overgrazing", "bush burning"],
+    "answer": "encouraging tree plants"
   },
   {
     "number": 9,
-    "question": "Which of the following is a biotic component of an ecosystem?",
-    "options": {
-      "a": "Soil",
-      "b": "Rainfall",
-      "c": "Light",
-      "d": "Fungi"
-    },
-    "answer": "d"
+    "question": "Which of the following is a biotic components of an ecosystem?",
+    "options": ["Soil", "Rainfall", "Light", "Fungi"],
+    "answer": "Fungi"
   },
   {
     "number": 10,
-    "question": "The process by which plants manufacture their food from carbondioxide and water using energy from the sun is called",
-    "options": {
-      "a": "chemosynthesis",
-      "b": "photosynthesis",
-      "c": "anabolism",
-      "d": "catabolism"
-    },
-    "answer": "b"
+    "question": "The process by which plants manufacture their food from carbon dioxide and water using energy from the sun is called",
+    "options": ["chemosynthesis", "photosynthesis", "anabolism", "catabolism"],
+    "answer": "photosynthesis"
   }
-
- ]
+]
