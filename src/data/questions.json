@@ -1,442 +1,332 @@
 [
   {
     "number": 1,
-    "question": "Which of the following statements about asexual reproduction is correct?",
-    "options": [
-      "always involves one parent but the offspring are genetically different from the parent",
-      "may involve two parents but the offspring is always identical to one parent.",
-      "always involves one parent and the offspring are identical to the parent",
-      "involves two parents but the offspring is not genetically identical to any of the parents."
-    ],
-    "answer": "always involves one parent and the offspring are identical to the parent"
+    "question": "Anything that can be offered to the market for attention, acquisition, use or consumption is called",
+    "options": ["Product", "Asset", "Market", "Advertising"],
+    "answer": "Product"
   },
   {
     "number": 2,
-    "question": "A group of closely related organisms capable of interbreeding to produce fertile offspring are known as members of a",
-    "options": ["kingdom", "class", "family", "specie"],
-    "answer": "specie"
+    "question": "The industrial products include the following, except",
+    "options": ["Installations", "Raw materials", "Accessory equipment", "Unsorted products"],
+    "answer": "Unsorted products"
   },
   {
     "number": 3,
-    "question": "Which of the following conditions in flowering plants enhances self-pollination?",
-    "options": ["cleistogamy", "heterostyly", "protandry", "protogyny"],
-    "answer": "protandry"
+    "question": "The act of buying a product at a spot without previous knowledge of it, is known as",
+    "options": ["Emergency buying", "Shopping", "Impulse buying", "Special buying"],
+    "answer": "Impulse buying"
   },
   {
     "number": 4,
-    "question": "The natural dwelling place of an organism is called",
-    "options": ["ecological niche", "habitat", "population", "environment"],
-    "answer": "habitat"
+    "question": "A philosophy which sees the consumer as the central focus of all organizational activities",
+    "options": ["Product concept", "Consumer concept", "Marketing concept", "Selling concept"],
+    "answer": "Marketing concept"
   },
   {
     "number": 5,
-    "question": "Movement of water across a semi-permeable membrane from a weaker solution to a stronger solution is known as",
-    "options": ["transpiration", "diffusion", "active transport", "osmosis"],
-    "answer": "osmosis"
+    "question": "Which of the following is not a component of marketing mix?",
+    "options": ["Price", "Product", "Profit", "Promotion"],
+    "answer": "Profit"
   },
   {
     "number": 6,
-    "question": "Which of the following is an abiotic factor which affects a population?",
-    "options": ["Temperature", "Producer", "Consumer", "Parasite"],
-    "answer": "Temperature"
+    "question": "Establishing and maintaining mutual understanding between an organization and its customers is known as",
+    "options": ["Marketing concept", "Advertising", "Public relations", "Sales promotion"],
+    "answer": "Public relations"
   },
   {
     "number": 7,
-    "question": "An inferior ovary of a flower is situated",
-    "options": ["below the floral parts", "above the floral parts", "at the same level with the floral parts", "at the centre of the floral parts"],
-    "answer": "below the floral parts"
+    "question": "Want backed by the ability to pay is called",
+    "options": ["Exchange", "Transaction", "Demand", "Needs"],
+    "answer": "Demand"
   },
   {
     "number": 8,
-    "question": "Conservation may be promoted by",
-    "options": ["encouraging tree plants", "deforestation", "overgrazing", "bush burning"],
-    "answer": "encouraging tree plants"
+    "question": "Communicating the benefit of a particular product to a customer is known as",
+    "options": ["Advertising", "Physical distribution", "Sales promotion", "Market research"],
+    "answer": "Advertising"
   },
   {
     "number": 9,
-    "question": "Which of the following is a biotic components of an ecosystem?",
-    "options": ["Soil", "Rainfall", "Light", "Fungi"],
-    "answer": "Fungi"
+    "question": "Promotion comprises the following except",
+    "options": ["Market research", "Personal selling", "Sales promotion", "Advertising"],
+    "answer": "Market research"
   },
   {
     "number": 10,
-    "question": "The process by which plants manufacture their food from carbon dioxide and water using energy from the sun is called",
-    "options": ["chemosynthesis", "photosynthesis", "anabolism", "catabolism"],
-    "answer": "photosynthesis"
+    "question": "Intangible products can also be called",
+    "options": ["Services", "Materials", "Viable products", "Accessory equipments"],
+    "answer": "Services"
   },
   {
     "number": 11,
-    "question": "Rhizobium which lives in the root nodules of leguminous plants is an example of association known as",
-    "options": ["commensalism", "epiphytism", "mutualism", "saprophytism"],
-    "answer": "mutualism"
+    "question": "Understanding of human needs is the core concept of",
+    "options": ["Demand", "Marketing", "Selling", "Supply"],
+    "answer": "Marketing"
   },
   {
     "number": 12,
-    "question": "Ecology simply means the study of",
-    "options": [
-      "the properties of a habitat",
-      "inter-relationship between organisms and their environment",
-      "several species of plants and animals",
-      "inter-relationship between plants and animals"
-    ],
-    "answer": "inter-relationship between organisms and their environment"
+    "question": "The closest channel member to the consumer is",
+    "options": ["Retailer", "Wholesaler", "Agent", "Producer"],
+    "answer": "Retailer"
   },
   {
     "number": 13,
-    "question": "A population is best described as",
-    "options": [
-      "a group of organism of the same species living together",
-      "a group of animals and plants living together",
-      "a group of insects and grasses",
-      "different species of wild animals"
-    ],
-    "answer": "a group of organism of the same species living together"
+    "question": "The amount deducted from a regular price of a product to ensure continual patronage from customers is regarded as",
+    "options": ["Bonus", "Commission", "Discount", "Credit"],
+    "answer": "Discount"
   },
   {
     "number": 14,
-    "question": "Which of the following instruments is not used in measuring abiotic factors in a habitat",
-    "options": ["wind vane", "thermometer", "microscope", "hygrometer"],
-    "answer": "microscope"
+    "question": "The path through which goods move from the producer to the consumer is called channel of",
+    "options": ["Consumption", "Distribution", "Marketing", "Production"],
+    "answer": "Distribution"
   },
   {
     "number": 15,
-    "question": "The term syncarpous is used to described a flower when the carpels are",
-    "options": [
-      "many and fused",
-      "two only",
-      "two and nectar",
-      "lying at different parts of a flower"
-    ],
-    "answer": "many and fused"
+    "question": "Which of the following is not a stage in the product life cycle?",
+    "options": ["Growth stage", "Decline stage", "Market analysis", "Introduction stage"],
+    "answer": "Market analysis"
   },
   {
     "number": 16,
-    "question": "Which of the following structures are characteristics of insect pollinated flowers?",
-    "options": [
-      "Dull coloured flowers with no nectar",
-      "Very light, numerous and peridulous stamen",
-      "Brightly coloured petals, scent and nectar",
-      "Flowers are usually small and inconspicuous"
-    ],
-    "answer": "Brightly coloured petals, scent and nectar"
+    "question": "An example of non-durable goods is",
+    "options": ["Shoe", "Bread", "Television", "Refrigerator"],
+    "answer": "Bread"
   },
   {
     "number": 17,
-    "question": "Which of the following is an advantage of dispersal of fruits and seeds? It allows",
-    "options": [
-      "fair distribution of source of food for animals",
-      "growth in close association with parent plant",
-      "even distribution of plants and reduction of intra specific competition",
-      "the seeds to evolve new species"
-    ],
-    "answer": "even distribution of plants and reduction of intra specific competition"
+    "question": "The stage in the consumer buying decision process where the consumer assesses different products on the basis of what he has learnt is",
+    "options": ["Alternative evaluation", "Alternative search", "Need recognition stage", "Purchase decision"],
+    "answer": "Alternative evaluation"
   },
   {
     "number": 18,
-    "question": "The series of changes that occur in a seed by which the embryo develops into a seedling is known as",
-    "options": ["fertilizer", "gametogenesis", "pollination", "germination"],
-    "answer": "germination"
+    "question": "An activity or process undertaken by a company to acquire raw material is",
+    "options": ["Consumer buying behaviour", "Marketing intelligence", "Organizational buying behavior", "Marketing research"],
+    "answer": "Organizational buying behavior"
   },
   {
     "number": 19,
-    "question": "An association between two organisms in which both benefit is called",
-    "options": ["parasitism", "commensalism", "symbiosis", "predation"],
-    "answer": "symbiosis"
+    "question": "One of these is a consumer product:",
+    "options": ["Raw materials", "Convenience product", "Accessory equipment", "Installations"],
+    "answer": "Convenience product"
   },
   {
     "number": 20,
-    "question": "Which of the following pairs consists of gametes?",
-    "options": [
-      "Ova and spermatozoan",
-      "Spores and sporangium",
-      "Flowers and pollen grains",
-      "Testes and ovaries"
-    ],
-    "answer": "Ova and spermatozoan"
+    "question": "__________ and __________ are the two types of market:",
+    "options": ["Industrial and organizational oriented", "Consumer and organizational market", "Ijegun and industrial market", "Organizational and industrial market"],
+    "answer": "Consumer and organizational market"
   },
   {
     "number": 21,
-    "question": "Which of these groups of organisms is responsible for capturing energy for the biotic community?",
-    "options": ["Decomposers", "Omnivore", "Consumers", "Producers"],
-    "answer": "Producers"
+    "question": "A function of packaging is to:",
+    "options": ["Improve product quality", "Reduce competition", "Protect the product", "Prevent adulteration"],
+    "answer": "Protect the product"
   },
   {
     "number": 22,
-    "question": "Which of these is not true characteristics of the tropical rain forest?",
-    "options": [
-      "Vegetation consists predominantly of tall trees with thick canopy",
-      "Forest is rich in epiphytes and climbers",
-      "Annual rainfall is less than 100cm",
-      "Fruits of trees are often large sized and are generally without adaptation to wind dispersal"
-    ],
-    "answer": "Annual rainfall is less than 100cm"
+    "question": "Branding in marketing means:",
+    "options": ["Padding a product for sale", "Giving unique name to a product", "Using another company’s name", "Classifying products into groups"],
+    "answer": "Giving unique name to a product"
   },
   {
     "number": 23,
-    "question": "Which of the following is not a way of conserving natural resources?",
-    "options": [
-      "Adopting good farming practices",
-      "Establishing forest reserves",
-      "Establishing game reserves",
-      "Encouraging poaching"
-    ],
-    "answer": "Encouraging poaching"
+    "question": "Iron ore is classified as",
+    "options": ["Secondary product", "Semi-finished product", "Consumer product", "Primary product"],
+    "answer": "Primary product"
   },
   {
     "number": 24,
-    "question": "The transfer of pollen grains from the anther to the stigma of the same flower is known as",
-    "options": ["fertilization", "self pollination", "reproduction", "conjugation"],
-    "answer": "self pollination"
+    "question": "Marketing is defined as:",
+    "options": ["Buying and selling to customers", "Selling and distribution to customers", "Meeting customer needs profitably", "Advertising and promotion to customers"],
+    "answer": "Meeting customer needs profitably"
   },
   {
     "number": 25,
-    "question": "Respiration is an essential life process providing the living cells with",
-    "options": ["carbondioxide", "energy", "sugars", "glycogen"],
-    "answer": "energy"
+    "question": "The first institution to introduce a degree programme in marketing in Nigeria is University of:",
+    "options": ["Ibadan", "Nigeria, Nsukka", "Lagos", "Jos"],
+    "answer": "Nigeria, Nsukka"
   },
   {
     "number": 26,
-    "question": "A major pollutant around airport residential areas is",
-    "options": ["oil spillage", "soot", "noise", "dust"],
-    "answer": "noise"
+    "question": "A reduction in general personal income which leads to a change in company's pricing strategy is an element of the:",
+    "options": ["Competitive environment", "Political environment", "Economic environment", "Technological environment"],
+    "answer": "Economic environment"
   },
   {
     "number": 27,
-    "question": "The feeding relationship between the organisms labelled III and IV is",
-    "options": ["parasitism", "mutualism", "predation", "saprophytism"],
-    "answer": "predation"
+    "question": "Marketers are involved in production process because",
+    "options": ["They also work in the factory floor", "Their ideas are developed into products", "They set product price", "They purchase raw materials for production"],
+    "answer": "Their ideas are developed into products"
   },
   {
     "number": 28,
-    "question": "The producer is",
-    "options": [
-      "I because it contains the least amount of energy",
-      "I because it uses sunlight to manufacture food",
-      "IV because it is the largest organism in the diagram",
-      "IV because it is the organism that receives the highest amount of sunlight"
-    ],
-    "answer": "I because it uses sunlight to manufacture food"
+    "question": "The differentiation of a firm’s product from other competing goods is",
+    "options": ["Packaging", "Labelling", "Coding", "Branding"],
+    "answer": "Branding"
   },
   {
     "number": 29,
-    "question": "Which of the following is not part of the male reproductive system?",
-    "options": ["Penis", "Testes", "Uterus", "Prostate gland"],
-    "answer": "Uterus"
+    "question": "One of the influencing factors in an organization’s buying behaviour is",
+    "options": ["Taste", "Preference", "Company’s policy", "Company’s values"],
+    "answer": "Company’s values"
   },
   {
     "number": 30,
-    "question": "About how long does the menstrual cycle takes?",
-    "options": ["5days", "25days", "14days", "28days"],
-    "answer": "28days"
+    "question": "Which of the following is not an example of institutional consumers?",
+    "options": ["Schools", "Hospitals", "Hotels", "Households"],
+    "answer": "Households"
   },
   {
     "number": 31,
-    "question": "What is a zygote?",
-    "options": [
-      "A cell formed when two embryos join which will develop into a gamete",
-      "A cell formed when two gametes join which will develop into a gland",
-      "A cell formed when two gametes join which will develop into an embryo",
-      "A cell formed when two gland meet to produce an hormone"
-    ],
-    "answer": "A cell formed when two gametes join which will develop into an embryo"
+    "question": "The systematic analysis of a problem with the aim of improving decision making on sales is marketing",
+    "options": ["Research", "Planning", "Concept", "Forecasting"],
+    "answer": "Research"
   },
   {
     "number": 32,
-    "question": "Ovulation is best defined as",
-    "options": [
-      "the release of mature egg cell",
-      "the loss of the endometrium lining of the uterus",
-      "the joining of a sperm and an egg",
-      "the cell passing through the fallopian tube"
-    ],
-    "answer": "the release of mature egg cell"
+    "question": "In marketing research, data that is collected from the target market is",
+    "options": ["Secondary data", "Primary data", "Qualitative data", "Quantitative data"],
+    "answer": "Primary data"
   },
   {
     "number": 33,
-    "question": "Which hormone is responsible for the development of male secondary sexual characteristics?",
-    "options": [
-      "Luitenizing hormone",
-      "oestrogen",
-      "progesterone",
-      "testosterone"
-    ],
-    "answer": "testosterone"
+    "question": "A source of primary data for marketing research is",
+    "options": ["Sales report", "Customer feedback", "Inventory report", "Marketing budget"],
+    "answer": "Customer feedback"
   },
   {
     "number": 34,
-    "question": "In reproduction, what is fertilization?",
-    "options": [
-      "When a male and female gamete join",
-      "When a farmer puts manure on farmland",
-      "When a plant drop seeds onto the ground",
-      "The ripening of egg cell"
-    ],
-    "answer": "When a male and female gamete join"
+    "question": "Competitive price in marketing is arrived at by",
+    "options": ["Considering competitive demand for the product", "Adding mark up to the cost price", "Setting price in relation to competitors’ price", "Adding margin to the best price"],
+    "answer": "Setting price in relation to competitors’ price"
   },
   {
     "number": 35,
-    "question": "Which statement about flowering plants is correct?",
-    "options": [
-      "The stamen is the female part of the flower and comprises the filament and anther",
-      "The stamen is the male part of the flower and comprises the filament and anther",
-      "The carpel is the female part of the flower and comprises the ovary and filament",
-      "The stamen consists of pistil and anther"
-    ],
-    "answer": "The stamen is the male part of the flower and comprises the filament and anther"
+    "question": "The pricing strategy which involves the addition of a margin to the total amount spent on production by a company is",
+    "options": ["Psychological pricing", "Cost-plus pricing", "Competitive pricing", "Geographical pricing"],
+    "answer": "Cost-plus pricing"
   },
   {
     "number": 36,
-    "question": "How are the pollen grains of insect pollinated plants adapted for transfer?",
-    "options": [
-      "They are smooth and light",
-      "They are produced in very large amounts",
-      "They are sticky and brightly coloured",
-      "Flowers have no scent, no nectar"
-    ],
-    "answer": "They are sticky and brightly coloured"
+    "question": "Which pricing strategy is adopted by a company that sells its product for ₦200 when the prevailing market price for same product is ₦150?",
+    "options": ["Skimming pricing", "Penetration pricing", "Psychological pricing", "Competitive pricing"],
+    "answer": "Skimming pricing"
   },
   {
     "number": 37,
-    "question": "The transfer of pollen grain from the anther to the stigma of a flower to another of the same species is known as",
-    "options": [
-      "self pollination",
-      "cross pollination",
-      "germination",
-      "fertilization"
-    ],
-    "answer": "cross pollination"
+    "question": "A place where the trading of goods takes place is called",
+    "options": ["Transaction", "Want", "Market", "Demand"],
+    "answer": "Market"
   },
   {
     "number": 38,
-    "question": "The arrangement of the ovules in the ovary is known as",
-    "options": ["syncarpous", "pollination", "marginal", "placentation"],
-    "answer": "placentation"
+    "question": "The information obtained from carrying out marketing research is",
+    "options": ["Data", "Turnover", "Demand", "Market"],
+    "answer": "Data"
   },
   {
     "number": 39,
-    "question": "When a flower contains both pistil and stamen it is referred to as",
-    "options": [
-      "complete flower",
-      "incomplete flower",
-      "hermaphrodite flower",
-      "imperfect flower"
-    ],
-    "answer": "complete flower"
+    "question": "An entrepreneur is primarily engaged in",
+    "options": ["Transportation", "Innovation", "Distribution", "Promotion"],
+    "answer": "Innovation"
   },
   {
     "number": 40,
-    "question": "The type of reproduction in which eggs are released from the female parents body to hatch and develop in external environment is termed",
-    "options": ["viviparity", "oviparity", "ovoviviparity", "desiccation"],
-    "answer": "oviparity"
+    "question": "Which of the following factors is not a price determinant?",
+    "options": ["Cost of production", "Competitor’s price", "Level of demand", "Consumer’s culture"],
+    "answer": "Consumer’s culture"
   },
   {
     "number": 41,
-    "question": "An effective management of natural resources to ensure their continuous yield from generation to generation may involve all the following except",
+    "question": "A distinction between advertising and publicity is that",
     "options": [
-      "protection of wildlife",
-      "prevention of habitat destruction",
-      "biological control of pests",
-      "disposal of raw sewage into the sea"
+      "Advertising is paid for while publicity is not",
+      "Publicity is more readily believed than advertising",
+      "Publicity is more thoroughly read than advertising",
+      "Advertising is usually done through an agency while publicity is not"
     ],
-    "answer": "disposal of raw sewage into the sea"
+    "answer": "Advertising is paid for while publicity is not"
   },
   {
     "number": 42,
-    "question": "The type of asexual reproduction in which part of an organism breaks up to give rise to a new individual is known as",
-    "options": [
-      "spore formation",
-      "budding",
-      "fragmentation",
-      "vegetative propagation"
-    ],
-    "answer": "fragmentation"
+    "question": "Which of these means of advertising is an electronic medium?",
+    "options": ["Catalogue", "Television", "Magazine", "Newspaper"],
+    "answer": "Television"
   },
   {
     "number": 43,
-    "question": "The drugs which inhibit the growth of disease-causing organisms and thus used in the treatment of infections are referred to as",
-    "options": [
-      "antibodies",
-      "antibiotics",
-      "anti-toxics",
-      "septics"
-    ],
-    "answer": "antibiotics"
+    "question": "The stage in a product life circle where advertising is needed most is",
+    "options": ["Decline stage", "Maturity stage", "Growth stage", "Introduction stage"],
+    "answer": "Growth stage"
   },
   {
     "number": 44,
-    "question": "Organisms that feed essentially on plants within an ecosystem may be referred to as",
+    "question": "A benefit the company would derive from advertising the product is",
     "options": [
-      "carnivores",
-      "herbivores",
-      "saprophytes",
-      "omnivores"
+      "Increase in competition",
+      "Increase in market share",
+      "Decrease in production cost",
+      "Decrease in tax liabilities"
     ],
-    "answer": "herbivores"
+    "answer": "Increase in market share"
   },
   {
     "number": 45,
-    "question": "Endangered species are organisms that ought to be",
+    "question": "Advertising carried out at giving facts about a product is",
     "options": [
-      "hunted",
-      "killed",
-      "poached",
-      "protected"
+      "Competitive advertising",
+      "Persuasive advertising",
+      "Informative advertising",
+      "Direct advertising"
     ],
-    "answer": "protected"
+    "answer": "Informative advertising"
   },
   {
     "number": 46,
-    "question": "Which of the following substances is not a conservable natural resource?",
+    "question": "Which of the following activities is not a function of advertising?",
     "options": [
-      "Mineral",
-      "Soil",
-      "Water",
-      "Air"
+      "Remind potential customers",
+      "Persuade potential customers",
+      "Interact with potential customers",
+      "Inform potential customers"
     ],
-    "answer": "Air"
+    "answer": "Interact with potential customers"
   },
   {
     "number": 47,
-    "question": "Which of the following male reproductive organs help in the production of sperm?",
-    "options": [
-      "Vas deferens",
-      "Epididymis",
-      "Prepuce",
-      "Seminiferous tubules"
-    ],
-    "answer": "Seminiferous tubules"
+    "question": "A medium of advertising that has the advantage of mass audience is",
+    "options": ["Newspaper", "Billboard", "Radio", "Magazine"],
+    "answer": "Radio"
   },
   {
     "number": 48,
-    "question": "Which of the following female reproductive system represents a penis and erectile in nature?",
+    "question": "An offer of free sample of goods is a form of",
     "options": [
-      "Cervix",
-      "Fallopian tube",
-      "Clitoris",
-      "Uterus"
+      "Conditional sale",
+      "Tied buying",
+      "After-sales service",
+      "Sales promotion"
     ],
-    "answer": "Clitoris"
+    "answer": "Sales promotion"
   },
   {
     "number": 49,
-    "question": "Sperm is stored in the",
+    "question": "A toothbrush attached to a toothpaste is an example of",
     "options": [
-      "prostrate gland",
-      "seminiferous tubule",
-      "testes",
-      "epididymis"
+      "Premium offer",
+      "Price off",
+      "Loyalty scheme",
+      "Merchandising incentive"
     ],
-    "answer": "epididymis"
+    "answer": "Loyalty scheme"
   },
   {
     "number": 50,
-    "question": "The male sexual reproductive organ in flowering plant is",
-    "options": [
-      "corolla",
-      "sepal",
-      "gynoecium",
-      "androecium"
-    ],
-    "answer": "androecium"
+    "question": "A short-term incentive used to encourage consumers to buy a product is",
+    "options": ["Advertising", "Public relations", "Sales promotion", "Publicity"],
+    "answer": "Sales promotion"
   }
 ]

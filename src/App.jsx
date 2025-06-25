@@ -207,7 +207,7 @@ if (!hasStarted) {
     )}
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
       {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
-      {showScore ? studentName : "BIOLOGY - YEAR 11"}
+      {showScore ? studentName : "MARKETING - YEAR 10"}
       </h3>
 
       
