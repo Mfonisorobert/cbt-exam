@@ -1,307 +1,270 @@
 [
   {
-    "question": "_______are produced by reptiles and birds.",
-    "options": ["leather", "milk", "fish", "egg"],
-    "answer": "leather"
+    "question": "Which of the following does not affect food customs?",
+    "options": ["Superstitions", "Sexuality", "Religion", "Social activities"],
+    "answer": "Sexuality"
   },
   {
-    "question": "Which of the following is one of the importance of clean hands to food handlers?",
+    "question": "Good table manners involve",
+    "options": ["Eating all food", "Eating slowly and quietly", "Lifting food to the mouth", "Talking with food in the mouth"],
+    "answer": "Eating slowly and quietly"
+  },
+  {
+    "question": "Which of these fruits cannot be used to prepare fruit salad?",
+    "options": ["Mango", "Pawpaw", "Guava", "Pineapple"],
+    "answer": "Guava"
+  },
+  {
+    "question": "Which of these cereals are not grown in Nigeria?",
+    "options": ["Maize", "Rice", "Oats and rye", "Wheat"],
+    "answer": "Oats and rye"
+  },
+  {
+    "question": "Which method of cooking is not applicable to eggs?",
+    "options": ["Boiling", "Frying", "Grilling", "Poaching"],
+    "answer": "Grilling"
+  },
+  {
+    "question": "The last group in the chain of production and distribution of goods and services is__________",
+    "options": ["Consumer", "Manufacturers", "Retailer", "Wholesalers"],
+    "answer": "Consumer"
+  },
+  {
+    "question": "Buying food just out of sight and not out of need is termed _______",
+    "options": ["Bulk buying", "Creative buying", "Impulse buying", "Exchange buying"],
+    "answer": "Impulse buying"
+  },
+  {
+    "question": "Food storage refers to the keeping of food so as to:",
+    "options": ["Increase bulk", "Make it attractive", "Make it clean", "Readily make available for ultimate use"],
+    "answer": "Readily make available for ultimate use"
+  },
+  {
+    "question": "Which is not a foreign dish?",
+    "options": ["Beef Stroganoff", "Samosa", "Pizza", "Akara"],
+    "answer": "Akara"
+  },
+  {
+    "question": "In the absence of an electric mixer, the small piece of equipment used to stir ingredients is called ______",
+    "options": ["Scraper", "Spatula", "Wire whisk", "Wooden spoon"],
+    "answer": "Spatula"
+  },
+  {
+    "question": "Liver, kidney and tripe are collectively called_____",
+    "options": ["Meat", "Trotters", "Beef", "Offals"],
+    "answer": "Offals"
+  },
+  {
+    "question": "To avoid food poisoning, all equipment and utensils after use should be",
+    "options": ["Soaked in hot detergent", "Boiled with heated water", "Washed and rinsed with clean water"],
+    "answer": "Washed and rinsed with clean water"
+  },
+  {
+    "question": "Kitchen dustbin should be ______",
+    "options": ["Big and spacious", "Close to the kitchen", "Covered and must regularly be emptied"],
+    "answer": "Covered and must regularly be emptied"
+  },
+  {
+    "question": "Orange juice is a good source of ______",
+    "options": ["Vitamin B", "Vitamin D", "Vitamin A", "Vitamin C"],
+    "answer": "Vitamin C"
+  },
+  {
+    "question": "Rechauffe foods are _____",
+    "options": ["Fried foods", "Boiled foods", "Reheated foods", "Packed foods"],
+    "answer": "Reheated foods"
+  },
+  {
+    "question": "_____are the types of table service.",
+    "options": ["Moral and Immoral", "Native and local", "Formal and informal", "International and local"],
+    "answer": "Formal and informal"
+  },
+  {
+    "question": "To eliminate fatigue in the kitchen equipment should be located ____",
+    "options": ["Above the home maker", "Within easy reach", "Tightly close", "Below the home maker"],
+    "answer": "Within easy reach"
+  },
+  {
+    "question": "Cereals are cheap sources of ____",
+    "options": ["Protein", "Carbohydrates", "Fats", "Vitamins"],
+    "answer": "Carbohydrates"
+  },
+  {
+    "question": "_____ is the only type of formal service.",
+    "options": ["Country style", "Friendship style", "Continental style", "Party style"],
+    "answer": "Continental style"
+  },
+  {
+    "question": "Dehydration in preservation is synonymous with",
+    "options": ["Freezing", "Hanging", "Drying", "Grilling"],
+    "answer": "Drying"
+  },
+  {
+    "question": "Bulk buying when planned and executed is _____",
+    "options": ["Extravagant", "Economical", "Expensive", "Excessive"],
+    "answer": "Economical"
+  },
+  {
+    "question": "A party where people stand and eat is _____",
+    "options": ["Buffet party", "All night party", "Cocktail party", "Drinks party"],
+    "answer": "Cocktail party"
+  },
+  {
+    "question": "Which of the following is used for wiping dishes?",
+    "options": ["Dinner cloth", "Face towel", "Tea towel", "Table towel"],
+    "answer": "Table towel"
+  },
+  {
+    "question": "Apart from the conventional yeast, identify another local substance in bread making.",
+    "options": ["Milk", "Orange juice", "Salt", "Palmwine"],
+    "answer": "Palmwine"
+  },
+  {
+    "question": "All the following are portion control equipment except",
+    "options": ["Scoops", "Ladles", "Plates", "Measuring cups"],
+    "answer": "Ladles"
+  },
+  {
+    "question": "To prevent dehydration of a fever patient, give them _____",
+    "options": ["A fluid diets", "Vegetables only", "Hot pepper soup", "A one course diet"],
+    "answer": "A fluid diets"
+  },
+  {
+    "question": "Which of the following saves the family feeding money?",
+    "options": ["Backyard gardening", "Paying for food by installment", "Buying on impulse", "Eating once a day"],
+    "answer": "Backyard gardening"
+  },
+  {
+    "question": "Poor ventilation in the kitchen can result in",
+    "options": ["Storage problems", "Hot and stuffy atmosphere", "Dark environment", "Unhygienic environment"],
+    "answer": "Hot and stuffy atmosphere"
+  },
+  {
+    "question": "Adulterated food _____",
+    "options": ["Is always wrongly labelled", "Is filthy, putrid, or decomposed", "Smells sweetly", "Is easily digested"],
+    "answer": "Is filthy, putrid, or decomposed"
+  },
+  {
+    "question": "The least cold place for storage in the refrigerator is the _____",
+    "options": ["Interior of the cabinet", "Salad drawer", "Interior of the door", "Frozen food compactment"],
+    "answer": "Interior of the door"
+  },
+  {
+    "question": "Which of the following principles involves complete removal of moisture preservation?",
+    "options": ["Freezing", "Dehydration", "Jam making", "Pickling"],
+    "answer": "Dehydration"
+  },
+  {
+    "question": "The most appropriate small piece of equipment to use when beating egg is",
+    "options": ["Beater", "Fork", "Slice", "Whisk"],
+    "answer": "Whisk"
+  },
+  {
+    "question": "The first step in organizing a celebration where guest will be invited is ____",
+    "options": ["Cooking the food", "Counting the plates", "Planning the party", "Calling the guests on the phone"],
+    "answer": "Planning the party"
+  },
+  {
+    "question": "When a consumer has the right to return an article with complaints, this is referred to as:",
+    "options": ["Cop-sumer law", "Warrantee", "Opportunity", "Guarantee"],
+    "answer": "Warrantee"
+  },
+  {
+    "question": "Food should be labeled before storing to ____",
+    "options": ["Identify them easily", "Facilitate easy storage", "Keep them free from moulds", "Keep them for longer use"],
+    "answer": "Identify them easily"
+  },
+  {
+    "question": "Mineral salts and proteins are types of _____",
+    "options": ["Carbohydrates", "Nutrients", "Food", "Nutrition"],
+    "answer": "Nutrients"
+  },
+  {
+    "question": "The energy value of food can be measured in _____",
+    "options": ["Kilograms", "Centimeters", "Litres", "Calories"],
+    "answer": "Calories"
+  },
+  {
+    "question": "A person who studied food and nutrition can be employed in an educational system as a ___",
+    "options": ["Nurse", "Dietician", "Teacher", "Waiter"],
+    "answer": "Teacher"
+  },
+  {
+    "question": "A child suffering from bleeding gum should be given _____",
+    "options": ["Meat", "Oranges", "Maize", "Rice"],
+    "answer": "Oranges"
+  },
+  {
+    "question": "A child with poor bone formation needs _____",
+    "options": ["Sodium", "Iron", "Potassium", "Calcium"],
+    "answer": "Calcium"
+  },
+  {
+    "question": "_____ is one of the things to observe when serving food.",
     "options": [
-      "It attracts people",
-      "It promotes accuracy and efficiency",
-      "It stimulates appetites",
-      "It prevent the contamination of the food"
+      "Do not lift from the table when refilling glasses",
+      "Touch your hair repeatedly",
+      "Use dirty tray",
+      "Pick dirt from your nose while at it"
     ],
-    "answer": "It prevent the contamination of the food"
+    "answer": "Do not lift from the table when refilling glasses"
   },
   {
-    "question": "Which of the following is used to test the presence starch in food?",
+    "question": "_____ is one of the points to bear in mind when sending out invitation cards.",
     "options": [
-      "Million’s reagent",
-      "Iodine solution",
-      "Fehling solution",
-      "Benedict solution"
+      "Response is obligatory if requested and should be prompt.",
+      "Send it carelessly",
+      "Be ready to insult anyone who doesn’t respond",
+      "The invitation should not carry the date"
     ],
-    "answer": "Iodine solution"
+    "answer": "Response is obligatory if requested and should be prompt."
   },
   {
-    "question": "------- are spherical in shape with one end pointed and the other end blunt",
-    "options": ["egg", "beef", "chicken", "snails"],
-    "answer": "egg"
-  },
-  {
-    "question": "The enzyme that initiates the breakdown of carbohydrates in the mouth is",
-    "options": ["trypsin", "ptyalin", "pepsin", "amylase"],
-    "answer": "amylase"
-  },
-  {
-    "question": "Excessive body weight due to over nutrition leads to",
-    "options": ["rickets", "marasmus", "obesity", "kwashiorkor"],
-    "answer": "obesity"
-  },
-  {
-    "question": "Which of the following is a protein source of plant origin?",
-    "options": ["Soyabean", "Cheese", "Milk", "Egg"],
-    "answer": "Soyabean"
-  },
-  {
-    "question": "Fat is completely digested in the",
-    "options": ["stomach", "mouth", "small intestine", "large intestine"],
-    "answer": "small intestine"
-  },
-  {
-    "question": "The main reason for cooking food is to",
+    "question": "_____ and _____ participate in formal service.",
     "options": [
-      "feed the family",
-      "improve the colour",
-      "improve the flavor",
-      "make it easily digestible"
+      "Host and hostess",
+      "Bride and groom",
+      "Waitress or waiter"
     ],
-    "answer": "make it easily digestible"
+    "answer": "Waitress or waiter"
   },
   {
-    "question": "Which of the following is a good table manner?",
+    "question": "_____ is an established way of doing things on a regular basis.",
+    "options": ["Culture", "Fallacies", "Fads", "Habits"],
+    "answer": "Habits"
+  },
+  {
+    "question": "Food habits can be influenced by _______ and _____",
     "options": [
-      "Chewing with mouth closed",
-      "Talking often while eating",
-      "Too much food on the lark",
-      "Wiping face with dinner napkin"
+      "Fads and fallacies",
+      "Style and taste",
+      "Age and complexion"
     ],
-    "answer": "Chewing with mouth closed"
+    "answer": "Fads and fallacies"
   },
   {
-    "question": "________is a more concentrated part of an egg",
-    "options": ["egg shell", "egg yolk", "egg white", "challaza"],
-    "answer": "egg yolk"
+    "question": "_____ is a style or custom that many people are interested in for a short time",
+    "options": ["Food habit", "Food fads", "Food desire"],
+    "answer": "Food fads"
   },
   {
-    "question": "A well planned kitchen should be",
-    "options": [
-      "easy to clean, pleasant and convenient to work in",
-      "slippery, shining and colourful",
-      "easy to clean, inconvenient and safe to work in",
-      "pleasant to work in and overcrowded with furnishings"
-    ],
-    "answer": "easy to clean, pleasant and convenient to work in"
+    "question": "_______ are wrong opinions about the role of certain nutrients in the body",
+    "options": ["Food fads", "Food habits", "Food fallacies"],
+    "answer": "Food fallacies"
   },
   {
-    "question": "Kitchen arrangement needs to be planned in such a way that it should",
-    "options": [
-      "be easy to work in",
-      "be pleasant to look",
-      "increase efficiency",
-      "increase much movement"
-    ],
-    "answer": "be easy to work in"
+    "question": "_______ are fluids consumed as stimulants",
+    "options": ["Food habits", "Alcohol", "Beverages"],
+    "answer": "Beverages"
   },
   {
-    "question": "Which of the following is a legume?",
-    "options": ["Maize", "Rice", "Sorghum", "Beans"],
-    "answer": "Beans"
+    "question": "_______ seeds are obtained from the mature plant whose seeds are usually roasted and then milled",
+    "options": ["Cocoa", "Tea", "Coffee", "Lipton"],
+    "answer": "Coffee"
   },
   {
-    "question": "The most appropriate equipment for measuring particles from flour is",
-    "options": ["dredger", "colander", "strainer", "sieve"],
-    "answer": "sieve"
-  },
-  {
-    "question": "Which of the following is a moist method of cooking?",
-    "options": ["Baking", "Steaming", "Grilling", "Roasting"],
-    "answer": "Steaming"
-  },
-  {
-    "question": "The building blocks of food that provide nourishment to the body is known as",
-    "options": ["nutrient", "molecule", "enzyme", "catalyst"],
-    "answer": "nutrient"
-  },
-  {
-    "question": "______can be used to replace meat poultry or fish",
-    "options": ["beans", "yam", "egg", "rice"],
-    "answer": "egg"
-  },
-  {
-    "question": "A substance needed by the body for growth, energy, repair and maintenance is called a",
-    "options": ["nutrient", "carbohydrate", "calorie", "fatty acid"],
-    "answer": "nutrient"
-  },
-  {
-    "question": "All of the following are nutrients found in food except",
-    "options": ["plasma", "proteins", "carbohydrates", "vitamins"],
-    "answer": "plasma"
-  },
-  {
-    "question": "Citrus fruits are an excellent source of ___",
-    "options": ["calcium", "vitamin C", "vitamin B", "calories"],
-    "answer": "vitamin C"
-  },
-  {
-    "question": "Kitchen equipment should be purchased for its",
-    "options": [
-      "model and guarantee",
-      "attraction and maintenance",
-      "appearance and durability",
-      "efficiency and maintenance"
-    ],
-    "answer": "appearance and durability"
-  },
-  {
-    "question": "A kitchen can be described as a",
-    "options": [
-      "store for kitchen utensils and tools",
-      "store for food",
-      "workshop where food is prepared and cooked",
-      "workshop specially built for keeping utensils and foods"
-    ],
-    "answer": "workshop where food is prepared and cooked"
-  },
-  {
-    "question": "Which of the following is a large piece of kitchen equipment?",
-    "options": ["Refrigerator", "Sauce pan", "Pastry bowl", "Mincer"],
-    "answer": "Refrigerator"
-  },
-  {
-    "question": "Which of the following large kitchen equipment should be placed near each other?",
-    "options": [
-      "Cooker and cupboard",
-      "Freezer and refrigerator",
-      "Sink and cabinet",
-      "Cooker and sink"
-    ],
-    "answer": "Sink and cabinet"
-  },
-  {
-    "question": "When testing for the presence of protein with million’s reagent, the colour of the end product is",
-    "options": ["black", "brick red", "yellowish brown", "blue"],
-    "answer": "brick red"
-  },
-  {
-    "question": "L-shape of kitchen has",
-    "options": [
-      "appliances and equipment parallel to the door",
-      "equipment and appliances arranged along two adjoining wall",
-      "appliances and equipment fixed against opposite wall",
-      "equipment and appliances fixed at the centre"
-    ],
-    "answer": "equipment and appliances arranged along two adjoining wall"
-  },
-  {
-    "question": "The body’s preferred source of energy is",
-    "options": ["carbohydrate", "protein", "fats", "vitamins"],
-    "answer": "carbohydrate"
-  },
-  {
-    "question": "Food passes through the stomach directly by",
-    "options": ["the large intestine", "the small intestine", "the heart", "the pancreas"],
-    "answer": "the small intestine"
-  },
-  {
-    "question": "The bread, cereal, rice and pasta group is a good source of",
-    "options": ["carbohydrate", "vitamin C", "calcium", "vitamin D"],
-    "answer": "carbohydrate"
-  },
-  {
-    "question": "Pulses are rich in the",
-    "options": [
-      "A-complex vitamins",
-      "B-complex vitamins",
-      "D-complex vitamins",
-      "E-complex vitamins"
-    ],
-    "answer": "B-complex vitamins"
-  },
-  {
-    "question": "________is the creamy whitish liquid produced from the mammary glands of mammals",
-    "options": ["amylase", "meat", "milk", "egg"],
-    "answer": "milk"
-  },
-  {
-    "question": "______ has a good balance of carbohydrate fat and protein",
-    "options": ["juice", "water", "soda", "milk"],
-    "answer": "milk"
-  },
-  {
-    "question": "The carbohydrate in milk is called",
-    "options": ["fructose", "lactose", "galactosee", "extratose"],
-    "answer": "lactose"
-  },
-  {
-    "question": "The major nutrient in fruits is",
-    "options": ["Protein", "vitamins", "Iron", "Carbohydrate"],
-    "answer": "vitamins"
-  },
-  {
-    "question": "Using a spoon and circular motion to turn foods is",
-    "options": ["mixing", "stirring", "blending", "creaming"],
-    "answer": "stirring"
-  },
-  {
-    "question": "______ type of milk has its fat content removed and has low energy value",
-    "options": ["skimmed milk", "freshwhole milk", "condensed milk", "dried milk"],
-    "answer": "skimmed milk"
-  },
-  {
-    "question": "_______is a combination of skimmed milk and vegetable fat or water",
-    "options": ["skimmed milk", "filled milk", "condensed milk", "fresh milk"],
-    "answer": "condensed milk"
-  },
-  {
-    "question": "The process of cooking food over boiling water is called",
-    "options": ["frying", "roasting", "baking", "boiling"],
-    "answer": "boiling"
-  },
-  {
-    "question": "Cutting food into small blocks is",
-    "options": ["dicing", "chopping", "grating", "shredding"],
-    "answer": "dicing"
-  },
-  {
-    "question": "Which of the following types of kitchen is commonly found in institutions?",
-    "options": ["Detached kitchen", "Modern kitchen", "Kitchen with a chimney", "Kitchen without a chimney"],
-    "answer": "Modern kitchen"
-  },
-  {
-    "question": "_______is a milk product",
-    "options": ["cake", "youghurt", "palwine", "beer"],
-    "answer": "youghurt"
-  },
-  {
-    "question": "One of the following requires careful temperature control",
-    "options": ["roasting", "grilling", "boiling", "steaming"],
-    "answer": "steaming"
-  },
-  {
-    "question": "Which of the following group of people should be advised to increase the number of meals eaten each day?",
-    "options": ["Obese", "Vegetarian", "Overweight", "Underweight"],
-    "answer": "Underweight"
-  },
-  {
-    "question": "Fruits and vegetables are usually considered as good sources of",
-    "options": ["protein", "carbohydrates", "vitamins and minerals", "unsaturated fats"],
-    "answer": "vitamins and minerals"
-  },
-  {
-    "question": "Eggs, milk and meat are usually classified as good sources of",
-    "options": ["carbohydrates", "protein", "fat", "vitamins"],
-    "answer": "protein"
-  },
-  {
-    "question": "_______can be added to dishes to improve their flavour",
-    "options": ["milk", "sand", "paint", "preservative"],
-    "answer": "milk"
-  },
-  {
-    "question": "Baking is often done in a/an",
-    "options": ["refrigerator", "cooker", "oven", "stove"],
-    "answer": "oven"
-  },
-  {
-    "question": "The last products of protein digestion are",
-    "options": ["amino acids", "glucose", "protein end products", "sugar"],
-    "answer": "amino acids"
-  },
-  {
-    "question": "______are creatures that live in either fresh or salt water",
-    "options": ["pork", "beef", "fish", "chicken"],
-    "answer": "fish"
+    "question": "___ are prepared from leaves of the shrub Tea Sinensis.",
+    "options": ["Coffee", "Tea", "Lipton", "Cocoa"],
+    "answer": "Tea"
   }
 ]
