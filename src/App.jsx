@@ -34,14 +34,14 @@ useEffect(() => {
 
   // Use this when you don't want to randomized the questions and options
 
-  useEffect(() => {
-    setQuestions(questionsData);
+  // useEffect(() => {
+  //   setQuestions(questionsData);
   
-    const savedAnswers = localStorage.getItem("cbt-answers");
-    const savedIndex = localStorage.getItem("cbt-current-index");
-    if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
-    if (savedIndex) setCurrentQIndex(Number(savedIndex));
-  }, []);
+  //   const savedAnswers = localStorage.getItem("cbt-answers");
+  //   const savedIndex = localStorage.getItem("cbt-current-index");
+  //   if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
+  //   if (savedIndex) setCurrentQIndex(Number(savedIndex));
+  // }, []);
   // modified ends
 
   const handleOptionSelect = (option) => {
@@ -207,7 +207,7 @@ if (!hasStarted) {
     )}
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
       {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
-      {showScore ? studentName : "VIRTUAL CLASS - ENGLISH LANG"}
+      {showScore ? studentName : "HOW WELL DO YOU KNOW SUN DREAM?"}
       </h3>
 
       
