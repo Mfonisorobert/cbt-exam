@@ -1,270 +1,302 @@
 [
   {
-    "question": "Which of the following does not affect food customs?",
-    "options": ["Superstitions", "Sexuality", "Religion", "Social activities"],
-    "answer": "Sexuality"
+    "number": 1,
+    "question": "He ___ to school every morning.",
+    "options": ["go", "goes", "gone", "going"],
+    "answer": "goes"
   },
   {
-    "question": "Good table manners involve",
-    "options": ["Eating all food", "Eating slowly and quietly", "Lifting food to the mouth", "Talking with food in the mouth"],
-    "answer": "Eating slowly and quietly"
+    "number": 2,
+    "question": "They ___ in the garden.",
+    "options": ["is working", "are working", "was working", "working"],
+    "answer": "are working"
   },
   {
-    "question": "Which of these fruits cannot be used to prepare fruit salad?",
-    "options": ["Mango", "Pawpaw", "Guava", "Pineapple"],
-    "answer": "Guava"
+    "number": 3,
+    "question": "Choose the correct verb: The dog ___ loudly.",
+    "options": ["bark", "barking", "barks", "barked"],
+    "answer": "barks"
   },
   {
-    "question": "Which of these cereals are not grown in Nigeria?",
-    "options": ["Maize", "Rice", "Oats and rye", "Wheat"],
-    "answer": "Oats and rye"
+    "number": 4,
+    "question": "We ___ to the market yesterday.",
+    "options": ["goes", "gone", "went", "going"],
+    "answer": "went"
   },
   {
-    "question": "Which method of cooking is not applicable to eggs?",
-    "options": ["Boiling", "Frying", "Grilling", "Poaching"],
-    "answer": "Grilling"
+    "number": 5,
+    "question": "She ___ a beautiful song.",
+    "options": ["sing", "sang", "singing", "sings"],
+    "answer": "sang"
   },
   {
-    "question": "The last group in the chain of production and distribution of goods and services is__________",
-    "options": ["Consumer", "Manufacturers", "Retailer", "Wholesalers"],
-    "answer": "Consumer"
+    "number": 6,
+    "question": "He ___ for an hour.",
+    "options": ["sleeps", "is sleeping", "slept", "has slept"],
+    "answer": "has slept"
   },
   {
-    "question": "Buying food just out of sight and not out of need is termed _______",
-    "options": ["Bulk buying", "Creative buying", "Impulse buying", "Exchange buying"],
-    "answer": "Impulse buying"
+    "number": 7,
+    "question": "We ___ cricket every Saturday.",
+    "options": ["plays", "play", "played", "playing"],
+    "answer": "play"
   },
   {
-    "question": "Food storage refers to the keeping of food so as to:",
-    "options": ["Increase bulk", "Make it attractive", "Make it clean", "Readily make available for ultimate use"],
-    "answer": "Readily make available for ultimate use"
+    "number": 8,
+    "question": "They ___ in the park right now.",
+    "options": ["plays", "played", "are playing", "is playing"],
+    "answer": "are playing"
   },
   {
-    "question": "Which is not a foreign dish?",
-    "options": ["Beef Stroganoff", "Samosa", "Pizza", "Akara"],
-    "answer": "Akara"
+    "number": 9,
+    "question": "I ___ my homework before dinner.",
+    "options": ["finished", "finishes", "finish", "finishing"],
+    "answer": "finished"
   },
   {
-    "question": "In the absence of an electric mixer, the small piece of equipment used to stir ingredients is called ______",
-    "options": ["Scraper", "Spatula", "Wire whisk", "Wooden spoon"],
-    "answer": "Spatula"
+    "number": 10,
+    "question": "He ___ a book when I called him.",
+    "options": ["was reading", "is reading", "read", "reads"],
+    "answer": "was reading"
   },
   {
-    "question": "Liver, kidney and tripe are collectively called_____",
-    "options": ["Meat", "Trotters", "Beef", "Offals"],
-    "answer": "Offals"
+    "number": 11,
+    "question": "Identify the declarative sentence:",
+    "options": ["Do you like ice cream?", "What a beautiful view!", "I am going to the market.", "Get out!"],
+    "answer": "I am going to the market."
   },
   {
-    "question": "To avoid food poisoning, all equipment and utensils after use should be",
-    "options": ["Soaked in hot detergent", "Boiled with heated water", "Washed and rinsed with clean water"],
-    "answer": "Washed and rinsed with clean water"
+    "number": 12,
+    "question": "Which one is an interrogative sentence?",
+    "options": ["The cat is sleeping.", "Is the cat sleeping?", "The cat sleeps every day.", "The cat has slept."],
+    "answer": "Is the cat sleeping?"
   },
   {
-    "question": "Kitchen dustbin should be ______",
-    "options": ["Big and spacious", "Close to the kitchen", "Covered and must regularly be emptied"],
-    "answer": "Covered and must regularly be emptied"
+    "number": 13,
+    "question": "Choose the exclamatory sentence:",
+    "options": ["He is very happy.", "Is he happy?", "What a happy boy he is!", "He is happy."],
+    "answer": "What a happy boy he is!"
   },
   {
-    "question": "Orange juice is a good source of ______",
-    "options": ["Vitamin B", "Vitamin D", "Vitamin A", "Vitamin C"],
-    "answer": "Vitamin C"
+    "number": 14,
+    "question": "Identify the imperative sentence:",
+    "options": ["You are my best friend.", "Do your homework now.", "What a lovely dress!", "Do you like pizza?"],
+    "answer": "Do your homework now."
   },
   {
-    "question": "Rechauffe foods are _____",
-    "options": ["Fried foods", "Boiled foods", "Reheated foods", "Packed foods"],
-    "answer": "Reheated foods"
+    "number": 15,
+    "question": "Which of the following is a compound sentence?",
+    "options": ["He went to the park.", "He went to the park, and she stayed at home.", "He is going to the park.", "The park is nearby."],
+    "answer": "He went to the park, and she stayed at home."
   },
   {
-    "question": "_____are the types of table service.",
-    "options": ["Moral and Immoral", "Native and local", "Formal and informal", "International and local"],
-    "answer": "Formal and informal"
+    "number": 16,
+    "question": "Identify the complex sentence:",
+    "options": ["He went to the shop.", "He went to the shop because he needed bread.", "The shop was open.", "He likes going to the shop."],
+    "answer": "He went to the shop because he needed bread."
   },
   {
-    "question": "To eliminate fatigue in the kitchen equipment should be located ____",
-    "options": ["Above the home maker", "Within easy reach", "Tightly close", "Below the home maker"],
-    "answer": "Within easy reach"
+    "number": 17,
+    "question": "Choose the simple sentence:",
+    "options": ["We went to the park, and she came too.", "We went to the park.", "When she came, we went to the park.", "We went to the park although it was raining."],
+    "answer": "We went to the park."
   },
   {
-    "question": "Cereals are cheap sources of ____",
-    "options": ["Protein", "Carbohydrates", "Fats", "Vitamins"],
-    "answer": "Carbohydrates"
+    "number": 18,
+    "question": "Which one is an exclamatory sentence?",
+    "options": ["What a beautiful morning!", "What is the time?", "Do your work.", "He is a doctor."],
+    "answer": "What a beautiful morning!"
   },
   {
-    "question": "_____ is the only type of formal service.",
-    "options": ["Country style", "Friendship style", "Continental style", "Party style"],
-    "answer": "Continental style"
+    "number": 19,
+    "question": "Identify the declarative sentence:",
+    "options": ["Will you come with me?", "He likes swimming.", "What a lovely view!", "Don’t make noise."],
+    "answer": "He likes swimming."
   },
   {
-    "question": "Dehydration in preservation is synonymous with",
-    "options": ["Freezing", "Hanging", "Drying", "Grilling"],
-    "answer": "Drying"
+    "number": 20,
+    "question": "What is the sentence type? “Please help me with this task.”",
+    "options": ["Declarative", "Exclamatory", "Imperative", "Interrogative"],
+    "answer": "Imperative"
   },
   {
-    "question": "Bulk buying when planned and executed is _____",
-    "options": ["Extravagant", "Economical", "Expensive", "Excessive"],
-    "answer": "Economical"
+    "number": 21,
+    "question": "Choose the correct contraction for \"do not\":",
+    "options": ["don't", "do'nt", "doesnt", "dont"],
+    "answer": "don't"
   },
   {
-    "question": "A party where people stand and eat is _____",
-    "options": ["Buffet party", "All night party", "Cocktail party", "Drinks party"],
-    "answer": "Cocktail party"
+    "number": 22,
+    "question": "Choose the contraction for \"is not\":",
+    "options": ["isn't", "is'nt", "isnt'", "is not"],
+    "answer": "isn't"
   },
   {
-    "question": "Which of the following is used for wiping dishes?",
-    "options": ["Dinner cloth", "Face towel", "Tea towel", "Table towel"],
-    "answer": "Table towel"
+    "number": 23,
+    "question": "What is the contracted form of \"they are\"?",
+    "options": ["they're", "there", "their", "the're"],
+    "answer": "they're"
   },
   {
-    "question": "Apart from the conventional yeast, identify another local substance in bread making.",
-    "options": ["Milk", "Orange juice", "Salt", "Palmwine"],
-    "answer": "Palmwine"
+    "number": 24,
+    "question": "Choose the correct form for \"you will\":",
+    "options": ["you'll", "youll", "you'ill", "you'l"],
+    "answer": "you'll"
   },
   {
-    "question": "All the following are portion control equipment except",
-    "options": ["Scoops", "Ladles", "Plates", "Measuring cups"],
-    "answer": "Ladles"
+    "number": 25,
+    "question": "What is the contraction for \"I am\"?",
+    "options": ["I'am", "Im", "I'm", "Iam"],
+    "answer": "I'm"
   },
   {
-    "question": "To prevent dehydration of a fever patient, give them _____",
-    "options": ["A fluid diets", "Vegetables only", "Hot pepper soup", "A one course diet"],
-    "answer": "A fluid diets"
+    "number": 26,
+    "question": "What is the contraction for \"she is\"?",
+    "options": ["she're", "she's", "sheis", "she'll"],
+    "answer": "she's"
   },
   {
-    "question": "Which of the following saves the family feeding money?",
-    "options": ["Backyard gardening", "Paying for food by installment", "Buying on impulse", "Eating once a day"],
-    "answer": "Backyard gardening"
+    "number": 27,
+    "question": "What is the contraction for \"we have\"?",
+    "options": ["we've", "we'ave", "weve", "we'ha"],
+    "answer": "we've"
   },
   {
-    "question": "Poor ventilation in the kitchen can result in",
-    "options": ["Storage problems", "Hot and stuffy atmosphere", "Dark environment", "Unhygienic environment"],
-    "answer": "Hot and stuffy atmosphere"
+    "number": 28,
+    "question": "What is the contracted form of \"would not\"?",
+    "options": ["wouldn't", "would'nt", "wouldnot", "woudn't"],
+    "answer": "wouldn't"
   },
   {
-    "question": "Adulterated food _____",
-    "options": ["Is always wrongly labelled", "Is filthy, putrid, or decomposed", "Smells sweetly", "Is easily digested"],
-    "answer": "Is filthy, putrid, or decomposed"
+    "number": 29,
+    "question": "What is the contraction for \"cannot\"?",
+    "options": ["cann't", "cant", "can't", "canot"],
+    "answer": "can't"
   },
   {
-    "question": "The least cold place for storage in the refrigerator is the _____",
-    "options": ["Interior of the cabinet", "Salad drawer", "Interior of the door", "Frozen food compactment"],
-    "answer": "Interior of the door"
+    "number": 30,
+    "question": "What is the contracted form of \"they will\"?",
+    "options": ["they'll", "the'll", "theyll", "the'yll"],
+    "answer": "they'll"
   },
   {
-    "question": "Which of the following principles involves complete removal of moisture preservation?",
-    "options": ["Freezing", "Dehydration", "Jam making", "Pickling"],
-    "answer": "Dehydration"
+    "number": 31,
+    "question": "Choose the affirmative form:",
+    "options": ["He is not coming.", "He is coming.", "He doesn’t come.", "He didn’t come."],
+    "answer": "He is coming."
   },
   {
-    "question": "The most appropriate small piece of equipment to use when beating egg is",
-    "options": ["Beater", "Fork", "Slice", "Whisk"],
-    "answer": "Whisk"
+    "number": 32,
+    "question": "Choose the negative form of: \"She likes pizza.\"",
+    "options": ["She doesn’t like pizza.", "She didn’t like pizza.", "She is not liking pizza.", "She hasn’t liked pizza."],
+    "answer": "She doesn’t like pizza."
   },
   {
-    "question": "The first step in organizing a celebration where guest will be invited is ____",
-    "options": ["Cooking the food", "Counting the plates", "Planning the party", "Calling the guests on the phone"],
-    "answer": "Planning the party"
+    "number": 33,
+    "question": "Choose the affirmative form of: \"He doesn’t play football.\"",
+    "options": ["He plays football.", "He play football.", "He didn’t play football.", "He is not playing football."],
+    "answer": "He plays football."
   },
   {
-    "question": "When a consumer has the right to return an article with complaints, this is referred to as:",
-    "options": ["Cop-sumer law", "Warrantee", "Opportunity", "Guarantee"],
-    "answer": "Warrantee"
+    "number": 34,
+    "question": "Choose the negative form of: \"They are singing.\"",
+    "options": ["They are not singing.", "They doesn’t sing.", "They didn’t singing.", "They aren’t sang."],
+    "answer": "They are not singing."
   },
   {
-    "question": "Food should be labeled before storing to ____",
-    "options": ["Identify them easily", "Facilitate easy storage", "Keep them free from moulds", "Keep them for longer use"],
-    "answer": "Identify them easily"
+    "number": 35,
+    "question": "Choose the affirmative form of: \"We are not going.\"",
+    "options": ["We are going.", "We didn’t go.", "We aren’t going.", "We don’t go."],
+    "answer": "We are going."
   },
   {
-    "question": "Mineral salts and proteins are types of _____",
-    "options": ["Carbohydrates", "Nutrients", "Food", "Nutrition"],
-    "answer": "Nutrients"
+    "number": 36,
+    "question": "Choose the negative form of: \"I will help you.\"",
+    "options": ["I will not help you.", "I don’t help you.", "I didn’t help you.", "I am not helping you."],
+    "answer": "I will not help you."
   },
   {
-    "question": "The energy value of food can be measured in _____",
-    "options": ["Kilograms", "Centimeters", "Litres", "Calories"],
-    "answer": "Calories"
+    "number": 37,
+    "question": "Choose the affirmative form of: \"He doesn’t like ice cream.\"",
+    "options": ["He likes ice cream.", "He liked ice cream.", "He is liking ice cream.", "He didn’t like ice cream."],
+    "answer": "He likes ice cream."
   },
   {
-    "question": "A person who studied food and nutrition can be employed in an educational system as a ___",
-    "options": ["Nurse", "Dietician", "Teacher", "Waiter"],
-    "answer": "Teacher"
+    "number": 38,
+    "question": "Choose the negative form of: \"They came late.\"",
+    "options": ["They didn’t come late.", "They aren’t coming late.", "They don’t come late.", "They didn’t came late."],
+    "answer": "They didn’t come late."
   },
   {
-    "question": "A child suffering from bleeding gum should be given _____",
-    "options": ["Meat", "Oranges", "Maize", "Rice"],
-    "answer": "Oranges"
+    "number": 39,
+    "question": "Choose the affirmative form of: \"She is not working.\"",
+    "options": ["She is working.", "She worked.", "She doesn’t work.", "She didn’t work."],
+    "answer": "She is working."
   },
   {
-    "question": "A child with poor bone formation needs _____",
-    "options": ["Sodium", "Iron", "Potassium", "Calcium"],
-    "answer": "Calcium"
+    "number": 40,
+    "question": "Choose the negative form of: \"He plays cricket.\"",
+    "options": ["He doesn’t play cricket.", "He didn’t play cricket.", "He doesn’t plays cricket.", "He aren’t play cricket."],
+    "answer": "He doesn’t play cricket."
   },
   {
-    "question": "_____ is one of the things to observe when serving food.",
-    "options": [
-      "Do not lift from the table when refilling glasses",
-      "Touch your hair repeatedly",
-      "Use dirty tray",
-      "Pick dirt from your nose while at it"
-    ],
-    "answer": "Do not lift from the table when refilling glasses"
+    "number": 41,
+    "question": "Choose the passive form of: \"The cat drank the milk.\"",
+    "options": ["The milk was drunk by the cat.", "The cat drinks the milk.", "The cat is drinking the milk.", "The milk drank the cat."],
+    "answer": "The milk was drunk by the cat."
   },
   {
-    "question": "_____ is one of the points to bear in mind when sending out invitation cards.",
-    "options": [
-      "Response is obligatory if requested and should be prompt.",
-      "Send it carelessly",
-      "Be ready to insult anyone who doesn’t respond",
-      "The invitation should not carry the date"
-    ],
-    "answer": "Response is obligatory if requested and should be prompt."
+    "number": 42,
+    "question": "Choose the active form of: \"The book was read by him.\"",
+    "options": ["He read the book.", "He is read the book.", "The book reads him.", "He is reading the book."],
+    "answer": "He read the book."
   },
   {
-    "question": "_____ and _____ participate in formal service.",
-    "options": [
-      "Host and hostess",
-      "Bride and groom",
-      "Waitress or waiter"
-    ],
-    "answer": "Waitress or waiter"
+    "number": 43,
+    "question": "Choose the passive form of: \"He is cleaning the room.\"",
+    "options": ["The room is being cleaned by him.", "The room was cleaned by him.", "The room is cleaning him.", "The room cleans him."],
+    "answer": "The room is being cleaned by him."
   },
   {
-    "question": "_____ is an established way of doing things on a regular basis.",
-    "options": ["Culture", "Fallacies", "Fads", "Habits"],
-    "answer": "Habits"
+    "number": 44,
+    "question": "Choose the active form of: \"The car was washed by John.\"",
+    "options": ["John washed the car.", "John is washing the car.", "John washes the car.", "John has washed the car."],
+    "answer": "John washed the car."
   },
   {
-    "question": "Food habits can be influenced by _______ and _____",
-    "options": [
-      "Fads and fallacies",
-      "Style and taste",
-      "Age and complexion"
-    ],
-    "answer": "Fads and fallacies"
+    "number": 45,
+    "question": "Choose the passive form of: \"They play football every Sunday.\"",
+    "options": ["Football is played every Sunday.", "Football plays every Sunday.", "They are played by football every Sunday.", "They have played football every Sunday."],
+    "answer": "Football is played every Sunday."
   },
   {
-    "question": "_____ is a style or custom that many people are interested in for a short time",
-    "options": ["Food habit", "Food fads", "Food desire"],
-    "answer": "Food fads"
+    "number": 46,
+    "question": "Choose the active form of: \"The song was sung by her.\"",
+    "options": ["She sang the song.", "She is singing the song.", "The song sang her.", "She was singing the song."],
+    "answer": "She sang the song."
   },
   {
-    "question": "_______ are wrong opinions about the role of certain nutrients in the body",
-    "options": ["Food fads", "Food habits", "Food fallacies"],
-    "answer": "Food fallacies"
+    "number": 47,
+    "question": "Choose the passive form of: \"He will write the letter.\"",
+    "options": ["The letter will be written by him.", "The letter will write him.", "The letter is being written by him.", "The letter writes him."],
+    "answer": "The letter will be written by him."
   },
   {
-    "question": "_______ are fluids consumed as stimulants",
-    "options": ["Food habits", "Alcohol", "Beverages"],
-    "answer": "Beverages"
+    "number": 48,
+    "question": "Choose the active form of: \"The pizza is eaten by the boy.\"",
+    "options": ["The boy is eating the pizza.", "The boy ate the pizza.", "The boy will eat the pizza.", "The boy has eaten the pizza."],
+    "answer": "The boy is eating the pizza."
   },
   {
-    "question": "_______ seeds are obtained from the mature plant whose seeds are usually roasted and then milled",
-    "options": ["Cocoa", "Tea", "Coffee", "Lipton"],
-    "answer": "Coffee"
+    "number": 49,
+    "question": "Choose the passive form of: \"My sister cleans the room.\"",
+    "options": ["The room is cleaned by my sister.", "The room cleans my sister.", "The room was cleaned by my sister.", "The room is being cleaned by my sister."],
+    "answer": "The room is cleaned by my sister."
   },
   {
-    "question": "___ are prepared from leaves of the shrub Tea Sinensis.",
-    "options": ["Coffee", "Tea", "Lipton", "Cocoa"],
-    "answer": "Tea"
+    "number": 50,
+    "question": "Choose the active form of: \"The ball was thrown by the player.\"",
+    "options": ["The player threw the ball.", "The player is throwing the ball.", "The player throws the ball.", "The player has thrown the ball."],
+    "answer": "The player threw the ball."
   }
 ]
