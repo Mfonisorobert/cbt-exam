@@ -1,224 +1,270 @@
 [
   {
-    "number": 1,
-    "question": "What is the motto of Sun Dream International School?",
-    "options": [
-      "Learning Today, Leading Tomorrow",
-      "Knowledge for Excellence",
-      "Wisdom, Knowledge and Service",
-      "Inspiring the Future"
-    ],
-    "answer": "Wisdom, Knowledge and Service"
+    "question": "Which of the following does not affect food customs?",
+    "options": ["Superstitions", "Sexuality", "Religion", "Social activities"],
+    "answer": "Sexuality"
   },
   {
-    "number": 2,
-    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
-    "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Purple"
-    ],
-    "answer": "Blue"
+    "question": "Good table manners involve",
+    "options": ["Eating all food", "Eating slowly and quietly", "Lifting food to the mouth", "Talking with food in the mouth"],
+    "answer": "Eating slowly and quietly"
   },
   {
-    "number": 3,
-    "question": "What is the name of the school's annual inter-house sports competition?",
-    "options": [
-      "Sun Dream Olympics",
-      "DreamFit Games",
-      "Sun Dream Inter-House Fiesta",
-      "Sun Sprint Classic"
-    ],
-    "answer": "Sun Dream Inter-House Fiesta"
+    "question": "Which of these fruits cannot be used to prepare fruit salad?",
+    "options": ["Mango", "Pawpaw", "Guava", "Pineapple"],
+    "answer": "Guava"
   },
   {
-    "number": 4,
-    "question": "In what year was Sun Dream International School established?",
-    "options": [
-      "2010",
-      "2012",
-      "2018",
-      "2017"
-    ],
-    "answer": "2018"
+    "question": "Which of these cereals are not grown in Nigeria?",
+    "options": ["Maize", "Rice", "Oats and rye", "Wheat"],
+    "answer": "Oats and rye"
   },
   {
-    "number": 5,
-    "question": "Which house won the last inter-house sports competition?",
-    "options": [
-      "Ruby House",
-      "Emerald House",
-      "Sapphire House",
-      "Topaz House"
-    ],
-    "answer": "Emerald House"
+    "question": "Which method of cooking is not applicable to eggs?",
+    "options": ["Boiling", "Frying", "Grilling", "Poaching"],
+    "answer": "Grilling"
   },
   {
-    "number": 6,
-    "question": "What is the name of the student-led media group in Sun Dream School?",
-    "options": [
-      "DreamCast",
-      "The Sunshine Press Club",
-      "Sun Dream Media House",
-      "Sun Dream Reporters"
-    ],
-    "answer": "Sun Dream Media House"
+    "question": "The last group in the chain of production and distribution of goods and services is__________",
+    "options": ["Consumer", "Manufacturers", "Retailer", "Wholesalers"],
+    "answer": "Consumer"
   },
   {
-    "number": 7,
-    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
-    "options": [
-      "Mathematics",
-      "ICT",
-      "Civic Education",
-      "Home Economics"
-    ],
-    "answer": "ICT"
+    "question": "Buying food just out of sight and not out of need is termed _______",
+    "options": ["Bulk buying", "Creative buying", "Impulse buying", "Exchange buying"],
+    "answer": "Impulse buying"
   },
   {
-    "number": 8,
-    "question": "Which of these is a core value promoted by Sun Dream International School?",
-    "options": [
-      "Fame",
-      "Humility",
-      "Power",
-      "Popularity"
-    ],
-    "answer": "Humility"
+    "question": "Food storage refers to the keeping of food so as to:",
+    "options": ["Increase bulk", "Make it attractive", "Make it clean", "Readily make available for ultimate use"],
+    "answer": "Readily make available for ultimate use"
   },
   {
-    "number": 9,
-    "question": "How many campuses does Sun Dream School currently have?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "answer": "Two"
+    "question": "Which is not a foreign dish?",
+    "options": ["Beef Stroganoff", "Samosa", "Pizza", "Akara"],
+    "answer": "Akara"
   },
   {
-    "number": 10,
-    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
-    "options": [
-      "Jet Club",
-      "Press Club",
-      "Green Club",
-      "Creative Arts Club"
-    ],
-    "answer": "Green Club"
+    "question": "In the absence of an electric mixer, the small piece of equipment used to stir ingredients is called ______",
+    "options": ["Scraper", "Spatula", "Wire whisk", "Wooden spoon"],
+    "answer": "Spatula"
   },
   {
-    "number": 11,
-    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
-    "options": [
-      "Adaora M.",
-      "Christabel U.",
-      "Amarachi O.",
-      "Blessing A."
-    ],
-    "answer": "Christabel U."
+    "question": "Liver, kidney and tripe are collectively called_____",
+    "options": ["Meat", "Trotters", "Beef", "Offals"],
+    "answer": "Offals"
   },
   {
-    "number": 12,
-    "question": "Which of the following is a tradition during the school’s end-of-year party?",
-    "options": [
-      "Talent Hunt",
-      "Principal’s Debate",
-      "Cultural Dance Parade",
-      "Parents vs Teachers Football Match"
-    ],
-    "answer": "Cultural Dance Parade"
+    "question": "To avoid food poisoning, all equipment and utensils after use should be",
+    "options": ["Soaked in hot detergent", "Boiled with heated water", "Washed and rinsed with clean water"],
+    "answer": "Washed and rinsed with clean water"
   },
   {
-    "number": 13,
-    "question": "What is the title of the school anthem?",
-    "options": [
-      "Dream Beyond the Stars",
-      "Great Sun Dream",
-      "Light of the Future",
-      "Together We Rise"
-    ],
-    "answer": "Great Sun Dream"
+    "question": "Kitchen dustbin should be ______",
+    "options": ["Big and spacious", "Close to the kitchen", "Covered and must regularly be emptied"],
+    "answer": "Covered and must regularly be emptied"
   },
   {
-    "number": 14,
-    "question": "What language is taught as a second language in Sun Dream School?",
-    "options": [
-      "French",
-      "Spanish",
-      "Chinese",
-      "German"
-    ],
-    "answer": "French"
+    "question": "Orange juice is a good source of ______",
+    "options": ["Vitamin B", "Vitamin D", "Vitamin A", "Vitamin C"],
+    "answer": "Vitamin C"
   },
   {
-    "number": 15,
-    "question": "Which award is usually given to the most disciplined student?",
-    "options": [
-      "Star Award",
-      "Model Student Award",
-      "Dream Ambassador",
-      "Excellence Badge"
-    ],
-    "answer": "Model Student Award"
+    "question": "Rechauffe foods are _____",
+    "options": ["Fried foods", "Boiled foods", "Reheated foods", "Packed foods"],
+    "answer": "Reheated foods"
   },
   {
-    "number": 16,
-    "question": "What is the name of the weekly assembly presentation organized by students?",
-    "options": [
-      "Dream Talk",
-      "Value Time",
-      "Sunrise Spotlight",
-      "Assembly Showcase"
-    ],
-    "answer": "Dream Talk"
+    "question": "_____are the types of table service.",
+    "options": ["Moral and Immoral", "Native and local", "Formal and informal", "International and local"],
+    "answer": "Formal and informal"
   },
   {
-    "number": 17,
-    "question": "Which of these activities is held every Friday afternoon?",
-    "options": [
-      "School Sanitation",
-      "House Meetings",
-      "PTA Forum",
-      "Club Activities"
-    ],
-    "answer": "Club Activities"
+    "question": "To eliminate fatigue in the kitchen equipment should be located ____",
+    "options": ["Above the home maker", "Within easy reach", "Tightly close", "Below the home maker"],
+    "answer": "Within easy reach"
   },
   {
-    "number": 18,
-    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
-    "options": [
-      "Mr. Joshua",
-      "Mr. Samuel",
-      "Mr. Mfoniso",
-      "Mr. Emeka"
-    ],
-    "answer": "Mr. Mfoniso"
+    "question": "Cereals are cheap sources of ____",
+    "options": ["Protein", "Carbohydrates", "Fats", "Vitamins"],
+    "answer": "Carbohydrates"
   },
   {
-    "number": 19,
-    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
-    "options": [
-      "National Girls in ICT Competition",
-      "Junior Tech Stars",
-      "Code Nigeria Hackathon",
-      "Digital Youth Challenge"
-    ],
-    "answer": "National Girls in ICT Competition"
+    "question": "_____ is the only type of formal service.",
+    "options": ["Country style", "Friendship style", "Continental style", "Party style"],
+    "answer": "Country style"
   },
   {
-    "number": 20,
-    "question": "What is the nickname often used by students for the school?",
+    "question": "Dehydration in preservation is synonymous with",
+    "options": ["Freezing", "Hanging", "Drying", "Grilling"],
+    "answer": "Drying"
+  },
+  {
+    "question": "Bulk buying when planned and executed is _____",
+    "options": ["Extravagant", "Economical", "Expensive", "Excessive"],
+    "answer": "Economical"
+  },
+  {
+    "question": "A party where people stand and eat is _____",
+    "options": ["Buffet party", "All night party", "Cocktail party", "Drinks party"],
+    "answer": "Cocktail party"
+  },
+  {
+    "question": "Which of the following is used for wiping dishes?",
+    "options": ["Dinner cloth", "Face towel", "Tea towel", "Table towel"],
+    "answer": "Table towel"
+  },
+  {
+    "question": "Apart from the conventional yeast, identify another local substance in bread making.",
+    "options": ["Milk", "Orange juice", "Salt", "Palmwine"],
+    "answer": "Palmwine"
+  },
+  {
+    "question": "All the following are portion control equipment except",
+    "options": ["Scoops", "Ladles", "Plates", "Measuring cups"],
+    "answer": "Ladles"
+  },
+  {
+    "question": "To prevent dehydration of a fever patient, give them _____",
+    "options": ["A fluid diets", "Vegetables only", "Hot pepper soup", "A one course diet"],
+    "answer": "A fluid diets"
+  },
+  {
+    "question": "Which of the following saves the family feeding money?",
+    "options": ["Backyard gardening", "Paying for food by installment", "Buying on impulse", "Eating once a day"],
+    "answer": "Backyard gardening"
+  },
+  {
+    "question": "Poor ventilation in the kitchen can result in",
+    "options": ["Storage problems", "Hot and stuffy atmosphere", "Dark environment", "Unhygienic environment"],
+    "answer": "Hot and stuffy atmosphere"
+  },
+  {
+    "question": "Adulterated food _____",
+    "options": ["Is always wrongly labelled", "Is filthy, putrid, or decomposed", "Smells sweetly", "Is easily digested"],
+    "answer": "Is always wrongly labelled"
+  },
+  {
+    "question": "The least cold place for storage in the refrigerator is the _____",
+    "options": ["Interior of the cabinet", "Salad drawer", "Interior of the door", "Frozen food compactment"],
+    "answer": "Interior of the door"
+  },
+  {
+    "question": "Which of the following principles involves complete removal of moisture preservation?",
+    "options": ["Freezing", "Dehydration", "Jam making", "Pickling"],
+    "answer": "Dehydration"
+  },
+  {
+    "question": "The most appropriate small piece of equipment to use when beating egg is",
+    "options": ["Beater", "Fork", "Slice", "Whisk"],
+    "answer": "Whisk"
+  },
+  {
+    "question": "The first step in organizing a celebration where guest will be invited is ____",
+    "options": ["Cooking the food", "Counting the plates", "Planning the party", "Calling the guests on the phone"],
+    "answer": "Planning the party"
+  },
+  {
+    "question": "When a consumer has the right to return an article with complaints, this is referred to as:",
+    "options": ["Cop-sumer law", "Warrantee", "Opportunity", "Guarantee"],
+    "answer": "Warrantee"
+  },
+  {
+    "question": "Food should be labeled before storing to ____",
+    "options": ["Identify them easily", "Facilitate easy storage", "Keep them free from moulds", "Keep them for longer use"],
+    "answer": "Identify them easily"
+  },
+  {
+    "question": "Mineral salts and proteins are types of _____",
+    "options": ["Carbohydrates", "Nutrients", "Food", "Nutrition"],
+    "answer": "Nutrients"
+  },
+  {
+    "question": "The energy value of food can be measured in _____",
+    "options": ["Kilograms", "Centimeters", "Litres", "Calories"],
+    "answer": "Calories"
+  },
+  {
+    "question": "A person who studied food and nutrition can be employed in an educational system as a ___",
+    "options": ["Nurse", "Dietician", "Teacher", "Waiter"],
+    "answer": "Teacher"
+  },
+  {
+    "question": "A child suffering from bleeding gum should be given _____",
+    "options": ["Meat", "Oranges", "Maize", "Rice"],
+    "answer": "Oranges"
+  },
+  {
+    "question": "A child with poor bone formation needs _____",
+    "options": ["Sodium", "Iron", "Potassium", "Calcium"],
+    "answer": "Calcium"
+  },
+  {
+    "question": "_____ is one of the things to observe when serving food.",
     "options": [
-      "SD Nation",
-      "Sunshine City",
-      "Dreamers' Den",
-      "SDIS"
+      "Do not lift from the table when refilling glasses",
+      "Touch your hair repeatedly",
+      "Use dirty tray",
+      "Pick dirt from your nose while at it"
     ],
-    "answer": "SDIS"
+    "answer": "Do not lift from the table when refilling glasses"
+  },
+  {
+    "question": "_____ is one of the points to bear in mind when sending out invitation cards.",
+    "options": [
+      "Response is obligatory if requested and should be prompt.",
+      "Send it carelessly",
+      "Be ready to insult anyone who doesn’t respond",
+      "The invitation should not carry the date"
+    ],
+    "answer": "Response is obligatory if requested and should be prompt."
+  },
+  {
+    "question": "_____ and _____ participate in formal service.",
+    "options": [
+      "Host and hostess",
+      "Bride and groom",
+      "Waitress or waiter"
+    ],
+    "answer": "Waitress or waiter"
+  },
+  {
+    "question": "_____ is an established way of doing things on a regular basis.",
+    "options": ["Culture", "Fallacies", "Fads", "Habits"],
+    "answer": "Habits"
+  },
+  {
+    "question": "Food habits can be influenced by _______ and _____",
+    "options": [
+      "Fads and fallacies",
+      "Style and taste",
+      "Age and complexion"
+    ],
+    "answer": "Fads and fallacies"
+  },
+  {
+    "question": "_____ is a style or custom that many people are interested in for a short time",
+    "options": ["Food habit", "Food fads", "Food desire"],
+    "answer": "Food fads"
+  },
+  {
+    "question": "_______ are wrong opinions about the role of certain nutrients in the body",
+    "options": ["Food fads", "Food habits", "Food fallacies"],
+    "answer": "Food fallacies"
+  },
+  {
+    "question": "_______ are fluids consumed as stimulants",
+    "options": ["Food habits", "Alcohol", "Beverages"],
+    "answer": "Beverages"
+  },
+  {
+    "question": "_______ seeds are obtained from the mature plant whose seeds are usually roasted and then milled",
+    "options": ["Cocoa", "Tea", "Coffee", "Lipton"],
+    "answer": "Coffee"
+  },
+  {
+    "question": "___ are prepared from leaves of the shrub Tea Sinensis.",
+    "options": ["Coffee", "Tea", "Lipton", "Cocoa"],
+    "answer": "Tea"
   }
 ]
-
-
