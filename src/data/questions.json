@@ -1,224 +1,442 @@
 [
   {
     "number": 1,
-    "question": "What is the motto of Sun Dream International School?",
+    "question": "Which of the following statements about asexual reproduction is correct?",
     "options": [
-      "Learning Today, Leading Tomorrow",
-      "Knowledge for Excellence",
-      "Wisdom, Knowledge and Service",
-      "Inspiring the Future"
+      "always involves one parent but the offspring are genetically different from the parent",
+      "may involve two parents but the offspring is always identical to one parent.",
+      "always involves one parent and the offspring are identical to the parent",
+      "involves two parents but the offspring is not genetically identical to any of the parents."
     ],
-    "answer": "Wisdom, Knowledge and Service"
+    "answer": "always involves one parent and the offspring are identical to the parent"
   },
   {
     "number": 2,
-    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
-    "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Purple"
-    ],
-    "answer": "Blue"
+    "question": "A group of closely related organisms capable of interbreeding to produce fertile offspring are known as members of a",
+    "options": ["kingdom", "class", "family", "specie"],
+    "answer": "specie"
   },
   {
     "number": 3,
-    "question": "What is the name of the school's annual inter-house sports competition?",
-    "options": [
-      "Sun Dream Olympics",
-      "DreamFit Games",
-      "Sun Dream Inter-House Fiesta",
-      "Sun Sprint Classic"
-    ],
-    "answer": "Sun Dream Inter-House Fiesta"
+    "question": "Which of the following conditions in flowering plants enhances self-pollination?",
+    "options": ["cleistogamy", "heterostyly", "protandry", "protogyny"],
+    "answer": "protandry"
   },
   {
     "number": 4,
-    "question": "In what year was Sun Dream International School established?",
-    "options": [
-      "2010",
-      "2012",
-      "2018",
-      "2017"
-    ],
-    "answer": "2018"
+    "question": "The natural dwelling place of an organism is called",
+    "options": ["ecological niche", "habitat", "population", "environment"],
+    "answer": "habitat"
   },
   {
     "number": 5,
-    "question": "Which house won the last inter-house sports competition?",
-    "options": [
-      "Ruby House",
-      "Emerald House",
-      "Sapphire House",
-      "Topaz House"
-    ],
-    "answer": "Emerald House"
+    "question": "Movement of water across a semi-permeable membrane from a weaker solution to a stronger solution is known as",
+    "options": ["transpiration", "diffusion", "active transport", "osmosis"],
+    "answer": "osmosis"
   },
   {
     "number": 6,
-    "question": "What is the name of the student-led media group in Sun Dream School?",
-    "options": [
-      "DreamCast",
-      "The Sunshine Press Club",
-      "Sun Dream Media House",
-      "Sun Dream Reporters"
-    ],
-    "answer": "Sun Dream Media House"
+    "question": "Which of the following is an abiotic factor which affects a population?",
+    "options": ["Temperature", "Producer", "Consumer", "Parasite"],
+    "answer": "Temperature"
   },
   {
     "number": 7,
-    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
-    "options": [
-      "Mathematics",
-      "ICT",
-      "Civic Education",
-      "Home Economics"
-    ],
-    "answer": "ICT"
+    "question": "An inferior ovary of a flower is situated",
+    "options": ["below the floral parts", "above the floral parts", "at the same level with the floral parts", "at the centre of the floral parts"],
+    "answer": "below the floral parts"
   },
   {
     "number": 8,
-    "question": "Which of these is a core value promoted by Sun Dream International School?",
-    "options": [
-      "Fame",
-      "Humility",
-      "Power",
-      "Popularity"
-    ],
-    "answer": "Humility"
+    "question": "Conservation may be promoted by",
+    "options": ["encouraging tree plants", "deforestation", "overgrazing", "bush burning"],
+    "answer": "encouraging tree plants"
   },
   {
     "number": 9,
-    "question": "How many campuses does Sun Dream School currently have?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "answer": "Two"
+    "question": "Which of the following is a biotic components of an ecosystem?",
+    "options": ["Soil", "Rainfall", "Light", "Fungi"],
+    "answer": "Fungi"
   },
   {
     "number": 10,
-    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
-    "options": [
-      "Jet Club",
-      "Press Club",
-      "Green Club",
-      "Creative Arts Club"
-    ],
-    "answer": "Green Club"
+    "question": "The process by which plants manufacture their food from carbon dioxide and water using energy from the sun is called",
+    "options": ["chemosynthesis", "photosynthesis", "anabolism", "catabolism"],
+    "answer": "photosynthesis"
   },
   {
     "number": 11,
-    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
-    "options": [
-      "Adaora M.",
-      "Christabel U.",
-      "Amarachi O.",
-      "Blessing A."
-    ],
-    "answer": "Christabel U."
+    "question": "Rhizobium which lives in the root nodules of leguminous plants is an example of association known as",
+    "options": ["commensalism", "epiphytism", "mutualism", "saprophytism"],
+    "answer": "mutualism"
   },
   {
     "number": 12,
-    "question": "Which of the following is a tradition during the school’s end-of-year party?",
+    "question": "Ecology simply means the study of",
     "options": [
-      "Talent Hunt",
-      "Principal’s Debate",
-      "Cultural Dance Parade",
-      "Parents vs Teachers Football Match"
+      "the properties of a habitat",
+      "inter-relationship between organisms and their environment",
+      "several species of plants and animals",
+      "inter-relationship between plants and animals"
     ],
-    "answer": "Cultural Dance Parade"
+    "answer": "inter-relationship between organisms and their environment"
   },
   {
     "number": 13,
-    "question": "What is the title of the school anthem?",
+    "question": "A population is best described as",
     "options": [
-      "Dream Beyond the Stars",
-      "Great Sun Dream",
-      "Light of the Future",
-      "Together We Rise"
+      "a group of organism of the same species living together",
+      "a group of animals and plants living together",
+      "a group of insects and grasses",
+      "different species of wild animals"
     ],
-    "answer": "Great Sun Dream"
+    "answer": "a group of organism of the same species living together"
   },
   {
     "number": 14,
-    "question": "What language is taught as a second language in Sun Dream School?",
-    "options": [
-      "French",
-      "Spanish",
-      "Chinese",
-      "German"
-    ],
-    "answer": "French"
+    "question": "Which of the following instruments is not used in measuring abiotic factors in a habitat",
+    "options": ["wind vane", "thermometer", "microscope", "hygrometer"],
+    "answer": "microscope"
   },
   {
     "number": 15,
-    "question": "Which award is usually given to the most disciplined student?",
+    "question": "The term syncarpous is used to described a flower when the carpels are",
     "options": [
-      "Star Award",
-      "Model Student Award",
-      "Dream Ambassador",
-      "Excellence Badge"
+      "many and fused",
+      "two only",
+      "two and nectar",
+      "lying at different parts of a flower"
     ],
-    "answer": "Model Student Award"
+    "answer": "many and fused"
   },
   {
     "number": 16,
-    "question": "What is the name of the weekly assembly presentation organized by students?",
+    "question": "Which of the following structures are characteristics of insect pollinated flowers?",
     "options": [
-      "Dream Talk",
-      "Value Time",
-      "Sunrise Spotlight",
-      "Assembly Showcase"
+      "Dull coloured flowers with no nectar",
+      "Very light, numerous and peridulous stamen",
+      "Brightly coloured petals, scent and nectar",
+      "Flowers are usually small and inconspicuous"
     ],
-    "answer": "Dream Talk"
+    "answer": "Brightly coloured petals, scent and nectar"
   },
   {
     "number": 17,
-    "question": "Which of these activities is held every Friday afternoon?",
+    "question": "Which of the following is an advantage of dispersal of fruits and seeds? It allows",
     "options": [
-      "School Sanitation",
-      "House Meetings",
-      "PTA Forum",
-      "Club Activities"
+      "fair distribution of source of food for animals",
+      "growth in close association with parent plant",
+      "even distribution of plants and reduction of intra specific competition",
+      "the seeds to evolve new species"
     ],
-    "answer": "Club Activities"
+    "answer": "even distribution of plants and reduction of intra specific competition"
   },
   {
     "number": 18,
-    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
-    "options": [
-      "Mr. Joshua",
-      "Mr. Samuel",
-      "Mr. Mfoniso",
-      "Mr. Emeka"
-    ],
-    "answer": "Mr. Mfoniso"
+    "question": "The series of changes that occur in a seed by which the embryo develops into a seedling is known as",
+    "options": ["fertilizer", "gametogenesis", "pollination", "germination"],
+    "answer": "germination"
   },
   {
     "number": 19,
-    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
-    "options": [
-      "National Girls in ICT Competition",
-      "Junior Tech Stars",
-      "Code Nigeria Hackathon",
-      "Digital Youth Challenge"
-    ],
-    "answer": "National Girls in ICT Competition"
+    "question": "An association between two organisms in which both benefit is called",
+    "options": ["parasitism", "commensalism", "symbiosis", "predation"],
+    "answer": "symbiosis"
   },
   {
     "number": 20,
-    "question": "What is the nickname often used by students for the school?",
+    "question": "Which of the following pairs consists of gametes?",
     "options": [
-      "SD Nation",
-      "Sunshine City",
-      "Dreamers' Den",
-      "SDIS"
+      "Ova and spermatozoan",
+      "Spores and sporangium",
+      "Flowers and pollen grains",
+      "Testes and ovaries"
     ],
-    "answer": "SDIS"
+    "answer": "Ova and spermatozoan"
+  },
+  {
+    "number": 21,
+    "question": "Which of these groups of organisms is responsible for capturing energy for the biotic community?",
+    "options": ["Decomposers", "Omnivore", "Consumers", "Producers"],
+    "answer": "Producers"
+  },
+  {
+    "number": 22,
+    "question": "Which of these is not true characteristics of the tropical rain forest?",
+    "options": [
+      "Vegetation consists predominantly of tall trees with thick canopy",
+      "Forest is rich in epiphytes and climbers",
+      "Annual rainfall is less than 100cm",
+      "Fruits of trees are often large sized and are generally without adaptation to wind dispersal"
+    ],
+    "answer": "Annual rainfall is less than 100cm"
+  },
+  {
+    "number": 23,
+    "question": "Which of the following is not a way of conserving natural resources?",
+    "options": [
+      "Adopting good farming practices",
+      "Establishing forest reserves",
+      "Establishing game reserves",
+      "Encouraging poaching"
+    ],
+    "answer": "Encouraging poaching"
+  },
+  {
+    "number": 24,
+    "question": "The transfer of pollen grains from the anther to the stigma of the same flower is known as",
+    "options": ["fertilization", "self pollination", "reproduction", "conjugation"],
+    "answer": "self pollination"
+  },
+  {
+    "number": 25,
+    "question": "Respiration is an essential life process providing the living cells with",
+    "options": ["carbondioxide", "energy", "sugars", "glycogen"],
+    "answer": "energy"
+  },
+  {
+    "number": 26,
+    "question": "A major pollutant around airport residential areas is",
+    "options": ["oil spillage", "soot", "noise", "dust"],
+    "answer": "noise"
+  },
+  {
+    "number": 27,
+    "question": "The type of cell division undergo by cell during sexual reproduction is known as",
+    "options": ["mitosis", "meiosis", "metaphase", "telophase"],
+    "answer": "meiosis"
+  },
+  {
+    "number": 28,
+    "question": "The form of courtship behavior in which a member of a specie mark out areas or territories where they can live and breed is known as ",
+    "options": [
+      "seasonal migration",
+      "territoriality",
+      "display of body parts",
+      "pairing "
+    ],
+    "answer": "territoriality"
+  },
+  {
+    "number": 29,
+    "question": "Which of the following is not part of the male reproductive system?",
+    "options": ["Penis", "Testes", "Uterus", "Prostate gland"],
+    "answer": "Uterus"
+  },
+  {
+    "number": 30,
+    "question": "About how long does the menstrual cycle takes?",
+    "options": ["5days", "25days", "14days", "28days"],
+    "answer": "28days"
+  },
+  {
+    "number": 31,
+    "question": "What is a zygote?",
+    "options": [
+      "A cell formed when two embryos join which will develop into a gamete",
+      "A cell formed when two gametes join which will develop into a gland",
+      "A cell formed when two gametes join which will develop into an embryo",
+      "A cell formed when two gland meet to produce an hormone"
+    ],
+    "answer": "A cell formed when two gametes join which will develop into an embryo"
+  },
+  {
+    "number": 32,
+    "question": "Ovulation is best defined as",
+    "options": [
+      "the release of mature egg cell",
+      "the loss of the endometrium lining of the uterus",
+      "the joining of a sperm and an egg",
+      "the cell passing through the fallopian tube"
+    ],
+    "answer": "the release of mature egg cell"
+  },
+  {
+    "number": 33,
+    "question": "Which hormone is responsible for the development of male secondary sexual characteristics?",
+    "options": [
+      "Luitenizing hormone",
+      "oestrogen",
+      "progesterone",
+      "testosterone"
+    ],
+    "answer": "testosterone"
+  },
+  {
+    "number": 34,
+    "question": "In reproduction, what is fertilization?",
+    "options": [
+      "When a male and female gamete join",
+      "When a farmer puts manure on farmland",
+      "When a plant drop seeds onto the ground",
+      "The ripening of egg cell"
+    ],
+    "answer": "When a male and female gamete join"
+  },
+  {
+    "number": 35,
+    "question": "Which statement about flowering plants is correct?",
+    "options": [
+      "The stamen is the female part of the flower and comprises the filament and anther",
+      "The stamen is the male part of the flower and comprises the filament and anther",
+      "The carpel is the female part of the flower and comprises the ovary and filament",
+      "The stamen consists of pistil and anther"
+    ],
+    "answer": "The stamen is the male part of the flower and comprises the filament and anther"
+  },
+  {
+    "number": 36,
+    "question": "How are the pollen grains of insect pollinated plants adapted for transfer?",
+    "options": [
+      "They are smooth and light",
+      "They are produced in very large amounts",
+      "They are sticky and brightly coloured",
+      "Flowers have no scent, no nectar"
+    ],
+    "answer": "They are sticky and brightly coloured"
+  },
+  {
+    "number": 37,
+    "question": "The transfer of pollen grain from the anther to the stigma of a flower to another of the same species is known as",
+    "options": [
+      "self pollination",
+      "cross pollination",
+      "germination",
+      "fertilization"
+    ],
+    "answer": "cross pollination"
+  },
+  {
+    "number": 38,
+    "question": "The arrangement of the ovules in the ovary is known as",
+    "options": ["syncarpous", "pollination", "marginal", "placentation"],
+    "answer": "placentation"
+  },
+  {
+    "number": 39,
+    "question": "When a flower contains both pistil and stamen it is referred to as",
+    "options": [
+      "complete flower",
+      "incomplete flower",
+      "hermaphrodite flower",
+      "imperfect flower"
+    ],
+    "answer": "complete flower"
+  },
+  {
+    "number": 40,
+    "question": "The type of reproduction in which eggs are released from the female parents body to hatch and develop in external environment is termed",
+    "options": ["viviparity", "oviparity", "ovoviviparity", "desiccation"],
+    "answer": "oviparity"
+  },
+  {
+    "number": 41,
+    "question": "An effective management of natural resources to ensure their continuous yield from generation to generation may involve all the following except",
+    "options": [
+      "protection of wildlife",
+      "prevention of habitat destruction",
+      "biological control of pests",
+      "disposal of raw sewage into the sea"
+    ],
+    "answer": "disposal of raw sewage into the sea"
+  },
+  {
+    "number": 42,
+    "question": "The type of asexual reproduction in which part of an organism breaks up to give rise to a new individual is known as",
+    "options": [
+      "spore formation",
+      "budding",
+      "fragmentation",
+      "vegetative propagation"
+    ],
+    "answer": "fragmentation"
+  },
+  {
+    "number": 43,
+    "question": "The drugs which inhibit the growth of disease-causing organisms and thus used in the treatment of infections are referred to as",
+    "options": [
+      "antibodies",
+      "antibiotics",
+      "anti-toxics",
+      "septics"
+    ],
+    "answer": "antibiotics"
+  },
+  {
+    "number": 44,
+    "question": "Organisms that feed essentially on plants within an ecosystem may be referred to as",
+    "options": [
+      "carnivores",
+      "herbivores",
+      "saprophytes",
+      "omnivores"
+    ],
+    "answer": "herbivores"
+  },
+  {
+    "number": 45,
+    "question": "Endangered species are organisms that ought to be",
+    "options": [
+      "hunted",
+      "killed",
+      "poached",
+      "protected"
+    ],
+    "answer": "protected"
+  },
+  {
+    "number": 46,
+    "question": "Which of the following substances is not a conservable natural resource?",
+    "options": [
+      "Mineral",
+      "Soil",
+      "Water",
+      "Air"
+    ],
+    "answer": "Air"
+  },
+  {
+    "number": 47,
+    "question": "Which of the following male reproductive organs help in the production of sperm?",
+    "options": [
+      "Vas deferens",
+      "Epididymis",
+      "Prepuce",
+      "Seminiferous tubules"
+    ],
+    "answer": "Seminiferous tubules"
+  },
+  {
+    "number": 48,
+    "question": "Which of the following female reproductive system represents a penis and erectile in nature?",
+    "options": [
+      "Cervix",
+      "Fallopian tube",
+      "Clitoris",
+      "Uterus"
+    ],
+    "answer": "Clitoris"
+  },
+  {
+    "number": 49,
+    "question": "Sperm is stored in the",
+    "options": [
+      "prostrate gland",
+      "seminiferous tubule",
+      "testes",
+      "epididymis"
+    ],
+    "answer": "epididymis"
+  },
+  {
+    "number": 50,
+    "question": "The male sexual reproductive organ in flowering plant is",
+    "options": [
+      "corolla",
+      "sepal",
+      "gynoecium",
+      "androecium"
+    ],
+    "answer": "androecium"
   }
 ]
-
-
