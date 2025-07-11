@@ -1,368 +1,503 @@
 [
   {
-    "question": "The upper legislative chamber of the national Assembly of Nigeria is also known as the",
-    "options": ["honorables", "house of commons", "house of lords", "senate"],
-    "answer": "senate"
-  },
-  {
-    "question": "A father that effectively discharges his duty towards his children could be described as a",
-    "options": ["philanthropist", "celebrity", "responsible parent", "permissive father"],
-    "answer": "responsible parent"
-  },
-  {
-    "question": "In a democratic government, franchise is given to all",
-    "options": ["party members", "resident adults", "adult citizens", "opinion leaders"],
-    "answer": "adult citizens"
-  },
-  {
-    "question": "One of the functions of local government is",
-    "options": ["Settlement of intra-party crisis", "Making of bye-laws", "Formulation of monetary policies", "Delimination of constituencies"],
-    "answer": "Making of bye-laws"
-  },
-  {
-    "question": "An enlightenment and awareness campaign of HIV/AIDS could",
-    "options": ["lead to discrimination", "create job opportunity", "cause conflict", "provide people with genuine information"],
-    "answer": "provide people with genuine information"
-  },
-  {
-    "question": "Which of the following is a way of achieving responsible parenthood?",
-    "options": ["Commitment", "Patriotism", "Favouritism", "Goodness"],
-    "answer": "Commitment"
-  },
-  {
-    "question": "A limitation to the exercise of human right is",
-    "options": ["war", "deportation", "migration", "HIV/AIDS"],
-    "answer": "war"
-  },
-  {
-    "question": "The Federal Road Safety Corps (FRSC) carries out all these functions except",
-    "options": ["construction of motorable roads", "effective patrol operation", "inspection of vehicles", "prompt rescue mission"],
-    "answer": "construction of motorable roads"
-  },
-  {
-    "question": "Membership of an organization that is characterized by secrecy of operations is associated with",
-    "options": ["activism", "cultism", "radicalism", "spiritism"],
-    "answer": "cultism"
-  },
-  {
-    "question": "The origin of democracy is traced to the",
-    "options": ["Romans", "Greeks", "Egyptians", "British"],
-    "answer": "Greeks"
-  },
-  {
-    "question": "The principle of rule of law is upheld on the society in order to",
+    "question": "What is coding?",
     "options": [
-      "protect the citizens from arbitrary rule",
-      "accord immunity to the president",
-      "preserve customs and tradition of the society",
-      "encourage mass literacy and prosperity"
+      "Speaking to computers using human language",
+      "Creating graphic designs using paint software",
+      "Fixing broken electronic components",
+      "Writing instructions in a programming language for computers to follow"
     ],
-    "answer": "protect the citizens from arbitrary rule"
+    "answer": "Writing instructions in a programming language for computers to follow"
   },
   {
-    "question": "Which of the following principles prohibits public servants from being seen or heard in the public?",
-    "options": ["Permanence", "Impartiality", "Meritocracy", "Anonymity"],
-    "answer": "Anonymity"
-  },
-  {
-    "question": "Trafficked children are likely to experience all the following except",
-    "options": ["empowerment", "prostitution", "forced labour", "unwanted pregnancy"],
-    "answer": "empowerment"
-  },
-  {
-    "question": "Teaching children to be satisfied with what they have is a way of encouraging",
-    "options": ["self-reliance", "orderliness", "contentment", "selflessness"],
-    "answer": "contentment"
-  },
-  {
-    "question": "The Universal Declaration of Human Rights (UDHR) was adopted by the",
+    "question": "Which component’s resistance changes with light intensity?",
     "options": [
-      "United Nations General Assembly",
-      "United Nations Security Council",
-      "United Nations San-Francisco Conference",
-      "United Nations Trusteeship Council"
+      "Thermistor",
+      "Capacitor",
+      "LDR",
+      "Transistor"
     ],
-    "answer": "United Nations General Assembly"
+    "answer": "LDR"
   },
   {
-    "question": "The senate and House of Representatives in Nigeria constitutes the",
-    "options": ["federal congress", "national parliament", "federal legislature", "national assembly"],
-    "answer": "national assembly"
-  },
-  {
-    "question": "A child who is forced to engage in hawking all day must have been denied the right to",
-    "options": ["life", "expression", "education", "fair hearing"],
-    "answer": "education"
-  },
-  {
-    "question": "The sole aim of youth empowerment is to",
+    "question": "Which component can store energy for a short time and release it quickly?",
     "options": [
-      "encourage students to take on a vacation job",
-      "learn to earn money and also how to manage",
-      "learn how to behave in a work related environment",
-      "give youths financial independence and self reliance"
+      "Resistor",
+      "Buzzer",
+      "Capacitor",
+      "Voltage Regulator"
     ],
-    "answer": "give youths financial independence and self reliance"
+    "answer": "Capacitor"
   },
   {
-    "question": "An established way by which Labour Unions protect the interest of workers is",
-    "options": ["police action", "hunger strike", "industrial action", "mass resignation"],
-    "answer": "industrial action"
-  },
-  {
-    "question": "A system of government where the ultimate power resides in the people is",
-    "options": ["plutocracy", "aristocracy", "theocracy", "democracy"],
-    "answer": "democracy"
-  },
-  {
-    "question": "Politically enlightened people may still feel discouraged in the political affairs of their society because of political",
-    "options": ["selflessness", "contentment", "participation", "marginalization"],
-    "answer": "marginalization"
-  },
-  {
-    "question": "The programmes political parties intend to implement if they are voted into power are known as political",
-    "options": ["campaigns", "manifestoes", "agenda", "propaganda"],
-    "answer": "manifestoes"
-  },
-  {
-    "question": "Which of the following has the power to impeach the president in Nigeria?",
-    "options": ["Executive", "Judiciary", "Legislature", "Supreme court"],
-    "answer": "Legislature"
-  },
-  {
-    "question": "The law protecting certain individuals from being prosecuted is called",
-    "options": ["penal code", "constitutional protection", "immunity clause", "legal rights"],
-    "answer": "immunity clause"
-  },
-  {
-    "question": "Which of the following may not be vested with a constituted authority?",
-    "options": ["A family", "A mob", "A school", "A state"],
-    "answer": "A mob"
-  },
-  {
-    "question": "The attitude that prevents peaceful resolution of inter-communal conflict is",
-    "options": ["conciliation", "resentment", "dialogue", "mediation"],
-    "answer": "resentment"
-  },
-  {
-    "question": "Identify the odd one from the list below in relation to citizenship obligations",
-    "options": ["payment of taxes", "right to personal identity", "protection of public utilities", "obedience to the law"],
-    "answer": "right to personal identity"
-  },
-  {
-    "question": "Interest and willingness to participate in the affairs of a nation are forms of",
-    "options": ["popular participation", "national consciousness", "political apathy", "citizenship education"],
-    "answer": "popular participation"
-  },
-  {
-    "question": "Irresponsible parenting has the tendency of",
-    "options": ["encouraging egoistic tendencies", "preserving of culture", "promoting of positive values", "promoting peaceful co-existence"],
-    "answer": "encouraging egoistic tendencies"
-  },
-  {
-    "question": "Limitation to the right to life can be found in the case of",
-    "options": ["an imprisoned person", "a kidnapped person", "a condemned person", "a trafficked person"],
-    "answer": "a condemned person"
-  },
-  {
-    "question": "Which of the following is a cause of political apathy in Nigeria?",
+    "question": "The symbol for a resistor is:",
     "options": [
-      "Adequate citizenship education",
-      "A free and fair election",
-      "Biased electoral umpires",
-      "Adequate political awareness"
+      "—^—",
+      "—||—",
+      "—Ω—",
+      "—()—"
     ],
-    "answer": "Biased electoral umpires"
+    "answer": "—Ω—"
   },
   {
-    "question": "Interpersonal relationship is promoted through the following ways except",
+    "question": "What is the main use of a breadboard?",
     "options": [
-      "confrontation",
-      "healthy competition",
-      "cooperation",
-      "communal living"
+      "Permanent connection",
+      "Power supply",
+      "Temporary circuit testing",
+      "Soldering"
     ],
-    "answer": "confrontation"
+    "answer": "Temporary circuit testing"
   },
   {
-    "question": "The composition of National Assembly of the federal Republic of Nigeria could be termed",
+    "question": "Jumper wires are mainly used to:",
     "options": [
-      "unicameral",
-      "collegial",
-      "bicameral",
-      "hierarchical"
+      "Supply light",
+      "Test batteries",
+      "Make connections",
+      "Produce sound"
     ],
-    "answer": "bicameral"
+    "answer": "Make connections"
   },
   {
-    "question": "The head of the judicial arm of government in Nigeria is the",
+    "question": "The law that relates Voltage, Current, and Resistance is:",
     "options": [
-      "chief justice",
-      "supreme leader",
-      "chief of staff",
-      "chief magistrate"
+      "Boyle's Law",
+      "Mr Eze’s Law",
+      "Newton’s Law",
+      "Ohm's Law"
     ],
-    "answer": "chief justice"
+    "answer": "Ohm's Law"
   },
   {
-    "question": "A situation where only 35% of over 80 million registered voters participated in a general election, is an indication of political",
+    "question": "The negative leg of an LED is called:",
     "options": [
-      "instability",
-      "exclusiveness",
-      "apathy",
-      "socialization"
+      "Anode",
+      "Cathode",
+      "Terminal",
+      "Connector"
     ],
-    "answer": "apathy"
+    "answer": "Cathode"
   },
   {
-    "question": "The defence of the territorial integrity of a country by her citizens is part of",
+    "question": "Who can learn coding and robotics?",
     "options": [
-      "political participation",
-      "self-determination",
-      "political culture",
-      "duties and obligations"
+      "Only science students",
+      "Only computer engineers",
+      "Anyone interested, including artists and business students",
+      "Only university graduates"
     ],
-    "answer": "duties and obligations"
+    "answer": "Anyone interested, including artists and business students"
   },
   {
-    "question": "The society can be much more peaceful if individuals learn to",
+    "question": "Which of these components is not affected by light?",
     "options": [
-      "respect and obey the laws of the land",
-      "gather knowledge about politics",
-      "understand the human rights commission",
-      "seek redress in the court of law"
+      "LED",
+      "LDR",
+      "Phototransistor",
+      "Capacitor"
     ],
-    "answer": "respect and obey the laws of the land"
+    "answer": "Capacitor"
   },
   {
-    "question": "One of the aims of citizenship education is to produce students with",
+    "question": "A voltage regulator helps to:",
     "options": [
-      "creative skill",
-      "high sense of entrepreneurial skill",
-      "high sense of patriotism",
-      "manipulative skills"
+      "Boost light",
+      "Control brightness",
+      "Maintain constant voltage",
+      "Reduce resistance"
     ],
-    "answer": "high sense of patriotism"
+    "answer": "Maintain constant voltage"
   },
   {
-    "question": "Who among the following could be described as the founding father of Nigerian nationalism?",
+    "question": "Which device can control brightness by adjusting resistance?",
     "options": [
-      "Nnamdi Azikiwe",
-      "Herbert Macauley",
-      "Ahmadu Bello",
-      "Obafemi Awolowo"
+      "LED",
+      "Potentiometer",
+      "Switch",
+      "Buzzer"
     ],
-    "answer": "Herbert Macauley"
+    "answer": "Potentiometer"
   },
   {
-    "question": "The status of being a legal member of a country is referred to as",
+    "question": "Which of the following is TRUE about starting coding and robotics early?",
     "options": [
-      "alien",
-      "asylum",
-      "citizenship",
-      "migrant"
+      "It helps prepare students for future",
+      "It is only for adults with jobs",
+      "It confuses young learners",
+      "It is only useful in science laboratories"
     ],
-    "answer": "citizenship"
+    "answer": "It helps prepare students for future"
   },
   {
-    "question": "Citizens can be deprived of their rights during",
+    "question": "The component that breaks or completes a circuit is:",
     "options": [
-      "democratic regime",
-      "emergency rule",
-      "parliamentary debate",
-      "political campaign"
+      "Switch",
+      "Capacitor",
+      "Resistor",
+      "LED"
     ],
-    "answer": "emergency rule"
+    "answer": "Switch"
   },
   {
-    "question": "The best means through which individual rights can be safeguarded is",
+    "question": "Breadboards do not require:",
     "options": [
-      "knowledge acquisition",
-      "judicial independence",
-      "press censorship",
-      "improved standard of living"
+      "Power supply",
+      "Soldering",
+      "Jumper wires",
+      "Connections"
     ],
-    "answer": "judicial independence"
+    "answer": "Soldering"
   },
   {
-    "question": "The right to vote and be voted for is classified under _____ rights.",
+    "question": "Which one is NOT polarized?",
     "options": [
-      "economic",
-      "legal",
-      "political",
-      "religious"
+      "Resistor",
+      "Capacitor",
+      "LED",
+      "Buzzer"
     ],
-    "answer": "political"
+    "answer": "Resistor"
   },
   {
-    "question": "Franchise means right to",
+    "question": "The process of inserting components into a breadboard is called:",
     "options": [
-      "contest for political post",
-      "join association",
-      "live in Nigeria",
-      "vote and be voted for"
+      "Programming",
+      "Mounting",
+      "Wiring",
+      "Soldering"
     ],
-    "answer": "vote and be voted for"
+    "answer": "Mounting"
   },
   {
-    "question": "The Universal Declaration of Human Rights (UDHR) was adopted by the",
+    "question": "What happens if an LED is connected in reverse?",
     "options": [
-      "United Nations General Assembly",
-      "United Nations Security Council",
-      "United Nations San-Francisco Conference",
-      "United Nations Trusteeship Council"
+      "It works brighter",
+      "It explodes",
+      "It stores energy",
+      "It does not light"
     ],
-    "answer": "United Nations General Assembly"
+    "answer": "It does not light"
   },
   {
-    "question": "The universal declaration for protection of human rights abuse and violation worldwide was adopted by the United Nations (UN) in",
+    "question": "A potentiometer is also known as:",
     "options": [
-      "1935",
-      "1940",
-      "1948",
-      "1950"
+      "Fixed resistor",
+      "Variable resistor",
+      "LDR",
+      "Switch"
     ],
-    "answer": "1948"
+    "answer": "Variable resistor"
   },
   {
-    "question": "The headquarters of ECOWAS is located in",
+    "question": "LEDs are most commonly used in:",
     "options": [
-      "Abuja",
-      "Accra",
-      "Addis-Ababa",
-      "Lome"
+      "Radios",
+      "Light indicators",
+      "Switches",
+      "Capacitors"
     ],
-    "answer": "Abuja"
+    "answer": "Light indicators"
   },
   {
-    "question": "The land in contention between Nigeria and Cameroun is called",
+    "question": "Which tool is often used to test connections on a breadboard?",
     "options": [
-      "Bakassi Penisula",
-      "Bonny Island",
-      "Calabar River",
-      "Lekki Penisula"
+      "Soldering iron",
+      "Screwdriver",
+      "Multimeter",
+      "Barometer"
     ],
-    "answer": "Bakassi Penisula"
+    "answer": "Multimeter"
   },
   {
-    "question": "Which of these is not a factor that causes conflict?",
+    "question": "Capacitors are measured in:",
     "options": [
-      "Crime",
-      "Envy",
-      "Ethnicism",
-      "Understanding"
+      "Ohms",
+      "Watts",
+      "Amperes",
+      "Farads"
     ],
-    "answer": "Understanding"
+    "answer": "Farads"
   },
   {
-    "question": "Preventive measures of HIV/AIDS do not include",
+    "question": "The breadboard's side rails are mainly used for:",
     "options": [
-      "abstinence",
-      "screening of blood before transfusion",
-      "use of barrier methods",
-      "stigmatization of victims"
+      "Power and ground",
+      "Mounting",
+      "Signal transfer",
+      "Soldering"
     ],
-    "answer": "stigmatization of victims"
+    "answer": "Power and ground"
+  },
+  {
+    "question": "When is the best time to start learning coding and robotics?",
+    "options": [
+      "Only after secondary school",
+      "Only in university",
+      "Only when you become a computer engineer",
+      "As early as possible, even in primary or secondary school"
+    ],
+    "answer": "As early as possible, even in primary or secondary school"
+  },
+  {
+    "question": "What component is commonly used for the audio indication of current flowing in the circuit?",
+    "options": [
+      "LED",
+      "Resistor",
+      "Voltage Regulator",
+      "Buzzer"
+    ],
+    "answer": "Buzzer"
+  },
+  {
+    "question": "What type of voltage do breadboard circuits usually use?",
+    "options": [
+      "AC",
+      "DC",
+      "Mixed",
+      "None"
+    ],
+    "answer": "DC"
+  },
+  {
+    "question": "Which component is not polarized?",
+    "options": [
+      "Capacitor (electrolytic)",
+      "LED",
+      "Resistor",
+      "Diode"
+    ],
+    "answer": "Resistor"
+  },
+  {
+    "question": "An LDR is used in:",
+    "options": [
+      "Electric fans",
+      "Light-sensitive alarms",
+      "Speakers",
+      "Buzzers"
+    ],
+    "answer": "Light-sensitive alarms"
+  },
+  {
+    "question": "Which is the correct way to place components in a breadboard?",
+    "options": [
+      "Force them hard",
+      "Bend the legs first",
+      "Match the rows and columns",
+      "Use glue"
+    ],
+    "answer": "Match the rows and columns"
+  },
+  {
+    "question": "The name of the small wires used to connect breadboard components is:",
+    "options": [
+      "Copper wires",
+      "Jumper wires",
+      "Live wires",
+      "Fuse wires"
+    ],
+    "answer": "Jumper wires"
+  },
+  {
+    "question": "What is the function of a light-dependent resistor in a streetlight circuit?",
+    "options": [
+      "Store charge",
+      "Emit sound",
+      "Control the light based on brightness",
+      "Act as a switch manually"
+    ],
+    "answer": "Control the light based on brightness"
+  },
+  {
+    "question": "What is the relationship between Voltage, Current, and Resistance?",
+    "options": [
+      "V = Voltage",
+      "V = IR",
+      "I = V * R",
+      "R*V = I"
+    ],
+    "answer": "V = IR"
+  },
+  {
+    "question": "The Bulbs in Fig.1 are connected in ……………………….?",
+    "options": [
+      "Series",
+      "Parallel",
+      "Series-Parallel",
+      "Parallel-Series"
+    ],
+    "answer": "Series"
+  },
+  {
+    "question": "Which of the following best describes voltage?",
+    "options": [
+      "Opposition to current",
+      "Amount of charge",
+      "Flow of electrons",
+      "Electrical pressure or potential difference"
+    ],
+    "answer": "Electrical pressure or potential difference"
+  },
+  {
+    "question": "What is the primary source of DC electricity in electronics projects?",
+    "options": [
+      "Solar panel",
+      "Mains electricity",
+      "Battery",
+      "Capacitor"
+    ],
+    "answer": "Battery"
+  },
+  {
+    "question": "Which of these quantities is measured in amperes (A)?",
+    "options": [
+      "Voltage",
+      "Resistance",
+      "Capacitance",
+      "Current"
+    ],
+    "answer": "Current"
+  },
+  {
+    "question": "In a DC circuit, current flows from:",
+    "options": [
+      "Negative to positive",
+      "Ground to power",
+      "Positive to negative",
+      "AC to DC"
+    ],
+    "answer": "Positive to negative"
+  },
+  {
+    "question": "What happens to the current in a series circuit with more resistors added?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains the same",
+      "It becomes zero"
+    ],
+    "answer": "It decreases"
+  },
+  {
+    "question": "What happens to the current in a parallel circuit with more resistors added?",
+    "options": [
+      "Shared among branches",
+      "Zero across all branches",
+      "Doubled in each branch",
+      "Same across all branches"
+    ],
+    "answer": "Shared among branches"
+  },
+  {
+    "question": "Which of the following statements about resistors is TRUE?",
+    "options": [
+      "They store energy",
+      "They increase voltage",
+      "They control current flow",
+      "They detect light"
+    ],
+    "answer": "They control current flow"
+  },
+  {
+    "question": "Why is a resistor necessary for an LED?",
+    "options": [
+      "To increase voltage",
+      "To protect the LED from too much current",
+      "To switch the LED on",
+      "To increase brightness"
+    ],
+    "answer": "To protect the LED from too much current"
+  },
+  {
+    "question": "What is the total resistance in a series circuit with 2Ω and 3Ω resistors connected?",
+    "options": [
+      "1.25Ω",
+      "5Ω",
+      "6Ω",
+      "2Ω, 3Ω"
+    ],
+    "answer": "5Ω"
+  },
+  {
+    "question": "What is the total resistance in a parallel circuit with 2Ω and 3Ω resistors connected?",
+    "options": [
+      "1.25Ω",
+      "5Ω",
+      "6Ω",
+      "2Ω, 3Ω"
+    ],
+    "answer": "1.25Ω"
+  },
+  {
+    "question": "In a parallel circuit, adding another branch will:",
+    "options": [
+      "Increase the total resistance",
+      "Decrease the total resistance",
+      "Has no effect",
+      "Stop current flow"
+    ],
+    "answer": "Decrease the total resistance"
+  },
+  {
+    "question": "Which of these is a correct function of a voltage regulator?",
+    "options": [
+      "To produce sound",
+      "To generate electricity",
+      "To stabilize the output voltage",
+      "To switch the circuit"
+    ],
+    "answer": "To stabilize the output voltage"
+  },
+  {
+    "question": "The main difference between AC and DC?",
+    "options": [
+      "AC changes direction, DC flows in one direction",
+      "DC is more dangerous",
+      "AC is weaker",
+      "DC flows in a loop, AC does not"
+    ],
+    "answer": "AC changes direction, DC flows in one direction"
+  },
+  {
+    "question": "What is Arduino?",
+    "options": [
+      "A high-end gaming console",
+      "An Open-source electronics platform for building interactive projects",
+      "A type of smartphone operating system",
+      "A programming language"
+    ],
+    "answer": "An Open-source electronics platform for building interactive projects"
+  },
+  {
+    "question": "How many terminals does a typical Light Dependent Resistor have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is coding?",
+    "options": [
+      "Speaking to computers using human language",
+      "Creating graphic designs using paint software",
+      "Fixing broken electronic components",
+      "Writing instructions in a programming language for computers to follow"
+    ],
+    "answer": "Writing instructions in a programming language for computers to follow"
+  },
+  {
+    "question": "Which of the following best describes the difference between block-level programming and textual programming?",
+    "options": [
+      "Block-level programming uses real wires, while textual programming does not",
+      "Block-level programming uses graphical blocks to represent code, while textual Programming uses written code or text",
+      "Textual programming is used only for gaming, while block-level is used for mobile apps",
+      "Textual programming cannot be used to create real applications"
+    ],
+    "answer": "Block-level programming uses graphical blocks to represent code, while textual Programming uses written code or text"
   }
 ]
 
