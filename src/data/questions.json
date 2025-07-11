@@ -1,503 +1,223 @@
 [
   {
-    "question": "What is coding?",
+    "number": 1,
+    "question": "What is the motto of Sun Dream International School?",
     "options": [
-      "Speaking to computers using human language",
-      "Creating graphic designs using paint software",
-      "Fixing broken electronic components",
-      "Writing instructions in a programming language for computers to follow"
+      "Learning Today, Leading Tomorrow",
+      "Knowledge for Excellence",
+      "Wisdom, Knowledge and Service",
+      "Inspiring the Future"
     ],
-    "answer": "Writing instructions in a programming language for computers to follow"
+    "answer": "Wisdom, Knowledge and Service"
   },
   {
-    "question": "Which component’s resistance changes with light intensity?",
+    "number": 2,
+    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
     "options": [
-      "Thermistor",
-      "Capacitor",
-      "LDR",
-      "Transistor"
+      "Red",
+      "Blue",
+      "Green",
+      "Purple"
     ],
-    "answer": "LDR"
+    "answer": "Blue"
   },
   {
-    "question": "Which component can store energy for a short time and release it quickly?",
+    "number": 3,
+    "question": "What is the name of the school's annual inter-house sports competition?",
     "options": [
-      "Resistor",
-      "Buzzer",
-      "Capacitor",
-      "Voltage Regulator"
+      "Sun Dream Olympics",
+      "DreamFit Games",
+      "Sun Dream Inter-House Fiesta",
+      "Sun Sprint Classic"
     ],
-    "answer": "Capacitor"
+    "answer": "Sun Dream Inter-House Fiesta"
   },
   {
-    "question": "The symbol for a resistor is:",
+    "number": 4,
+    "question": "In what year was Sun Dream International School established?",
     "options": [
-      "—^—",
-      "—||—",
-      "—Ω—",
-      "—()—"
+      "2010",
+      "2012",
+      "2018",
+      "2017"
     ],
-    "answer": "—Ω—"
+    "answer": "2018"
   },
   {
-    "question": "What is the main use of a breadboard?",
+    "number": 5,
+    "question": "Which house won the last inter-house sports competition?",
     "options": [
-      "Permanent connection",
-      "Power supply",
-      "Temporary circuit testing",
-      "Soldering"
+      "Ruby House",
+      "Emerald House",
+      "Sapphire House",
+      "Topaz House"
     ],
-    "answer": "Temporary circuit testing"
+    "answer": "Emerald House"
   },
   {
-    "question": "Jumper wires are mainly used to:",
+    "number": 6,
+    "question": "What is the name of the student-led media group in Sun Dream School?",
     "options": [
-      "Supply light",
-      "Test batteries",
-      "Make connections",
-      "Produce sound"
+      "DreamCast",
+      "The Sunshine Press Club",
+      "Sun Dream Media House",
+      "Sun Dream Reporters"
     ],
-    "answer": "Make connections"
+    "answer": "Sun Dream Media House"
   },
   {
-    "question": "The law that relates Voltage, Current, and Resistance is:",
+    "number": 7,
+    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
     "options": [
-      "Boyle's Law",
-      "Mr Eze’s Law",
-      "Newton’s Law",
-      "Ohm's Law"
+      "Mathematics",
+      "ICT",
+      "Civic Education",
+      "Home Economics"
     ],
-    "answer": "Ohm's Law"
+    "answer": "ICT"
   },
   {
-    "question": "The negative leg of an LED is called:",
+    "number": 8,
+    "question": "Which of these is a core value promoted by Sun Dream International School?",
     "options": [
-      "Anode",
-      "Cathode",
-      "Terminal",
-      "Connector"
+      "Fame",
+      "Humility",
+      "Power",
+      "Popularity"
     ],
-    "answer": "Cathode"
+    "answer": "Humility"
   },
   {
-    "question": "Who can learn coding and robotics?",
+    "number": 9,
+    "question": "How many campuses does Sun Dream School currently have?",
     "options": [
-      "Only science students",
-      "Only computer engineers",
-      "Anyone interested, including artists and business students",
-      "Only university graduates"
+      "One",
+      "Two",
+      "Three",
+      "Four"
     ],
-    "answer": "Anyone interested, including artists and business students"
+    "answer": "Two"
   },
   {
-    "question": "Which of these components is not affected by light?",
+    "number": 10,
+    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
     "options": [
-      "LED",
-      "LDR",
-      "Phototransistor",
-      "Capacitor"
+      "Jet Club",
+      "Press Club",
+      "Green Club",
+      "Creative Arts Club"
     ],
-    "answer": "Capacitor"
+    "answer": "Green Club"
   },
   {
-    "question": "A voltage regulator helps to:",
+    "number": 11,
+    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
     "options": [
-      "Boost light",
-      "Control brightness",
-      "Maintain constant voltage",
-      "Reduce resistance"
+      "Adaora M.",
+      "Christabel U.",
+      "Amarachi O.",
+      "Blessing A."
     ],
-    "answer": "Maintain constant voltage"
+    "answer": "Christabel U."
   },
   {
-    "question": "Which device can control brightness by adjusting resistance?",
+    "number": 12,
+    "question": "Which of the following is a tradition during the school’s end-of-year party?",
     "options": [
-      "LED",
-      "Potentiometer",
-      "Switch",
-      "Buzzer"
+      "Talent Hunt",
+      "Principal’s Debate",
+      "Cultural Dance Parade",
+      "Parents vs Teachers Football Match"
     ],
-    "answer": "Potentiometer"
+    "answer": "Cultural Dance Parade"
   },
   {
-    "question": "Which of the following is TRUE about starting coding and robotics early?",
+    "number": 13,
+    "question": "What is the title of the school anthem?",
     "options": [
-      "It helps prepare students for future",
-      "It is only for adults with jobs",
-      "It confuses young learners",
-      "It is only useful in science laboratories"
+      "Dream Beyond the Stars",
+      "Great Sun Dream",
+      "Light of the Future",
+      "Together We Rise"
     ],
-    "answer": "It helps prepare students for future"
+    "answer": "Great Sun Dream"
   },
   {
-    "question": "The component that breaks or completes a circuit is:",
+    "number": 14,
+    "question": "What language is taught as a second language in Sun Dream School?",
     "options": [
-      "Switch",
-      "Capacitor",
-      "Resistor",
-      "LED"
+      "French",
+      "Spanish",
+      "Chinese",
+      "German"
     ],
-    "answer": "Switch"
+    "answer": "French"
   },
   {
-    "question": "Breadboards do not require:",
+    "number": 15,
+    "question": "Which award is usually given to the most disciplined student?",
     "options": [
-      "Power supply",
-      "Soldering",
-      "Jumper wires",
-      "Connections"
+      "Star Award",
+      "Model Student Award",
+      "Dream Ambassador",
+      "Excellence Badge"
     ],
-    "answer": "Soldering"
+    "answer": "Model Student Award"
   },
   {
-    "question": "Which one is NOT polarized?",
+    "number": 16,
+    "question": "What is the name of the weekly assembly presentation organized by students?",
     "options": [
-      "Resistor",
-      "Capacitor",
-      "LED",
-      "Buzzer"
+      "Dream Talk",
+      "Value Time",
+      "Sunrise Spotlight",
+      "Assembly Showcase"
     ],
-    "answer": "Resistor"
+    "answer": "Dream Talk"
   },
   {
-    "question": "The process of inserting components into a breadboard is called:",
+    "number": 17,
+    "question": "Which of these activities is held every Friday afternoon?",
     "options": [
-      "Programming",
-      "Mounting",
-      "Wiring",
-      "Soldering"
+      "School Sanitation",
+      "House Meetings",
+      "PTA Forum",
+      "Club Activities"
     ],
-    "answer": "Mounting"
+    "answer": "Club Activities"
   },
   {
-    "question": "What happens if an LED is connected in reverse?",
+    "number": 18,
+    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
     "options": [
-      "It works brighter",
-      "It explodes",
-      "It stores energy",
-      "It does not light"
+      "Mr. Joshua",
+      "Mr. Samuel",
+      "Mr. Mfoniso",
+      "Mr. Emeka"
     ],
-    "answer": "It does not light"
+    "answer": "Mr. Mfoniso"
   },
   {
-    "question": "A potentiometer is also known as:",
+    "number": 19,
+    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
     "options": [
-      "Fixed resistor",
-      "Variable resistor",
-      "LDR",
-      "Switch"
+      "National Girls in ICT Competition",
+      "Junior Tech Stars",
+      "Code Nigeria Hackathon",
+      "Digital Youth Challenge"
     ],
-    "answer": "Variable resistor"
+    "answer": "National Girls in ICT Competition"
   },
   {
-    "question": "LEDs are most commonly used in:",
+    "number": 20,
+    "question": "What is the nickname often used by students for the school?",
     "options": [
-      "Radios",
-      "Light indicators",
-      "Switches",
-      "Capacitors"
+      "SD Nation",
+      "Sunshine City",
+      "Dreamers' Den",
+      "SDIS"
     ],
-    "answer": "Light indicators"
-  },
-  {
-    "question": "Which tool is often used to test connections on a breadboard?",
-    "options": [
-      "Soldering iron",
-      "Screwdriver",
-      "Multimeter",
-      "Barometer"
-    ],
-    "answer": "Multimeter"
-  },
-  {
-    "question": "Capacitors are measured in:",
-    "options": [
-      "Ohms",
-      "Watts",
-      "Amperes",
-      "Farads"
-    ],
-    "answer": "Farads"
-  },
-  {
-    "question": "The breadboard's side rails are mainly used for:",
-    "options": [
-      "Power and ground",
-      "Mounting",
-      "Signal transfer",
-      "Soldering"
-    ],
-    "answer": "Power and ground"
-  },
-  {
-    "question": "When is the best time to start learning coding and robotics?",
-    "options": [
-      "Only after secondary school",
-      "Only in university",
-      "Only when you become a computer engineer",
-      "As early as possible, even in primary or secondary school"
-    ],
-    "answer": "As early as possible, even in primary or secondary school"
-  },
-  {
-    "question": "What component is commonly used for the audio indication of current flowing in the circuit?",
-    "options": [
-      "LED",
-      "Resistor",
-      "Voltage Regulator",
-      "Buzzer"
-    ],
-    "answer": "Buzzer"
-  },
-  {
-    "question": "What type of voltage do breadboard circuits usually use?",
-    "options": [
-      "AC",
-      "DC",
-      "Mixed",
-      "None"
-    ],
-    "answer": "DC"
-  },
-  {
-    "question": "Which component is not polarized?",
-    "options": [
-      "Capacitor (electrolytic)",
-      "LED",
-      "Resistor",
-      "Diode"
-    ],
-    "answer": "Resistor"
-  },
-  {
-    "question": "An LDR is used in:",
-    "options": [
-      "Electric fans",
-      "Light-sensitive alarms",
-      "Speakers",
-      "Buzzers"
-    ],
-    "answer": "Light-sensitive alarms"
-  },
-  {
-    "question": "Which is the correct way to place components in a breadboard?",
-    "options": [
-      "Force them hard",
-      "Bend the legs first",
-      "Match the rows and columns",
-      "Use glue"
-    ],
-    "answer": "Match the rows and columns"
-  },
-  {
-    "question": "The name of the small wires used to connect breadboard components is:",
-    "options": [
-      "Copper wires",
-      "Jumper wires",
-      "Live wires",
-      "Fuse wires"
-    ],
-    "answer": "Jumper wires"
-  },
-  {
-    "question": "What is the function of a light-dependent resistor in a streetlight circuit?",
-    "options": [
-      "Store charge",
-      "Emit sound",
-      "Control the light based on brightness",
-      "Act as a switch manually"
-    ],
-    "answer": "Control the light based on brightness"
-  },
-  {
-    "question": "What is the relationship between Voltage, Current, and Resistance?",
-    "options": [
-      "V = Voltage",
-      "V = IR",
-      "I = V * R",
-      "R*V = I"
-    ],
-    "answer": "V = IR"
-  },
-  {
-    "question": "The Bulbs in Fig.1 are connected in ……………………….?",
-    "options": [
-      "Series",
-      "Parallel",
-      "Series-Parallel",
-      "Parallel-Series"
-    ],
-    "answer": "Series"
-  },
-  {
-    "question": "Which of the following best describes voltage?",
-    "options": [
-      "Opposition to current",
-      "Amount of charge",
-      "Flow of electrons",
-      "Electrical pressure or potential difference"
-    ],
-    "answer": "Electrical pressure or potential difference"
-  },
-  {
-    "question": "What is the primary source of DC electricity in electronics projects?",
-    "options": [
-      "Solar panel",
-      "Mains electricity",
-      "Battery",
-      "Capacitor"
-    ],
-    "answer": "Battery"
-  },
-  {
-    "question": "Which of these quantities is measured in amperes (A)?",
-    "options": [
-      "Voltage",
-      "Resistance",
-      "Capacitance",
-      "Current"
-    ],
-    "answer": "Current"
-  },
-  {
-    "question": "In a DC circuit, current flows from:",
-    "options": [
-      "Negative to positive",
-      "Ground to power",
-      "Positive to negative",
-      "AC to DC"
-    ],
-    "answer": "Positive to negative"
-  },
-  {
-    "question": "What happens to the current in a series circuit with more resistors added?",
-    "options": [
-      "It increases",
-      "It decreases",
-      "It remains the same",
-      "It becomes zero"
-    ],
-    "answer": "It decreases"
-  },
-  {
-    "question": "What happens to the current in a parallel circuit with more resistors added?",
-    "options": [
-      "Shared among branches",
-      "Zero across all branches",
-      "Doubled in each branch",
-      "Same across all branches"
-    ],
-    "answer": "Shared among branches"
-  },
-  {
-    "question": "Which of the following statements about resistors is TRUE?",
-    "options": [
-      "They store energy",
-      "They increase voltage",
-      "They control current flow",
-      "They detect light"
-    ],
-    "answer": "They control current flow"
-  },
-  {
-    "question": "Why is a resistor necessary for an LED?",
-    "options": [
-      "To increase voltage",
-      "To protect the LED from too much current",
-      "To switch the LED on",
-      "To increase brightness"
-    ],
-    "answer": "To protect the LED from too much current"
-  },
-  {
-    "question": "What is the total resistance in a series circuit with 2Ω and 3Ω resistors connected?",
-    "options": [
-      "1.25Ω",
-      "5Ω",
-      "6Ω",
-      "2Ω, 3Ω"
-    ],
-    "answer": "5Ω"
-  },
-  {
-    "question": "What is the total resistance in a parallel circuit with 2Ω and 3Ω resistors connected?",
-    "options": [
-      "1.25Ω",
-      "5Ω",
-      "6Ω",
-      "2Ω, 3Ω"
-    ],
-    "answer": "1.25Ω"
-  },
-  {
-    "question": "In a parallel circuit, adding another branch will:",
-    "options": [
-      "Increase the total resistance",
-      "Decrease the total resistance",
-      "Has no effect",
-      "Stop current flow"
-    ],
-    "answer": "Decrease the total resistance"
-  },
-  {
-    "question": "Which of these is a correct function of a voltage regulator?",
-    "options": [
-      "To produce sound",
-      "To generate electricity",
-      "To stabilize the output voltage",
-      "To switch the circuit"
-    ],
-    "answer": "To stabilize the output voltage"
-  },
-  {
-    "question": "The main difference between AC and DC?",
-    "options": [
-      "AC changes direction, DC flows in one direction",
-      "DC is more dangerous",
-      "AC is weaker",
-      "DC flows in a loop, AC does not"
-    ],
-    "answer": "AC changes direction, DC flows in one direction"
-  },
-  {
-    "question": "What is Arduino?",
-    "options": [
-      "A high-end gaming console",
-      "An Open-source electronics platform for building interactive projects",
-      "A type of smartphone operating system",
-      "A programming language"
-    ],
-    "answer": "An Open-source electronics platform for building interactive projects"
-  },
-  {
-    "question": "How many terminals does a typical Light Dependent Resistor have?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "What is coding?",
-    "options": [
-      "Speaking to computers using human language",
-      "Creating graphic designs using paint software",
-      "Fixing broken electronic components",
-      "Writing instructions in a programming language for computers to follow"
-    ],
-    "answer": "Writing instructions in a programming language for computers to follow"
-  },
-  {
-    "question": "Which of the following best describes the difference between block-level programming and textual programming?",
-    "options": [
-      "Block-level programming uses real wires, while textual programming does not",
-      "Block-level programming uses graphical blocks to represent code, while textual Programming uses written code or text",
-      "Textual programming is used only for gaming, while block-level is used for mobile apps",
-      "Textual programming cannot be used to create real applications"
-    ],
-    "answer": "Block-level programming uses graphical blocks to represent code, while textual Programming uses written code or text"
+    "answer": "SDIS"
   }
 ]
 
