@@ -1,442 +1,369 @@
 [
   {
-    "number": 1,
-    "question": "Which of the following statements about asexual reproduction is correct?",
+    "question": "The upper legislative chamber of the national Assembly of Nigeria is also known as the",
+    "options": ["honorables", "house of commons", "house of lords", "senate"],
+    "answer": "senate"
+  },
+  {
+    "question": "A father that effectively discharges his duty towards his children could be described as a",
+    "options": ["philanthropist", "celebrity", "responsible parent", "permissive father"],
+    "answer": "responsible parent"
+  },
+  {
+    "question": "In a democratic government, franchise is given to all",
+    "options": ["party members", "resident adults", "adult citizens", "opinion leaders"],
+    "answer": "adult citizens"
+  },
+  {
+    "question": "One of the functions of local government is",
+    "options": ["Settlement of intra-party crisis", "Making of bye-laws", "Formulation of monetary policies", "Delimination of constituencies"],
+    "answer": "Making of bye-laws"
+  },
+  {
+    "question": "An enlightenment and awareness campaign of HIV/AIDS could",
+    "options": ["lead to discrimination", "create job opportunity", "cause conflict", "provide people with genuine information"],
+    "answer": "provide people with genuine information"
+  },
+  {
+    "question": "Which of the following is a way of achieving responsible parenthood?",
+    "options": ["Commitment", "Patriotism", "Favouritism", "Goodness"],
+    "answer": "Commitment"
+  },
+  {
+    "question": "A limitation to the exercise of human right is",
+    "options": ["war", "deportation", "migration", "HIV/AIDS"],
+    "answer": "war"
+  },
+  {
+    "question": "The Federal Road Safety Corps (FRSC) carries out all these functions except",
+    "options": ["construction of motorable roads", "effective patrol operation", "inspection of vehicles", "prompt rescue mission"],
+    "answer": "construction of motorable roads"
+  },
+  {
+    "question": "Membership of an organization that is characterized by secrecy of operations is associated with",
+    "options": ["activism", "cultism", "radicalism", "spiritism"],
+    "answer": "cultism"
+  },
+  {
+    "question": "The origin of democracy is traced to the",
+    "options": ["Romans", "Greeks", "Egyptians", "British"],
+    "answer": "Greeks"
+  },
+  {
+    "question": "The principle of rule of law is upheld on the society in order to",
     "options": [
-      "always involves one parent but the offspring are genetically different from the parent",
-      "may involve two parents but the offspring is always identical to one parent.",
-      "always involves one parent and the offspring are identical to the parent",
-      "involves two parents but the offspring is not genetically identical to any of the parents."
+      "protect the citizens from arbitrary rule",
+      "accord immunity to the president",
+      "preserve customs and tradition of the society",
+      "encourage mass literacy and prosperity"
     ],
-    "answer": "always involves one parent and the offspring are identical to the parent"
+    "answer": "protect the citizens from arbitrary rule"
   },
   {
-    "number": 2,
-    "question": "A group of closely related organisms capable of interbreeding to produce fertile offspring are known as members of a",
-    "options": ["kingdom", "class", "family", "specie"],
-    "answer": "specie"
+    "question": "Which of the following principles prohibits public servants from being seen or heard in the public?",
+    "options": ["Permanence", "Impartiality", "Meritocracy", "Anonymity"],
+    "answer": "Anonymity"
   },
   {
-    "number": 3,
-    "question": "Which of the following conditions in flowering plants enhances self-pollination?",
-    "options": ["cleistogamy", "heterostyly", "protandry", "protogyny"],
-    "answer": "protandry"
+    "question": "Trafficked children are likely to experience all the following except",
+    "options": ["empowerment", "prostitution", "forced labour", "unwanted pregnancy"],
+    "answer": "empowerment"
   },
   {
-    "number": 4,
-    "question": "The natural dwelling place of an organism is called",
-    "options": ["ecological niche", "habitat", "population", "environment"],
-    "answer": "habitat"
+    "question": "Teaching children to be satisfied with what they have is a way of encouraging",
+    "options": ["self-reliance", "orderliness", "contentment", "selflessness"],
+    "answer": "contentment"
   },
   {
-    "number": 5,
-    "question": "Movement of water across a semi-permeable membrane from a weaker solution to a stronger solution is known as",
-    "options": ["transpiration", "diffusion", "active transport", "osmosis"],
-    "answer": "osmosis"
-  },
-  {
-    "number": 6,
-    "question": "Which of the following is an abiotic factor which affects a population?",
-    "options": ["Temperature", "Producer", "Consumer", "Parasite"],
-    "answer": "Temperature"
-  },
-  {
-    "number": 7,
-    "question": "An inferior ovary of a flower is situated",
-    "options": ["below the floral parts", "above the floral parts", "at the same level with the floral parts", "at the centre of the floral parts"],
-    "answer": "below the floral parts"
-  },
-  {
-    "number": 8,
-    "question": "Conservation may be promoted by",
-    "options": ["encouraging tree plants", "deforestation", "overgrazing", "bush burning"],
-    "answer": "encouraging tree plants"
-  },
-  {
-    "number": 9,
-    "question": "Which of the following is a biotic components of an ecosystem?",
-    "options": ["Soil", "Rainfall", "Light", "Fungi"],
-    "answer": "Fungi"
-  },
-  {
-    "number": 10,
-    "question": "The process by which plants manufacture their food from carbon dioxide and water using energy from the sun is called",
-    "options": ["chemosynthesis", "photosynthesis", "anabolism", "catabolism"],
-    "answer": "photosynthesis"
-  },
-  {
-    "number": 11,
-    "question": "Rhizobium which lives in the root nodules of leguminous plants is an example of association known as",
-    "options": ["commensalism", "epiphytism", "mutualism", "saprophytism"],
-    "answer": "mutualism"
-  },
-  {
-    "number": 12,
-    "question": "Ecology simply means the study of",
+    "question": "The Universal Declaration of Human Rights (UDHR) was adopted by the",
     "options": [
-      "the properties of a habitat",
-      "inter-relationship between organisms and their environment",
-      "several species of plants and animals",
-      "inter-relationship between plants and animals"
+      "United Nations General Assembly",
+      "United Nations Security Council",
+      "United Nations San-Francisco Conference",
+      "United Nations Trusteeship Council"
     ],
-    "answer": "inter-relationship between organisms and their environment"
+    "answer": "United Nations General Assembly"
   },
   {
-    "number": 13,
-    "question": "A population is best described as",
+    "question": "The senate and House of Representatives in Nigeria constitutes the",
+    "options": ["federal congress", "national parliament", "federal legislature", "national assembly"],
+    "answer": "national assembly"
+  },
+  {
+    "question": "A child who is forced to engage in hawking all day must have been denied the right to",
+    "options": ["life", "expression", "education", "fair hearing"],
+    "answer": "education"
+  },
+  {
+    "question": "The sole aim of youth empowerment is to",
     "options": [
-      "a group of organism of the same species living together",
-      "a group of animals and plants living together",
-      "a group of insects and grasses",
-      "different species of wild animals"
+      "encourage students to take on a vacation job",
+      "learn to earn money and also how to manage",
+      "learn how to behave in a work related environment",
+      "give youths financial independence and self reliance"
     ],
-    "answer": "a group of organism of the same species living together"
+    "answer": "give youths financial independence and self reliance"
   },
   {
-    "number": 14,
-    "question": "Which of the following instruments is not used in measuring abiotic factors in a habitat",
-    "options": ["wind vane", "thermometer", "microscope", "hygrometer"],
-    "answer": "microscope"
+    "question": "An established way by which Labour Unions protect the interest of workers is",
+    "options": ["police action", "hunger strike", "industrial action", "mass resignation"],
+    "answer": "industrial action"
   },
   {
-    "number": 15,
-    "question": "The term syncarpous is used to described a flower when the carpels are",
+    "question": "A system of government where the ultimate power resides in the people is",
+    "options": ["plutocracy", "aristocracy", "theocracy", "democracy"],
+    "answer": "democracy"
+  },
+  {
+    "question": "Politically enlightened people may still feel discouraged in the political affairs of their society because of political",
+    "options": ["selflessness", "contentment", "participation", "marginalization"],
+    "answer": "marginalization"
+  },
+  {
+    "question": "The programmes political parties intend to implement if they are voted into power are known as political",
+    "options": ["campaigns", "manifestoes", "agenda", "propaganda"],
+    "answer": "manifestoes"
+  },
+  {
+    "question": "Which of the following has the power to impeach the president in Nigeria?",
+    "options": ["Executive", "Judiciary", "Legislature", "Supreme court"],
+    "answer": "Legislature"
+  },
+  {
+    "question": "The law protecting certain individuals from being prosecuted is called",
+    "options": ["penal code", "constitutional protection", "immunity clause", "legal rights"],
+    "answer": "immunity clause"
+  },
+  {
+    "question": "Which of the following may not be vested with a constituted authority?",
+    "options": ["A family", "A mob", "A school", "A state"],
+    "answer": "A mob"
+  },
+  {
+    "question": "The attitude that prevents peaceful resolution of inter-communal conflict is",
+    "options": ["conciliation", "resentment", "dialogue", "mediation"],
+    "answer": "resentment"
+  },
+  {
+    "question": "Identify the odd one from the list below in relation to citizenship obligations",
+    "options": ["payment of taxes", "right to personal identity", "protection of public utilities", "obedience to the law"],
+    "answer": "right to personal identity"
+  },
+  {
+    "question": "Interest and willingness to participate in the affairs of a nation are forms of",
+    "options": ["popular participation", "national consciousness", "political apathy", "citizenship education"],
+    "answer": "popular participation"
+  },
+  {
+    "question": "Irresponsible parenting has the tendency of",
+    "options": ["encouraging egoistic tendencies", "preserving of culture", "promoting of positive values", "promoting peaceful co-existence"],
+    "answer": "encouraging egoistic tendencies"
+  },
+  {
+    "question": "Limitation to the right to life can be found in the case of",
+    "options": ["an imprisoned person", "a kidnapped person", "a condemned person", "a trafficked person"],
+    "answer": "a condemned person"
+  },
+  {
+    "question": "Which of the following is a cause of political apathy in Nigeria?",
     "options": [
-      "many and fused",
-      "two only",
-      "two and nectar",
-      "lying at different parts of a flower"
+      "Adequate citizenship education",
+      "A free and fair election",
+      "Biased electoral umpires",
+      "Adequate political awareness"
     ],
-    "answer": "many and fused"
+    "answer": "Biased electoral umpires"
   },
   {
-    "number": 16,
-    "question": "Which of the following structures are characteristics of insect pollinated flowers?",
+    "question": "Interpersonal relationship is promoted through the following ways except",
     "options": [
-      "Dull coloured flowers with no nectar",
-      "Very light, numerous and peridulous stamen",
-      "Brightly coloured petals, scent and nectar",
-      "Flowers are usually small and inconspicuous"
+      "confrontation",
+      "healthy competition",
+      "cooperation",
+      "communal living"
     ],
-    "answer": "Brightly coloured petals, scent and nectar"
+    "answer": "confrontation"
   },
   {
-    "number": 17,
-    "question": "Which of the following is an advantage of dispersal of fruits and seeds? It allows",
+    "question": "The composition of National Assembly of the federal Republic of Nigeria could be termed",
     "options": [
-      "fair distribution of source of food for animals",
-      "growth in close association with parent plant",
-      "even distribution of plants and reduction of intra specific competition",
-      "the seeds to evolve new species"
+      "unicameral",
+      "collegial",
+      "bicameral",
+      "hierarchical"
     ],
-    "answer": "even distribution of plants and reduction of intra specific competition"
+    "answer": "bicameral"
   },
   {
-    "number": 18,
-    "question": "The series of changes that occur in a seed by which the embryo develops into a seedling is known as",
-    "options": ["fertilizer", "gametogenesis", "pollination", "germination"],
-    "answer": "germination"
-  },
-  {
-    "number": 19,
-    "question": "An association between two organisms in which both benefit is called",
-    "options": ["parasitism", "commensalism", "symbiosis", "predation"],
-    "answer": "symbiosis"
-  },
-  {
-    "number": 20,
-    "question": "Which of the following pairs consists of gametes?",
+    "question": "The head of the judicial arm of government in Nigeria is the",
     "options": [
-      "Ova and spermatozoan",
-      "Spores and sporangium",
-      "Flowers and pollen grains",
-      "Testes and ovaries"
+      "chief justice",
+      "supreme leader",
+      "chief of staff",
+      "chief magistrate"
     ],
-    "answer": "Ova and spermatozoan"
+    "answer": "chief justice"
   },
   {
-    "number": 21,
-    "question": "Which of these groups of organisms is responsible for capturing energy for the biotic community?",
-    "options": ["Decomposers", "Omnivore", "Consumers", "Producers"],
-    "answer": "Producers"
-  },
-  {
-    "number": 22,
-    "question": "Which of these is not true characteristics of the tropical rain forest?",
+    "question": "A situation where only 35% of over 80 million registered voters participated in a general election, is an indication of political",
     "options": [
-      "Vegetation consists predominantly of tall trees with thick canopy",
-      "Forest is rich in epiphytes and climbers",
-      "Annual rainfall is less than 100cm",
-      "Fruits of trees are often large sized and are generally without adaptation to wind dispersal"
+      "instability",
+      "exclusiveness",
+      "apathy",
+      "socialization"
     ],
-    "answer": "Annual rainfall is less than 100cm"
+    "answer": "apathy"
   },
   {
-    "number": 23,
-    "question": "Which of the following is not a way of conserving natural resources?",
+    "question": "The defence of the territorial integrity of a country by her citizens is part of",
     "options": [
-      "Adopting good farming practices",
-      "Establishing forest reserves",
-      "Establishing game reserves",
-      "Encouraging poaching"
+      "political participation",
+      "self-determination",
+      "political culture",
+      "duties and obligations"
     ],
-    "answer": "Encouraging poaching"
+    "answer": "duties and obligations"
   },
   {
-    "number": 24,
-    "question": "The transfer of pollen grains from the anther to the stigma of the same flower is known as",
-    "options": ["fertilization", "self pollination", "reproduction", "conjugation"],
-    "answer": "self pollination"
-  },
-  {
-    "number": 25,
-    "question": "Respiration is an essential life process providing the living cells with",
-    "options": ["carbondioxide", "energy", "sugars", "glycogen"],
-    "answer": "energy"
-  },
-  {
-    "number": 26,
-    "question": "A major pollutant around airport residential areas is",
-    "options": ["oil spillage", "soot", "noise", "dust"],
-    "answer": "noise"
-  },
-  {
-    "number": 27,
-    "question": "The type of cell division undergo by cell during sexual reproduction is known as",
-    "options": ["mitosis", "meiosis", "metaphase", "telophase"],
-    "answer": "meiosis"
-  },
-  {
-    "number": 28,
-    "question": "The form of courtship behavior in which a member of a specie mark out areas or territories where they can live and breed is known as ",
+    "question": "The society can be much more peaceful if individuals learn to",
     "options": [
-      "seasonal migration",
-      "territoriality",
-      "display of body parts",
-      "pairing "
+      "respect and obey the laws of the land",
+      "gather knowledge about politics",
+      "understand the human rights commission",
+      "seek redress in the court of law"
     ],
-    "answer": "territoriality"
+    "answer": "respect and obey the laws of the land"
   },
   {
-    "number": 29,
-    "question": "Which of the following is not part of the male reproductive system?",
-    "options": ["Penis", "Testes", "Uterus", "Prostate gland"],
-    "answer": "Uterus"
-  },
-  {
-    "number": 30,
-    "question": "About how long does the menstrual cycle takes?",
-    "options": ["5days", "25days", "14days", "28days"],
-    "answer": "28days"
-  },
-  {
-    "number": 31,
-    "question": "What is a zygote?",
+    "question": "One of the aims of citizenship education is to produce students with",
     "options": [
-      "A cell formed when two embryos join which will develop into a gamete",
-      "A cell formed when two gametes join which will develop into a gland",
-      "A cell formed when two gametes join which will develop into an embryo",
-      "A cell formed when two gland meet to produce an hormone"
+      "creative skill",
+      "high sense of entrepreneurial skill",
+      "high sense of patriotism",
+      "manipulative skills"
     ],
-    "answer": "A cell formed when two gametes join which will develop into an embryo"
+    "answer": "high sense of patriotism"
   },
   {
-    "number": 32,
-    "question": "Ovulation is best defined as",
+    "question": "Who among the following could be described as the founding father of Nigerian nationalism?",
     "options": [
-      "the release of mature egg cell",
-      "the loss of the endometrium lining of the uterus",
-      "the joining of a sperm and an egg",
-      "the cell passing through the fallopian tube"
+      "Nnamdi Azikiwe",
+      "Herbert Macauley",
+      "Ahmadu Bello",
+      "Obafemi Awolowo"
     ],
-    "answer": "the release of mature egg cell"
+    "answer": "Herbert Macauley"
   },
   {
-    "number": 33,
-    "question": "Which hormone is responsible for the development of male secondary sexual characteristics?",
+    "question": "The status of being a legal member of a country is referred to as",
     "options": [
-      "Luitenizing hormone",
-      "oestrogen",
-      "progesterone",
-      "testosterone"
+      "alien",
+      "asylum",
+      "citizenship",
+      "migrant"
     ],
-    "answer": "testosterone"
+    "answer": "citizenship"
   },
   {
-    "number": 34,
-    "question": "In reproduction, what is fertilization?",
+    "question": "Citizens can be deprived of their rights during",
     "options": [
-      "When a male and female gamete join",
-      "When a farmer puts manure on farmland",
-      "When a plant drop seeds onto the ground",
-      "The ripening of egg cell"
+      "democratic regime",
+      "emergency rule",
+      "parliamentary debate",
+      "political campaign"
     ],
-    "answer": "When a male and female gamete join"
+    "answer": "emergency rule"
   },
   {
-    "number": 35,
-    "question": "Which statement about flowering plants is correct?",
+    "question": "The best means through which individual rights can be safeguarded is",
     "options": [
-      "The stamen is the female part of the flower and comprises the filament and anther",
-      "The stamen is the male part of the flower and comprises the filament and anther",
-      "The carpel is the female part of the flower and comprises the ovary and filament",
-      "The stamen consists of pistil and anther"
+      "knowledge acquisition",
+      "judicial independence",
+      "press censorship",
+      "improved standard of living"
     ],
-    "answer": "The stamen is the male part of the flower and comprises the filament and anther"
+    "answer": "judicial independence"
   },
   {
-    "number": 36,
-    "question": "How are the pollen grains of insect pollinated plants adapted for transfer?",
+    "question": "The right to vote and be voted for is classified under _____ rights.",
     "options": [
-      "They are smooth and light",
-      "They are produced in very large amounts",
-      "They are sticky and brightly coloured",
-      "Flowers have no scent, no nectar"
+      "economic",
+      "legal",
+      "political",
+      "religious"
     ],
-    "answer": "They are sticky and brightly coloured"
+    "answer": "political"
   },
   {
-    "number": 37,
-    "question": "The transfer of pollen grain from the anther to the stigma of a flower to another of the same species is known as",
+    "question": "Franchise means right to",
     "options": [
-      "self pollination",
-      "cross pollination",
-      "germination",
-      "fertilization"
+      "contest for political post",
+      "join association",
+      "live in Nigeria",
+      "vote and be voted for"
     ],
-    "answer": "cross pollination"
+    "answer": "vote and be voted for"
   },
   {
-    "number": 38,
-    "question": "The arrangement of the ovules in the ovary is known as",
-    "options": ["syncarpous", "pollination", "marginal", "placentation"],
-    "answer": "placentation"
-  },
-  {
-    "number": 39,
-    "question": "When a flower contains both pistil and stamen it is referred to as",
+    "question": "The Universal Declaration of Human Rights (UDHR) was adopted by the",
     "options": [
-      "complete flower",
-      "incomplete flower",
-      "hermaphrodite flower",
-      "imperfect flower"
+      "United Nations General Assembly",
+      "United Nations Security Council",
+      "United Nations San-Francisco Conference",
+      "United Nations Trusteeship Council"
     ],
-    "answer": "complete flower"
+    "answer": "United Nations General Assembly"
   },
   {
-    "number": 40,
-    "question": "The type of reproduction in which eggs are released from the female parents body to hatch and develop in external environment is termed",
-    "options": ["viviparity", "oviparity", "ovoviviparity", "desiccation"],
-    "answer": "oviparity"
-  },
-  {
-    "number": 41,
-    "question": "An effective management of natural resources to ensure their continuous yield from generation to generation may involve all the following except",
+    "question": "The universal declaration for protection of human rights abuse and violation worldwide was adopted by the United Nations (UN) in",
     "options": [
-      "protection of wildlife",
-      "prevention of habitat destruction",
-      "biological control of pests",
-      "disposal of raw sewage into the sea"
+      "1935",
+      "1940",
+      "1948",
+      "1950"
     ],
-    "answer": "disposal of raw sewage into the sea"
+    "answer": "1948"
   },
   {
-    "number": 42,
-    "question": "The type of asexual reproduction in which part of an organism breaks up to give rise to a new individual is known as",
+    "question": "The headquarters of ECOWAS is located in",
     "options": [
-      "spore formation",
-      "budding",
-      "fragmentation",
-      "vegetative propagation"
+      "Abuja",
+      "Accra",
+      "Addis-Ababa",
+      "Lome"
     ],
-    "answer": "fragmentation"
+    "answer": "Abuja"
   },
   {
-    "number": 43,
-    "question": "The drugs which inhibit the growth of disease-causing organisms and thus used in the treatment of infections are referred to as",
+    "question": "The land in contention between Nigeria and Cameroun is called",
     "options": [
-      "antibodies",
-      "antibiotics",
-      "anti-toxics",
-      "septics"
+      "Bakassi Penisula",
+      "Bonny Island",
+      "Calabar River",
+      "Lekki Penisula"
     ],
-    "answer": "antibiotics"
+    "answer": "Bakassi Penisula"
   },
   {
-    "number": 44,
-    "question": "Organisms that feed essentially on plants within an ecosystem may be referred to as",
+    "question": "Which of these is not a factor that causes conflict?",
     "options": [
-      "carnivores",
-      "herbivores",
-      "saprophytes",
-      "omnivores"
+      "Crime",
+      "Envy",
+      "Ethnicism",
+      "Understanding"
     ],
-    "answer": "herbivores"
+    "answer": "Understanding"
   },
   {
-    "number": 45,
-    "question": "Endangered species are organisms that ought to be",
+    "question": "Preventive measures of HIV/AIDS do not include",
     "options": [
-      "hunted",
-      "killed",
-      "poached",
-      "protected"
+      "abstinence",
+      "screening of blood before transfusion",
+      "use of barrier methods",
+      "stigmatization of victims"
     ],
-    "answer": "protected"
-  },
-  {
-    "number": 46,
-    "question": "Which of the following substances is not a conservable natural resource?",
-    "options": [
-      "Mineral",
-      "Soil",
-      "Water",
-      "Air"
-    ],
-    "answer": "Air"
-  },
-  {
-    "number": 47,
-    "question": "Which of the following male reproductive organs help in the production of sperm?",
-    "options": [
-      "Vas deferens",
-      "Epididymis",
-      "Prepuce",
-      "Seminiferous tubules"
-    ],
-    "answer": "Seminiferous tubules"
-  },
-  {
-    "number": 48,
-    "question": "Which of the following female reproductive system represents a penis and erectile in nature?",
-    "options": [
-      "Cervix",
-      "Fallopian tube",
-      "Clitoris",
-      "Uterus"
-    ],
-    "answer": "Clitoris"
-  },
-  {
-    "number": 49,
-    "question": "Sperm is stored in the",
-    "options": [
-      "prostrate gland",
-      "seminiferous tubule",
-      "testes",
-      "epididymis"
-    ],
-    "answer": "epididymis"
-  },
-  {
-    "number": 50,
-    "question": "The male sexual reproductive organ in flowering plant is",
-    "options": [
-      "corolla",
-      "sepal",
-      "gynoecium",
-      "androecium"
-    ],
-    "answer": "androecium"
+    "answer": "stigmatization of victims"
   }
 ]
+
+
