@@ -1,338 +1,328 @@
 [
   {
-    "question": "Which of this is NOT among the storage capacity of a flash drive",
-    "options": ["2GB", "8GB", "20GB", "32GB"],
-    "answer": "20GB"
+    "question": "Economics is a science which studies human behaviour as a relationship between ends and scarce means which have alternative uses. “Ends” here refers to",
+    "options": ["Resources", "Wants", "Choice", "Output"],
+    "answer": "Resources"
   },
   {
-    "question": "______ controls the way in which the computer system functions and provides a means by which users can interact with the computer.",
-    "options": ["The operating system", "The motherboard", "The platform", "Application software"],
-    "answer": "The operating system"
+    "question": "The price of a community is determined by the",
+    "options": ["Supplier", "Consumer", "Quantity of goods demanded", "Quantity of goods"],
+    "answer": "Quantity of goods demanded"
   },
   {
-    "question": "The difference between people with access to computer and the internet and those without this access is known as the",
-    "options": ["Digital divide", "Internet divide", "Web divide", "Cyber way divide"],
-    "answer": "Digital divide"
+    "question": "The 4 Ps in marketing include the following except",
+    "options": ["Place", "Price", "Promotion", "Media"],
+    "answer": "Media"
   },
   {
-    "question": "Verification of a login name and password is known as",
-    "options": ["Configuration", "Accessibility", "Authentication", "Logging"],
-    "answer": "Authentication"
+    "question": "Into which of these organizations would you classify the International Monetary Fund (IMF)?",
+    "options": ["Political organization", "Trade organization", "Financial organization", "Social organization"],
+    "answer": "Financial organization"
   },
   {
-    "question": "Word processing, spreadsheet and photo-editing are examples of",
-    "options": ["Application software", "System software", "Operating system", "Platform software"],
-    "answer": "Application software"
-  },
-  {
-    "question": "What is the full meaning of SMS",
-    "options": ["System Messaging Service", "Short Messaging Service", "Shot Messages Service", "Subscriber Messaging Service"],
-    "answer": "Short Messaging Service"
-  },
-  {
-    "question": "________ involves manual checking of the logic of a program for correctness",
-    "options": ["Testing", "Desk checking", "Coding", "Debugging"],
-    "answer": "Desk checking"
-  },
-  {
-    "question": "The ability to recover and read deleted or damaged files from a criminal’s computer is an example of a law enforcement specialty called",
-    "options": ["Simulation", "Criminology", "Robotics", "Computer forensics"],
-    "answer": "Computer forensics"
-  },
-  {
-    "question": "Data that are accumulated and processed in group are called",
-    "options": ["Group processing", "Batch processing", "Time sharing", "None of these"],
-    "answer": "Batch processing"
-  },
-  {
-    "question": "Choose the ODD one",
-    "options": ["React", "C#", "JavaScript", "Picto Block"],
-    "answer": "Picto Block"
-  },
-  {
-    "question": "The output of an AND gate is 1 when",
+    "question": "A demand schedule is",
     "options": [
-      "All inputs are 0",
-      "All inputs are 1",
-      "Any of the input is 0",
-      "Any of the input is 1"
+      "A table containing the price of goods",
+      "A table showing the relationship between price and quantity demanded of a commodity",
+      "A table showing the consumers demand in order of importance",
+      "The quantity of goods the consumer is prepared to buy"
     ],
-    "answer": "All inputs are 1"
+    "answer": "A table showing the relationship between price and quantity demanded of a commodity"
   },
   {
-    "question": "The function of the NOT gate is to",
+    "question": "P = population, national income. From the above, the formula for calculating real per capital income is",
+    "options": ["N1 / P", "GDP / P", "P / GNP", "P / GNP"],
+    "answer": "N1 / P"
+  },
+  {
+    "question": "Which of the following is not an advantage of price control?",
+    "options": ["Control of inflation", "Distortion of price", "Mechanism", "Prevention of exploitation"],
+    "answer": "Distortion of price"
+  },
+  {
+    "question": "Which of these factors does not cause a change in demand?",
+    "options": ["Income", "Taste and fashion", "Population", "Price of commodity concerned"],
+    "answer": "Population"
+  },
+  {
+    "question": "When the price of a commodity (A) increases, the demand for commodity (B) decreases. Then A and B are",
+    "options": ["Close substitute", "Complementary goods", "Supplementary goods", "Gifted goods"],
+    "answer": "Close substitute"
+  },
+  {
+    "question": "In any economic system, which of the following is not an economic problem?",
     "options": [
-      "Act as a universal signal",
-      "Invert an input or output signal",
-      "Do nothing to a signal",
-      "Implement logic addition"
+      "What goods and services to produce",
+      "For whom to produce goods and services",
+      "What techniques of production to be adopted",
+      "Equal distribution of the goods and services"
     ],
-    "answer": "Invert an input or output signal"
+    "answer": "Equal distribution of the goods and services"
   },
   {
-    "question": "Desk checking is also called_______",
-    "options": ["Manual walkthrough", "Code execution", "Code review", "Tracing"],
-    "answer": "Manual walkthrough"
+    "question": "The economic system in which most capital goods are owned by individuals and private firms is known as",
+    "options": ["Mixed economy", "Planned economy", "Capitalist Economy", "Traditional economy"],
+    "answer": "Capitalist Economy"
   },
   {
-    "question": "Where are Registers located?",
-    "options": ["Hard disk", "Processor", "Monitor", "None of the above"],
-    "answer": "Processor"
-  },
-  {
-    "question": "The first stage of the SDLC is",
-    "options": ["Planning", "Analysis", "Design", "Testing"],
-    "answer": "Planning"
-  },
-  {
-    "question": "The process of transferring files from a local computer to a remote computer on the WWW is called?",
-    "options": ["Upload", "Download", "Browsing", "Surfing"],
-    "answer": "Upload"
-  },
-  {
-    "question": "Which of this is the correct link of your school website",
+    "question": "Which of the following is not a feature of the sole proprietorship?",
     "options": [
-      "www.sundreaminternational.com.ng",
-      "www.sundreaminternational.sch.ng",
-      "www.sundreaminternational.edu.ng",
-      "www.sundreaminternationalschool.edu.ng"
+      "The sole proprietor provides the capital to start the business",
+      "The sole proprietor is the boss of his business",
+      "There is unlimited liability",
+      "Continuity is doubtful at the death of proprietor"
     ],
-    "answer": "www.sundreaminternational.com.ng"
+    "answer": "There is unlimited liability"
   },
   {
-    "question": "Which stage of the SDLC does the development team translate high-level plans and goals into actionable ideas?",
-    "options": ["Planning", "Analysis", "Design", "Testing"],
-    "answer": "Analysis"
-  },
-  {
-    "question": "What is the full meaning of COBOL?",
+    "question": "Which of these does not relate to the law of comparative advantage?",
     "options": [
-      "Computer Boolean Language",
-      "Computer Basic Oriented Language",
-      "Common Business Oriented Language",
-      "Computer Business Oriented Language"
+      "The law of comparative advantage was propounded by David Ricardo",
+      "The law stresses the importance of relative efficiency",
+      "In order to specialize, a country must have absolute advantage",
+      "The law is based on opportunity cost principles"
     ],
-    "answer": "Common Business Oriented Language"
+    "answer": "The law is based on opportunity cost principles"
   },
   {
-    "question": "Which of this is NOT an output device?",
-    "options": ["Scanner", "Projector", "Printer", "Monitor"],
-    "answer": "Scanner"
+    "question": "A condition which adversely affects expansion of production is",
+    "options": ["Effective management", "Limited size of the market", "Availability of funds", "Increased profit prospects"],
+    "answer": "Limited size of the market"
   },
   {
-    "question": "What is the full meaning of GUI?",
-    "options": ["Graphic User Interface", "Graphical User Interchange", "Graphic Usenet Interface", "Google User Interface"],
-    "answer": "Graphic User Interface"
+    "question": "Which of the following roles is being played by the organization of petroleum exporting countries (OPEC) with regards to Nigeria crude oil?",
+    "options": ["Exploiting", "Exploring", "Refining", "Marketing"],
+    "answer": "Marketing"
   },
   {
-    "question": "What is the primary function of an input device?",
+    "question": "Which of these factors does not affect revenue allocation in Nigeria?",
     "options": [
-      "To provide information to a computer system",
-      "To display information when inputted",
-      "To provide data to a computer system",
-      "All of the above"
+      "Needs of an area",
+      "Size of the population and land",
+      "Number of industries and land area",
+      "Revenue derivable from an area"
     ],
-    "answer": "To provide data to a computer system"
+    "answer": "Needs of an area"
   },
   {
-    "question": "Another name for data gathering is ____",
-    "options": ["Data collection", "Data collation", "Gathering of data", "Data processing"],
-    "answer": "Data collection"
-  },
-  {
-    "question": "Which of these is NOT a method of gathering data",
-    "options": ["Interview", "Questionnaire", "Observation", "Talking"],
-    "answer": "Talking"
-  },
-  {
-    "question": "What is the easiest way to determine a file’s format?",
+    "question": "Subsistence farming means producing food",
     "options": [
-      "Check the file size",
-      "Open the file in a text editor",
-      "Use file properties menu",
-      "Check the file extension"
+      "Mainly for the need of immediate and extended family",
+      "Crops or sale mainly",
+      "Crops mainly for export",
+      "To feed the community around"
     ],
-    "answer": "Check the file extension"
+    "answer": "Mainly for the need of immediate and extended family"
   },
   {
-    "question": "What is the full meaning of FTP?",
+    "question": "The action of the government to forgo road construction in order to provide more health facilities denotes",
+    "options": ["Sound economic decision", "Opportunity cost", "Practicable government policy", "Scale of preference"],
+    "answer": "Opportunity cost"
+  },
+  {
+    "question": "In economics, a market is defined as any",
     "options": [
-      "File Transfer Protocol",
-      "File Transfer Point",
-      "File Transfer Provider",
-      "Field Transfer Protocol"
+      "Agreement made for consumers to buy all they need",
+      "Agreement to sell commodities at low prices",
+      "Arrangement made for producer to all they need",
+      "Arrangement whereby the buyers and sellers are in close contract"
     ],
-    "answer": "File Transfer Protocol"
+    "answer": "Arrangement whereby the buyers and sellers are in close contract"
   },
   {
-    "question": "The size of a bus is known as",
-    "options": ["Length", "Breadth", "Height", "Width"],
-    "answer": "Width"
+    "question": "Which of the following is not a function of an insurance company?",
+    "options": [
+      "Pulling resources together against risks",
+      "Mobilization of funds through premium collected",
+      "Encouragement of investment by security of capital",
+      "Collection of deposits from the public for investment"
+    ],
+    "answer": "Collection of deposits from the public for investment"
   },
   {
-    "question": "_________ refers to the ability of an application to run on different platforms",
-    "options": ["Portability", "Readability", "Generality", "Efficiency"],
+    "question": "The basic problem that economics attempts to solve is the",
+    "options": ["Ranking of goods and services", "Pricing of goods and services", "Scarcity of resources", "Forgoing of alternatives"],
+    "answer": "Scarcity of resources"
+  },
+  {
+    "question": "The ranking of a consumer’s needs in order of importance is termed",
+    "options": ["An opportunity cost", "Economics of scale", "A scale of preference", "Direct production"],
+    "answer": "A scale of preference"
+  },
+  {
+    "question": "Subsistence agriculture means",
+    "options": ["Cultivation for external use", "Cultivation for local industries", "Farming for the urban dwellers", "Cultivation for household consumption"],
+    "answer": "Cultivation for household consumption"
+  },
+  {
+    "question": "Which of the following correctly illustrates the chain of distribution",
+    "options": [
+      "Manufacturer – wholesaler – retailer – consumer",
+      "Consumer – retailer – wholesaler – manufacturer",
+      "Wholesaler – manufacturer – retailer – consumer",
+      "Producer – manufacturer – wholesaler – retailer"
+    ],
+    "answer": "Manufacturer – wholesaler – retailer – consumer"
+  },
+  {
+    "question": "Rent and interest are reward of",
+    "options": ["Labour and capital respectively", "Land only", "Capital only", "Land and capital respectively"],
+    "answer": "Land and capital respectively"
+  },
+  {
+    "question": "An activity that involves derivation of raw materials from land and sea is",
+    "options": ["Construction", "Farming", "Agriculture", "Extraction"],
+    "answer": "Extraction"
+  },
+  {
+    "question": "In production, factory buildings are regarded as",
+    "options": ["Variable cost", "Average cost", "Marginal cost", "Fixed cost"],
+    "answer": "Fixed cost"
+  },
+  {
+    "question": "Monopoly can best be described as a market",
+    "options": [
+      "A single seller sells a product which has no close substitute",
+      "Few sellers sell a product at different prices",
+      "The entry of other firms in the market",
+      "A single buyer buys a product which has no close substitute"
+    ],
+    "answer": "A single seller sells a product which has no close substitute"
+  },
+  {
+    "question": "The full meaning of OPEC is",
+    "options": [
+      "Oil petroleum exporting countries",
+      "Original petroleum exporting countries",
+      "Organization of petrol exporting countries",
+      "Organization of petroleum exporting countries"
+    ],
+    "answer": "Organization of petroleum exporting countries"
+  },
+  {
+    "question": "The efficiency of a country’s labour force depends on all the following except",
+    "options": [
+      "Improved working conditions",
+      "Better health care facilities",
+      "Adequate training",
+      "Frequent strikes and lock-outs"
+    ],
+    "answer": "Frequent strikes and lock-outs"
+  },
+  {
+    "question": "An economic system in which most means of production are owned and controlled by the state is known as",
+    "options": ["Socialist economy", "Capitalist economy", "Mixed economy", "Feuded economy"],
+    "answer": "Socialist economy"
+  },
+  {
+    "question": "Which of the following has a derived demand?",
+    "options": ["Labour", "Butter", "Television set", "Bread"],
+    "answer": "Labour"
+  },
+  {
+    "question": "In economics, production is complete when",
+    "options": [
+      "Goods are manufactured in the factories",
+      "Commodities are sold to the final consumer",
+      "All the goods are sold",
+      "Retailers demanded for the goods"
+    ],
+    "answer": "Commodities are sold to the final consumer"
+  },
+  {
+    "question": "The forgone alternative in economics is simply the",
+    "options": ["Marginal cost", "Cost of forgone product", "Total cost", "Opportunity cost"],
+    "answer": "Opportunity cost"
+  },
+  {
+    "question": "The outward shift of the production possibility curve could be due to",
+    "options": ["Military conquest", "Increased money supply", "Massive importation", "Economic growth"],
+    "answer": "Economic growth"
+  },
+  {
+    "question": "Tariff can be defined as a compulsory levy on",
+    "options": ["Goods that are produced and consumed locally", "Foreign exchange earnings", "Imported but inferior goods", "Imports and exports"],
+    "answer": "Imports and exports"
+  },
+  {
+    "question": "International trade is different from internal trade because of the",
+    "options": ["Manufactured goods involved", "Currency differentiate", "Homogeneity of products", "Uniformity of prizes"],
+    "answer": "Currency differentiate"
+  },
+  {
+    "question": "The reduction in the value of a country’s currency in relation to the value of the currencies of other nations is known as",
+    "options": ["Deflation", "Devaluation", "Inflation", "Revaluation"],
+    "answer": "Revaluation"
+  },
+  {
+    "question": "One quality of money which makes it possible to be carried easily is its",
+    "options": ["Scarcity", "Durability", "Portability", "Acceptability"],
     "answer": "Portability"
   },
   {
-    "question": "All buses consist of two parts namely _______ and _______",
+    "question": "The establishment of industries in rural areas will help to reduce",
+    "options": ["Urban – rural migration", "Urban – urban migration", "Rural – urban migration", "Rural – rural migration"],
+    "answer": "Rural – urban migration"
+  },
+  {
+    "question": "Economics activities are undertaken to solve the problem of",
+    "options": ["Consumption", "Opportunity cost", "Production", "Scarcity"],
+    "answer": "Scarcity"
+  },
+  {
+    "question": "Farm, mining and fishing are",
+    "options": ["Primary production", "Secondary production", "Tertiary production", "Intermediate production"],
+    "answer": "Primary production"
+  },
+  {
+    "question": "The remuneration of the entrepreneur as a factor of production is called",
+    "options": ["Wages", "Salary", "Interest", "Profit"],
+    "answer": "Profit"
+  },
+  {
+    "question": "A factor that has slowed down the rate of industrial development in West Africa is",
     "options": [
-      "Index Bus and Data Bus",
-      "Address Bus and Data Bus",
-      "Data Bus and Control Bus",
-      "Address Bus and Control Bus"
+      "Inadequate technology",
+      "Increasing rate of manpower production",
+      "Consumer must buy so much of each commodity whose price is",
+      "Intervention of the government in business activities"
     ],
-    "answer": "Address Bus and Data Bus"
+    "answer": "Inadequate technology"
   },
   {
-    "question": "The two factors affecting the speed of data transfer",
+    "question": "The desire for goods without the ability to pay is called",
+    "options": ["Choice", "Effective demand", "Joint demand", "Wants"],
+    "answer": "Wants"
+  },
+  {
+    "question": "Amount of goods offered to the market with respective prices and presented in a table is called",
+    "options": ["Price schedule", "Supply schedule", "Scale of preference", "Demand schedule"],
+    "answer": "Demand schedule"
+  },
+  {
+    "question": "Information about new goods is passed onto buyers through",
+    "options": ["Advertising", "Retail trade", "The manufacturer", "Wholesaler trade"],
+    "answer": "Advertising"
+  },
+  {
+    "question": "Acceptability, durability, homogeneity and portability are all attributes of good",
+    "options": ["Markets", "Money", "Banks", "Government"],
+    "answer": "Money"
+  },
+  {
+    "question": "The term demand for money means",
     "options": [
-      "Bus Speed and Bus Width",
-      "Data speed and bus width",
-      "Bus speed and data width",
-      "Bus width and index speed"
+      "Desire to borrow money from people",
+      "Desire of an individual to invest all his money in projects",
+      "Willingness of people to hold money",
+      "Willingness of people to keep all their resources in assets"
     ],
-    "answer": "Bus Speed and Bus Width"
+    "answer": "Willingness of people to hold money"
   },
   {
-    "question": "Which action of the mouse is used to display a set of command?",
-    "options": ["Left Click", "Right Click", "Double click", "Scrolling"],
-    "answer": "Right Click"
-  },
-  {
-    "question": "What is the full meaning of GPS?",
-    "options": [
-      "Global Positioning System",
-      "General Positioning System",
-      "Geographical Placement System",
-      "Sir you never taught us this thing nah, oooooo"
-    ],
-    "answer": "Global Positioning System"
-  },
-  {
-    "question": "HTTP means ____________",
-    "options": [
-      "Hypertext Transfer Protocol",
-      "Hyperlink Text Protocol",
-      "Hypertext Transmission Protocol",
-      "Hyper Transfer Text Protocol"
-    ],
-    "answer": "Hypertext Transfer Protocol"
-  },
-  {
-    "question": "What is a cell in MS Excel?",
-    "options": [
-      "Intersection of Rows and Columns",
-      "Smallest Unit of Life",
-      "A battery",
-      "A small rectangular box in PowerPoint"
-    ],
-    "answer": "Intersection of Rows and Columns"
-  },
-  {
-    "question": "What is the formula for Summation in MS Excel?",
-    "options": ["=SUM()", "+SUM()", "SUM()", "ADD()"],
-    "answer": "=SUM()"
-  },
-  {
-    "question": "______ is a detailed yet readable description of an Algorithm",
-    "options": ["Pseudocode", "Flowchart", "Array", "Algorithm"],
-    "answer": "Pseudocode"
-  },
-  {
-    "question": "What is the full meaning of PDF?",
-    "options": [
-      "Portable Document Format",
-      "Point Document File",
-      "Previewed Document File",
-      "Previewed Document Format"
-    ],
-    "answer": "Portable Document Format"
-  },
-  {
-    "question": "The features of word processing packages are the following except",
-    "options": ["Creating document", "Creating slide", "Formatting document", "Justifying text"],
-    "answer": "Creating slide"
-  },
-  {
-    "question": "Which of the following is a word processing software?",
-    "options": ["MS-Excel", "WordPad", "CorelDRAW", "PowerPoint"],
-    "answer": "WordPad"
-  },
-  {
-    "question": "Allocation of resources in a time dependent manner to several programs simultaneously is called",
-    "options": ["Multi user", "Multi-tasking", "Time sharing", "None of the above"],
-    "answer": "Multi-tasking"
-  },
-  {
-    "question": "What is the full meaning of URL?",
-    "options": [
-      "Uniform Resource Locator",
-      "Universal Resource Link",
-      "Universal Retrieval Locator",
-      "Sir this thing too hard abeg"
-    ],
-    "answer": "Uniform Resource Locator"
-  },
-  {
-    "question": "Another name for font is _________",
-    "options": ["Text", "Typeface", "Word", "Icon"],
-    "answer": "Typeface"
-  },
-  {
-    "question": "What’s the full meaning of WIFI?",
-    "options": [
-      "Window Finder",
-      "Wireless Internet Frequency Interference",
-      "Wireless Fidelity",
-      "MIFI"
-    ],
-    "answer": "Wireless Fidelity"
-  },
-  {
-    "question": "What is the full meaning of VPN?",
-    "options": [
-      "Virtual Public Network",
-      "Virtual Private Network",
-      "Virtual Protected Network",
-      "Visual Private Network"
-    ],
-    "answer": "Virtual Private Network"
-  },
-  {
-    "question": "What will be the result of this computation 26\\8 in BASIC",
-    "options": ["3", ".25", "3.25", "4"],
-    "answer": "3"
-  },
-  {
-    "question": "In MS Excel, which symbol is used for Logical Operation",
-    "options": ["=", "+", "%", "$"],
-    "answer": "="
-  },
-  {
-    "question": "Choose the ODD one out",
-    "options": ["Google Meet", "Zoom", "Skype", "Google Sheet"],
-    "answer": "Google Sheet"
-  },
-  {
-    "question": "At what stage of the program development do we check whether input data will provide desired output or not",
-    "options": [
-      "Testing & Debugging",
-      "Coding",
-      "Desk Checking",
-      "Program Compilation"
-    ],
-    "answer": "Testing & Debugging"
-  },
-  {
-    "question": "_____ ensures that the program does what it is meant to do according to the design specification",
-    "options": ["Accuracy & Correctness", "Robustness", "Clarity", "Flexibility"],
-    "answer": "Accuracy & Correctness"
-  },
-  {
-    "question": "_______ involves sending unsolicited messages to individuals or network group through the internet",
-    "options": ["Spamming", "Scam", "Hacking", "Fraud"],
-    "answer": "Spamming"
+    "question": "A persistent and appreciable rise in the general level of prices is known as",
+    "options": ["Depreciation", "Inflation", "Deflation", "Production"],
+    "answer": "Inflation"
   }
 ]
 
