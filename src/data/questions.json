@@ -1,223 +1,338 @@
 [
   {
-    "number": 1,
-    "question": "What is the motto of Sun Dream International School?",
-    "options": [
-      "Learning Today, Leading Tomorrow",
-      "Knowledge for Excellence",
-      "Wisdom, Knowledge and Service",
-      "Inspiring the Future"
-    ],
-    "answer": "Wisdom, Knowledge and Service"
+    "question": "Which of this is NOT among the storage capacity of a flash drive",
+    "options": ["2GB", "8GB", "20GB", "32GB"],
+    "answer": "20GB"
   },
   {
-    "number": 2,
-    "question": "Which of the following colors is part of the official Sun Dream School uniform?",
-    "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Purple"
-    ],
-    "answer": "Blue"
+    "question": "______ controls the way in which the computer system functions and provides a means by which users can interact with the computer.",
+    "options": ["The operating system", "The motherboard", "The platform", "Application software"],
+    "answer": "The operating system"
   },
   {
-    "number": 3,
-    "question": "What is the name of the school's annual inter-house sports competition?",
-    "options": [
-      "Sun Dream Olympics",
-      "DreamFit Games",
-      "Sun Dream Inter-House Fiesta",
-      "Sun Sprint Classic"
-    ],
-    "answer": "Sun Dream Inter-House Fiesta"
+    "question": "The difference between people with access to computer and the internet and those without this access is known as the",
+    "options": ["Digital divide", "Internet divide", "Web divide", "Cyber way divide"],
+    "answer": "Digital divide"
   },
   {
-    "number": 4,
-    "question": "In what year was Sun Dream International School established?",
-    "options": [
-      "2010",
-      "2012",
-      "2018",
-      "2017"
-    ],
-    "answer": "2018"
+    "question": "Verification of a login name and password is known as",
+    "options": ["Configuration", "Accessibility", "Authentication", "Logging"],
+    "answer": "Authentication"
   },
   {
-    "number": 5,
-    "question": "Which house won the last inter-house sports competition?",
-    "options": [
-      "Ruby House",
-      "Emerald House",
-      "Sapphire House",
-      "Topaz House"
-    ],
-    "answer": "Emerald House"
+    "question": "Word processing, spreadsheet and photo-editing are examples of",
+    "options": ["Application software", "System software", "Operating system", "Platform software"],
+    "answer": "Application software"
   },
   {
-    "number": 6,
-    "question": "What is the name of the student-led media group in Sun Dream School?",
-    "options": [
-      "DreamCast",
-      "The Sunshine Press Club",
-      "Sun Dream Media House",
-      "Sun Dream Reporters"
-    ],
-    "answer": "Sun Dream Media House"
+    "question": "What is the full meaning of SMS",
+    "options": ["System Messaging Service", "Short Messaging Service", "Shot Messages Service", "Subscriber Messaging Service"],
+    "answer": "Short Messaging Service"
   },
   {
-    "number": 7,
-    "question": "Which subject is Sun Dream School especially known for winning competitions in?",
-    "options": [
-      "Mathematics",
-      "ICT",
-      "Civic Education",
-      "Home Economics"
-    ],
-    "answer": "ICT"
+    "question": "________ involves manual checking of the logic of a program for correctness",
+    "options": ["Testing", "Desk checking", "Coding", "Debugging"],
+    "answer": "Desk checking"
   },
   {
-    "number": 8,
-    "question": "Which of these is a core value promoted by Sun Dream International School?",
-    "options": [
-      "Fame",
-      "Humility",
-      "Power",
-      "Popularity"
-    ],
-    "answer": "Humility"
+    "question": "The ability to recover and read deleted or damaged files from a criminal’s computer is an example of a law enforcement specialty called",
+    "options": ["Simulation", "Criminology", "Robotics", "Computer forensics"],
+    "answer": "Computer forensics"
   },
   {
-    "number": 9,
-    "question": "How many campuses does Sun Dream School currently have?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "answer": "Two"
+    "question": "Data that are accumulated and processed in group are called",
+    "options": ["Group processing", "Batch processing", "Time sharing", "None of these"],
+    "answer": "Batch processing"
   },
   {
-    "number": 10,
-    "question": "Which club is responsible for environmental cleanliness and awareness in the school?",
-    "options": [
-      "Jet Club",
-      "Press Club",
-      "Green Club",
-      "Creative Arts Club"
-    ],
-    "answer": "Green Club"
+    "question": "Choose the ODD one",
+    "options": ["React", "C#", "JavaScript", "Picto Block"],
+    "answer": "Picto Block"
   },
   {
-    "number": 11,
-    "question": "Who is the current Head Girl of Sun Dream International School (as of this session)?",
+    "question": "The output of an AND gate is 1 when",
     "options": [
-      "Adaora M.",
-      "Christabel U.",
-      "Amarachi O.",
-      "Blessing A."
+      "All inputs are 0",
+      "All inputs are 1",
+      "Any of the input is 0",
+      "Any of the input is 1"
     ],
-    "answer": "Christabel U."
+    "answer": "All inputs are 1"
   },
   {
-    "number": 12,
-    "question": "Which of the following is a tradition during the school’s end-of-year party?",
+    "question": "The function of the NOT gate is to",
     "options": [
-      "Talent Hunt",
-      "Principal’s Debate",
-      "Cultural Dance Parade",
-      "Parents vs Teachers Football Match"
+      "Act as a universal signal",
+      "Invert an input or output signal",
+      "Do nothing to a signal",
+      "Implement logic addition"
     ],
-    "answer": "Cultural Dance Parade"
+    "answer": "Invert an input or output signal"
   },
   {
-    "number": 13,
-    "question": "What is the title of the school anthem?",
-    "options": [
-      "Dream Beyond the Stars",
-      "Great Sun Dream",
-      "Light of the Future",
-      "Together We Rise"
-    ],
-    "answer": "Great Sun Dream"
+    "question": "Desk checking is also called_______",
+    "options": ["Manual walkthrough", "Code execution", "Code review", "Tracing"],
+    "answer": "Manual walkthrough"
   },
   {
-    "number": 14,
-    "question": "What language is taught as a second language in Sun Dream School?",
-    "options": [
-      "French",
-      "Spanish",
-      "Chinese",
-      "German"
-    ],
-    "answer": "French"
+    "question": "Where are Registers located?",
+    "options": ["Hard disk", "Processor", "Monitor", "None of the above"],
+    "answer": "Processor"
   },
   {
-    "number": 15,
-    "question": "Which award is usually given to the most disciplined student?",
-    "options": [
-      "Star Award",
-      "Model Student Award",
-      "Dream Ambassador",
-      "Excellence Badge"
-    ],
-    "answer": "Model Student Award"
+    "question": "The first stage of the SDLC is",
+    "options": ["Planning", "Analysis", "Design", "Testing"],
+    "answer": "Planning"
   },
   {
-    "number": 16,
-    "question": "What is the name of the weekly assembly presentation organized by students?",
-    "options": [
-      "Dream Talk",
-      "Value Time",
-      "Sunrise Spotlight",
-      "Assembly Showcase"
-    ],
-    "answer": "Dream Talk"
+    "question": "The process of transferring files from a local computer to a remote computer on the WWW is called?",
+    "options": ["Upload", "Download", "Browsing", "Surfing"],
+    "answer": "Upload"
   },
   {
-    "number": 17,
-    "question": "Which of these activities is held every Friday afternoon?",
+    "question": "Which of this is the correct link of your school website",
     "options": [
-      "School Sanitation",
-      "House Meetings",
-      "PTA Forum",
-      "Club Activities"
+      "www.sundreaminternational.com.ng",
+      "www.sundreaminternational.sch.ng",
+      "www.sundreaminternational.edu.ng",
+      "www.sundreaminternationalschool.edu.ng"
     ],
-    "answer": "Club Activities"
+    "answer": "www.sundreaminternational.com.ng"
   },
   {
-    "number": 18,
-    "question": "Which member of staff is popularly known as 'Mr. Techie'?",
-    "options": [
-      "Mr. Joshua",
-      "Mr. Samuel",
-      "Mr. Mfoniso",
-      "Mr. Emeka"
-    ],
-    "answer": "Mr. Mfoniso"
+    "question": "Which stage of the SDLC does the development team translate high-level plans and goals into actionable ideas?",
+    "options": ["Planning", "Analysis", "Design", "Testing"],
+    "answer": "Analysis"
   },
   {
-    "number": 19,
-    "question": "Which major ICT competition did Sun Dream represent Imo State in?",
+    "question": "What is the full meaning of COBOL?",
     "options": [
-      "National Girls in ICT Competition",
-      "Junior Tech Stars",
-      "Code Nigeria Hackathon",
-      "Digital Youth Challenge"
+      "Computer Boolean Language",
+      "Computer Basic Oriented Language",
+      "Common Business Oriented Language",
+      "Computer Business Oriented Language"
     ],
-    "answer": "National Girls in ICT Competition"
+    "answer": "Common Business Oriented Language"
   },
   {
-    "number": 20,
-    "question": "What is the nickname often used by students for the school?",
+    "question": "Which of this is NOT an output device?",
+    "options": ["Scanner", "Projector", "Printer", "Monitor"],
+    "answer": "Scanner"
+  },
+  {
+    "question": "What is the full meaning of GUI?",
+    "options": ["Graphic User Interface", "Graphical User Interchange", "Graphic Usenet Interface", "Google User Interface"],
+    "answer": "Graphic User Interface"
+  },
+  {
+    "question": "What is the primary function of an input device?",
     "options": [
-      "SD Nation",
-      "Sunshine City",
-      "Dreamers' Den",
-      "SDIS"
+      "To provide information to a computer system",
+      "To display information when inputted",
+      "To provide data to a computer system",
+      "All of the above"
     ],
-    "answer": "SDIS"
+    "answer": "To provide data to a computer system"
+  },
+  {
+    "question": "Another name for data gathering is ____",
+    "options": ["Data collection", "Data collation", "Gathering of data", "Data processing"],
+    "answer": "Data collection"
+  },
+  {
+    "question": "Which of these is NOT a method of gathering data",
+    "options": ["Interview", "Questionnaire", "Observation", "Talking"],
+    "answer": "Talking"
+  },
+  {
+    "question": "What is the easiest way to determine a file’s format?",
+    "options": [
+      "Check the file size",
+      "Open the file in a text editor",
+      "Use file properties menu",
+      "Check the file extension"
+    ],
+    "answer": "Check the file extension"
+  },
+  {
+    "question": "What is the full meaning of FTP?",
+    "options": [
+      "File Transfer Protocol",
+      "File Transfer Point",
+      "File Transfer Provider",
+      "Field Transfer Protocol"
+    ],
+    "answer": "File Transfer Protocol"
+  },
+  {
+    "question": "The size of a bus is known as",
+    "options": ["Length", "Breadth", "Height", "Width"],
+    "answer": "Width"
+  },
+  {
+    "question": "_________ refers to the ability of an application to run on different platforms",
+    "options": ["Portability", "Readability", "Generality", "Efficiency"],
+    "answer": "Portability"
+  },
+  {
+    "question": "All buses consist of two parts namely _______ and _______",
+    "options": [
+      "Index Bus and Data Bus",
+      "Address Bus and Data Bus",
+      "Data Bus and Control Bus",
+      "Address Bus and Control Bus"
+    ],
+    "answer": "Address Bus and Data Bus"
+  },
+  {
+    "question": "The two factors affecting the speed of data transfer",
+    "options": [
+      "Bus Speed and Bus Width",
+      "Data speed and bus width",
+      "Bus speed and data width",
+      "Bus width and index speed"
+    ],
+    "answer": "Bus Speed and Bus Width"
+  },
+  {
+    "question": "Which action of the mouse is used to display a set of command?",
+    "options": ["Left Click", "Right Click", "Double click", "Scrolling"],
+    "answer": "Right Click"
+  },
+  {
+    "question": "What is the full meaning of GPS?",
+    "options": [
+      "Global Positioning System",
+      "General Positioning System",
+      "Geographical Placement System",
+      "Sir you never taught us this thing nah, oooooo"
+    ],
+    "answer": "Global Positioning System"
+  },
+  {
+    "question": "HTTP means ____________",
+    "options": [
+      "Hypertext Transfer Protocol",
+      "Hyperlink Text Protocol",
+      "Hypertext Transmission Protocol",
+      "Hyper Transfer Text Protocol"
+    ],
+    "answer": "Hypertext Transfer Protocol"
+  },
+  {
+    "question": "What is a cell in MS Excel?",
+    "options": [
+      "Intersection of Rows and Columns",
+      "Smallest Unit of Life",
+      "A battery",
+      "A small rectangular box in PowerPoint"
+    ],
+    "answer": "Intersection of Rows and Columns"
+  },
+  {
+    "question": "What is the formula for Summation in MS Excel?",
+    "options": ["=SUM()", "+SUM()", "SUM()", "ADD()"],
+    "answer": "=SUM()"
+  },
+  {
+    "question": "______ is a detailed yet readable description of an Algorithm",
+    "options": ["Pseudocode", "Flowchart", "Array", "Algorithm"],
+    "answer": "Pseudocode"
+  },
+  {
+    "question": "What is the full meaning of PDF?",
+    "options": [
+      "Portable Document Format",
+      "Point Document File",
+      "Previewed Document File",
+      "Previewed Document Format"
+    ],
+    "answer": "Portable Document Format"
+  },
+  {
+    "question": "The features of word processing packages are the following except",
+    "options": ["Creating document", "Creating slide", "Formatting document", "Justifying text"],
+    "answer": "Creating slide"
+  },
+  {
+    "question": "Which of the following is a word processing software?",
+    "options": ["MS-Excel", "WordPad", "CorelDRAW", "PowerPoint"],
+    "answer": "WordPad"
+  },
+  {
+    "question": "Allocation of resources in a time dependent manner to several programs simultaneously is called",
+    "options": ["Multi user", "Multi-tasking", "Time sharing", "None of the above"],
+    "answer": "Multi-tasking"
+  },
+  {
+    "question": "What is the full meaning of URL?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Resource Link",
+      "Universal Retrieval Locator",
+      "Sir this thing too hard abeg"
+    ],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Another name for font is _________",
+    "options": ["Text", "Typeface", "Word", "Icon"],
+    "answer": "Typeface"
+  },
+  {
+    "question": "What’s the full meaning of WIFI?",
+    "options": [
+      "Window Finder",
+      "Wireless Internet Frequency Interference",
+      "Wireless Fidelity",
+      "MIFI"
+    ],
+    "answer": "Wireless Fidelity"
+  },
+  {
+    "question": "What is the full meaning of VPN?",
+    "options": [
+      "Virtual Public Network",
+      "Virtual Private Network",
+      "Virtual Protected Network",
+      "Visual Private Network"
+    ],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "question": "What will be the result of this computation 26\\8 in BASIC",
+    "options": ["3", ".25", "3.25", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "In MS Excel, which symbol is used for Logical Operation",
+    "options": ["=", "+", "%", "$"],
+    "answer": "="
+  },
+  {
+    "question": "Choose the ODD one out",
+    "options": ["Google Meet", "Zoom", "Skype", "Google Sheet"],
+    "answer": "Google Sheet"
+  },
+  {
+    "question": "At what stage of the program development do we check whether input data will provide desired output or not",
+    "options": [
+      "Testing & Debugging",
+      "Coding",
+      "Desk Checking",
+      "Program Compilation"
+    ],
+    "answer": "Testing & Debugging"
+  },
+  {
+    "question": "_____ ensures that the program does what it is meant to do according to the design specification",
+    "options": ["Accuracy & Correctness", "Robustness", "Clarity", "Flexibility"],
+    "answer": "Accuracy & Correctness"
+  },
+  {
+    "question": "_______ involves sending unsolicited messages to individuals or network group through the internet",
+    "options": ["Spamming", "Scam", "Hacking", "Fraud"],
+    "answer": "Spamming"
   }
 ]
 
