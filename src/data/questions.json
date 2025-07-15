@@ -1,329 +1,303 @@
 [
   {
-    "question": "Economics is a science which studies human behaviour as a relationship between ends and scarce means which have alternative uses. “Ends” here refers to",
-    "options": ["Resources", "Wants", "Choice", "Output"],
-    "answer": "Resources"
+    "number": 1,
+    "question": "A wave transfers",
+    "options": ["Energy", "molecules", "matter", "force"],
+    "answer": "Energy"
   },
   {
-    "question": "The price of a community is determined by the",
-    "options": ["Supplier", "Consumer", "Quantity of goods demanded", "Quantity of goods"],
-    "answer": "Quantity of goods demanded"
+    "number": 2,
+    "question": "Water waves are being generated in a ripple tank at a rate of 5Hz. This means that in 1s the number of waves passing through a fixed point is",
+    "options": ["0.2", "2.5", "5", "10"],
+    "answer": "0.2"
   },
   {
-    "question": "The 4 Ps in marketing include the following except",
-    "options": ["Place", "Price", "Promotion", "Media"],
-    "answer": "Media"
+    "number": 3,
+    "question": "In air, what is the wavelength of a sound wave of frequency 2500Hz? (The speed of sound in air is 330ms-1)",
+    "options": ["0.0004m", "0.003m", "0.132m", "7.58m"],
+    "answer": "0.132m"
   },
   {
-    "question": "Into which of these organizations would you classify the International Monetary Fund (IMF)?",
-    "options": ["Political organization", "Trade organization", "Financial organization", "Social organization"],
-    "answer": "Financial organization"
+    "number": 4,
+    "question": "One of these is an example of longitudinal wave",
+    "options": ["X-ray", "sound wave", "water wave", "wave on rope"],
+    "answer": "sound wave"
   },
   {
-    "question": "A demand schedule is",
-    "options": [
-      "A table containing the price of goods",
-      "A table showing the relationship between price and quantity demanded of a commodity",
-      "A table showing the consumers demand in order of importance",
-      "The quantity of goods the consumer is prepared to buy"
-    ],
-    "answer": "A table showing the relationship between price and quantity demanded of a commodity"
+    "number": 5,
+    "question": "The inability of the eye to focus near object is known as",
+    "options": ["long sight", "astigmatism", "presbyopia", "short sight"],
+    "answer": "short sight"
   },
   {
-    "question": "P = population, national income. From the above, the formula for calculating real per capital income is",
-    "options": ["N1 / P", "GDP / P", "P / GNP", "P / GNP"],
-    "answer": "N1 / P"
+    "number": 6,
+    "question": "A normal person can hear sounds with frequencies that lie between",
+    "options": ["10Hz and 10kHz", "20Hz and 20kHz", "25Hz and 25kHz", "30Hz and 30kHz"],
+    "answer": "20Hz and 20kHz"
   },
   {
-    "question": "Which of the following is not an advantage of price control?",
-    "options": ["Control of inflation", "Distortion of price", "Mechanism", "Prevention of exploitation"],
-    "answer": "Distortion of price"
+    "number": 7,
+    "question": "The ability of a wave to spread around corners is called",
+    "options": ["Polarization", "dispersion", "diffraction", "reflection"],
+    "answer": "diffraction"
   },
   {
-    "question": "Which of these factors does not cause a change in demand?",
-    "options": ["Income", "Taste and fashion", "Population", "Price of commodity concerned"],
-    "answer": "Population"
+    "number": 8,
+    "question": "The change of direction of a wave front as a result of a change in the velocity of the wave in another medium is called",
+    "options": ["Refraction", "reflection", "diffraction", "polarization"],
+    "answer": "Refraction"
   },
   {
-    "question": "When the price of a commodity (A) increases, the demand for commodity (B) decreases. Then A and B are",
-    "options": ["Close substitute", "Complementary goods", "Supplementary goods", "Gifted goods"],
-    "answer": "Close substitute"
+    "number": 9,
+    "question": "Whenever light waves are restricted to a specific plane, they are said to be",
+    "options": ["Diffracted", "reflected", "diffused", "plane polarized"],
+    "answer": "plane polarized"
   },
   {
-    "question": "In any economic system, which of the following is not an economic problem?",
-    "options": [
-      "What goods and services to produce",
-      "For whom to produce goods and services",
-      "What techniques of production to be adopted",
-      "Equal distribution of the goods and services"
-    ],
-    "answer": "Equal distribution of the goods and services"
+    "number": 10,
+    "question": "Consider the wave equation: y = 10sin7(x-50t). what does the number 10 in the equation represent?",
+    "options": ["Acceleration", "speed", "amplitude", "wavelength"],
+    "answer": "amplitude"
   },
   {
-    "question": "The economic system in which most capital goods are owned by individuals and private firms is known as",
-    "options": ["Mixed economy", "Planned economy", "Capitalist Economy", "Traditional economy"],
-    "answer": "Capitalist Economy"
+    "number": 11,
+    "question": "A certain wave has a speed of 20ms-1. If the frequency of the wave is 0.25Hz, calculate the distance between successive crests of the wave",
+    "options": ["5.0m", "40.0m", "50.0m", "80.0m"],
+    "answer": "80.0m"
   },
   {
-    "question": "Which of the following is not a feature of the sole proprietorship?",
-    "options": [
-      "The sole proprietor provides the capital to start the business",
-      "The sole proprietor is the boss of his business",
-      "There is unlimited liability",
-      "Continuity is doubtful at the death of proprietor"
-    ],
-    "answer": "There is unlimited liability"
+    "number": 12,
+    "question": "What is the frequency of a radio wave of wavelength 150m if the velocity of radio waves in free space is 3×10⁸ms-1?",
+    "options": ["4.5×10¹⁰Hz", "5.0×10⁹Hz", "4.5×10⁸Hz", "2.0×10⁶Hz"],
+    "answer": "2.0×10⁶Hz"
   },
   {
-    "question": "Which of these does not relate to the law of comparative advantage?",
-    "options": [
-      "The law of comparative advantage was propounded by David Ricardo",
-      "The law stresses the importance of relative efficiency",
-      "In order to specialize, a country must have absolute advantage",
-      "The law is based on opportunity cost principles"
-    ],
-    "answer": "The law is based on opportunity cost principles"
+    "number": 13,
+    "question": "What part of the camera corresponds to the iris of the eyes?",
+    "options": ["Shutter", "film", "lens", "diaphragm"],
+    "answer": "diaphragm"
   },
   {
-    "question": "A condition which adversely affects expansion of production is",
-    "options": ["Effective management", "Limited size of the market", "Availability of funds", "Increased profit prospects"],
-    "answer": "Limited size of the market"
+    "number": 14,
+    "question": "The size of the hole of a pin hole camera is increased. The resultant image formed becomes",
+    "options": ["Sharper", "reduced in size", "enlarged", "blurred"],
+    "answer": "blurred"
   },
   {
-    "question": "Which of the following roles is being played by the organization of petroleum exporting countries (OPEC) with regards to Nigeria crude oil?",
-    "options": ["Exploiting", "Exploring", "Refining", "Marketing"],
-    "answer": "Marketing"
+    "number": 15,
+    "question": "The image of a pin hole camera is always",
+    "options": ["Diminished", "enlarged", "upright", "inverted"],
+    "answer": "inverted"
   },
   {
-    "question": "Which of these factors does not affect revenue allocation in Nigeria?",
-    "options": [
-      "Needs of an area",
-      "Size of the population and land",
-      "Number of industries and land area",
-      "Revenue derivable from an area"
-    ],
-    "answer": "Needs of an area"
+    "number": 16,
+    "question": "An object is placed in front of two plane mirrors inclined at 60° to each other. Determine the number of images formed",
+    "options": ["2", "3", "5", "7"],
+    "answer": "5"
   },
   {
-    "question": "Subsistence farming means producing food",
-    "options": [
-      "Mainly for the need of immediate and extended family",
-      "Crops or sale mainly",
-      "Crops mainly for export",
-      "To feed the community around"
-    ],
-    "answer": "Mainly for the need of immediate and extended family"
+    "number": 17,
+    "question": "Which of the following physical quantities is use to distinguish noise from music",
+    "options": ["Amplitude", "frequency", "speed", "loudness"],
+    "answer": "loudness"
   },
   {
-    "question": "The action of the government to forgo road construction in order to provide more health facilities denotes",
-    "options": ["Sound economic decision", "Opportunity cost", "Practicable government policy", "Scale of preference"],
-    "answer": "Opportunity cost"
+    "number": 18,
+    "question": "A luminous object is one that",
+    "options": ["Gives off dim blue-green light only in the dark", "gives out light of its own", "shines by reflected light only", "glows only in the presence of light"],
+    "answer": "gives out light of its own"
   },
   {
-    "question": "In economics, a market is defined as any",
-    "options": [
-      "Agreement made for consumers to buy all they need",
-      "Agreement to sell commodities at low prices",
-      "Arrangement made for producer to all they need",
-      "Arrangement whereby the buyers and sellers are in close contract"
-    ],
-    "answer": "Arrangement whereby the buyers and sellers are in close contract"
+    "number": 19,
+    "question": "The angle of incidence of a ray of light on a plane mirror is 55°. Determine the angle between the reflected ray and the mirror.",
+    "options": ["35°", "45°", "55°", "110°"],
+    "answer": "110°"
   },
   {
-    "question": "Which of the following is not a function of an insurance company?",
-    "options": [
-      "Pulling resources together against risks",
-      "Mobilization of funds through premium collected",
-      "Encouragement of investment by security of capital",
-      "Collection of deposits from the public for investment"
-    ],
-    "answer": "Collection of deposits from the public for investment"
+    "number": 20,
+    "question": "Two plane mirrors are inclined at an angle 20° to each other. Determine the number of images formed when an object is placed between them",
+    "options": ["17", "18", "19", "20"],
+    "answer": "17"
   },
   {
-    "question": "The basic problem that economics attempts to solve is the",
-    "options": ["Ranking of goods and services", "Pricing of goods and services", "Scarcity of resources", "Forgoing of alternatives"],
-    "answer": "Scarcity of resources"
+    "number": 21,
+    "question": "A swimming pool is 2.1m deep. If it contains water of refractive index 1.3. calculate the apparent depth of the pool",
+    "options": ["3.4m", "2.7m", "1.6m", "0.8m"],
+    "answer": "2.7m"
   },
   {
-    "question": "The ranking of a consumer’s needs in order of importance is termed",
-    "options": ["An opportunity cost", "Economics of scale", "A scale of preference", "Direct production"],
-    "answer": "A scale of preference"
+    "number": 22,
+    "question": "The refractive index of a material is 1.5. calculate the critical angle at the glass-air medium",
+    "options": ["19°", "21°", "39°", "42°"],
+    "answer": "42°"
   },
   {
-    "question": "Subsistence agriculture means",
-    "options": ["Cultivation for external use", "Cultivation for local industries", "Farming for the urban dwellers", "Cultivation for household consumption"],
-    "answer": "Cultivation for household consumption"
+    "number": 23,
+    "question": "Which of the following equations correctly describes the relationship between the speed V of a transverse wave travelling along a stretched string of tension T and linear density μ?",
+    "options": ["V = √Tμ", "V = μ √T", "V = √Tμ", "V = T√Tμ"],
+    "answer": "μ √T"
   },
   {
-    "question": "Which of the following correctly illustrates the chain of distribution",
-    "options": [
-      "Manufacturer – wholesaler – retailer – consumer",
-      "Consumer – retailer – wholesaler – manufacturer",
-      "Wholesaler – manufacturer – retailer – consumer",
-      "Producer – manufacturer – wholesaler – retailer"
-    ],
-    "answer": "Manufacturer – wholesaler – retailer – consumer"
+    "number": 24,
+    "question": "Which of the following characteristics of light determines its colour?",
+    "options": ["Velocity", "wavelength", "amplitude", "intensity"],
+    "answer": "wavelength"
   },
   {
-    "question": "Rent and interest are reward of",
-    "options": ["Labour and capital respectively", "Land only", "Capital only", "Land and capital respectively"],
-    "answer": "Land and capital respectively"
+    "number": 25,
+    "question": "The force between molecules of the same substance is termed",
+    "options": ["elastic force", "repulsive force", "cohesive force", "adhesive force"],
+    "answer": "cohesive force"
   },
   {
-    "question": "An activity that involves derivation of raw materials from land and sea is",
-    "options": ["Construction", "Farming", "Agriculture", "Extraction"],
-    "answer": "Extraction"
+    "number": 26,
+    "question": "A source of sound produces waves in air of wavelength 1.65m. If the speed of sound in air is 330m/s, the period of the vibration in seconds is",
+    "options": ["200", "2.0", "0.5", "0.005"],
+    "answer": "0.005"
   },
   {
-    "question": "In production, factory buildings are regarded as",
-    "options": ["Variable cost", "Average cost", "Marginal cost", "Fixed cost"],
-    "answer": "Fixed cost"
+    "number": 27,
+    "question": "Which of the following media allow(s) the transmission of sound through them? I. Air II. Liquid III. Solid",
+    "options": ["I only", "II only", "I and II only", "I, II and III"],
+    "answer": "I, II and III"
   },
   {
-    "question": "Monopoly can best be described as a market",
-    "options": [
-      "A single seller sells a product which has no close substitute",
-      "Few sellers sell a product at different prices",
-      "The entry of other firms in the market",
-      "A single buyer buys a product which has no close substitute"
-    ],
-    "answer": "A single seller sells a product which has no close substitute"
+    "number": 28,
+    "question": "Calculate the wavelength of a note which is one octave lower than a note of 256Hz in a medium in which the speed of sound is 352m/s",
+    "options": ["0.69m", "1.38m", "2.75m", "5.50m"],
+    "answer": "1.38m"
   },
   {
-    "question": "The full meaning of OPEC is",
-    "options": [
-      "Oil petroleum exporting countries",
-      "Original petroleum exporting countries",
-      "Organization of petrol exporting countries",
-      "Organization of petroleum exporting countries"
-    ],
-    "answer": "Organization of petroleum exporting countries"
+    "number": 29,
+    "question": "In which of the following media would sound waves travel fastest?",
+    "options": ["Kerosene", "brass", "air", "wood"],
+    "answer": "brass"
   },
   {
-    "question": "The efficiency of a country’s labour force depends on all the following except",
-    "options": [
-      "Improved working conditions",
-      "Better health care facilities",
-      "Adequate training",
-      "Frequent strikes and lock-outs"
-    ],
-    "answer": "Frequent strikes and lock-outs"
+    "number": 30,
+    "question": "An object is placed 15cm from a diverging lens of focal length 12cm. The image of the object formed by the lens is",
+    "options": ["Real and 6.67cm from the lens", "virtual and 6.67cm from the lens", "real and 60cm from the lens", "virtual and 60cm from the lens"],
+    "answer": "virtual and 60cm from the lens"
   },
   {
-    "question": "An economic system in which most means of production are owned and controlled by the state is known as",
-    "options": ["Socialist economy", "Capitalist economy", "Mixed economy", "Feuded economy"],
-    "answer": "Socialist economy"
+    "number": 31,
+    "question": "Which of the following is a stringed instrument?",
+    "options": ["Flute", "Trumpet", "Piano", "Guitar"],
+    "answer": "Guitar"
   },
   {
-    "question": "Which of the following has a derived demand?",
-    "options": ["Labour", "Butter", "Television set", "Bread"],
-    "answer": "Labour"
+    "number": 32,
+    "question": "In which of the following media would sound waves travel fastest?",
+    "options": ["Kerosine", "Alcohol", "Water", "Iron"],
+    "answer": "Iron"
   },
   {
-    "question": "In economics, production is complete when",
-    "options": [
-      "Goods are manufactured in the factories",
-      "Commodities are sold to the final consumer",
-      "All the goods are sold",
-      "Retailers demanded for the goods"
-    ],
-    "answer": "Commodities are sold to the final consumer"
+    "number": 33,
+    "question": "The unit of power of a lens is",
+    "options": ["wall", "joule", "dioptre", "Newton"],
+    "answer": "dioptre"
   },
   {
-    "question": "The forgone alternative in economics is simply the",
-    "options": ["Marginal cost", "Cost of forgone product", "Total cost", "Opportunity cost"],
-    "answer": "Opportunity cost"
+    "number": 34,
+    "question": "Which of the following media allows the transmission of sound wave through them i. Air ii. Liquid iii. Solid",
+    "options": ["I only", "II only", "I and II only", "I, II and III"],
+    "answer": "I, II and III"
   },
   {
-    "question": "The outward shift of the production possibility curve could be due to",
-    "options": ["Military conquest", "Increased money supply", "Massive importation", "Economic growth"],
-    "answer": "Economic growth"
+    "number": 35,
+    "question": "Which of the following statements about sound waves is not correct? Sound waves can be",
+    "options": ["reflected", "refracted", "diffracted", "polarized"],
+    "answer": "polarized"
   },
   {
-    "question": "Tariff can be defined as a compulsory levy on",
-    "options": ["Goods that are produced and consumed locally", "Foreign exchange earnings", "Imported but inferior goods", "Imports and exports"],
-    "answer": "Imports and exports"
+    "number": 36,
+    "question": "Which of the following is not a mechanical wave?",
+    "options": ["Wave propagated in stretched string", "Waves in closed pipes", "Radio waves", "Water waves"],
+    "answer": "Radio waves"
   },
   {
-    "question": "International trade is different from internal trade because of the",
-    "options": ["Manufactured goods involved", "Currency differentiate", "Homogeneity of products", "Uniformity of prizes"],
-    "answer": "Currency differentiate"
+    "number": 37,
+    "question": "Which of the following is a derived unit",
+    "options": ["Metre", "Coulomb", "Kilogram", "Second"],
+    "answer": "Coulomb"
   },
   {
-    "question": "The reduction in the value of a country’s currency in relation to the value of the currencies of other nations is known as",
-    "options": ["Deflation", "Devaluation", "Inflation", "Revaluation"],
-    "answer": "Revaluation"
+    "number": 38,
+    "question": "A person suffering from short – sightedness needs a",
+    "options": ["converging lens", "diverging lens", "cylindrical lens", "telescope"],
+    "answer": "diverging lens"
   },
   {
-    "question": "One quality of money which makes it possible to be carried easily is its",
-    "options": ["Scarcity", "Durability", "Portability", "Acceptability"],
-    "answer": "Portability"
+    "number": 39,
+    "question": "Which of the following statement about the nature of the image formed in a plane mirror is incorrect?",
+    "options": ["the image is laterally inverted", "the image height depends on the object height", "the distance of the image depends on the object distance", "the image is always shorted than the object"],
+    "answer": "the image is always shorted than the object"
   },
   {
-    "question": "The establishment of industries in rural areas will help to reduce",
-    "options": ["Urban – rural migration", "Urban – urban migration", "Rural – urban migration", "Rural – rural migration"],
-    "answer": "Rural – urban migration"
+    "number": 40,
+    "question": "The dimensions of momentum are",
+    "options": ["MLT", "ML-1T-1", "MLT-1", "ML-1T"],
+    "answer": "MLT-1"
   },
   {
-    "question": "Economics activities are undertaken to solve the problem of",
-    "options": ["Consumption", "Opportunity cost", "Production", "Scarcity"],
-    "answer": "Scarcity"
+    "number": 41,
+    "question": "Which of the following physical quantities is correctly paired with its corresponding S.I Units?",
+    "options": ["Density (Kgm3)", "Power (Js-1)", "Specific latent heat (JKg-1K-1)", "Pressure (Nm-1)"],
+    "answer": "Specific latent heat (JKg-1K-1)"
   },
   {
-    "question": "Farm, mining and fishing are",
-    "options": ["Primary production", "Secondary production", "Tertiary production", "Intermediate production"],
-    "answer": "Primary production"
+    "number": 42,
+    "question": "Which of the follow has the same unit as the moment of a force?",
+    "options": ["Force", "Power", "Work", "Impulse"],
+    "answer": "Work"
   },
   {
-    "question": "The remuneration of the entrepreneur as a factor of production is called",
-    "options": ["Wages", "Salary", "Interest", "Profit"],
-    "answer": "Profit"
+    "number": 43,
+    "question": "The refractive index of benzene is 1.5. What is the critical angle of benzene",
+    "options": ["0.6670", "42°", "48°", "90°"],
+    "answer": "42°"
   },
   {
-    "question": "A factor that has slowed down the rate of industrial development in West Africa is",
-    "options": [
-      "Inadequate technology",
-      "Increasing rate of manpower production",
-      "Consumer must buy so much of each commodity whose price is",
-      "Intervention of the government in business activities"
-    ],
-    "answer": "Inadequate technology"
+    "number": 44,
+    "question": "What type of motion does the skin of a ‘talking’ drum perform when it is stroked with a drum stick?",
+    "options": ["Random", "Rotational", "Translational", "Vibratory"],
+    "answer": "Vibratory"
   },
   {
-    "question": "The desire for goods without the ability to pay is called",
-    "options": ["Choice", "Effective demand", "Joint demand", "Wants"],
-    "answer": "Wants"
+    "number": 45,
+    "question": "One of these is not an effect of refraction",
+    "options": ["Apparent depth of swimming pool", "bent objects in liquid", "formation of rainbows and mirages", "Reverberation"],
+    "answer": "Reverberation"
   },
   {
-    "question": "Amount of goods offered to the market with respective prices and presented in a table is called",
-    "options": ["Price schedule", "Supply schedule", "Scale of preference", "Demand schedule"],
-    "answer": "Demand schedule"
+    "number": 46,
+    "question": "A car starts from rest and covers a distance of 40m in 10s. calculate the magnitude of its acceleration",
+    "options": ["0.25ms-2", "0.80ms-2", "3.20ms-2", "4.00ms-2"],
+    "answer": "0.80ms-2"
   },
   {
-    "question": "Information about new goods is passed onto buyers through",
-    "options": ["Advertising", "Retail trade", "The manufacturer", "Wholesaler trade"],
-    "answer": "Advertising"
+    "number": 47,
+    "question": "A Car travelling at a speed of 120kmh-1 passes two stations in 4 minutes. Calculate the distance between the two stations",
+    "options": ["8km", "145km", "22km", "30km"],
+    "answer": "8km"
   },
   {
-    "question": "Acceptability, durability, homogeneity and portability are all attributes of good",
-    "options": ["Markets", "Money", "Banks", "Government"],
-    "answer": "Money"
+    "number": 48,
+    "question": "A bird flies at 10ms-1 for 3s, 15ms-1 for 3s and 20ms-1 for 4s. Calculate the bird’s average speed?",
+    "options": ["4.5ms-1", "15ms-1", "15.5ms-1", "51.7ms-1"],
+    "answer": "15ms-1"
   },
   {
-    "question": "The term demand for money means",
-    "options": [
-      "Desire to borrow money from people",
-      "Desire of an individual to invest all his money in projects",
-      "Willingness of people to hold money",
-      "Willingness of people to keep all their resources in assets"
-    ],
-    "answer": "Willingness of people to hold money"
+    "number": 49,
+    "question": "When a body is thrown vertically upwards, its velocity at the maximum height is",
+    "options": ["Maximum", "Zero", "Double its initial value", "Half its final value"],
+    "answer": "Zero"
   },
   {
-    "question": "A persistent and appreciable rise in the general level of prices is known as",
-    "options": ["Depreciation", "Inflation", "Deflation", "Production"],
-    "answer": "Inflation"
+    "number": 50,
+    "question": "The time of flight for a projectile motion s given by the expression",
+    "options": ["UsinӨ/g", "UsinӨ/2g", "2UsinӨ/g", "UsinӨ/g"],
+    "answer": "2UsinӨ g"
   }
 ]
-
 
