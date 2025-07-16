@@ -1,373 +1,133 @@
 [
-    {
-      "number": 1,
-      "question": "Which of the following elements is diatomic?",
-      "options": ["Sodium", "Oxygen", "Iron", "Neon"],
-      "answer": "Oxygen"
-    },
-    {
-      "number": 2,
-      "question": "Which of the following pairs of elements forms amphoteric oxide?",
-      "options": ["Be and Mg", "Na and K", "B and Al", "Si and Pb"],
-      "answer": "B and Al"
-    },
-    {
-      "number": 3,
-      "question": "Zinc oxide is said to be amphoteric because it",
-      "options": ["forms an acid salt", "is an insoluble base", "forms a double salt", "reacts with base or an acid"],
-      "answer": "reacts with base or an acid"
-    },
-    {
-      "number": 4,
-      "question": "Which of the following metallic oxides is amphoteric?",
-      "options": ["Al₂O₃", "Fe₂O₃", "MgO", "Na₂O"],
-      "answer": "Al₂O₃"
-    },
-    {
-      "number": 5,
-      "question": "The set-up shown in the diagram represents a/an",
-      "options": ["secondary cell.", "electrochemical cell.", "Daniell cell.", "electrolytic cell."],
-      "answer": "electrochemical cell."
-    },
-    {
-      "number": 6,
-      "question": "The bulb in the set-up will not light if K is",
-      "options": ["Molten sodium chloride", "Acidified water", "Tetrachloromethane", "Ethanoic acid"],
-      "answer": "Tetrachloromethane"
-    },
-    {
-      "number": 7,
-      "question": "If the oxidation potential of Mg and Al are +2.37 volts and +1.66 volts respectively, then Mg would",
-      "options": ["not replace Al.", "be replaced by Al.", "remain in the solution.", "replace Al."],
-      "answer": "not replace Al."
-    },
-    {
-      "number": 8,
-      "question": "Which of the following cell notations represent the diagram?",
-      "options": ["B²⁺/B //A/A³⁺", "A³⁺/A //B/B²⁺", "B/B²⁺//A/A³⁺", "A/A³⁺ // B²⁺/B"],
-      "answer": "A/A³⁺ // B²⁺/B"
-    },
-    {
-      "number": 9,
-      "question": "Which of the following half reaction equations represent the reaction at the cathode?",
-      "options": ["A³⁺(aq)+3e⁻→A(s)", "B²⁺(aq)+2e⁻→B(s)", "A(s)→A³⁺(aq)+3e⁻", "B(s)→B²⁺(aq)+2e⁻"],
-      "answer": "B²⁺(aq)+2e⁻→B(s)"
-    },
-    {
-      "number": 10,
-      "question": "The part labeled X is the",
-      "options": ["galvanometer.", "voltmeter.", "ammeter.", "salt bridge."],
-      "answer": "salt bridge."
-    },
-    {
-      "number": 11,
-      "question": "What term is used to describe an oxide whose aqueous solution turns blue litmus red?",
-      "options": ["Strong electrolyte.", "Acid anhydride.", "Amphoteric oxide.", "Basic oxide."],
-      "answer": "Acid anhydride."
-    },
-    {
-      "number": 12,
-      "question": "Which of the following substances is a peroxide?",
-      "options": ["Na2O2.", "CuO.", "Pb3O4.", "Fe2O3."],
-      "answer": "Na2O2."
-    },
-    {
-      "number": 13,
-      "question": "When X is heated with manganese (lV)oxide, oxygen is produced. X is",
-      "options": ["KCI.", "KCIO3.", "CaCO3.", "ZnCO3."],
-      "answer": "KCIO3."
-    },
-    {
-      "number": 14,
-      "question": "How many isotopes has hydrogen?",
-      "options": ["2", "3", "4.", "5"],
-      "answer": "3"
-    },
-    {
-      "number": 15,
-      "question": "Cu and HNO3 are not suitable for preparing hydrogen gas because of their",
-      "options": [
-        "reactivity and oxidation respectively.",
-        "conductivity and corrosiveness respectively.",
-        "meltingpoint and reduction respectively.",
-        "electronegativity and solubility respectively."
-      ],
-      "answer": "reactivity and oxidation respectively."
-    },
-    {
-      "number": 16,
-      "question": "Hydrogen is used for the following except",
-      "options": [
-        "manufacturing of ammonia.",
-        "synthesis of hydrochloric acid.",
-        "extinguishing fire.",
-        "conversion of coal to petrol."
-      ],
-      "answer": "extinguishing fire."
-    },
-    {
-      "number": 17,
-      "question": "The common feature of reactions at the anode is that",
-      "options": ["electrons are consumed.", "ions are reduced.", "oxidation is involved.", "the electrode dissolves."],
-      "answer": "oxidation is involved."
-    },
-    {
-      "number": 18,
-      "question": "Which of the following statements about an electrochemical cell is correct? Oxidation occurs",
-      "options": [
-        "at the anode.",
-        "at the cathode",
-        "through the salt bridge.",
-        "in the aqueous solution"
-      ],
-      "answer": "at the anode."
-    },
-    {
-      "number": 19,
-      "question": "What happens at the cathode during electrolysis? The",
-      "options": [
-        "anion is oxidized.",
-        "anion loses electrons.",
-        "cation is oxidized.",
-        "cation is discharged"
-      ],
-      "answer": "cation is discharged"
-    },
-    {
-      "number": 20,
-      "question": "Oxidation takes place at the anode during electrolysis because the anode",
-      "options": [
-        "Is deficient in electrons.",
-        "Is deficient in proton",
-        "Has excess electrons",
-        "Has attraction for positive ions"
-      ],
-      "answer": "Is deficient in electrons."
-    },
-    {
-      "number": 21,
-      "question": "Potassium chloride solid does not conduct electricity because",
-      "options": [
-        "it is a covalent compound.",
-        "strong cohesive forces make its ions immobile.",
-        "strong cohesive forces make its molecules immobile.",
-        "each of potassium and chlorine ions has noble gas structure."
-      ],
-      "answer": "strong cohesive forces make its ions immobile."
-    },
-    {
-      "number": 22,
-      "question": "The products of the electrolysis of dilute sodium chloride solution with platinum electrodes are on",
-      "options": ["hydrogen and oxygen.", "oxygen and chlorine.", "chlorine and water.", "sodium amalgam and chlorine."],
-      "answer": "hydrogen and oxygen."
-    },
-    {
-      "number": 23,
-      "question": "Which of the following statements is/are correct? I. A primary cell cannot maintain a steady current over a long period. II. Polarization is said to occur in a cell when hydrogen bubble form on the plates. III. The Daniel cell is an electrochemical cell. IV. A primary cell can be recharged",
-      "options": ["IV only.", "I & III.", "III & IV.", "I, II & III"],
-      "answer": "I, II & III"
-    },
-    {
-      "number": 24,
-      "question": "What is the function of manganese (IV) oxide in the reaction represented by the following equation? MnO2 + 4HCl → MnCl2 + 2H2O + Cl2",
-      "options": ["Catalyst.", "Dehydrating agent.", "Oxidizing agent.", "Reducing agent"],
-      "answer": "Oxidizing agent."
-    },
-    {
-      "number": 25,
-      "question": "Reduction is the process of",
-      "options": ["loss of electron.", "loss of hydrogen.", "loss of oxygen.", "addition of electronegative elements"],
-      "answer": "loss of oxygen."
-    },
-    {
-      "number": 26,
-      "question": "Consider the reaction represented by the equation: Ca(OH)2(aq) + CO2 → CaCO3(s) + H2O(l). In the reaction above, CO2 acts as",
-      "options": ["an acidic oxide.", "an oxidizing agent.", "a basic oxide.", "a dehydrating agent."],
-      "answer": "an acidic oxide."
-    },
-    {
-      "number": 27,
-      "question": "A reducing agent is expected to",
-      "options": [
-        "decolorize acidified KMnO4 solution.",
-        "decolorize acidified FeSO4 solution.",
-        "liberate Cl2 from a chloride.",
-        "liberate CO2 from NaHCO3"
-      ],
-      "answer": "decolorize acidified KMnO4 solution."
-    },
-    {
-      "number": 28,
-      "question": "What is the reducing agent in the reaction represented by the following equation? Fe3+(aq) + H2S(g) → 2Fe2+ (aq) + 2H+(aq) + S(s)",
-      "options": ["Fe3+(aq)", "H2S(g)", "2Fe2+", "S(s)"],
-      "answer": "H2S(g)"
-    },
-    {
-      "number": 29,
-      "question": "What mass of copper would be formed when a current of 10.0 A is passed through a solution of CuSO4 for 1 hour? [Cu= 63.5; 1F = 96500 C]",
-      "options": ["5.9g", "11.8g", "23.8g", "47.3g"],
-      "answer": "11.8g"
-    },
-    {
-      "number": 30,
-      "question": "Calculate the mass of copper deposited, if a current of 0.45 ampere flows through CuSO4 solution for 1 hour 15 minutes [Cu = 64.0, S = 32.0, O = 16.0, 1F = 96500 C]",
-      "options": ["6.40g", "0.57g", "0.67g", "0.45g"],
-      "answer": "0.67g"
-    },
-    {
-      "number": 31,
-      "question": "The quantity of electricity required to discharge 1 mole of univalent ion is",
-      "options": ["96,500 C.", "48,250 C.", "96,500C.", "193,000C."],
-      "answer": "96,500 C."
-    },
-    {
-      "number": 32,
-      "question": "The most common process in the extraction of metals from their ore is",
-      "options": ["catalysis", "electrolysis", "oxidation", "reduction"],
-      "answer": "electrolysis"
-    },
-    {
-      "number": 33,
-      "question": "Consider the reaction: 2Al(s)+ 6H+(aq) → 2Al3+(aq) + 3H2. What is the total number of mole of electrons transferred from the aluminum atoms to the hydrogen ions?",
-      "options": ["3", "4", "5", "6"],
-      "answer": "6"
-    },
-    {
-      "number": 34,
-      "question": "What mass of copper will be deposited by the liberation of cu2+ when 0.IF of electricity flows through an aqueous solution of a copper (ll) salt? [cu =64]",
-      "options": ["6.4g", "32g", "12.8g", "3.2g"],
-      "answer": "6.4g"
-    },
-    {
-      "number": 35,
-      "question": "The oxidation number of sulphur is + 4 in",
-      "options": ["Na2S2O3", "H2SO4", "H2SO3", "SO3"],
-      "answer": "H2SO3"
-    },
-    {
-      "number": 36,
-      "question": "The oxidation number of cromium in K2CrO4?",
-      "options": ["+1", "+2", "+3", "+6"],
-      "answer": "+6"
-    },
-    {
-      "number": 37,
-      "question": "In the reaction represented by the equation, 2FeCl3 + SO2 + 2HO2 → 2FeCl2 + H2SO4 + 2HCl, the oxidation number of sulphur changes from",
-      "options": ["+2 to +6", "+4 to +6", "0 to +6", "-2 to +4"],
-      "answer": "+4 to +6"
-    },
-    {
-      "number": 38,
-      "question": "What is the oxidation number of nitrogen in Al(NO3)3",
-      "options": ["+1", "+3", "+5", "+6"],
-      "answer": "+5"
-    },
-    {
-      "number": 39,
-      "question": "Rare gases are stable because they",
-      "options": [
-        "contain equal number of protons and neutrons",
-        "contain more electrons than protons",
-        "are chemically active",
-        "have octer structure"
-      ],
-      "answer": "have octer structure"
-    },
-    {
-      "number": 40,
-      "question": "Potassium and sodium shows similar chemical properties because they l. belong to the same group in the periodic table ll. Have equal number of electrons in their outermost shell lll. Both exist in the +1 oxidation state in their compound lV. Belong to the same period in the periodic table",
-      "options": ["IV only", "l & ll", "lll & IV", "l,ll & lll"],
-      "answer": "l,ll & lll"
-    },
-    {
-      "number": 41,
-      "question": "Which of the following non-metals reacts most readily with metals",
-      "options": ["Nitrogen", "Chlorine", "Sulphur", "Carbon"],
-      "answer": "Chlorine"
-    },
-    {
-      "number": 42,
-      "question": "P,Q,R and S are metals in the same group in the periodic table but in periods 3,4,5,and 6 respectively. Which of them loses electrons least readily",
-      "options": ["P", "C", "R", "S"],
-      "answer": "S"
-    },
-    {
-      "number": 43,
-      "question": "Elements which belong to the same group in the periodic table are characterized by",
-      "options": [
-        "difference of +1 in the oxidation numbers of successive members",
-        "present of the same number of outmost electrons in the respective atoms",
-        "difference of 14 atomic mass units between successive members",
-        "presence of the number of electron shells in the respective atoms"
-      ],
-      "answer": "present of the same number of outmost electrons in the respective atoms"
-    },
-    {
-      "number": 44,
-      "question": "Which of following electron configurations correctly represents an inert element",
-      "options": [
-        "1s2 2s2 2p6 3s2",
-        "1s2 2s2 2p4",
-        "1s2 2s2 2p6 3s2 3p4",
-        "1s2 2s2 2p6"
-      ],
-      "answer": "1s2 2s2 2p6"
-    },
-    {
-      "number": 45,
-      "question": "Which of the following ions has the electron configuration 2, 8,8?",
-      "options": ["Na+", "Mg2+", "F-", "Cl-1"],
-      "answer": "Cl-1"
-    },
-    {
-      "number": 46,
-      "question": "An element with the electron configuration of 1s2 2s2 2p6 would have a combined power of",
-      "options": ["0", "2", "6", "8"],
-      "answer": "0"
-    },
-    {
-      "number": 47,
-      "question": "Which of the following electronic structures belongs to a noble gas",
-      "options": [
-        "1s2 2s2",
-        "1s2 2s2 2p6",
-        "1s2 2s2 2p6 3s2 3p6",
-        "1s2 2s2 2p4"
-      ],
-      "answer": "1s2 2s2 2p6 3s2 3p6"
-    },
-    {
-      "number": 48,
-      "question": "The active energy of a reaction can be altered by",
-      "options": [
-        "adding a reducing agent",
-        "applying a high pressure",
-        "using a catalyst",
-        "changing the temperature"
-      ],
-      "answer": "using a catalyst"
-    },
-    {
-      "number": 49,
-      "question": "Consider the reaction represented by the following equation: H2(aq) + I2(g) → 2HI(g) The number of effective collisions of molecules of the reactants decreases as",
-      "options": [
-        "The temperature is raised",
-        "The pressure increased",
-        "The volume of the system is increased",
-        "A catalyst is introduced into the system"
-      ],
-      "answer": "The volume of the system is increased"
-    },
-    {
-      "number": 50,
-      "question": "The rate of production of hydrogen gas from the reaction between Zinc granules and hydrochloric acid can be increased by",
-      "options": [
-        "Cooling the reaction mixture",
-        "Using Zinc powder instead of Zinc granules",
-        "Using Zinc rod instead of Zinc granules",
-        "Carrying out the reaction at a higher pressure"
-      ],
-      "answer": "Using Zinc powder instead of Zinc granules"
-    }
-  ]
+    { "number": 1, "question": "What is the major device deployed in the following remark:  The woman ate sweet bitter fruits this afternoon.", "options": ["metaphor", "oxymoron", "bathos", "simile"], "answer": "oxymoron" },
+    { "number": 2, "question": "What is the dominant device exemplified in this sentence ‘I came, I saw but was conquered’?", "options": ["Parallelism", "blank verse", "free verse", "illusion"], "answer": "Parallelism" },
+    { "number": 3, "question": "A deliberate understatement in which one uses the negative in order to express the opposite of what is meant is", "options": ["anti-thesis", "litotes", "hyperbole", "apostrophe"], "answer": "hyperbole" },
+    { "number": 4, "question": "The expression of the exact opposite of what one means or have in mind even though the words are not supposed to be taken at face value is :", "options": ["sarcasm", "euphemism", "irony", "metonymy"], "answer": "irony" },
+    { "number": 5, "question": "What figure of speech is prominent in “The US is making use of many Nigerian Scientific brains in her technological programmes”?", "options": ["synecdoche", "metonymy", "metaphor", "oxymoron"], "answer": "synecdoche" },
+    { "number": 6, "question": "To derive the meaning of a word through its sound is referred to as :", "options": ["phonetics", "phoneme", "oxymoron", "onomatopoeia"], "answer": "onomatopoeia" },
+    { "number": 7, "question": "When two words opposite in meaning stand shoulder to shoulder in a remark, a figure of speech known as _____has been used.", "options": ["enjambment", "oxymoron", "melodrama", "hyperbole"], "answer": "oxymoron" },
+    { "number": 8, "question": "In the remark, ‘The child is the father of the man’, the user deploys ______?", "options": ["paradox", "oxymoron", "pun", "onomatopoeia"], "answer": "paradox" },
+    { "number": 9, "question": "‘The sunshine of her smile left me restless for days. What is the most outstanding literary device deployed in the sentence?", "options": ["Personification", "metaphor", "metonymy", "apostrophe"], "answer": "metaphor" },
+    { "number": 10, "question": "The figure of speech which states an unpleasant fact in a mild, pleasant manner is called:", "options": ["oxymoron", "echoism", "sarcasm", "euphemism"], "answer": "euphemism" },
+    { "number": 11, "question": "An essential fracture of drama is", "options": ["soliloquy", "conflict", "irony", "dialogue"], "answer": "dialogue" },
+    { "number": 12, "question": "Catharsis is normally associated with", "options": ["pantomime", "tragedy", "comedy", "farce"], "answer": "tragedy" },
+    { "number": 13, "question": "A humorous poem with five lines, the first two rhyming with the last is", "options": ["an ode", "sestet", "octave", "a limerick"], "answer": "a limerick" },
+    { "number": 14, "question": "A long narrative poem that relates heroic exploits is an", "options": ["epilogue", "epitaph", "epic", "epigram"], "answer": "epic" },
+    { "number": 15, "question": "A praise poem is", "options": ["ballad", "a panegyric", "an allegory", "an epigram"], "answer": "a panegyric" },
+    { "number": 16, "question": "A novel that features spiritual apparitions as major characters is", "options": ["epistolary", "gothic", "historical", "sociological"], "answer": "gothic" },
+    { "number": 17, "question": "The literary term describing individuals in a work of literature is", "options": ["character", "protagonist", "narrator", "villain"], "answer": "character" },
+    { "number": 18, "question": "A literary work in which the characters are animals is a", "options": ["lampoon", "fable", "parody", "pantomime"], "answer": "fable" },
+    { "number": 19, "question": "Hamartia , in a literary work refers to a hero’s", "options": ["tragic flaw", "inordinate ambition", "strength of character", "good works"], "answer": "tragic flaw" },
+    { "number": 20, "question": "A play on words for literary effect is", "options": ["paradox", "a pun", "a satire", "an elegy"], "answer": "a pun" },
+    { "number": 21, "question": "Dramatis personae is the same as", "options": ["chores", "prompter", "foil", "cast"], "answer": "cast" },
+    { "number": 22, "question": "A poem which celebrates simple country life is", "options": ["a pastoral", "a dirge", "an ode", "an epic"], "answer": "a pastoral" },
+    { "number": 23, "question": "Pick the odd item one.", "options": ["verse", "stanza", "line", "paragraph"], "answer": "paragraph" },
+    { "number": 24, "question": "Tone and mood of a poem refers to", "options": ["locale", "setting", "atmosphere", "space"], "answer": "atmosphere" },
+    { "number": 25, "question": "The following are features of poetry except", "options": ["chapter", "inversion", "repetition", "rhyme"], "answer": "chapter" },
+    { "number": 26, "question": "Stanza is to poetry, _____is to prose.", "options": ["act", "chapter", "paragraph", "scene"], "answer": "chapter" },
+    { "number": 27, "question": "A literary piece used to mock or ridicule a society or practice is called", "options": ["allegory", "farce", "fable", "satire"], "answer": "satire" },
+    { "number": 28, "question": "A question asked in a poem which does not require an answer before it makes an impact is", "options": ["rhetorical questions", "paradoxical questions", "leading questions", "metaphorical question"], "answer": "rhetorical questions" },
+    { "number": 29, "question": "The distinct features of the three genres of literature are?", "options": ["Play, rhymes, diction", "Acts, stanzas, chapter", "Comedy, tragedy, mime", "Rhymes, simile, scenes"], "answer": "Acts, stanzas, chapter" },
+    { "number": 30, "question": "A poem of fourteen lines is called", "options": ["quatrain", "couplet", "sonnet", "sestet"], "answer": "sonnet" },
+    { "number": 31, "question": "The extract is an example of", "options": ["a biography", "an anecdote", "an autobiography", "a folktale"], "answer": "an anecdote" },
+    { "number": 32, "question": "The word that best represents the narrator’s experience of secondary school is", "options": ["strange", "hostile", "friendless", "frightening"], "answer": "strange" },
+    { "number": 33, "question": "In the last sentences, the expression, “the big, wide world” is a further extension of the image of", "options": ["primary school", "narrator’s parents", "awkward fatty", "secondary school"], "answer": "secondary school" },
+    { "number": 34, "question": "The extension is effected by means of the device called", "options": ["transfer", "analogy", "allegory", "simile"], "answer": "allegory" },
+    { "number": 35, "question": "The comparison between the narrator’s experience of primary school and that of secondary school is based on", "options": ["parallelism", "analogy", "similitude", "contracts"], "answer": "analogy" },
+  {
+    "number": 36,
+    "question": "The words that are used as opposite to represent two experiences of the narrator are",
+    "options": ["cozy and strange", "frightened and friendless", "big and whole", "shy and awkward"],
+    "answer": "cozy and strange"
+  },
+  {
+    "number": 37,
+    "question": "Frightened and friendless illustrates the use of",
+    "options": ["paradox", "pun", "alliteration", "conceit"],
+    "answer": "alliteration"
+  },
+  {
+    "number": 38,
+    "question": "The real problem that faced the narrator was",
+    "options": ["obesity", "adjustment", "lack of friends", "shyness"],
+    "answer": "obesity"
+  },
+  {
+    "number": 39,
+    "question": "What do the narrator and a new-born baby share in common?",
+    "options": [
+      "they do not know their worlds",
+      "they are shy and awkward",
+      "they have nothing to worry about",
+      "nobody wants to know them"
+    ],
+    "answer": "they do not know their worlds"
+  },
+  {
+    "number": 40,
+    "question": "The word that best describes the narrator’s state of mind during his first two years of secondary school is",
+    "options": ["awkward", "friendless", "wondered", "confused"],
+    "answer": "awkward"
+  },
+  {
+    "number": 41,
+    "question": "The predominate mood of the above statement is",
+    "options": ["love", "hopelessness", "sorrow", "jubilation"],
+    "answer": "hopelessness"
+  },
+  {
+    "number": 42,
+    "question": "The entire expression reflects a call of",
+    "options": ["eternity", "celebration", "transformation", "re-awakening", "expectation"],
+    "answer": "eternity"
+  },
+  {
+    "number": 43,
+    "question": "''The first white son of a bitch that bothers me is gonna get a hole knocker in his head.'' || The emotional atmosphere surrounding the above statement is that of",
+    "options": ["unity", "violence", "retaliation", "animosity"],
+    "answer": "animosity"
+  },
+  {
+    "number": 44,
+    "question": "The expression ‘White son of a bitch‘ in question 43 typifies",
+    "options": ["classicism", "racism", "feminism", "nepotism"],
+    "answer": "racism"
+  },
+  {
+    "number": 45,
+    "question": "The statement indicates that the speaker is in the state of",
+    "options": ["ecstasy", "suppression", "relaxation", "dilemma"],
+    "answer": "suppression"
+  },
+  {
+    "number": 46,
+    "question": "‘‘Our leaders will not compromise freedom || Nor will our heads give up liberty.’’ | The lines illustrate",
+    "options": ["soliloquy", "parallelism", "dialogue", "contrast"],
+    "answer": "parallelism"
+  },
+  {
+    "number": 47,
+    "question": "‘Heads’ in the second line is an example of",
+    "options": ["synecdoche", "inversion", "epithet", "conceit"],
+    "answer": "synecdoche"
+  },
+  {
+    "number": 48,
+    "question": "‘Pan’ is used here as",
+    "options": ["an allusion", "symbol", "irony", "metonymy"],
+    "answer": "symbol"
+  },
+  {
+    "number": 49,
+    "question": "The rhyme scheme of the stanza is",
+    "options": ["ABCABCC", "ABABCCC", "BABACC", "BCBCCAA"],
+    "answer": "ABABCCC"
+  },
+  {
+    "number": 50,
+    "question": "The stanza is an example of",
+    "options": ["appellation", "apostrophe", "euphemism", "elegy"],
+    "answer": "apostrophe"
+  }
+]
 
