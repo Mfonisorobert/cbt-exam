@@ -1,453 +1,373 @@
 [
-  {
-    "number": 1,
-    "question": "A constitution is said to be flexible when",
-    "options": [
-      "it comprises customs, norms and values",
-      "it encourages political stability",
-      "it is fully written and its amendment procedure is cumbersome",
-      "the amendment procedure is simple"
-    ],
-    "answer": "the amendment procedure is simple"
-  },
-  {
-    "number": 2,
-    "question": "Which of the following is not a source of constitution?",
-    "options": [
-      "Conventions",
-      "Customs and norms",
-      "Historical documents",
-      "Political structure"
-    ],
-    "answer": "Political structure"
-  },
-  {
-    "number": 3,
-    "question": "The people employed by the electoral commission for the purpose of election are called _____ staff.",
-    "options": [
-      "adhoc",
-      "electoral",
-      "field",
-      "permanent"
-    ],
-    "answer": "adhoc"
-  },
-  {
-    "number": 4,
-    "question": "The rule of law is a fundamental principle associated with",
-    "options": [
-      "democracy",
-      "fascism",
-      "feudalism",
-      "Nazism"
-    ],
-    "answer": "democracy"
-  },
-  {
-    "number": 5,
-    "question": "A constitution that requires two – third majority for its amendment is regarded as being",
-    "options": [
-      "flexible",
-      "rigid",
-      "unwritten",
-      "unitary"
-    ],
-    "answer": "rigid"
-  },
-  {
-    "number": 6,
-    "question": "The major role of the executive is to",
-    "options": [
-      "expose legislative laxities",
-      "generate revenue",
-      "implement government policies",
-      "interpret laws"
-    ],
-    "answer": "implement government policies"
-  },
-  {
-    "number": 7,
-    "question": "Which of the following is not a condition for political participation in Nigeria?",
-    "options": [
-      "Age",
-      "Citizenship",
-      "Imprisonment",
-      "Sanity"
-    ],
-    "answer": "Imprisonment"
-  },
-  {
-    "number": 8,
-    "question": "The major function of the legislature as an arm of government is",
-    "options": [
-      "financial control",
-      "impeachment",
-      "interpreting the law",
-      "law making"
-    ],
-    "answer": "law making"
-  },
-  {
-    "number": 9,
-    "question": "Which of these constitutions best suits a federal system?",
-    "options": [
-      "Flexible",
-      "Unitary",
-      "Unwritten",
-      "Written"
-    ],
-    "answer": "Written"
-  },
-  {
-    "number": 10,
-    "question": "The first African to become the secretary-general of the United Nation was",
-    "options": [
-      "Butros Butros Ghali",
-      "Emeka Anyaoku",
-      "Joseph Garba",
-      "Koffi Annan"
-    ],
-    "answer": "Koffi Annan"
-  },
-  {
-    "number": 11,
-    "question": "The primary objective of all political parties is to",
-    "options": [
-      "promote the general interest of members of the public",
-      "eradicate corruption in public life",
-      "control the government",
-      "eradicate the electorates"
-    ],
-    "answer": "control the government"
-  },
-  {
-    "number": 12,
-    "question": "Government is the machinery established to manage the affairs of",
-    "options": [
-      "rulers",
-      "aliens",
-      "the civil service",
-      "the state"
-    ],
-    "answer": "the state"
-  },
-  {
-    "number": 13,
-    "question": "The main function of the judiciary is to",
-    "options": [
-      "serve as the watch-dog of the executive",
-      "enact laws of the land",
-      "interpret the laws",
-      "provision of laws"
-    ],
-    "answer": "interpret the laws"
-  },
-  {
-    "number": 14,
-    "question": "To be qualified as president of Nigeria, the 1979 constitution states that one must have attained the age of",
-    "options": [
-      "18years",
-      "21 years",
-      "35 years",
-      "45 years"
-    ],
-    "answer": "35 years"
-  },
-  {
-    "number": 15,
-    "question": "The principle of checks and balances is necessary because it",
-    "options": [
-      "prevents government from becoming dictatorial",
-      "prevents the executives from functioning",
-      "makes the executive stronger than the other organs",
-      "makes the three organs hate one another"
-    ],
-    "answer": "prevents government from becoming dictatorial"
-  },
-  {
-    "number": 16,
-    "question": "In a democracy, franchise is given to all",
-    "options": [
-      "qualified adult citizens",
-      "loyal party members",
-      "resident adults",
-      "citizens"
-    ],
-    "answer": "qualified adult citizens"
-  },
-  {
-    "number": 17,
-    "question": "A bill that applies to the whole population and is intended to promote general welfare is called",
-    "options": [
-      "an edict",
-      "a public bill",
-      "a decree",
-      "a private bill"
-    ],
-    "answer": "a public bill"
-  },
-  {
-    "number": 18,
-    "question": "The first Governor – General of colonial Nigeria was",
-    "options": [
-      "Sir Hugh Clifford",
-      "Sir James Robertson",
-      "John Macpherson",
-      "Lord Frederick Lugard"
-    ],
-    "answer": "Lord Frederick Lugard"
-  },
-  {
-    "number": 19,
-    "question": "A government in which the control of ultimate power is by a few who rule for their own selfish interest is classified as",
-    "options": [
-      "a democracy",
-      "a dictatorship",
-      "an oligarchy",
-      "a monarchy"
-    ],
-    "answer": "an oligarchy"
-  },
-  {
-    "number": 20,
-    "question": "The term government refers to all the following except",
-    "options": [
-      "an academic field of study",
-      "a process or art of governing",
-      "an institution of the state for achieving the will of the state",
-      "an institution made up of persons with common interest"
-    ],
-    "answer": "an institution made up of persons with common interest"
-  },
-  {
-    "number": 21,
-    "question": "Centralization of power is basic feature of a",
-    "options": ["federal government", "unitary government", "presidential government", "parliamentary government"],
-    "answer": "unitary government"
-  },
-  {
-    "number": 22,
-    "question": "Freedom of the press helps it to",
-    "options": ["be above board", "escape libel charge", "play a watchdog role", "be loyal to the government"],
-    "answer": "play a watchdog role"
-  },
-  {
-    "number": 23,
-    "question": "Which of the following is not a prerequisite for the adoption of the federal system of government?",
-    "options": ["Size", "Population", "Homogeneity", "Diversity"],
-    "answer": "Homogeneity"
-  },
-  {
-    "number": 24,
-    "question": "The study of government in school is important because the students can",
-    "options": ["be assisted by political leaders", "learn about their rights", "qualify for elections", "be nominated for a trip abroad"],
-    "answer": "learn about their rights"
-  },
-  {
-    "number": 25,
-    "question": "The functions of the state are achieved through",
-    "options": ["political socialization", "separation of powers", "organs of government", "diplomatic means"],
-    "answer": "organs of government"
-  },
-  {
-    "number": 26,
-    "question": "A major source of political power is",
-    "options": ["election", "force", "influence", "ombudsmen"],
-    "answer": "election"
-  },
-  {
-    "number": 27,
-    "question": "Democracy originated from",
-    "options": ["Greece", "Britain", "USA", "Germany"],
-    "answer": "Greece"
-  },
-  {
-    "number": 28,
-    "question": "Which of the following is a basic principle of democracy? Rule by",
-    "options": [
-      "the majority and the protection of the minority",
-      "the wealthy few",
-      "the minority at the expense of the majority",
-      "two political parties"
-    ],
-    "answer": "the majority and the protection of the minority"
-  },
-  {
-    "number": 29,
-    "question": "The primary function of government in a state is to",
-    "options": ["maintain law and order", "provide transport services", "engage in campaigns and rallies", "imprison criminals"],
-    "answer": "maintain law and order"
-  },
-  {
-    "number": 30,
-    "question": "The body charged with the responsibility of preparing a new constitution in a country is the",
-    "options": ["electoral commission", "constituent assembly", "judicial service commission", "electoral college"],
-    "answer": "constituent assembly"
-  },
-  {
-    "number": 31,
-    "question": "Citizenship can be changed through",
-    "options": ["proclamation", "residence", "renunciation", "announcement"],
-    "answer": "renunciation"
-  },
-  {
-    "number": 32,
-    "question": "The institution connected with law adjudication is the",
-    "options": ["judiciary", "police", "government", "executive"],
-    "answer": "judiciary"
-  },
-  {
-    "number": 33,
-    "question": "The principle of rule of law was popularized by",
-    "options": ["Gabriel Almond", "Charles Montesquieu", "Jean Bodin", "A. V. Dicey"],
-    "answer": "A. V. Dicey"
-  },
-  {
-    "number": 34,
-    "question": "Which of the following is true about a capitalist state?",
-    "options": [
-      "Private individuals control the economy",
-      "The workers are not exploited",
-      "Government controls the means of production",
-      "There is no class struggle"
-    ],
-    "answer": "Private individuals control the economy"
-  },
-  {
-    "number": 35,
-    "question": "Which of the following can contribute to political socialization?",
-    "options": ["Gerrymandering", "Tourism", "Diplomatic immunity", "Terrorism"],
-    "answer": "Gerrymandering"
-  },
-  {
-    "number": 36,
-    "question": "The objective of the Economic Community of West African States (ECOWAS) is to",
-    "options": [
-      "promote economic development among member states",
-      "achieve African unity",
-      "establish political unification of West Africa",
-      "eradicate all forms of racism in West Africa"
-    ],
-    "answer": "promote economic development among member states"
-  },
-  {
-    "number": 37,
-    "question": "Democracy can be promoted through",
-    "options": ["gerrymandering", "slander", "accountability", "lobbying"],
-    "answer": "accountability"
-  },
-  {
-    "number": 38,
-    "question": "Which of the following is a feature of democracy?",
-    "options": ["Majority rule", "Election by selected adults", "Quick decision making", "Rule by wealthy men"],
-    "answer": "Majority rule"
-  },
-  {
-    "number": 39,
-    "question": "A system of government where political powers are inherited is called",
-    "options": ["monarchy", "diarchy", "democracy", "aristocracy"],
-    "answer": "monarchy"
-  },
-  {
-    "number": 40,
-    "question": "Which of the following cannot be found in a constitution?",
-    "options": [
-      "Fundamental human rights",
-      "Manifestoes of political parties",
-      "Organs of government",
-      "Duties and obligations of citizens"
-    ],
-    "answer": "Manifestoes of political parties"
-  },
-  {
-    "number": 41,
-    "question": "One – party system leads to",
-    "options": ["dictatorship", "democracy", "diarchy", "theocracy"],
-    "answer": "dictatorship"
-  },
-  {
-    "number": 42,
-    "question": "Which of the following is a feature of a state?",
-    "options": ["Pursuance of sectional interest", "Colonial experience", "Territorial boundary", "Temporary existence"],
-    "answer": "Territorial boundary"
-  },
-  {
-    "number": 43,
-    "question": "Bicameralism is adopted because it",
-    "options": [
-      "guards against intra-party clashes",
-      "prevents arbitrary law making",
-      "projects party manifestoes",
-      "is the only system available"
-    ],
-    "answer": "prevents arbitrary law making"
-  },
-  {
-    "number": 44,
-    "question": "When a court of law declares an action of the executive ultra-vires, it implies that",
-    "options": [
-      "the action is illegal and above the power given",
-      "the executive has to implement the action",
-      "such an action should be passed into law",
-      "only the legislature can deal with such an action"
-    ],
-    "answer": "the action is illegal and above the power given"
-  },
-  {
-    "number": 45,
-    "question": "Citizens can be deprived of their rights during",
-    "options": ["democratic regime", "parliamentary debate", "emergency periods", "political campaigns"],
-    "answer": "emergency periods"
-  },
-  {
-    "number": 46,
-    "question": "Franchise means the right of all qualified citizens to",
-    "options": [
-      "manipulate election results",
-      "conduct elections",
-      "enforce electoral laws",
-      "vote and be voted for"
-    ],
-    "answer": "vote and be voted for"
-  },
-  {
-    "number": 47,
-    "question": "One way to ensure a free and fair election is to",
-    "options": [
-      "operate a one-party system",
-      "allow parties to campaign on election day",
-      "guarantee the security of electoral officers and materials",
-      "appoint a politician as the chairman of the electoral commission"
-    ],
-    "answer": "guarantee the security of electoral officers and materials"
-  },
-  {
-    "number": 48,
-    "question": "In a unitary state, governmental powers are concentrated at the",
-    "options": ["component units", "local level", "centre", "regions"],
-    "answer": "centre"
-  },
-  {
-    "number": 49,
-    "question": "Constitutionalism implies that",
-    "options": [
-      "citizens should read the constitution always",
-      "leaders should ignore the dictates of the constitution",
-      "citizens should challenge the provisions of the constitution",
-      "leaders should act according to the stipulations of the constitution"
-    ],
-    "answer": "leaders should act according to the stipulations of the constitution"
-  },
-  {
-    "number": 50,
-    "question": "Which of the following is not a function of a political party?",
-    "options": [
-      "Educating the government",
-      "Interest articulation",
-      "Aggregation of opinions",
-      "Selection of persons for government"
-    ],
-    "answer": "Educating the government"
-  }
-]
+    {
+      "number": 1,
+      "question": "Which of the following elements is diatomic?",
+      "options": ["Sodium", "Oxygen", "Iron", "Neon"],
+      "answer": "Oxygen"
+    },
+    {
+      "number": 2,
+      "question": "Which of the following pairs of elements forms amphoteric oxide?",
+      "options": ["Be and Mg", "Na and K", "B and Al", "Si and Pb"],
+      "answer": "B and Al"
+    },
+    {
+      "number": 3,
+      "question": "Zinc oxide is said to be amphoteric because it",
+      "options": ["forms an acid salt", "is an insoluble base", "forms a double salt", "reacts with base or an acid"],
+      "answer": "reacts with base or an acid"
+    },
+    {
+      "number": 4,
+      "question": "Which of the following metallic oxides is amphoteric?",
+      "options": ["Al₂O₃", "Fe₂O₃", "MgO", "Na₂O"],
+      "answer": "Al₂O₃"
+    },
+    {
+      "number": 5,
+      "question": "The set-up shown in the diagram represents a/an",
+      "options": ["secondary cell.", "electrochemical cell.", "Daniell cell.", "electrolytic cell."],
+      "answer": "electrochemical cell."
+    },
+    {
+      "number": 6,
+      "question": "The bulb in the set-up will not light if K is",
+      "options": ["Molten sodium chloride", "Acidified water", "Tetrachloromethane", "Ethanoic acid"],
+      "answer": "Tetrachloromethane"
+    },
+    {
+      "number": 7,
+      "question": "If the oxidation potential of Mg and Al are +2.37 volts and +1.66 volts respectively, then Mg would",
+      "options": ["not replace Al.", "be replaced by Al.", "remain in the solution.", "replace Al."],
+      "answer": "not replace Al."
+    },
+    {
+      "number": 8,
+      "question": "Which of the following cell notations represent the diagram?",
+      "options": ["B²⁺/B //A/A³⁺", "A³⁺/A //B/B²⁺", "B/B²⁺//A/A³⁺", "A/A³⁺ // B²⁺/B"],
+      "answer": "A/A³⁺ // B²⁺/B"
+    },
+    {
+      "number": 9,
+      "question": "Which of the following half reaction equations represent the reaction at the cathode?",
+      "options": ["A³⁺(aq)+3e⁻→A(s)", "B²⁺(aq)+2e⁻→B(s)", "A(s)→A³⁺(aq)+3e⁻", "B(s)→B²⁺(aq)+2e⁻"],
+      "answer": "B²⁺(aq)+2e⁻→B(s)"
+    },
+    {
+      "number": 10,
+      "question": "The part labeled X is the",
+      "options": ["galvanometer.", "voltmeter.", "ammeter.", "salt bridge."],
+      "answer": "salt bridge."
+    },
+    {
+      "number": 11,
+      "question": "What term is used to describe an oxide whose aqueous solution turns blue litmus red?",
+      "options": ["Strong electrolyte.", "Acid anhydride.", "Amphoteric oxide.", "Basic oxide."],
+      "answer": "Acid anhydride."
+    },
+    {
+      "number": 12,
+      "question": "Which of the following substances is a peroxide?",
+      "options": ["Na2O2.", "CuO.", "Pb3O4.", "Fe2O3."],
+      "answer": "Na2O2."
+    },
+    {
+      "number": 13,
+      "question": "When X is heated with manganese (lV)oxide, oxygen is produced. X is",
+      "options": ["KCI.", "KCIO3.", "CaCO3.", "ZnCO3."],
+      "answer": "KCIO3."
+    },
+    {
+      "number": 14,
+      "question": "How many isotopes has hydrogen?",
+      "options": ["2", "3", "4.", "5"],
+      "answer": "3"
+    },
+    {
+      "number": 15,
+      "question": "Cu and HNO3 are not suitable for preparing hydrogen gas because of their",
+      "options": [
+        "reactivity and oxidation respectively.",
+        "conductivity and corrosiveness respectively.",
+        "meltingpoint and reduction respectively.",
+        "electronegativity and solubility respectively."
+      ],
+      "answer": "reactivity and oxidation respectively."
+    },
+    {
+      "number": 16,
+      "question": "Hydrogen is used for the following except",
+      "options": [
+        "manufacturing of ammonia.",
+        "synthesis of hydrochloric acid.",
+        "extinguishing fire.",
+        "conversion of coal to petrol."
+      ],
+      "answer": "extinguishing fire."
+    },
+    {
+      "number": 17,
+      "question": "The common feature of reactions at the anode is that",
+      "options": ["electrons are consumed.", "ions are reduced.", "oxidation is involved.", "the electrode dissolves."],
+      "answer": "oxidation is involved."
+    },
+    {
+      "number": 18,
+      "question": "Which of the following statements about an electrochemical cell is correct? Oxidation occurs",
+      "options": [
+        "at the anode.",
+        "at the cathode",
+        "through the salt bridge.",
+        "in the aqueous solution"
+      ],
+      "answer": "at the anode."
+    },
+    {
+      "number": 19,
+      "question": "What happens at the cathode during electrolysis? The",
+      "options": [
+        "anion is oxidized.",
+        "anion loses electrons.",
+        "cation is oxidized.",
+        "cation is discharged"
+      ],
+      "answer": "cation is discharged"
+    },
+    {
+      "number": 20,
+      "question": "Oxidation takes place at the anode during electrolysis because the anode",
+      "options": [
+        "Is deficient in electrons.",
+        "Is deficient in proton",
+        "Has excess electrons",
+        "Has attraction for positive ions"
+      ],
+      "answer": "Is deficient in electrons."
+    },
+    {
+      "number": 21,
+      "question": "Potassium chloride solid does not conduct electricity because",
+      "options": [
+        "it is a covalent compound.",
+        "strong cohesive forces make its ions immobile.",
+        "strong cohesive forces make its molecules immobile.",
+        "each of potassium and chlorine ions has noble gas structure."
+      ],
+      "answer": "strong cohesive forces make its ions immobile."
+    },
+    {
+      "number": 22,
+      "question": "The products of the electrolysis of dilute sodium chloride solution with platinum electrodes are on",
+      "options": ["hydrogen and oxygen.", "oxygen and chlorine.", "chlorine and water.", "sodium amalgam and chlorine."],
+      "answer": "hydrogen and oxygen."
+    },
+    {
+      "number": 23,
+      "question": "Which of the following statements is/are correct? I. A primary cell cannot maintain a steady current over a long period. II. Polarization is said to occur in a cell when hydrogen bubble form on the plates. III. The Daniel cell is an electrochemical cell. IV. A primary cell can be recharged",
+      "options": ["IV only.", "I & III.", "III & IV.", "I, II & III"],
+      "answer": "I, II & III"
+    },
+    {
+      "number": 24,
+      "question": "What is the function of manganese (IV) oxide in the reaction represented by the following equation? MnO2 + 4HCl → MnCl2 + 2H2O + Cl2",
+      "options": ["Catalyst.", "Dehydrating agent.", "Oxidizing agent.", "Reducing agent"],
+      "answer": "Oxidizing agent."
+    },
+    {
+      "number": 25,
+      "question": "Reduction is the process of",
+      "options": ["loss of electron.", "loss of hydrogen.", "loss of oxygen.", "addition of electronegative elements"],
+      "answer": "loss of oxygen."
+    },
+    {
+      "number": 26,
+      "question": "Consider the reaction represented by the equation: Ca(OH)2(aq) + CO2 → CaCO3(s) + H2O(l). In the reaction above, CO2 acts as",
+      "options": ["an acidic oxide.", "an oxidizing agent.", "a basic oxide.", "a dehydrating agent."],
+      "answer": "an acidic oxide."
+    },
+    {
+      "number": 27,
+      "question": "A reducing agent is expected to",
+      "options": [
+        "decolorize acidified KMnO4 solution.",
+        "decolorize acidified FeSO4 solution.",
+        "liberate Cl2 from a chloride.",
+        "liberate CO2 from NaHCO3"
+      ],
+      "answer": "decolorize acidified KMnO4 solution."
+    },
+    {
+      "number": 28,
+      "question": "What is the reducing agent in the reaction represented by the following equation? Fe3+(aq) + H2S(g) → 2Fe2+ (aq) + 2H+(aq) + S(s)",
+      "options": ["Fe3+(aq)", "H2S(g)", "2Fe2+", "S(s)"],
+      "answer": "H2S(g)"
+    },
+    {
+      "number": 29,
+      "question": "What mass of copper would be formed when a current of 10.0 A is passed through a solution of CuSO4 for 1 hour? [Cu= 63.5; 1F = 96500 C]",
+      "options": ["5.9g", "11.8g", "23.8g", "47.3g"],
+      "answer": "11.8g"
+    },
+    {
+      "number": 30,
+      "question": "Calculate the mass of copper deposited, if a current of 0.45 ampere flows through CuSO4 solution for 1 hour 15 minutes [Cu = 64.0, S = 32.0, O = 16.0, 1F = 96500 C]",
+      "options": ["6.40g", "0.57g", "0.67g", "0.45g"],
+      "answer": "0.67g"
+    },
+    {
+      "number": 31,
+      "question": "The quantity of electricity required to discharge 1 mole of univalent ion is",
+      "options": ["96,500 C.", "48,250 C.", "96,500C.", "193,000C."],
+      "answer": "96,500 C."
+    },
+    {
+      "number": 32,
+      "question": "The most common process in the extraction of metals from their ore is",
+      "options": ["catalysis", "electrolysis", "oxidation", "reduction"],
+      "answer": "electrolysis"
+    },
+    {
+      "number": 33,
+      "question": "Consider the reaction: 2Al(s)+ 6H+(aq) → 2Al3+(aq) + 3H2. What is the total number of mole of electrons transferred from the aluminum atoms to the hydrogen ions?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "6"
+    },
+    {
+      "number": 34,
+      "question": "What mass of copper will be deposited by the liberation of cu2+ when 0.IF of electricity flows through an aqueous solution of a copper (ll) salt? [cu =64]",
+      "options": ["6.4g", "32g", "12.8g", "3.2g"],
+      "answer": "6.4g"
+    },
+    {
+      "number": 35,
+      "question": "The oxidation number of sulphur is + 4 in",
+      "options": ["Na2S2O3", "H2SO4", "H2SO3", "SO3"],
+      "answer": "H2SO3"
+    },
+    {
+      "number": 36,
+      "question": "The oxidation number of cromium in K2CrO4?",
+      "options": ["+1", "+2", "+3", "+6"],
+      "answer": "+6"
+    },
+    {
+      "number": 37,
+      "question": "In the reaction represented by the equation, 2FeCl3 + SO2 + 2HO2 → 2FeCl2 + H2SO4 + 2HCl, the oxidation number of sulphur changes from",
+      "options": ["+2 to +6", "+4 to +6", "0 to +6", "-2 to +4"],
+      "answer": "+4 to +6"
+    },
+    {
+      "number": 38,
+      "question": "What is the oxidation number of nitrogen in Al(NO3)3",
+      "options": ["+1", "+3", "+5", "+6"],
+      "answer": "+5"
+    },
+    {
+      "number": 39,
+      "question": "Rare gases are stable because they",
+      "options": [
+        "contain equal number of protons and neutrons",
+        "contain more electrons than protons",
+        "are chemically active",
+        "have octer structure"
+      ],
+      "answer": "have octer structure"
+    },
+    {
+      "number": 40,
+      "question": "Potassium and sodium shows similar chemical properties because they l. belong to the same group in the periodic table ll. Have equal number of electrons in their outermost shell lll. Both exist in the +1 oxidation state in their compound lV. Belong to the same period in the periodic table",
+      "options": ["IV only", "l & ll", "lll & IV", "l,ll & lll"],
+      "answer": "l,ll & lll"
+    },
+    {
+      "number": 41,
+      "question": "Which of the following non-metals reacts most readily with metals",
+      "options": ["Nitrogen", "Chlorine", "Sulphur", "Carbon"],
+      "answer": "Chlorine"
+    },
+    {
+      "number": 42,
+      "question": "P,Q,R and S are metals in the same group in the periodic table but in periods 3,4,5,and 6 respectively. Which of them loses electrons least readily",
+      "options": ["P", "C", "R", "S"],
+      "answer": "S"
+    },
+    {
+      "number": 43,
+      "question": "Elements which belong to the same group in the periodic table are characterized by",
+      "options": [
+        "difference of +1 in the oxidation numbers of successive members",
+        "present of the same number of outmost electrons in the respective atoms",
+        "difference of 14 atomic mass units between successive members",
+        "presence of the number of electron shells in the respective atoms"
+      ],
+      "answer": "present of the same number of outmost electrons in the respective atoms"
+    },
+    {
+      "number": 44,
+      "question": "Which of following electron configurations correctly represents an inert element",
+      "options": [
+        "1s2 2s2 2p6 3s2",
+        "1s2 2s2 2p4",
+        "1s2 2s2 2p6 3s2 3p4",
+        "1s2 2s2 2p6"
+      ],
+      "answer": "1s2 2s2 2p6"
+    },
+    {
+      "number": 45,
+      "question": "Which of the following ions has the electron configuration 2, 8,8?",
+      "options": ["Na+", "Mg2+", "F-", "Cl-1"],
+      "answer": "Cl-1"
+    },
+    {
+      "number": 46,
+      "question": "An element with the electron configuration of 1s2 2s2 2p6 would have a combined power of",
+      "options": ["0", "2", "6", "8"],
+      "answer": "0"
+    },
+    {
+      "number": 47,
+      "question": "Which of the following electronic structures belongs to a noble gas",
+      "options": [
+        "1s2 2s2",
+        "1s2 2s2 2p6",
+        "1s2 2s2 2p6 3s2 3p6",
+        "1s2 2s2 2p4"
+      ],
+      "answer": "1s2 2s2 2p6 3s2 3p6"
+    },
+    {
+      "number": 48,
+      "question": "The active energy of a reaction can be altered by",
+      "options": [
+        "adding a reducing agent",
+        "applying a high pressure",
+        "using a catalyst",
+        "changing the temperature"
+      ],
+      "answer": "using a catalyst"
+    },
+    {
+      "number": 49,
+      "question": "Consider the reaction represented by the following equation: H2(aq) + I2(g) → 2HI(g) The number of effective collisions of molecules of the reactants decreases as",
+      "options": [
+        "The temperature is raised",
+        "The pressure increased",
+        "The volume of the system is increased",
+        "A catalyst is introduced into the system"
+      ],
+      "answer": "The volume of the system is increased"
+    },
+    {
+      "number": 50,
+      "question": "The rate of production of hydrogen gas from the reaction between Zinc granules and hydrochloric acid can be increased by",
+      "options": [
+        "Cooling the reaction mixture",
+        "Using Zinc powder instead of Zinc granules",
+        "Using Zinc rod instead of Zinc granules",
+        "Carrying out the reaction at a higher pressure"
+      ],
+      "answer": "Using Zinc powder instead of Zinc granules"
+    }
+  ]
 
