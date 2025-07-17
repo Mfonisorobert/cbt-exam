@@ -1,133 +1,504 @@
 [
-    { "number": 1, "question": "What is the major device deployed in the following remark:  The woman ate sweet bitter fruits this afternoon.", "options": ["metaphor", "oxymoron", "bathos", "simile"], "answer": "oxymoron" },
-    { "number": 2, "question": "What is the dominant device exemplified in this sentence ‘I came, I saw but was conquered’?", "options": ["Parallelism", "blank verse", "free verse", "illusion"], "answer": "Parallelism" },
-    { "number": 3, "question": "A deliberate understatement in which one uses the negative in order to express the opposite of what is meant is", "options": ["anti-thesis", "litotes", "hyperbole", "apostrophe"], "answer": "hyperbole" },
-    { "number": 4, "question": "The expression of the exact opposite of what one means or have in mind even though the words are not supposed to be taken at face value is :", "options": ["sarcasm", "euphemism", "irony", "metonymy"], "answer": "irony" },
-    { "number": 5, "question": "What figure of speech is prominent in “The US is making use of many Nigerian Scientific brains in her technological programmes”?", "options": ["synecdoche", "metonymy", "metaphor", "oxymoron"], "answer": "synecdoche" },
-    { "number": 6, "question": "To derive the meaning of a word through its sound is referred to as :", "options": ["phonetics", "phoneme", "oxymoron", "onomatopoeia"], "answer": "onomatopoeia" },
-    { "number": 7, "question": "When two words opposite in meaning stand shoulder to shoulder in a remark, a figure of speech known as _____has been used.", "options": ["enjambment", "oxymoron", "melodrama", "hyperbole"], "answer": "oxymoron" },
-    { "number": 8, "question": "In the remark, ‘The child is the father of the man’, the user deploys ______?", "options": ["paradox", "oxymoron", "pun", "onomatopoeia"], "answer": "paradox" },
-    { "number": 9, "question": "‘The sunshine of her smile left me restless for days. What is the most outstanding literary device deployed in the sentence?", "options": ["Personification", "metaphor", "metonymy", "apostrophe"], "answer": "metaphor" },
-    { "number": 10, "question": "The figure of speech which states an unpleasant fact in a mild, pleasant manner is called:", "options": ["oxymoron", "echoism", "sarcasm", "euphemism"], "answer": "euphemism" },
-    { "number": 11, "question": "An essential fracture of drama is", "options": ["soliloquy", "conflict", "irony", "dialogue"], "answer": "dialogue" },
-    { "number": 12, "question": "Catharsis is normally associated with", "options": ["pantomime", "tragedy", "comedy", "farce"], "answer": "tragedy" },
-    { "number": 13, "question": "A humorous poem with five lines, the first two rhyming with the last is", "options": ["an ode", "sestet", "octave", "a limerick"], "answer": "a limerick" },
-    { "number": 14, "question": "A long narrative poem that relates heroic exploits is an", "options": ["epilogue", "epitaph", "epic", "epigram"], "answer": "epic" },
-    { "number": 15, "question": "A praise poem is", "options": ["ballad", "a panegyric", "an allegory", "an epigram"], "answer": "a panegyric" },
-    { "number": 16, "question": "A novel that features spiritual apparitions as major characters is", "options": ["epistolary", "gothic", "historical", "sociological"], "answer": "gothic" },
-    { "number": 17, "question": "The literary term describing individuals in a work of literature is", "options": ["character", "protagonist", "narrator", "villain"], "answer": "character" },
-    { "number": 18, "question": "A literary work in which the characters are animals is a", "options": ["lampoon", "fable", "parody", "pantomime"], "answer": "fable" },
-    { "number": 19, "question": "Hamartia , in a literary work refers to a hero’s", "options": ["tragic flaw", "inordinate ambition", "strength of character", "good works"], "answer": "tragic flaw" },
-    { "number": 20, "question": "A play on words for literary effect is", "options": ["paradox", "a pun", "a satire", "an elegy"], "answer": "a pun" },
-    { "number": 21, "question": "Dramatis personae is the same as", "options": ["chores", "prompter", "foil", "cast"], "answer": "cast" },
-    { "number": 22, "question": "A poem which celebrates simple country life is", "options": ["a pastoral", "a dirge", "an ode", "an epic"], "answer": "a pastoral" },
-    { "number": 23, "question": "Pick the odd item one.", "options": ["verse", "stanza", "line", "paragraph"], "answer": "paragraph" },
-    { "number": 24, "question": "Tone and mood of a poem refers to", "options": ["locale", "setting", "atmosphere", "space"], "answer": "atmosphere" },
-    { "number": 25, "question": "The following are features of poetry except", "options": ["chapter", "inversion", "repetition", "rhyme"], "answer": "chapter" },
-    { "number": 26, "question": "Stanza is to poetry, _____is to prose.", "options": ["act", "chapter", "paragraph", "scene"], "answer": "chapter" },
-    { "number": 27, "question": "A literary piece used to mock or ridicule a society or practice is called", "options": ["allegory", "farce", "fable", "satire"], "answer": "satire" },
-    { "number": 28, "question": "A question asked in a poem which does not require an answer before it makes an impact is", "options": ["rhetorical questions", "paradoxical questions", "leading questions", "metaphorical question"], "answer": "rhetorical questions" },
-    { "number": 29, "question": "The distinct features of the three genres of literature are?", "options": ["Play, rhymes, diction", "Acts, stanzas, chapter", "Comedy, tragedy, mime", "Rhymes, simile, scenes"], "answer": "Acts, stanzas, chapter" },
-    { "number": 30, "question": "A poem of fourteen lines is called", "options": ["quatrain", "couplet", "sonnet", "sestet"], "answer": "sonnet" },
-    { "number": 31, "question": "The extract is an example of", "options": ["a biography", "an anecdote", "an autobiography", "a folktale"], "answer": "an anecdote" },
-    { "number": 32, "question": "The word that best represents the narrator’s experience of secondary school is", "options": ["strange", "hostile", "friendless", "frightening"], "answer": "strange" },
-    { "number": 33, "question": "In the last sentences, the expression, “the big, wide world” is a further extension of the image of", "options": ["primary school", "narrator’s parents", "awkward fatty", "secondary school"], "answer": "secondary school" },
-    { "number": 34, "question": "The extension is effected by means of the device called", "options": ["transfer", "analogy", "allegory", "simile"], "answer": "allegory" },
-    { "number": 35, "question": "The comparison between the narrator’s experience of primary school and that of secondary school is based on", "options": ["parallelism", "analogy", "similitude", "contracts"], "answer": "analogy" },
   {
-    "number": 36,
-    "question": "The words that are used as opposite to represent two experiences of the narrator are",
-    "options": ["cozy and strange", "frightened and friendless", "big and whole", "shy and awkward"],
-    "answer": "cozy and strange"
-  },
-  {
-    "number": 37,
-    "question": "Frightened and friendless illustrates the use of",
-    "options": ["paradox", "pun", "alliteration", "conceit"],
-    "answer": "alliteration"
-  },
-  {
-    "number": 38,
-    "question": "The real problem that faced the narrator was",
-    "options": ["obesity", "adjustment", "lack of friends", "shyness"],
-    "answer": "obesity"
-  },
-  {
-    "number": 39,
-    "question": "What do the narrator and a new-born baby share in common?",
+    "question": "What is population?",
     "options": [
-      "they do not know their worlds",
-      "they are shy and awkward",
-      "they have nothing to worry about",
-      "nobody wants to know them"
+      "The number of people living in a particular area",
+      "The number of animals in a zoo",
+      "The number of roads in a city",
+      "The number of schools in a region"
     ],
-    "answer": "they do not know their worlds"
+    "answer": "The number of people living in a particular area"
   },
   {
-    "number": 40,
-    "question": "The word that best describes the narrator’s state of mind during his first two years of secondary school is",
-    "options": ["awkward", "friendless", "wondered", "confused"],
-    "answer": "awkward"
+    "question": "Which continent has the highest population?",
+    "options": [
+      "Europe",
+      "Asia",
+      "Africa",
+      "South America"
+    ],
+    "answer": "Asia"
   },
   {
-    "number": 41,
-    "question": "The predominate mood of the above statement is",
-    "options": ["love", "hopelessness", "sorrow", "jubilation"],
-    "answer": "hopelessness"
+    "question": "Which country is currently the most populous in the world?",
+    "options": [
+      "United States",
+      "India",
+      "China",
+      "Brazil"
+    ],
+    "answer": "India"
   },
   {
-    "number": 42,
-    "question": "The entire expression reflects a call of",
-    "options": ["eternity", "celebration", "transformation", "re-awakening", "expectation"],
-    "answer": "eternity"
+    "question": "What is population density?",
+    "options": [
+      "The total number of births in a year",
+      "The number of people per unit area",
+      "The number of cars in a city",
+      "The number of hospitals per country"
+    ],
+    "answer": "The number of people per unit area"
   },
   {
-    "number": 43,
-    "question": "''The first white son of a bitch that bothers me is gonna get a hole knocker in his head.'' || The emotional atmosphere surrounding the above statement is that of",
-    "options": ["unity", "violence", "retaliation", "animosity"],
-    "answer": "animosity"
+    "question": "Which of these tools is used to study population?",
+    "options": [
+      "Thermometer",
+      "Census",
+      "Barometer",
+      "Seismograph"
+    ],
+    "answer": "Census"
   },
   {
-    "number": 44,
-    "question": "The expression ‘White son of a bitch‘ in question 43 typifies",
-    "options": ["classicism", "racism", "feminism", "nepotism"],
-    "answer": "racism"
+    "question": "Which of the following increases population size?",
+    "options": [
+      "Emigration",
+      "High death rate",
+      "Immigration",
+      "Epidemics"
+    ],
+    "answer": "Immigration"
   },
   {
-    "number": 45,
-    "question": "The statement indicates that the speaker is in the state of",
-    "options": ["ecstasy", "suppression", "relaxation", "dilemma"],
-    "answer": "suppression"
+    "question": "Which of the following causes population growth?",
+    "options": [
+      "High birth rate",
+      "High death rate",
+      "Wars",
+      "Famine"
+    ],
+    "answer": "High birth rate"
   },
   {
-    "number": 46,
-    "question": "‘‘Our leaders will not compromise freedom || Nor will our heads give up liberty.’’ | The lines illustrate",
-    "options": ["soliloquy", "parallelism", "dialogue", "contrast"],
-    "answer": "parallelism"
+    "question": "Which of these can reduce population growth?",
+    "options": [
+      "Improved medical care",
+      "High literacy rate",
+      "Family planning",
+      "Political stability"
+    ],
+    "answer": "Family planning"
   },
   {
-    "number": 47,
-    "question": "‘Heads’ in the second line is an example of",
-    "options": ["synecdoche", "inversion", "epithet", "conceit"],
-    "answer": "synecdoche"
+    "question": "What is natural increase in population?",
+    "options": [
+      "Immigration minus emigration",
+      "Birth rate minus death rate",
+      "Census count",
+      "Urbanization rate"
+    ],
+    "answer": "Birth rate minus death rate"
   },
   {
-    "number": 48,
-    "question": "‘Pan’ is used here as",
-    "options": ["an allusion", "symbol", "irony", "metonymy"],
-    "answer": "symbol"
+    "question": "Which of these is not a factor of population growth?",
+    "options": [
+      "Better sanitation",
+      "Availability of food",
+      "High infant mortality",
+      "Improved healthcare"
+    ],
+    "answer": "High infant mortality"
   },
   {
-    "number": 49,
-    "question": "The rhyme scheme of the stanza is",
-    "options": ["ABCABCC", "ABABCCC", "BABACC", "BCBCCAA"],
-    "answer": "ABABCCC"
+    "question": "What is migration?",
+    "options": [
+      "Movement of animals only",
+      "Movement of people from one place to another",
+      "Movement of water in rivers",
+      "Spread of diseases"
+    ],
+    "answer": "Movement of people from one place to another"
   },
   {
-    "number": 50,
-    "question": "The stanza is an example of",
-    "options": ["appellation", "apostrophe", "euphemism", "elegy"],
-    "answer": "apostrophe"
+    "question": "What is rural-urban migration?",
+    "options": [
+      "Movement from cities to villages",
+      "Movement within rural areas",
+      "Movement from villages to cities",
+      "Movement from one country to another"
+    ],
+    "answer": "Movement from villages to cities"
+  },
+  {
+    "question": "Which is an example of international migration?",
+    "options": [
+      "From Lagos to Abuja",
+      "From Paris to London",
+      "From Ibadan to Kano",
+      "From Owerri to Enugu"
+    ],
+    "answer": "From Paris to London"
+  },
+  {
+    "question": "What type of migration occurs when people move seasonally for farming?",
+    "options": [
+      "Permanent migration",
+      "Urban-rural migration",
+      "Seasonal migration",
+      "Forced migration"
+    ],
+    "answer": "Seasonal migration"
+  },
+  {
+    "question": "When people are forced to leave due to war, what type of migration is that?",
+    "options": [
+      "Voluntary migration",
+      "Chain migration",
+      "Economic migration",
+      "Forced migration"
+    ],
+    "answer": "Forced migration"
+  },
+  {
+    "question": "Which of these is a push factor in migration?",
+    "options": [
+      "Job opportunities",
+      "Political stability",
+      "War and conflict",
+      "Better healthcare"
+    ],
+    "answer": "War and conflict"
+  },
+  {
+    "question": "Which of these is a pull factor in migration?",
+    "options": [
+      "Flood disaster",
+      "Job availability",
+      "High crime rate",
+      "Famine"
+    ],
+    "answer": "Job availability"
+  },
+  {
+    "question": "Which factor can attract people to migrate to urban areas?",
+    "options": [
+      "Scarcity of water",
+      "Insecurity",
+      "Employment opportunities",
+      "Overpopulation"
+    ],
+    "answer": "Employment opportunities"
+  },
+  {
+    "question": "One major disadvantage of migration to cities is:",
+    "options": [
+      "Agricultural development",
+      "Increased rural population",
+      "Urban congestion and slums",
+      "Better infrastructure"
+    ],
+    "answer": "Urban congestion and slums"
+  },
+  {
+    "question": "Which of these is a negative effect of brain drain?",
+    "options": [
+      "Increase in local employment",
+      "Loss of skilled labor",
+      "Growth in rural economy",
+      "Increase in birth rate"
+    ],
+    "answer": "Loss of skilled labor"
+  },
+  {
+    "question": "One of the major factors that contribute to population growth is:",
+    "options": [
+      "Poor sanitation",
+      "Epidemics",
+      "Availability of food",
+      "Climate change"
+    ],
+    "answer": "Availability of food"
+  },
+  {
+    "question": "A high birth rate leads to:",
+    "options": [
+      "Decrease in population",
+      "Population growth",
+      "Population stability",
+      "None of the above"
+    ],
+    "answer": "Population growth"
+  },
+  {
+    "question": "Migration contributes to population growth when:",
+    "options": [
+      "People emigrate",
+      "People die",
+      "Immigrants arrive in large numbers",
+      "Cities are abandoned"
+    ],
+    "answer": "Immigrants arrive in large numbers"
+  },
+  {
+    "question": "Which of the following is a benefit of high population density?",
+    "options": [
+      "Low labor supply",
+      "Reduced productivity",
+      "Large market for goods",
+      "High cost of living"
+    ],
+    "answer": "Large market for goods"
+  },
+  {
+    "question": "Which is a disadvantage of high population density?",
+    "options": [
+      "Efficient resource use",
+      "Improved standard of living",
+      "Overcrowding and pollution",
+      "Rapid transportation"
+    ],
+    "answer": "Overcrowding and pollution"
+  },
+  {
+    "question": "High population density can lead to all except:",
+    "options": [
+      "Traffic congestion",
+      "Unemployment",
+      "Depletion of natural resources",
+      "Low birth rate"
+    ],
+    "answer": "Low birth rate"
+  },
+  {
+    "question": "One advantage of high population density in urban areas is:",
+    "options": [
+      "Scarcity of labor",
+      "Better innovation and ideas",
+      "Increased land availability",
+      "Low economic growth"
+    ],
+    "answer": "Better innovation and ideas"
+  },
+  {
+    "question": "One effective way to control rapid population growth is:",
+    "options": [
+      "Encouraging early marriage",
+      "Family planning programs",
+      "Abolishing education",
+      "Increasing birth rate"
+    ],
+    "answer": "Family planning programs"
+  },
+  {
+    "question": "Educating women can help reduce population growth by:",
+    "options": [
+      "Promoting migration",
+      "Delaying childbearing",
+      "Encouraging more births",
+      "Reducing mortality."
+    ],
+    "answer": "Delaying childbearing"
+  },
+  {
+    "question": "A government can solve overpopulation by:",
+    "options": [
+      "Providing incentives for large families",
+      "Ignoring rural development",
+      "Enforcing population policies",
+      "Promoting war"
+    ],
+    "answer": "Enforcing population policies"
+  },
+  {
+    "question": "Which of the following can help reduce pressure on urban areas?",
+    "options": [
+      "Increasing rural-urban migration",
+      "Urban sprawl",
+      "Development of rural areas",
+      "Limiting education"
+    ],
+    "answer": "Development of rural areas"
+  },
+  {
+    "question": "What is a settlement?",
+    "options": [
+      "A place where only animals live",
+      "A temporary camp",
+      "A place where people live and carry out activities.",
+      "A place where activities alone are carried."
+    ],
+    "answer": "A place where people live and carry out activities."
+  },
+  {
+    "question": "What is a settlement?",
+    "options": [
+      "A natural forest",
+      "A body of water",
+      "A place where people live",
+      "A road network"
+    ],
+    "answer": "A place where people live"
+  },
+  {
+    "question": "Which of the following is an example of a rural settlement?",
+    "options": [
+      "London",
+      "New York",
+      "A small farming village",
+      "Lagos"
+    ],
+    "answer": "A small farming village"
+  },
+  {
+    "question": "Which of these is a type of settlement?",
+    "options": [
+      "Road settlement",
+      "Circular settlement",
+      "Airborne settlement",
+      "Mountainous settlement"
+    ],
+    "answer": "Circular settlement"
+  },
+  {
+    "question": "The most common type of settlement in cities is:",
+    "options": [
+      "Dispersed settlement",
+      "Linear settlement",
+      "Nucleated settlement",
+      "Seasonal settlement"
+    ],
+    "answer": "Nucleated settlement"
+  },
+  {
+    "question": "Which of the following promotes urbanization?",
+    "options": [
+      "Availability of jobs",
+      "Scarcity of water",
+      "Poor infrastructure",
+      "Desertification"
+    ],
+    "answer": "Availability of jobs"
+  },
+  {
+    "question": "The growth of industries in an area leads to:",
+    "options": [
+      "Urban decline",
+      "Migration to rural areas",
+      "Urbanization",
+      "Decrease in services"
+    ],
+    "answer": "Urbanization"
+  },
+  {
+    "question": "Which physical factor affects the location of settlements?",
+    "options": [
+      "Birth rate",
+      "Political campaign",
+      "Availability of water",
+      "Population growth"
+    ],
+    "answer": "Availability of water"
+  },
+  {
+    "question": "One of the main human factors that affect the growth of a settlement is:",
+    "options": [
+      "Mountains",
+      "Employment opportunities",
+      "Climate",
+      "Rivers"
+    ],
+    "answer": "Employment opportunities"
+  },
+  {
+    "question": "Which of the following encourages population growth?",
+    "options": [
+      "Famine",
+      "High death rate",
+      "Improved healthcare",
+      "War"
+    ],
+    "answer": "Improved healthcare"
+  },
+  {
+    "question": "Which of the following is NOT a basis for the classification of settlements?",
+    "options": [
+      "Size",
+      "Shape",
+      "Function",
+      "Color"
+    ],
+    "answer": "Color"
+  },
+  {
+    "question": "What is a linear settlement?",
+    "options": [
+      "Buildings arranged around a central point",
+      "Buildings scattered randomly",
+      "Buildings arranged in a line along a road or river",
+      "High-rise buildings in a city center"
+    ],
+    "answer": "Buildings arranged in a line along a road or river"
+  },
+  {
+    "question": "Which type of settlement is typically found in rural areas?",
+    "options": [
+      "Isolated settlements",
+      "Conurbation",
+      "Metropolis",
+      "Megalopolis"
+    ],
+    "answer": "Isolated settlements"
+  },
+  {
+    "question": "Which of the following correctly arranges settlements in increasing order of size?",
+    "options": [
+      "Town – City – Hamlet – Village",
+      "Village – Hamlet – Town – City",
+      "Hamlet – Village – Town – City",
+      "City – Hamlet – Town – Village"
+    ],
+    "answer": "Hamlet – Village – Town – City"
+  },
+  {
+    "question": "What is the smallest type of human settlement?",
+    "options": [
+      "Village",
+      "Hamlet",
+      "Town",
+      "Suburb"
+    ],
+    "answer": "Hamlet"
+  },
+  {
+    "question": "A conurbation is best described as:",
+    "options": [
+      "A small rural settlement",
+      "A town with many farms",
+      "A group of merged towns and cities",
+      "A planned industrial zone"
+    ],
+    "answer": "A group of merged towns and cities"
+  },
+  {
+    "question": "One major problem caused by rapid urbanization is:",
+    "options": [
+      "Improved air quality",
+      "Traffic congestion",
+      "Increase in agricultural land",
+      "Decrease in communication"
+    ],
+    "answer": "Traffic congestion"
+  },
+  {
+    "question": "Urban sprawl can lead to:",
+    "options": [
+      "Improved rural life",
+      "Preservation of natural habitats",
+      "Loss of agricultural land",
+      "Decreased housing demand"
+    ],
+    "answer": "Loss of agricultural land"
+  },
+  {
+    "question": "Which of the following is a social problem linked with urbanization?",
+    "options": [
+      "Soil erosion",
+      "Deforestation",
+      "Increase in crime rate",
+      "Crop failure"
+    ],
+    "answer": "Increase in crime rate"
   }
 ]
+
 
