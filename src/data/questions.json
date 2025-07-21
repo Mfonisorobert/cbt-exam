@@ -1,504 +1,122 @@
 [
+    { "number": 1, "question": "The performance of business activities that direct the flow of goods and services from producer to consumer is", "options": ["distribution", "market", "advertising", "production"], "answer": "distribution" },
+    { "number": 2, "question": "A advertising medium which combines sight and sound is the", "options": ["Radio", "Television", "Print media", "Posters"], "answer": "Television" },
+    { "number": 3, "question": "The selling of goods in small units is normally performed by", "options": ["Wholesalers", "Retailers", "Distributors", "Brokers"], "answer": "Retailers" },
+    { "number": 4, "question": "A document that accompanies goods in transit is a", "options": ["manifest", "waybill", "bill of sight", "Credit note"], "answer": "waybill" },
+    { "number": 5, "question": "Which of the following channels of distribution will be used by a company that wants to have control over its price?", "options": ["manufacturer - consumer", "manufacturer - agent - consumer", "manufacturer - wholesaler- retailer - consumer", "manufacturer - agent - retailer - consumer"], "answer": "manufacturer - consumer" },
+    { "number": 6, "question": "Another term for e-marketing is", "options": ["direct marketing", "electronic marketing", "internet marketing", "electronic banking"], "answer": "electronic marketing" },
+    { "number": 7, "question": "Which of the following is not an element of the marketing mix?", "options": ["Place", "Production", "Product", "Price"], "answer": "Production" },
+    { "number": 8, "question": "The activities of marketing that take place outside your country is known as", "options": ["international marketing", "economic marketing", "Internal marketing", "competitive marketing"], "answer": "international marketing" },
+    { "number": 9, "question": "The use of pipes underground for transporting liquid and gas is called", "options": ["Air transport", "pipeline transport", "Land transport", "water transport"], "answer": "pipeline transport" },
+    { "number": 10, "question": "Which of the following is not a factor affecting transportation?", "options": ["Cost of transportation", "Speed", "Profit", "Nature of goods"], "answer": "Profit" },
+    { "number": 11, "question": "__________ is not a type of warehouse.", "options": ["Bonded warehouse", "Private warehouse", "Public warehouse", "Strong warehouse"], "answer": "Strong warehouse" },
+    { "number": 12, "question": "The fastest form of transportation is __________.", "options": ["Land", "Pipe", "Water", "Air"], "answer": "Air" },
+    { "number": 13, "question": "Which of the following is not a primary product?", "options": ["Animal skin", "Chair", "Log of wood", "Orange"], "answer": "Chair" },
+    { "number": 14, "question": "The essence of distribution is to __________.", "options": ["Deliver goods at the right time", "Identify customer needs", "Obtain feedback from customers", "Reduce the number of intermediates"], "answer": "Deliver goods at the right time" },
+    { "number": 15, "question": "Goods and raw materials extracted in their natural form are generally referred to as __________ products.", "options": ["Finished", "Manufactured", "Primary", "Secondary"], "answer": "Primary" },
+    { "number": 16, "question": "Understanding of human needs is the concept of __________.", "options": ["demand", "Marketing", "Selling", "Supply"], "answer": "Marketing" },
+    { "number": 17, "question": "Bridging the gap between producers and consumers is the sole purpose of", "options": ["Distribution", "Transportation", "retailing", "Warehousing"], "answer": "Distribution" },
+    { "number": 18, "question": "_______ is not a mineral product.", "options": ["Copper", "Zinc", "Milo", "Gold"], "answer": "Milo" },
+    { "number": 19, "question": "A document used in road transportation is", "options": ["Airway bill", "Packing list", "Bill of lading", "Consignment note"], "answer": "Consignment note" },
+    { "number": 20, "question": "Perishable products are distributed through", "options": ["Indirect channels", "Retailers", "Direct channels", "Wholesalers"], "answer": "Direct channels" },
+    { "number": 21, "question": "Documents that show the gross weight of the goods are called", "options": ["Cargo receipt", "Packing list", "Airway bill", "Delivery note"], "answer": "Packing list" },
+    { "number": 22, "question": "The most common means of transportation in the riverine area is", "options": ["Bus", "Canoe", "Train", "Helicopter"], "answer": "Canoe" },
+    { "number": 23, "question": "The information obtained from carrying out marketing research is", "options": ["Data", "Plan", "Turnover", "Feedback"], "answer": "Data" },
+    { "number": 24, "question": "An importance of marketing research is that it", "options": ["Reduces the risk involved in decision making", "Increases the cost of production", "Increases the risk involved in decision", "Reduces the quality of products"], "answer": "Reduces the risk involved in decision making" },
+    { "number": 25, "question": "The first step in the marketing research process is", "options": ["Field work", "Situation analysis", "Problem definition", "Questionnaire construction"], "answer": "Situation analysis" },
+    { "number": 26, "question": "A source of primary data for marketing research is", "options": ["Sales report", "Customer's feedback", "Inventory report", "Marketing budget"], "answer": "Customer's feedback" },
+    { "number": 27, "question": "A pricing method which involves negotiation between the seller and potential buyer in determining the price for a product is", "options": ["Target pricing", "Haggling pricing", "Impulse pricing", "Dynamic pricing"], "answer": "Haggling pricing" },
+    { "number": 28, "question": "The amount of money charged for a product is the", "options": ["Fare", "price", "revenue", "cash"], "answer": "price" },
+    { "number": 29, "question": "A reason for granting quantity discount is to", "options": ["encourage prompt payment", "encourage bulk purchase", "make sales outlet popular", "encourage competition"], "answer": "encourage bulk purchase" },
+    { "number": 30, "question": "The pricing approach that is based on what rival companies are charging is", "options": ["cost-oriented approach", "demand-oriented approach", "competitors-oriented approach", "value-oriented approach"], "answer": "competitors-oriented approach" },
+    { "number": 31, "question": "Which of the following factors is not a price determinant?", "options": ["cost of production", "cost of research", "product brand", "expected profit"], "answer": "cost of research" },
+    { "number": 32, "question": "Which pricing strategy is adopted by a company that sells its product for ₦200 when the prevailing market price for same product is ₦150?", "options": ["skimming pricing", "penetration pricing", "psychological pricing", "competitive pricing"], "answer": "skimming pricing" },
+    { "number": 33, "question": "An offer of free sample of goods is a form of", "options": ["condition of a sale", "tied buying", "sales promotion", "sales service"], "answer": "sales promotion" },
+    { "number": 34, "question": "A short term incentive used to encourage the purchase of a product is", "options": ["advertising", "personal selling", "sales promotion", "publicity"], "answer": "sales promotion" },
+    { "number": 35, "question": "Coupon is used as a sales promotional tool targeted at", "options": ["wholesalers", "consumers", "retailers", "salesmen"], "answer": "consumers" },
+    { "number": 36, "question": "A form of sales promotion that rewards customers for consistently purchasing a company's products is", "options": ["loyalty scheme", "quantity discount", "promotional allowance", "sales contest"], "answer": "loyalty scheme" },
   {
-    "question": "What is population?",
-    "options": [
-      "The number of people living in a particular area",
-      "The number of animals in a zoo",
-      "The number of roads in a city",
-      "The number of schools in a region"
-    ],
-    "answer": "The number of people living in a particular area"
+    "number": 37,
+    "question": "A merchandiser is responsible for the",
+    "options": ["security of the store", "quality of the goods", "attractive display of products", "storing of the product"],
+    "answer": "attractive display of products"
   },
   {
-    "question": "Which continent has the highest population?",
-    "options": [
-      "Europe",
-      "Asia",
-      "Africa",
-      "South America"
-    ],
-    "answer": "Asia"
+    "number": 38,
+    "question": "An example of merchandising activities is",
+    "options": ["canvassing for customers by salesmen", "displaying products at the retail store", "distribution of goods to customers", "sales call by salesman"],
+    "answer": "displaying products at the retail store"
   },
   {
-    "question": "Which country is currently the most populous in the world?",
-    "options": [
-      "United States",
-      "India",
-      "China",
-      "Brazil"
-    ],
-    "answer": "India"
+    "number": 39,
+    "question": "The activities that stimulate the purchase of a company's products at the retail outlet is",
+    "options": ["selling", "prospecting", "advertising", "merchandising"],
+    "answer": "merchandising"
   },
   {
-    "question": "What is population density?",
-    "options": [
-      "The total number of births in a year",
-      "The number of people per unit area",
-      "The number of cars in a city",
-      "The number of hospitals per country"
-    ],
-    "answer": "The number of people per unit area"
+    "number": 40,
+    "question": "Merchandising is best suited for",
+    "options": ["consumer goods", "primary product", "industrial services", "organizational product"],
+    "answer": "consumer goods"
   },
   {
-    "question": "Which of these tools is used to study population?",
-    "options": [
-      "Thermometer",
-      "Census",
-      "Barometer",
-      "Seismograph"
-    ],
-    "answer": "Census"
+    "number": 41,
+    "question": "Which of the following is not a function of a warehouse?",
+    "options": ["Allowing pilfering of goods", "Stabilizing market price", "protecting of goods", "Providing insurance for goods"],
+    "answer": "Allowing pilfering of goods"
   },
   {
-    "question": "Which of the following increases population size?",
-    "options": [
-      "Emigration",
-      "High death rate",
-      "Immigration",
-      "Epidemics"
-    ],
-    "answer": "Immigration"
+    "number": 42,
+    "question": "Durable goods are kept in a",
+    "options": ["cooperative warehouse", "public warehouse", "private warehouse", "bonded warehouse"],
+    "answer": "private warehouse"
   },
   {
-    "question": "Which of the following causes population growth?",
-    "options": [
-      "High birth rate",
-      "High death rate",
-      "Wars",
-      "Famine"
-    ],
-    "answer": "High birth rate"
+    "number": 43,
+    "question": "A disadvantage of warehousing is that it",
+    "options": ["makes goods available when needed", "protects goods from damage", "encourages holding of goods to create scarcity.", "prevents a reduction in the quality of goods."],
+    "answer": "encourages holding of goods to create scarcity."
   },
   {
-    "question": "Which of these can reduce population growth?",
-    "options": [
-      "Improved medical care",
-      "High literacy rate",
-      "Family planning",
-      "Political stability"
-    ],
-    "answer": "Family planning"
+    "number": 44,
+    "question": "An example of a government warehouse is",
+    "options": ["co-operative warehouse", "bonded warehouse", "manufacturer’s warehouse", "private warehouse"],
+    "answer": "bonded warehouse"
   },
   {
-    "question": "What is natural increase in population?",
-    "options": [
-      "Immigration minus emigration",
-      "Birth rate minus death rate",
-      "Census count",
-      "Urbanization rate"
-    ],
-    "answer": "Birth rate minus death rate"
+    "number": 45,
+    "question": "An activity performed in a warehouse is",
+    "options": ["production of goods", "sorting and labelling", "repairs and maintenance", "purchasing of raw materials"],
+    "answer": "sorting and labelling"
   },
   {
-    "question": "Which of these is not a factor of population growth?",
-    "options": [
-      "Better sanitation",
-      "Availability of food",
-      "High infant mortality",
-      "Improved healthcare"
-    ],
-    "answer": "High infant mortality"
+    "number": 46,
+    "question": "Palm oil sellers association is an example of",
+    "options": ["Market union", "cartel", "labour union", "chamber of commerce"],
+    "answer": "Market union"
   },
   {
-    "question": "What is migration?",
-    "options": [
-      "Movement of animals only",
-      "Movement of people from one place to another",
-      "Movement of water in rivers",
-      "Spread of diseases"
-    ],
-    "answer": "Movement of people from one place to another"
+    "number": 47,
+    "question": "A function of market union in the local market is to",
+    "options": ["offer bank loans to members", "establish common market price", "defend members in law courts", "insure products of all members"],
+    "answer": "establish common market price"
   },
   {
-    "question": "What is rural-urban migration?",
-    "options": [
-      "Movement from cities to villages",
-      "Movement within rural areas",
-      "Movement from villages to cities",
-      "Movement from one country to another"
-    ],
-    "answer": "Movement from villages to cities"
+    "number": 48,
+    "question": "The application of marketing activities beyond a country's national boundaries is",
+    "options": ["domestic marketing", "wholesale marketing", "international marketing", "retail marketing"],
+    "answer": "international marketing"
   },
   {
-    "question": "Which is an example of international migration?",
-    "options": [
-      "From Lagos to Abuja",
-      "From Paris to London",
-      "From Ibadan to Kano",
-      "From Owerri to Enugu"
-    ],
-    "answer": "From Paris to London"
+    "number": 49,
+    "question": "The reason a producer of beverages would sell internationally is to",
+    "options": ["increase standard of living", "create employment opportunities", "access varieties of goods", "access wider market"],
+    "answer": "access wider market"
   },
   {
-    "question": "What type of migration occurs when people move seasonally for farming?",
-    "options": [
-      "Permanent migration",
-      "Urban-rural migration",
-      "Seasonal migration",
-      "Forced migration"
-    ],
-    "answer": "Seasonal migration"
-  },
-  {
-    "question": "When people are forced to leave due to war, what type of migration is that?",
-    "options": [
-      "Voluntary migration",
-      "Chain migration",
-      "Economic migration",
-      "Forced migration"
-    ],
-    "answer": "Forced migration"
-  },
-  {
-    "question": "Which of these is a push factor in migration?",
-    "options": [
-      "Job opportunities",
-      "Political stability",
-      "War and conflict",
-      "Better healthcare"
-    ],
-    "answer": "War and conflict"
-  },
-  {
-    "question": "Which of these is a pull factor in migration?",
-    "options": [
-      "Flood disaster",
-      "Job availability",
-      "High crime rate",
-      "Famine"
-    ],
-    "answer": "Job availability"
-  },
-  {
-    "question": "Which factor can attract people to migrate to urban areas?",
-    "options": [
-      "Scarcity of water",
-      "Insecurity",
-      "Employment opportunities",
-      "Overpopulation"
-    ],
-    "answer": "Employment opportunities"
-  },
-  {
-    "question": "One major disadvantage of migration to cities is:",
-    "options": [
-      "Agricultural development",
-      "Increased rural population",
-      "Urban congestion and slums",
-      "Better infrastructure"
-    ],
-    "answer": "Urban congestion and slums"
-  },
-  {
-    "question": "Which of these is a negative effect of brain drain?",
-    "options": [
-      "Increase in local employment",
-      "Loss of skilled labor",
-      "Growth in rural economy",
-      "Increase in birth rate"
-    ],
-    "answer": "Loss of skilled labor"
-  },
-  {
-    "question": "One of the major factors that contribute to population growth is:",
-    "options": [
-      "Poor sanitation",
-      "Epidemics",
-      "Availability of food",
-      "Climate change"
-    ],
-    "answer": "Availability of food"
-  },
-  {
-    "question": "A high birth rate leads to:",
-    "options": [
-      "Decrease in population",
-      "Population growth",
-      "Population stability",
-      "None of the above"
-    ],
-    "answer": "Population growth"
-  },
-  {
-    "question": "Migration contributes to population growth when:",
-    "options": [
-      "People emigrate",
-      "People die",
-      "Immigrants arrive in large numbers",
-      "Cities are abandoned"
-    ],
-    "answer": "Immigrants arrive in large numbers"
-  },
-  {
-    "question": "Which of the following is a benefit of high population density?",
-    "options": [
-      "Low labor supply",
-      "Reduced productivity",
-      "Large market for goods",
-      "High cost of living"
-    ],
-    "answer": "Large market for goods"
-  },
-  {
-    "question": "Which is a disadvantage of high population density?",
-    "options": [
-      "Efficient resource use",
-      "Improved standard of living",
-      "Overcrowding and pollution",
-      "Rapid transportation"
-    ],
-    "answer": "Overcrowding and pollution"
-  },
-  {
-    "question": "High population density can lead to all except:",
-    "options": [
-      "Traffic congestion",
-      "Unemployment",
-      "Depletion of natural resources",
-      "Low birth rate"
-    ],
-    "answer": "Low birth rate"
-  },
-  {
-    "question": "One advantage of high population density in urban areas is:",
-    "options": [
-      "Scarcity of labor",
-      "Better innovation and ideas",
-      "Increased land availability",
-      "Low economic growth"
-    ],
-    "answer": "Better innovation and ideas"
-  },
-  {
-    "question": "One effective way to control rapid population growth is:",
-    "options": [
-      "Encouraging early marriage",
-      "Family planning programs",
-      "Abolishing education",
-      "Increasing birth rate"
-    ],
-    "answer": "Family planning programs"
-  },
-  {
-    "question": "Educating women can help reduce population growth by:",
-    "options": [
-      "Promoting migration",
-      "Delaying childbearing",
-      "Encouraging more births",
-      "Reducing mortality."
-    ],
-    "answer": "Delaying childbearing"
-  },
-  {
-    "question": "A government can solve overpopulation by:",
-    "options": [
-      "Providing incentives for large families",
-      "Ignoring rural development",
-      "Enforcing population policies",
-      "Promoting war"
-    ],
-    "answer": "Enforcing population policies"
-  },
-  {
-    "question": "Which of the following can help reduce pressure on urban areas?",
-    "options": [
-      "Increasing rural-urban migration",
-      "Urban sprawl",
-      "Development of rural areas",
-      "Limiting education"
-    ],
-    "answer": "Development of rural areas"
-  },
-  {
-    "question": "What is a settlement?",
-    "options": [
-      "A place where only animals live",
-      "A temporary camp",
-      "A place where people live and carry out activities.",
-      "A place where activities alone are carried."
-    ],
-    "answer": "A place where people live and carry out activities."
-  },
-  {
-    "question": "What is a settlement?",
-    "options": [
-      "A natural forest",
-      "A body of water",
-      "A place where people live",
-      "A road network"
-    ],
-    "answer": "A place where people live"
-  },
-  {
-    "question": "Which of the following is an example of a rural settlement?",
-    "options": [
-      "London",
-      "New York",
-      "A small farming village",
-      "Lagos"
-    ],
-    "answer": "A small farming village"
-  },
-  {
-    "question": "Which of these is a type of settlement?",
-    "options": [
-      "Road settlement",
-      "Circular settlement",
-      "Airborne settlement",
-      "Mountainous settlement"
-    ],
-    "answer": "Circular settlement"
-  },
-  {
-    "question": "The most common type of settlement in cities is:",
-    "options": [
-      "Dispersed settlement",
-      "Linear settlement",
-      "Nucleated settlement",
-      "Seasonal settlement"
-    ],
-    "answer": "Nucleated settlement"
-  },
-  {
-    "question": "Which of the following promotes urbanization?",
-    "options": [
-      "Availability of jobs",
-      "Scarcity of water",
-      "Poor infrastructure",
-      "Desertification"
-    ],
-    "answer": "Availability of jobs"
-  },
-  {
-    "question": "The growth of industries in an area leads to:",
-    "options": [
-      "Urban decline",
-      "Migration to rural areas",
-      "Urbanization",
-      "Decrease in services"
-    ],
-    "answer": "Urbanization"
-  },
-  {
-    "question": "Which physical factor affects the location of settlements?",
-    "options": [
-      "Birth rate",
-      "Political campaign",
-      "Availability of water",
-      "Population growth"
-    ],
-    "answer": "Availability of water"
-  },
-  {
-    "question": "One of the main human factors that affect the growth of a settlement is:",
-    "options": [
-      "Mountains",
-      "Employment opportunities",
-      "Climate",
-      "Rivers"
-    ],
-    "answer": "Employment opportunities"
-  },
-  {
-    "question": "Which of the following encourages population growth?",
-    "options": [
-      "Famine",
-      "High death rate",
-      "Improved healthcare",
-      "War"
-    ],
-    "answer": "Improved healthcare"
-  },
-  {
-    "question": "Which of the following is NOT a basis for the classification of settlements?",
-    "options": [
-      "Size",
-      "Shape",
-      "Function",
-      "Color"
-    ],
-    "answer": "Color"
-  },
-  {
-    "question": "What is a linear settlement?",
-    "options": [
-      "Buildings arranged around a central point",
-      "Buildings scattered randomly",
-      "Buildings arranged in a line along a road or river",
-      "High-rise buildings in a city center"
-    ],
-    "answer": "Buildings arranged in a line along a road or river"
-  },
-  {
-    "question": "Which type of settlement is typically found in rural areas?",
-    "options": [
-      "Isolated settlements",
-      "Conurbation",
-      "Metropolis",
-      "Megalopolis"
-    ],
-    "answer": "Isolated settlements"
-  },
-  {
-    "question": "Which of the following correctly arranges settlements in increasing order of size?",
-    "options": [
-      "Town – City – Hamlet – Village",
-      "Village – Hamlet – Town – City",
-      "Hamlet – Village – Town – City",
-      "City – Hamlet – Town – Village"
-    ],
-    "answer": "Hamlet – Village – Town – City"
-  },
-  {
-    "question": "What is the smallest type of human settlement?",
-    "options": [
-      "Village",
-      "Hamlet",
-      "Town",
-      "Suburb"
-    ],
-    "answer": "Hamlet"
-  },
-  {
-    "question": "A conurbation is best described as:",
-    "options": [
-      "A small rural settlement",
-      "A town with many farms",
-      "A group of merged towns and cities",
-      "A planned industrial zone"
-    ],
-    "answer": "A group of merged towns and cities"
-  },
-  {
-    "question": "One major problem caused by rapid urbanization is:",
-    "options": [
-      "Improved air quality",
-      "Traffic congestion",
-      "Increase in agricultural land",
-      "Decrease in communication"
-    ],
-    "answer": "Traffic congestion"
-  },
-  {
-    "question": "Urban sprawl can lead to:",
-    "options": [
-      "Improved rural life",
-      "Preservation of natural habitats",
-      "Loss of agricultural land",
-      "Decreased housing demand"
-    ],
-    "answer": "Loss of agricultural land"
-  },
-  {
-    "question": "Which of the following is a social problem linked with urbanization?",
-    "options": [
-      "Soil erosion",
-      "Deforestation",
-      "Increase in crime rate",
-      "Crop failure"
-    ],
-    "answer": "Increase in crime rate"
+    "number": 50,
+    "question": "Air transport is preferred to other modes because it",
+    "options": ["is faster in transporting goods for long distance", "relatively cheaper than other modes", "affected by weather conditions", "suitable only for door - to - door services"],
+    "answer": "is faster in transporting goods for long distance"
   }
 ]
-
-
