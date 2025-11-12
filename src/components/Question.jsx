@@ -3,6 +3,22 @@ const Question = ({ questionObj, questionIndex, selectedOption, handleOptionSele
       <div className="bg-white shadow-md p-6 rounded-2xl mb-4">
         <h2 className="text-xl font-semibold mb-4">
           {questionIndex + 1}. {questionObj.question}
+
+          {/* This section is just for image */}
+
+          {questionObj.image && (
+  <div className="flex justify-center my-4">
+    <img
+      src={questionObj.image}
+      alt="question illustration"
+      className="max-w-xs rounded-lg shadow-md"
+    />
+  </div>
+)}
+
+{/* The image section ends here */}
+
+
         </h2>
         <div className="space-y-3">
           {questionObj.options.map((option, idx) => (
