@@ -1,6 +1,6 @@
 [
     { "number": 1, "question": "The performance of business activities that direct the flow of goods and services from producer to consumer is", "options": ["distribution", "market", "advertising", "production"], "answer": "distribution" },
-    { "number": 2, "question": "A advertising medium which combines sight and sound is the", "options": ["Radio", "Television", "Print media", "Posters"], "answer": "Television", "image": "/images/handshake.png"}
+    { "number": 2, "question": "A advertising medium which combines sight and sound is the", "options": ["Radio", "Television", "Print media", "Posters"], "answer": "Television", "image": "/images/handshake.png"},
     { "number": 3, "question": "The selling of goods in small units is normally performed by", "options": ["Wholesalers", "Retailers", "Distributors", "Brokers"], "answer": "Retailers" },
     { "number": 4, "question": "A document that accompanies goods in transit is a", "options": ["manifest", "waybill", "bill of sight", "Credit note"], "answer": "waybill" },
     { "number": 5, "question": "Which of the following channels of distribution will be used by a company that wants to have control over its price?", "options": ["manufacturer - consumer", "manufacturer - agent - consumer", "manufacturer - wholesaler- retailer - consumer", "manufacturer - agent - retailer - consumer"], "answer": "manufacturer - consumer" },
