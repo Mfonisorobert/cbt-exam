@@ -170,7 +170,7 @@
     {
       "number": 29,
       "question": "Find the HCF of 15ab^2 and 6a^2b",
-      "options": ["ab", "3ab", "3ab", "3ab^2"],
+      "options": ["ab", "2ab", "3ab", "3ab^2"],
       "answer": "3ab"
     },
     {
