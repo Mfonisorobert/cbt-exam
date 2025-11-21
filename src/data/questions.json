@@ -1,304 +1,303 @@
 [
   {
-    "number": 1,
-    "question": "The group of people related by blood, marriage, or adoption is called a:",
-    "options": [ "Society",  "Family",  "Tribe",  "Community"],
-    "answer": "Family"
-  },
-  {
-    "number": 2,
-    "question": "A nuclear family is made up of:",
-    "options": [ "Father, mother, and children",  "Parents and grandparents",  "Uncles, aunts, and cousins",  "Only children"],
-    "answer": "Father, mother, and children"
-  },
-  {
-    "number": 3,
-    "question": "Which of the following is a role of parents in the family?",
-    "options": [ "Doing homework",  "Providing food and shelter",  "Playing games",  "Watching TV"],
-    "answer": "Providing food and shelter"
-  },
-  {
-    "number": 4,
-    "question": "The duty of a child at home is to:",
-    "options": [ "Pay school fees",  "Wash dishes and tidy their room",  "Go to work",  "Punish siblings"],
-    "answer": "Wash dishes and tidy their room"
-  },
-  {
-    "number": 5,
-    "question": "Respect and obedience are examples of:",
-    "options": [ "Family roles",  "Family values",  "Family conflicts",  "Family size"],
-    "answer": "Family values"
-  },
-  {
-    "number": 6,
-    "question": "A family that includes relatives like uncles, aunts, and grandparents is called a:",
-    "options": [ "Nuclear family",  "Extended family",  "Small family",  "Single-parent family"],
-    "answer": "Extended family"
-  },
-  {
-    "number": 7,
-    "question": "Showing love and care to each other in the family helps to promote:",
-    "options": [ "Conflict",  "Peace",  "Laziness",  "Disobedience"],
-    "answer": "Peace"
-  },
-  {
-    "number": 8,
-    "question": "One of the roles of children at home is to:",
-    "options": [ "Make rules",  "Help with simple chores",  "Decide on family budget",  "Go to work"],
-    "answer": "Help with simple chores"
-  },
-  {
-    "number": 9,
-    "question": "The head of the family in most cultures is called the:",
-    "options": [ "Teacher",  "Parent",  "Leader",  "Father"],
-    "answer": "Father"
-  },
-  {
-    "number": 10,
-    "question": "A family where only the mother or father lives with the children is called a:",
-    "options": [ "Child-headed family",  "Extended family",  "Single-parent family",  "Joint family"],
-    "answer": "Single-parent family"
-  },
-  {
-    "number": 11,
-    "question": "What does loyalty primarily involve?",
-    "options": [ "Always agreeing with someone",  "Strong support or allegiance to a person or cause",  "Disagreeing openly",  "Keeping secrets from everyone"],
-    "answer": "Strong support or allegiance to a person or cause"
-  },
-  {
-    "number": 12,
-    "question": "Which of the following is a sign of loyalty?",
-    "options": [ "Betraying a friend’s trust",  "Speaking negatively behind someone’s back",  "Standing by someone during difficult times",  "Only supporting when things are good"],
-    "answer": "Standing by someone during difficult times"
-  },
-  {
-    "number": 13,
-    "question": "Loyalty in a friendship means:",
-    "options": [ "Helping only when asked",  "Supporting your friend even when others don’t",  "Telling everyone your friend’s secrets",  "Ignoring your friend when they need help"],
-    "answer": "Supporting your friend even when others don’t"
-  },
-  {
-    "number": 14,
-    "question": "Which of these best describes disloyalty?",
-    "options": [ "Keeping promises",  "Being honest",  "Breaking trust",  "Offering help"],
-    "answer": "Breaking trust"
-  },
-  {
-    "number": 15,
-    "question": "A loyal employee is likely to:",
-    "options": [ "Talk badly about the company",  "Stay committed to their job",  "Start conflicts with coworkers",  "Ignore company rules"],
-    "answer": "Stay committed to their job"
-  },
-  {
-    "number": 16,
-    "question": "Which African proverb teaches about loyalty?",
-    "options": [ "One finger cannot pick up a grain",  "A loyal friend is worth more than a thousand relatives",  "A stitch in time saves nine",  "Make hay while the sun shines"],
-    "answer": "A loyal friend is worth more than a thousand relatives"
-  },
-  {
-    "number": 17,
-    "question": "Why is loyalty important in a group or organization?",
-    "options": [ "It creates conflict",  "It builds trust and unity",  "It encourages gossip",  "It reduces teamwork"],
-    "answer": "It builds trust and unity"
-  },
-  {
-    "number": 18,
-    "question": "Showing loyalty means:",
-    "options": [ "Always agreeing without question",  "Standing by what you believe is right",  "Changing sides for personal benefit",  "Refusing to take responsibility"],
-    "answer": "Always agreeing without question"
-  },
-  {
-    "number": 19,
-    "question": "What is the opposite of loyalty?",
-    "options": [ "Respect",  "Teamwork",  "Disloyalty",  "Generosity"],
-    "answer": "Disloyalty"
-  },
-  {
-    "number": 20,
-    "question": "Being loyal to your country is called:",
-    "options": [ "Treason",  "Patriotism",  "Corruption",  "Nepotism"],
-    "answer": "Patriotism"
-  },
-  {
-    "number": 21,
-    "question": "What does disloyalty mean?",
-    "options": [ "Being faithful and reliable",  "Showing strong support",  "Betraying someone's trust",  "Keeping promises"],
-    "answer": "Betraying someone's trust"
-  },
-  {
-    "number": 22,
-    "question": "Which of the following behaviors best shows disloyalty?",
-    "options": [ "Supporting a friend's decisions",  "Sharing a friend's secret without permission",  "Speaking positively about someone's efforts",  "Standing by a team during a loss"],
-    "answer": "Sharing a friend's secret without permission"
-  },
-  {
-    "number": 23,
-    "question": "Disloyalty in a relationship may lead to:",
-    "options": [ "Trust and respect",  "Stronger understanding",  "Broken trust and hurt feelings",  "Better communication"],
-    "answer": "Broken trust and hurt feelings"
-  },
-  {
-    "number": 24,
-    "question": "Which proverb discourages disloyalty?",
-    "options": [ "Honesty is the best policy",  "Every man for himself",  "A friend in need is a friend indeed",  "Look before you leap"],
-    "answer": "Honesty is the best policy"
-  },
-  {
-    "number": 25,
-    "question": "If an employee leaks their company's secret to competitors, that action is:",
-    "options": [ "Loyal",  "Disloyal",  "Respectful",  "Helpful"],
-    "answer": "Disloyal"
-  },
-  {
-    "number": 26,
-    "question": "Disloyalty can destroy:",
-    "options": [ "Friendships and partnerships",  "Honesty",  "Confidence",  "All of the above"],
-    "answer": "All of the above"
-  },
-  {
-    "number": 27,
-    "question": "A disloyal student is one who:",
-    "options": [ "Encourages friends to study",  "Supports school activities",  "Cheats and hides the truth",  "Reports bullying to teachers"],
-    "answer": "Cheats and hides the truth"
-  },
-  {
-    "number": 28,
-    "question": "Which of the following is NOT a consequence of disloyalty?",
-    "options": [ "Loss of trust",  "Damage to reputation",  "Strengthened relationships",  "Loss of opportunities"],
-    "answer": "Strengthened relationships"
-  },
-  {
-    "number": 29,
-    "question": "Sharing confidential information without permission is most likely an example of:",
-    "options": [ "Responsibility",  "Leadership",  "Disloyalty",  "Creativity"],
-    "answer": "Disloyalty"
-  },
-  {
-    "number": 30,
-    "question": "Disloyalty can be prevented by:",
-    "options": [ "Keeping promises",  "Gossiping often",  "Breaking commitments",  "Taking sides unfairly"],
-    "answer": "Keeping promises"
-  },
-  {
-    "number": 31,
-    "question": "What does “living together in peace” mean?",
-    "options": [ "Avoiding all interactions with others",  "Living without conflict and showing respect for others",  "Always agreeing on everything",  "Living alone to avoid problems"],
-    "answer": "Living without conflict and showing respect for others"
-  },
-  {
-    "number": 32,
-    "question": "Which of the following helps promote peaceful living?",
-    "options": [ "Fighting",  "Tolerance",  "Insulting others",  "Selfishness"],
-    "answer": "Tolerance"
-  },
-  {
-    "number": 33,
-    "question": "Peaceful coexistence means:",
-    "options": [ "Refusing to share",  "Respecting people of different backgrounds",  "Forcing others to think like you",  "Winning every argument"],
-    "answer": "Respecting people of different backgrounds"
-  },
-  {
-    "number": 34,
-    "question": "Which of these is a peaceful behavior at home or school?",
-    "options": [ "Yelling during a disagreement",  "Fighting for attention",  "Listening to others politely",  "Refusing to apologize"],
-    "answer": "Listening to others politely"
-  },
-  {
-    "number": 35,
-    "question": "What value is MOST needed for living together in peace?",
-    "options": [ "Jealousy",  "Greed",  "Tolerance",  "Anger"],
-    "answer": "Tolerance"
-  },
-  {
-    "number": 36,
-    "question": "A person who lives peacefully with others is likely to:",
-    "options": [ "Start trouble",  "Avoid communication",  "Show kindness and respect",  "Always get their own way"],
-    "answer": "Show kindness and respect"
-  },
-  {
-    "number": 37,
-    "question": "Which of the following hurts peaceful living?",
-    "options": [ "Cooperation",  "Understanding",  "Gossiping",  "Patience"],
-    "answer": "Gossiping"
-  },
-  {
-    "number": 38,
-    "question": "Which one is an example of conflict resolution?",
-    "options": [ "Shouting to end an argument",  "Ignoring the other person permanently",  "Discussing problems calmly and finding a solution",  "Blaming others always"],
-    "answer": "Discussing problems calmly and finding a solution"
-  },
-  {
-    "number": 39,
-    "question": "To live peacefully in a community, everyone should:",
-    "options": [ "Break rules often",  "Respect community laws and customs",  "Insult people from other cultures",  "Take from others without asking"],
-    "answer": "Respect community laws and customs"
-  },
-  {
-    "number": 40,
-    "question": "Which international day promotes the idea of ‘living together in peace’?",
-    "options": [ "World Water Day",  "International Day of Peace",  "Labour Day",  "World Food Day"],
-    "answer": "International Day of Peace"
-  },
-  {
-    "number": 41,
-    "question": "What are National Honours Awards?",
-    "options": [ "Awards given to only foreigners",  "Awards given to citizens and non-citizens for outstanding service to the nation",  "Sports trophies",  "Awards given only to children"],
-    "answer": "Awards given to citizens and non-citizens for outstanding service to the nation"
-  },
-  {
-    "number": 42,
-    "question": "Which agency or authority confers National Honours in Nigeria?",
-    "options": [ "The Chief Justice",  "The President",  "The Senate President",  "The Inspector General of Police"],
-    "answer": "The President"
-  },
-  {
-    "number": 43,
-    "question": "The highest National Honour in Nigeria is:",
-    "options": [ "OFR",  "MFR",  "GCFR",  "CFR"],
-    "answer": "GCFR"
-  },
-  {
-    "number": 44,
-    "question": "GCFR stands for:",
-    "options": [ "Grand Commander of the Federal Republic",  "General Commander of Federal Recognition",  "Grand Council of Federal Rights",  "General Chief of Federal Rule"],
-    "answer": "Grand Commander of the Federal Republic"
-  },
-  {
-    "number": 45,
-    "question": "Which of the following is NOT a category of National Honours in Nigeria?",
-    "options": [ "CFR",  "OFR",  "GCON",  "Nobel Prize"],
-    "answer": "Nobel Prize"
-  },
-  {
-    "number": 46,
-    "question": "Who usually receives the GCON award?",
-    "options": [ "Only students",  "Vice Presidents and Chief Justices",  "Foreigners only",  "Only athletes"],
-    "answer": "Vice Presidents and Chief Justices"
-  },
-  {
-    "number": 47,
-    "question": "Why are National Honours Awards given?",
-    "options": [ "To recognize individuals for outstanding contributions to the country",  "To punish citizens",  "To increase tax contributions",  "To replace salaries"],
-    "answer": "To recognize individuals for outstanding contributions to the country"
-  },
-  {
-    "number": 48,
-    "question": "Which of these National Honours is lower in rank?",
-    "options": [ "OFR",  "GCFR",  "GCON",  "CFR"],
-    "answer": "OFR"
-  },
-  {
-    "number": 49,
-    "question": "MFR stands for:",
-    "options": [ "Member of the Federal Republic",  "Master of Federal Rights",  "Manager of Fiscal Responsibility",  "Member of the Federal Revolution"],
-    "answer": "Member of the Federal Republic"
-  },
-  {
-    "number": 50,
-    "question": "National Honours Awards are usually given on:",
-    "options": [ "Independence Day",  "Democracy Day",  "Children’s Day",  "New Year’s Day"],
-    "answer": "Democracy Day"
-  }
+      "number": 1,
+      "question": "What is the place value of 3 in 162.345?",
+      "options": ["3 unit", "3 tenth", "3 hundred", "3 hundredth"],
+      "answer": "3 tenth"
+    },
+    {
+      "number": 2,
+      "question": "Express 108 as a product of its prime factors in index form",
+      "options": ["2^2×3^2", "2^2×2^4", "2^2×3^3", "2^3×3^2"],
+      "answer": "2^2×3^3"
+    },
+    {
+      "number": 3,
+      "question": "Find the square root of 16",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "number": 4,
+      "question": "Which of the following is a perfect square?",
+      "options": ["8", "22", "25", "27"],
+      "answer": "25"
+    },
+    {
+      "number": 5,
+      "question": "Simplify [2+3-2×5+4(3×2)]",
+      "options": ["19", "22", "31", "39"],
+      "answer": "19"
+    },
+    {
+      "number": 6,
+      "question": "Express 2.160 as a fraction in its lowest term",
+      "options": ["2 1/25", "2 2/25", "2 3/25", "2 4/25"],
+      "answer": "2 4/25"
+    },
+    {
+      "number": 7,
+      "question": "Find the LCM of 36, 24 and 81",
+      "options": ["141", "216", "324", "648"],
+      "answer": "648"
+    },
+    {
+      "number": 8,
+      "question": "Which of the following is a prime factor of 100?",
+      "options": ["5", "10", "20", "25"],
+      "answer": "5"
+    },
+    {
+      "number": 9,
+      "question": "Simplify 16/22(5/8+3/4)",
+      "options": ["1", "2", "3", "4"],
+      "answer": "1"
+    },
+    {
+      "number": 10,
+      "question": "If today is 2nd January, what will be the date in P days’ time?",
+      "options": ["P + 31", "15 + P", "2 + P", "1 + P"],
+      "answer": "P + 31"
+    },
+    {
+      "number": 11,
+      "question": "Find the difference between 2x kg and 55x g. Give your answer in grams",
+      "options": ["53x", "57x", "255x", "1945x"],
+      "answer": "53x"
+    },
+    {
+      "number": 12,
+      "question": "Write in figures: Seven hundred and eighty-one thousand four hundred and fifty-two naira, sixty-three kobo",
+      "options": ["N781, 254.63", "N781, 452.36", "N781, 452.63", "N781, 542.63"],
+      "answer": "N781, 452.63"
+    },
+    {
+      "number": 13,
+      "question": "Reduce 280/360 to the lowest term",
+      "options": ["7/9", "7/18", "14/18", "28/36"],
+      "answer": "7/9"
+    },
+    {
+      "number": 14,
+      "question": "Evaluate 1570 + 423, leaving your answer in Roman Numerals",
+      "options": ["MCMXCIII", "MCMIII", "XCIII", "MCMCXIII"],
+      "answer": "MCMXCIII"
+    },
+    {
+      "number": 15,
+      "question": "Which of these numbers is a multiple of 2?",
+      "options": ["13", "15", "21", "40"],
+      "answer": "40"
+    },
+    {
+      "number": 16,
+      "question": "Evaluate 1505/35",
+      "options": ["32", "43", "47", "49"],
+      "answer": "43"
+    },
+    {
+      "number": 17,
+      "question": "A man is x years old. How old was he 10 years ago?",
+      "options": ["20 years", "(x+10) years", "(x-10) years", "(10-x) years"],
+      "answer": "(x-10) years"
+    },
+    {
+      "number": 18,
+      "question": "Evaluate -6+(-40)",
+      "options": ["-10", "10", "2", "-6"],
+      "answer": "-10"
+    },
+    {
+      "number": 19,
+      "question": "What is the positive difference between 362 and 295?",
+      "options": ["42", "62", "67", "657"],
+      "answer": "67"
+    },
+    {
+      "number": 20,
+      "question": "Simplify (√25)^3",
+      "options": ["5", "25", "75", "125"],
+      "answer": "125"
+    },
+    {
+      "number": 21,
+      "question": "Simplify -3-(-21)-18",
+      "options": ["0", "6", "36", "-42"],
+      "answer": "0"
+    },
+    {
+      "number": 22,
+      "question": "Subtract one hundred and four from five hundred and thirty-nine",
+      "options": ["104", "335", "425", "435"],
+      "answer": "435"
+    },
+    {
+      "number": 23,
+      "question": "Find the HCF of 15, 20 and 35",
+      "options": ["2", "3", "4", "5"],
+      "answer": "5"
+    },
+    {
+      "number": 24,
+      "question": "One of these numbers is a factor of 12",
+      "options": ["5", "6", "9", "24"],
+      "answer": "6"
+    },
+    {
+      "number": 25,
+      "question": "Find the value of XLII in numbers",
+      "options": ["42", "47", "452", "4052"],
+      "answer": "42"
+    },
+    {
+      "number": 26,
+      "question": "Which of the following is a composite number?",
+      "options": ["5", "7", "9", "11"],
+      "answer": "11"
+    },
+    {
+      "number": 27,
+      "question": "Which of these is not a multiple of 15?",
+      "options": ["45", "75", "90", "110"],
+      "answer": "110"
+    },
+    {
+      "number": 28,
+      "question": "Express 25/3 as a mixed number",
+      "options": ["1 3/8", "3 1/8", "8 1/3", "8 3/8"],
+      "answer": "8 1/3"
+    },
+    {
+      "number": 29,
+      "question": "Find the HCF of 15ab^2 and 6a^2b",
+      "options": ["ab", "3ab", "3ab", "3ab^2"],
+      "answer": "3ab"
+    },
+    {
+      "number": 30,
+      "question": "Evaluate –(25)^2",
+      "options": ["5", "-5", "625", "-625"],
+      "answer": "-625"
+    },
+    {
+      "number": 31,
+      "question": "Simplify (40-17)×(50÷5)",
+      "options": ["23", "115", "203", "230"],
+      "answer": "230"
+    },
+    {
+      "number": 32,
+      "question": "The value of 9 in 19214 is",
+      "options": ["9 tens", "9 hundreds", "9 thousands", "9 ten thousands"],
+      "answer": "9 thousands"
+    },
+    {
+      "number": 33,
+      "question": "Which of the following numbers is not divisible by both 3 and 5?",
+      "options": ["40", "60", "75", "210"],
+      "answer": "40"
+    },
+    {
+      "number": 34,
+      "question": "Evaluate 1/36 of 3024",
+      "options": ["24", "436", "84", "94"],
+      "answer": "84"
+    },
+    {
+      "number": 35,
+      "question": "Simplify (-15)+4÷(5-3)",
+      "options": ["13", "-13", "17", "-17"],
+      "answer": "-13"
+    },
+    {
+      "number": 36,
+      "question": "Find the square root of 8100",
+      "options": ["9", "90", "900", "9000"],
+      "answer": "90"
+    },
+    {
+      "number": 37,
+      "question": "Arrange the following fractions in ascending order: 3/8, 2/7, 5/11, 4/5",
+      "options": ["2/7, 3/8, 4/5, 5/11", "3/8, 2/7, 5/11, 4/5", "4/5, 2/7, 3/8, 5/11", "2/7, 3/8, 5/11, 4/5"],
+      "answer": "2/7, 3/8, 5/11, 4/5"
+    },
+    {
+      "number": 38,
+      "question": "Convert 9 2/7 to improper fraction",
+      "options": ["7/65", "63/7", "65/7", "18/7"],
+      "answer": "65/7"
+    },
+    {
+      "number": 39,
+      "question": "Express 45 minutes as a fraction of an hour",
+      "options": ["1/4", "3/4", "9/20", "11/20"],
+      "answer": "3/4"
+    },
+    {
+      "number": 40,
+      "question": "Express 0.68 as a fraction",
+      "options": ["1/2", "17/25", "25/34", "27/50"],
+      "answer": "17/25"
+    },
+    {
+      "number": 41,
+      "question": "The product of 0.017 and 100 is",
+      "options": ["0.0017", "0.017", "0.7", "1.7"],
+      "answer": "1.7"
+    },
+    {
+      "number": 42,
+      "question": "Subtract 18 from the product of -6 and 3",
+      "options": ["36", "-36", "-18", "0"],
+      "answer": "-36"
+    },
+    {
+      "number": 43,
+      "question": "Express 20% as a decimal number",
+      "options": ["2.00", "0.70", "0.50", "0.20"],
+      "answer": "0.20"
+    },
+    {
+      "number": 44,
+      "question": "Write 672 in Roman figure",
+      "options": ["DCCXXII", "DCLXXII", "DCLXXXII", "DCLXXXIV"],
+      "answer": "DCLXXXIV"
+    },
+    {
+      "number": 45,
+      "question": "Simplify 1200÷0.12",
+      "options": ["10000", "1000", "100", "10"],
+      "answer": "10000"
+    },
+    {
+      "number": 46,
+      "question": "Find the difference between 3 4/5 and 3/4",
+      "options": ["3 2/3", "3 1/10", "3 1/5", "3 1/20"],
+      "answer": "3 1/20"
+    },
+    {
+      "number": 47,
+      "question": "Express MMXL in figures",
+      "options": ["1034", "1940", "2040", "2134"],
+      "answer": "2040"
+    },
+    {
+      "number": 48,
+      "question": "Reduce 36/72 to its lowest term",
+      "options": ["1/2", "1/3", "1/5", "1/6"],
+      "answer": "1/2"
+    },
+    {
+      "number": 49,
+      "question": "Which of the following is NOT a pair of equivalent fractions?",
+      "options": ["3/5,12/20", "2/3,9/20", "3/5,18/30", "1/2,12/24"],
+      "answer": "2/3,9/20"
+    },
+    {
+      "number": 50,
+      "question": "The place value of 7 in 592.367 is",
+      "options": ["7 tenths", "7 hundredth", "7 thousandths", "7 tens"],
+      "answer": "7 thousandths"
+    } 
+  
 ]
-
-

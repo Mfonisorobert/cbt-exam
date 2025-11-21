@@ -45,6 +45,34 @@ const [hasStarted, setHasStarted] = useState(false);
 
   // modified ends
 
+
+// Use this for instructional questions where the questions needs to be chosen from a particular number to another number
+// useEffect(() => {
+//   const flattenedQuestions = [];
+
+//   questionsData.forEach((group) => {
+//     const instruction = group.instruction;
+//     group.questions.forEach((question) => {
+//       flattenedQuestions.push({
+//         ...question,
+//         instruction,
+//         options: question.options, // Keep options in original order
+
+//         // To shuffle the options use this
+//         // options: shuffleArray(question.options), 
+//         // shuffle options ends here
+
+//       });
+//     });
+//   });
+
+//   setQuestions(flattenedQuestions); // Keep questions in original order
+// }, []);
+
+
+// instructional questions ends here
+
+
   const handleOptionSelect = (option) => {
     setAnswers({ ...answers, [currentQIndex]: option });
   };
@@ -208,7 +236,7 @@ if (!hasStarted) {
     )}
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
       {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
-      {showScore ? studentName : "YEAR 5 - NATIONAL VALUES"}
+      {showScore ? studentName : "YEAR 7 - MAHEMATICS"}
       </h3>
 
       
@@ -268,7 +296,7 @@ if (!hasStarted) {
 
 {/* This portion shows the result after submission */}
 
-{/* {showScore && (
+{showScore && (
   <div className="text-center mt-6">
     <h3 className="text-xl font-semibold mt-6 mb-2">Review:</h3>
     <div className="space-y-4 text-left mt-4">
@@ -286,7 +314,7 @@ if (!hasStarted) {
       })}
     </div>
   </div>
-)} */}
+)}
 
 
 </div>
