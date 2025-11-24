@@ -1,5 +1,7 @@
 [
-  
+  {
+      "instruction": "Answer the question by choosing the correct option.",
+      "questions": [
     {
       "number": 1,
       "question": "Factorize x^2-6",
@@ -47,31 +49,46 @@
       "question": "In a poultry, the average number of eggs laid daily by a layer is 1. If 20 crates of eggs are gathered in a day, how many layers are in the poultry?",
       "options": ["300", "350", "500", "600"],
       "answer": "600"
-    },
+    }
+    ]
+},
+    {
+      "instruction": "Use the information below to answer questions 9 – 12. The pie chart shows the amount Mrs. Cherish gave to her three sons for the month of October.",
+      "questions": [
     {
       "number": 9,
-      "question": "Find the sectoral angle representing the first son’s money (from pie chart)",
+      "question": "Find the sectoral angle representing the first son’s money",
       "options": ["200", "600", "1620", "1800"],
-      "answer": "1620"
+      "answer": "1620",
+      "image": "/images/pie.png"
+      
     },
     {
       "number": 10,
-      "question": "Find the sectoral angle representing the third son’s money (from pie chart)",
+      "question": "Find the sectoral angle representing the third son’s money",
       "options": ["800", "980", "1200", "1900"],
-      "answer": "980"
+      "answer": "980",
+      "image": "/images/pie.png"
     },
     {
       "number": 11,
       "question": "Find the percentage representing the second son’s money, correct to one decimal place.",
       "options": ["50.0", "27.8", "25.0", "20.5"],
-      "answer": "27.8"
+      "answer": "27.8",
+      "image": "/images/pie.png"
     },
     {
       "number": 12,
       "question": "Calculate the percentage respectively the first son’s money.",
       "options": ["20", "30", "45", "500"],
-      "answer": "30"
-    },
+      "answer": "30",
+      "image": "/images/pie.png"
+    }
+  ]
+},
+{
+      "instruction": "Answer the question by choosing the correct option.",
+      "questions": [
     {
       "number": 13,
       "question": "Find the mode of the following set of numbers: 6,8,6,4,8,7,5,6,10",
@@ -113,19 +130,31 @@
       "question": "Find the product of the median and the range of the following set of numbers: 3,7,5,4,3,2,6,2",
       "options": ["5.5", "15.6", "17.5", "25.5"],
       "answer": "17.5"
-    },
+    }
+     ]
+},
+    {
+      "instruction": "The table below shows the distribution of marks in a mathematics test. Use the information to answer questions 20 and 21",
+      "questions": [
     {
       "number": 20,
-      "question": "How many students wrote the test? (distribution table)",
+      "question": "How many students wrote the test?",
       "options": ["35", "43", "45", "50"],
-      "answer": "45"
+      "answer": "45",
+      "image": "/images/chart.png"
     },
     {
       "number": 21,
-      "question": "If the pass mark is 6, how many students passed the test? (distribution table)",
+      "question": "If the pass mark is 6, how many students passed the test?",
       "options": ["33", "15", "12", "10"],
-      "answer": "12"
-    },
+      "answer": "12",
+      "image": "/images/chart.png"
+    }
+     ]
+},
+{
+      "instruction": "Answer the question by choosing the correct option.",
+      "questions": [
     {
       "number": 22,
       "question": "Evaluate 110_two × 101_two",
@@ -299,8 +328,10 @@
       "question": "Factorise: 1/2 x^2 y^2 - 1/2 xy^2",
       "options": ["1/2 xy(x^2 - 1/2 y)", "1/2 xy^2 (x-1)", "1/2 xy(y-x)", "x^2 y^2 (1/2 - xy)"],
       "answer": "1/2 xy^2 (x-1)"
-    }
-  
+   }
+  ]
+}
+
 ]
 
 
