@@ -1,303 +1,306 @@
 [
-  {
+  
+    {
       "number": 1,
-      "question": "What is the place value of 3 in 162.345?",
-      "options": ["3 unit", "3 tenth", "3 hundred", "3 hundredth"],
-      "answer": "3 tenth"
+      "question": "Factorize x^2-6",
+      "options": ["(x-4)(x+4)", "(x-4)(x-4)", "(x-2)(x+2)", "(x-2)(x-2)"],
+      "answer": "(x-4)(x+4)"
     },
     {
       "number": 2,
-      "question": "Express 108 as a product of its prime factors in index form",
-      "options": ["2^2×3^2", "2^2×2^4", "2^2×3^3", "2^3×3^2"],
-      "answer": "2^2×3^3"
+      "question": "Simplify (12-5a)-(7+6a)",
+      "options": ["5+11a", "5+a", "5-11a", "19-11a"],
+      "answer": "5-11a"
     },
     {
       "number": 3,
-      "question": "Find the square root of 16",
-      "options": ["2", "3", "4", "5"],
-      "answer": "4"
+      "question": "Factorize 63x^2 y^4-99x^3 y^2",
+      "options": ["3x^2 y(7x^2+11x^2)", "3xy^2 (7x^2-11y^2)", "9x^2 y^2 (7x+11y^2)", "9x^2 y^2 (7y^2-11x)"],
+      "answer": "9x^2 y^2 (7y^2-11x)"
     },
     {
       "number": 4,
-      "question": "Which of the following is a perfect square?",
-      "options": ["8", "22", "25", "27"],
-      "answer": "25"
+      "question": "What are the factors of 15-2a-a^2?",
+      "options": ["(15-3a)(5a-a)", "(15+a)(3+a)", "(5+a)(3-a)", "(5+a)(3-a)"],
+      "answer": "(5+a)(3-a)"
     },
     {
       "number": 5,
-      "question": "Simplify [2+3-2×5+4(3×2)]",
-      "options": ["19", "22", "31", "39"],
-      "answer": "19"
+      "question": "Expand -3x(2x-3y)",
+      "options": ["-6x^2-9xy", "6x^2-9xy", "-6x^2+9xy", "9xy-6x^2"],
+      "answer": "-6x^2+9xy"
     },
     {
       "number": 6,
-      "question": "Express 2.160 as a fraction in its lowest term",
-      "options": ["2 1/25", "2 2/25", "2 3/25", "2 4/25"],
-      "answer": "2 4/25"
+      "question": "Factorize 4a^2-25",
+      "options": ["(2a-5)(2a+5)", "(4a-5)(4a+5)", "(a-5)(a+2)", "(2a-5)^2"],
+      "answer": "(2a-5)(2a+5)"
     },
     {
       "number": 7,
-      "question": "Find the LCM of 36, 24 and 81",
-      "options": ["141", "216", "324", "648"],
-      "answer": "648"
+      "question": "Solve for x if (4x-3)/9 - x/3 = 5(x-1)/6",
+      "options": ["12", "9/13", "1/2", "1/3"],
+      "answer": "9/13"
     },
     {
       "number": 8,
-      "question": "Which of the following is a prime factor of 100?",
-      "options": ["5", "10", "20", "25"],
-      "answer": "5"
+      "question": "In a poultry, the average number of eggs laid daily by a layer is 1. If 20 crates of eggs are gathered in a day, how many layers are in the poultry?",
+      "options": ["300", "350", "500", "600"],
+      "answer": "600"
     },
     {
       "number": 9,
-      "question": "Simplify 16/22(5/8+3/4)",
-      "options": ["1", "2", "3", "4"],
-      "answer": "1"
+      "question": "Find the sectoral angle representing the first son’s money (from pie chart)",
+      "options": ["200", "600", "1620", "1800"],
+      "answer": "1620"
     },
     {
       "number": 10,
-      "question": "If today is 2nd January, what will be the date in P days’ time?",
-      "options": ["P + 31", "15 + P", "2 + P", "1 + P"],
-      "answer": "P + 31"
+      "question": "Find the sectoral angle representing the third son’s money (from pie chart)",
+      "options": ["800", "980", "1200", "1900"],
+      "answer": "980"
     },
     {
       "number": 11,
-      "question": "Find the difference between 2x kg and 55x g. Give your answer in grams",
-      "options": ["53x", "57x", "255x", "1945x"],
-      "answer": "53x"
+      "question": "Find the percentage representing the second son’s money, correct to one decimal place.",
+      "options": ["50.0", "27.8", "25.0", "20.5"],
+      "answer": "27.8"
     },
     {
       "number": 12,
-      "question": "Write in figures: Seven hundred and eighty-one thousand four hundred and fifty-two naira, sixty-three kobo",
-      "options": ["N781, 254.63", "N781, 452.36", "N781, 452.63", "N781, 542.63"],
-      "answer": "N781, 452.63"
+      "question": "Calculate the percentage respectively the first son’s money.",
+      "options": ["20", "30", "45", "500"],
+      "answer": "30"
     },
     {
       "number": 13,
-      "question": "Reduce 280/360 to the lowest term",
-      "options": ["7/9", "7/18", "14/18", "28/36"],
-      "answer": "7/9"
+      "question": "Find the mode of the following set of numbers: 6,8,6,4,8,7,5,6,10",
+      "options": ["4", "5", "6", "7"],
+      "answer": "6"
     },
     {
       "number": 14,
-      "question": "Evaluate 1570 + 423, leaving your answer in Roman Numerals",
-      "options": ["MCMXCIII", "MCMIII", "XCIII", "MCMCXIII"],
-      "answer": "MCMXCIII"
+      "question": "Factorise x^2+x-2",
+      "options": ["(x-2)(x-3)", "(x-1)(x-2)", "(x-1)(x+2)", "(x+1)(x+2)"],
+      "answer": "(x-1)(x+2)"
     },
     {
       "number": 15,
-      "question": "Which of these numbers is a multiple of 2?",
-      "options": ["13", "15", "21", "40"],
-      "answer": "40"
+      "question": "Find the median of the following set of numbers: 25, 30,22,24,29,31,26,25,30",
+      "options": ["22", "24", "25", "26"],
+      "answer": "26"
     },
     {
       "number": 16,
-      "question": "Evaluate 1505/35",
-      "options": ["32", "43", "47", "49"],
-      "answer": "43"
+      "question": "Which of the following cannot be used to represent data?",
+      "options": ["bar chart", "frequency table", "mean", "pictogram"],
+      "answer": "mean"
     },
     {
       "number": 17,
-      "question": "A man is x years old. How old was he 10 years ago?",
-      "options": ["20 years", "(x+10) years", "(x-10) years", "(10-x) years"],
-      "answer": "(x-10) years"
+      "question": "The average of the numbers 12,40, x, 60 and 20 is 36. Find the value of x.",
+      "options": ["28", "33", "36", "48"],
+      "answer": "48"
     },
     {
       "number": 18,
-      "question": "Evaluate -6+(-40)",
-      "options": ["-10", "10", "2", "-6"],
-      "answer": "-10"
+      "question": "Find the range of the following set of numbers: 7,2,3,9,5,6,7,12,11,17",
+      "options": ["15", "11", "9", "5"],
+      "answer": "15"
     },
     {
       "number": 19,
-      "question": "What is the positive difference between 362 and 295?",
-      "options": ["42", "62", "67", "657"],
-      "answer": "67"
+      "question": "Find the product of the median and the range of the following set of numbers: 3,7,5,4,3,2,6,2",
+      "options": ["5.5", "15.6", "17.5", "25.5"],
+      "answer": "17.5"
     },
     {
       "number": 20,
-      "question": "Simplify (√25)^3",
-      "options": ["5", "25", "75", "125"],
-      "answer": "125"
+      "question": "How many students wrote the test? (distribution table)",
+      "options": ["35", "43", "45", "50"],
+      "answer": "45"
     },
     {
       "number": 21,
-      "question": "Simplify -3-(-21)-18",
-      "options": ["0", "6", "36", "-42"],
-      "answer": "0"
+      "question": "If the pass mark is 6, how many students passed the test? (distribution table)",
+      "options": ["33", "15", "12", "10"],
+      "answer": "12"
     },
     {
       "number": 22,
-      "question": "Subtract one hundred and four from five hundred and thirty-nine",
-      "options": ["104", "335", "425", "435"],
-      "answer": "435"
+      "question": "Evaluate 110_two × 101_two",
+      "options": ["10110_two", "11001_two", "11100_two", "11110_two"],
+      "answer": "11110_two"
     },
     {
       "number": 23,
-      "question": "Find the HCF of 15, 20 and 35",
+      "question": "Find the simple interest on N20,000.00 for 3 years at 5% per annum",
+      "options": ["N3,000.00", "N3,500.00", "N4,000.00", "N4,200.00"],
+      "answer": "N3,000.00"
+    },
+    {
+      "number": 24,
+      "question": "Find the value of cos 45° (use tables)",
+      "options": ["0.5736", "0.7071", "1.7586", "1.8452"],
+      "answer": "0.7071"
+    },
+    {
+      "number": 25,
+      "question": "Find the value of tan 35° (use tables)",
+      "options": ["1.8452", "0.8192", "0.7002", "0.5732"],
+      "answer": "0.8192"
+    },
+    {
+      "number": 26,
+      "question": "Convert 1111_two to denary",
+      "options": ["15", "14", "13", "12"],
+      "answer": "15"
+    },
+    {
+      "number": 27,
+      "question": "Subtract 111_two from 1110_two",
+      "options": ["11_two", "101_two", "110_two", "111_two"],
+      "answer": "101_two"
+    },
+    {
+      "number": 28,
+      "question": "Find the interest on N40,000.00 for 2 years at 20% per annum compound interest.",
+      "options": ["N8,000.00", "N9,600.00", "N17,600.00", "N49,600.00"],
+      "answer": "N17,600.00"
+    },
+    {
+      "number": 29,
+      "question": "Factorise ef+df-dg-eg",
+      "options": ["(e-d)(f+g)", "(e-d)(f-g)", "(e+d)(f-g)", "(e+d)(f+g)"],
+      "answer": "(e-d)(f+g)"
+    },
+    {
+      "number": 30,
+      "question": "Expand: -3x(-4p+7n)",
+      "options": ["12xp+21xn", "12xp-21xn", "12xp-10xp", "-12xp-21xn"],
+      "answer": "12xp-21xn"
+    },
+    {
+      "number": 31,
+      "question": "Simplify (x+1)(x-1)+2x^2",
+      "options": ["2x^2-1", "2x^2+1", "3x^2-1", "3x^2+1"],
+      "answer": "3x^2-1"
+    },
+    {
+      "number": 32,
+      "question": "If 45 is added to a certain number and the result is divided by 9, the quotient is 8. What is the number?",
+      "options": ["12", "19", "25", "27"],
+      "answer": "27"
+    },
+    {
+      "number": 33,
+      "question": "Factorise 32x^2 y-8yz^2",
+      "options": ["8y(2x-z)", "8y(2x+z)", "8y(2x-z)(2x+z)", "8y(2x+z)(2x+z)"],
+      "answer": "8y(2x-z)"
+    },
+    {
+      "number": 34,
+      "question": "Solve the equation 8/4 (x-2) = 1/10",
+      "options": ["10", "18", "20", "22"],
+      "answer": "22"
+    },
+    {
+      "number": 35,
+      "question": "Expand (n+5)(n-4)",
+      "options": ["n^2+n+20", "n^2+n-20", "n^2-9n-20", "n^2-n-20"],
+      "answer": "n^2-n-20"
+    },
+    {
+      "number": 36,
+      "question": "Solve the equation (5p-4)/3 = p+2",
       "options": ["2", "3", "4", "5"],
       "answer": "5"
     },
     {
-      "number": 24,
-      "question": "One of these numbers is a factor of 12",
-      "options": ["5", "6", "9", "24"],
-      "answer": "6"
-    },
-    {
-      "number": 25,
-      "question": "Find the value of XLII in numbers",
-      "options": ["42", "47", "452", "4052"],
-      "answer": "42"
-    },
-    {
-      "number": 26,
-      "question": "Which of the following is a composite number?",
-      "options": ["5", "7", "9", "11"],
-      "answer": "11"
-    },
-    {
-      "number": 27,
-      "question": "Which of these is not a multiple of 15?",
-      "options": ["45", "75", "90", "110"],
-      "answer": "110"
-    },
-    {
-      "number": 28,
-      "question": "Express 25/3 as a mixed number",
-      "options": ["1 3/8", "3 1/8", "8 1/3", "8 3/8"],
-      "answer": "8 1/3"
-    },
-    {
-      "number": 29,
-      "question": "Find the HCF of 15ab^2 and 6a^2b",
-      "options": ["ab", "2ab", "3ab", "3ab^2"],
-      "answer": "3ab"
-    },
-    {
-      "number": 30,
-      "question": "Evaluate –(25)^2",
-      "options": ["5", "-5", "625", "-625"],
-      "answer": "-625"
-    },
-    {
-      "number": 31,
-      "question": "Simplify (40-17)×(50÷5)",
-      "options": ["23", "115", "203", "230"],
-      "answer": "230"
-    },
-    {
-      "number": 32,
-      "question": "The value of 9 in 19214 is",
-      "options": ["9 tens", "9 hundreds", "9 thousands", "9 ten thousands"],
-      "answer": "9 thousands"
-    },
-    {
-      "number": 33,
-      "question": "Which of the following numbers is not divisible by both 3 and 5?",
-      "options": ["40", "60", "75", "210"],
-      "answer": "40"
-    },
-    {
-      "number": 34,
-      "question": "Evaluate 1/36 of 3024",
-      "options": ["24", "436", "84", "94"],
-      "answer": "84"
-    },
-    {
-      "number": 35,
-      "question": "Simplify (-15)+4÷(5-3)",
-      "options": ["13", "-13", "17", "-17"],
-      "answer": "-13"
-    },
-    {
-      "number": 36,
-      "question": "Find the square root of 8100",
-      "options": ["9", "90", "900", "9000"],
-      "answer": "90"
-    },
-    {
       "number": 37,
-      "question": "Arrange the following fractions in ascending order: 3/8, 2/7, 5/11, 4/5",
-      "options": ["2/7, 3/8, 4/5, 5/11", "3/8, 2/7, 5/11, 4/5", "4/5, 2/7, 3/8, 5/11", "2/7, 3/8, 5/11, 4/5"],
-      "answer": "2/7, 3/8, 5/11, 4/5"
+      "question": "Solve 2/(y-3) = 4/(3y+5)",
+      "options": ["-22", "-11", "-2", "2"],
+      "answer": "-11"
     },
     {
       "number": 38,
-      "question": "Convert 9 2/7 to improper fraction",
-      "options": ["7/65", "63/7", "65/7", "18/7"],
-      "answer": "65/7"
+      "question": "If 12 is the mean of the following set of numbers: 12,10, x, 8,10, find the value of x",
+      "options": ["12", "15", "20", "40"],
+      "answer": "20"
     },
     {
       "number": 39,
-      "question": "Express 45 minutes as a fraction of an hour",
-      "options": ["1/4", "3/4", "9/20", "11/20"],
-      "answer": "3/4"
+      "question": "Solve the equation 1/(a-5) = 1/5",
+      "options": ["5", "7", "10", "15"],
+      "answer": "10"
     },
     {
       "number": 40,
-      "question": "Express 0.68 as a fraction",
-      "options": ["1/2", "17/25", "25/34", "27/50"],
-      "answer": "17/25"
+      "question": "How many students scored 58 or more? (given scores list)",
+      "options": ["5", "8", "13", "15"],
+      "answer": "13"
     },
     {
       "number": 41,
-      "question": "The product of 0.017 and 100 is",
-      "options": ["0.0017", "0.017", "0.7", "1.7"],
-      "answer": "1.7"
+      "question": "What is the range? (given scores list)",
+      "options": ["19", "29", "39", "51"],
+      "answer": "19"
     },
     {
       "number": 42,
-      "question": "Subtract 18 from the product of -6 and 3",
-      "options": ["36", "-36", "-18", "0"],
-      "answer": "-36"
+      "question": "If 60 is the pass mark, how many students failed? (given scores list)",
+      "options": ["5", "6", "7", "8"],
+      "answer": "8"
     },
     {
       "number": 43,
-      "question": "Express 20% as a decimal number",
-      "options": ["2.00", "0.70", "0.50", "0.20"],
-      "answer": "0.20"
+      "question": "Find the difference between the range and the mean of the given set of numbers: 2,4,6,8,9,10,11,14",
+      "options": ["2", "4", "8", "11"],
+      "answer": "4"
     },
     {
       "number": 44,
-      "question": "Write 672 in Roman figure",
-      "options": ["DCCXXII", "DCLXXII", "DCLXXXII", "DCLXXXIV"],
-      "answer": "DCLXXXIV"
+      "question": "If N200,000.00 is saved at simple interest of 5% per annum, calculate the total amount after 4 years.",
+      "options": ["N40,000.00", "N210,000.00", "N240,000.00", "N300,000.00"],
+      "answer": "N240,000.00"
     },
     {
       "number": 45,
-      "question": "Simplify 1200÷0.12",
-      "options": ["10000", "1000", "100", "10"],
-      "answer": "10000"
+      "question": "Express 42_seven in base ten",
+      "options": ["12", "18", "24", "30"],
+      "answer": "30"
     },
     {
       "number": 46,
-      "question": "Find the difference between 3 4/5 and 3/4",
-      "options": ["3 2/3", "3 1/10", "3 1/5", "3 1/20"],
-      "answer": "3 1/20"
+      "question": "Which of the following fractions is a recurring decimal?",
+      "options": ["1/10", "1/5", "1/4", "1/3"],
+      "answer": "1/3"
     },
     {
       "number": 47,
-      "question": "Express MMXL in figures",
-      "options": ["1034", "1940", "2040", "2134"],
-      "answer": "2040"
+      "question": "Subtract 11 from 111 in base two",
+      "options": ["100_two", "1001_two", "1010_two", "1100_two"],
+      "answer": "100_two"
     },
     {
       "number": 48,
-      "question": "Reduce 36/72 to its lowest term",
-      "options": ["1/2", "1/3", "1/5", "1/6"],
-      "answer": "1/2"
+      "question": "Multiply 110_two by 11_two",
+      "options": ["1101_two", "1110_two", "1111_two", "10010_two"],
+      "answer": "10010_two"
     },
     {
       "number": 49,
-      "question": "Which of the following is NOT a pair of equivalent fractions?",
-      "options": ["3/5,12/20", "2/3,9/20", "3/5,18/30", "1/2,12/24"],
-      "answer": "2/3,9/20"
+      "question": "Expand (2x+3)^2",
+      "options": ["4x^2+12x+9", "4x^2+6x+9", "x^2+6x+9", "4x^2+9"],
+      "answer": "4x^2+12x+9"
     },
     {
       "number": 50,
-      "question": "The place value of 7 in 592.367 is",
-      "options": ["7 tenths", "7 hundredth", "7 thousandths", "7 tens"],
-      "answer": "7 thousandths"
-    } 
+      "question": "Factorise: 1/2 x^2 y^2 - 1/2 xy^2",
+      "options": ["1/2 xy(x^2 - 1/2 y)", "1/2 xy^2 (x-1)", "1/2 xy(y-x)", "x^2 y^2 (1/2 - xy)"],
+      "answer": "1/2 xy^2 (x-1)"
+    }
   
 ]
+
+
