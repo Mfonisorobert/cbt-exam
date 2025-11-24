@@ -23,7 +23,7 @@
     {
       "number": 4,
       "question": "What are the factors of 15-2a-a^2?",
-      "options": ["(15-3a)(5a-a)", "(15+a)(3+a)", "(5+a)(3-a)", "(5+a)(3-a)"],
+      "options": ["(15-3a)(5a-a)", "(15+a)(3+a)", "(5+a)(3-a)", "(5-a)(3+a)"],
       "answer": "(5+a)(3-a)"
     },
     {
