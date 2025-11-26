@@ -1,337 +1,554 @@
 [
-  {
-      "instruction": "Answer the question by choosing the correct option.",
-      "questions": [
     {
       "number": 1,
-      "question": "Factorize x^2-6",
-      "options": ["(x-4)(x+4)", "(x-4)(x-4)", "(x-2)(x+2)", "(x-2)(x-2)"],
-      "answer": "(x-4)(x+4)"
+      "question": "The device in which writers use in telling his story is _______",
+      "options": [
+        "Narrative technique",
+        "setting",
+        "style",
+        "dramatic technique"
+      ],
+      "answer": "Narrative technique"
     },
     {
       "number": 2,
-      "question": "Simplify (12-5a)-(7+6a)",
-      "options": ["5+11a", "5+a", "5-11a", "19-11a"],
-      "answer": "5-11a"
+      "question": "Beauty in poetry depends mainly on",
+      "options": [
+        "expression and rhythm",
+        "length and theme",
+        "vowels and consonants",
+        "mood and verse form"
+      ],
+      "answer": "expression and rhythm"
     },
     {
       "number": 3,
-      "question": "Factorize 63x^2 y^4-99x^3 y^2",
-      "options": ["3x^2 y(7x^2+11x^2)", "3xy^2 (7x^2-11y^2)", "9x^2 y^2 (7x+11y^2)", "9x^2 y^2 (7y^2-11x)"],
-      "answer": "9x^2 y^2 (7y^2-11x)"
+      "question": "A poem of fourteen lines is known as ______",
+      "options": [
+        "sonnet",
+        "satire",
+        "lyric",
+        "epic"
+      ],
+      "answer": "sonnet"
     },
     {
       "number": 4,
-      "question": "What are the factors of 15-2a-a^2?",
-      "options": ["(15-3a)(5a-a)", "(15+a)(3+a)", "(5+a)(3-a)", "(5-a)(3+a)"],
-      "answer": "(5+a)(3-a)"
+      "question": "A long narrative poem associated with the deeds of great people is",
+      "options": [
+        "satire",
+        "epic",
+        "lyric",
+        "sonnet"
+      ],
+      "answer": "epic"
     },
     {
       "number": 5,
-      "question": "Expand -3x(2x-3y)",
-      "options": ["-6x^2-9xy", "6x^2-9xy", "-6x^2+9xy", "9xy-6x^2"],
-      "answer": "-6x^2+9xy"
+      "question": "A poem that addresses a person or a thing for a specific purpose is known as",
+      "options": [
+        "ballad",
+        "ode",
+        "epic",
+        "pastoral poem"
+      ],
+      "answer": "ode"
     },
     {
       "number": 6,
-      "question": "Factorize 4a^2-25",
-      "options": ["(2a-5)(2a+5)", "(4a-5)(4a+5)", "(a-5)(a+2)", "(2a-5)^2"],
-      "answer": "(2a-5)(2a+5)"
+      "question": "The figures of speech that involves using one to represent a whole is known as",
+      "options": [
+        "hyperbole",
+        "oxymoron",
+        "Euphemism",
+        "synecdoche"
+      ],
+      "answer": "synecdoche"
     },
     {
       "number": 7,
-      "question": "Solve for x if (4x-3)/9 - x/3 = 5(x-1)/6",
-      "options": ["12", "9/13", "1/2", "1/3"],
-      "answer": "9/13"
+      "question": "“Sweet poison” is an example of which figure of speech",
+      "options": [
+        "porn",
+        "balled",
+        "onomatopoeia",
+        "oxymoron"
+      ],
+      "answer": "oxymoron"
     },
     {
       "number": 8,
-      "question": "In a poultry, the average number of eggs laid daily by a layer is 1. If 20 crates of eggs are gathered in a day, how many layers are in the poultry?",
-      "options": ["300", "350", "500", "600"],
-      "answer": "600"
-    }
-    ]
-},
-    {
-      "instruction": "Use the information below to answer questions 9 – 12. The pie chart shows the amount Mrs. Cherish gave to her three sons for the month of October.",
-      "questions": [
+      "question": "“He is as dark as a charcoal” is an example of",
+      "options": [
+        "simile",
+        "metaphor",
+        "oxymoron",
+        "assonance"
+      ],
+      "answer": "simile"
+    },
     {
       "number": 9,
-      "question": "Find the sectoral angle representing the first son’s money",
-      "options": ["200", "600", "1620", "1800"],
-      "answer": "1620",
-      "image": "/images/pie.png"
-      
+      "question": "“The hissing of the snake” is an example of",
+      "options": [
+        "antithesis",
+        "assonance",
+        "onomatopoeia",
+        ""
+      ],
+      "answer": "onomatopoeia"
     },
     {
       "number": 10,
-      "question": "Find the sectoral angle representing the third son’s money",
-      "options": ["800", "980", "1200", "1900"],
-      "answer": "980",
-      "image": "/images/pie.png"
+      "question": "One of the following is not among the features of prose",
+      "options": [
+        "it is written in chapters",
+        "it is written is a serial language",
+        "it has a theme",
+        "it has a lot of characters"
+      ],
+      "answer": "it has a lot of characters"
     },
     {
       "number": 11,
-      "question": "Find the percentage representing the second son’s money, correct to one decimal place.",
-      "options": ["50.0", "27.8", "25.0", "20.5"],
-      "answer": "27.8",
-      "image": "/images/pie.png"
+      "question": "“Father Frances, fried five fishes” is an example of",
+      "options": [
+        "assonance",
+        "alliteration",
+        "vowel",
+        "consonant"
+      ],
+      "answer": "alliteration"
     },
     {
       "number": 12,
-      "question": "Calculate the percentage respectively the first son’s money.",
-      "options": ["20", "30", "45", "500"],
-      "answer": "30",
-      "image": "/images/pie.png"
-    }
-  ]
-},
-{
-      "instruction": "Answer the question by choosing the correct option.",
-      "questions": [
+      "question": "A folk traditional poem that is meant to be sung is known as",
+      "options": [
+        "ballad",
+        "ode",
+        "parody",
+        "pastoral poem"
+      ],
+      "answer": "ballad"
+    },
     {
       "number": 13,
-      "question": "Find the mode of the following set of numbers: 6,8,6,4,8,7,5,6,10",
-      "options": ["4", "5", "6", "7"],
-      "answer": "6"
+      "question": "The underlying central message in a work of art is called",
+      "options": [
+        "didactic",
+        "setting",
+        "mood",
+        "theme"
+      ],
+      "answer": "theme"
     },
     {
       "number": 14,
-      "question": "Factorise x^2+x-2",
-      "options": ["(x-2)(x-3)", "(x-1)(x-2)", "(x-1)(x+2)", "(x+1)(x+2)"],
-      "answer": "(x-1)(x+2)"
+      "question": "The first eight lines of patrician sonnet is called",
+      "options": [
+        "tarcet",
+        "octave",
+        "sestet",
+        "quatrain"
+      ],
+      "answer": "octave"
     },
     {
       "number": 15,
-      "question": "Find the median of the following set of numbers: 25, 30,22,24,29,31,26,25,30",
-      "options": ["22", "24", "25", "26"],
-      "answer": "26"
+      "question": "Rhyming words have",
+      "options": [
+        "similar spelling",
+        "sound alike",
+        "one parallel lines",
+        "convey meaning"
+      ],
+      "answer": "sound alike"
     },
     {
       "number": 16,
-      "question": "Which of the following cannot be used to represent data?",
-      "options": ["bar chart", "frequency table", "mean", "pictogram"],
-      "answer": "mean"
+      "question": "One of the following is not an element of poetry",
+      "options": [
+        "elergy",
+        "quatrain",
+        "mood",
+        "refrain"
+      ],
+      "answer": "elergy"
     },
     {
       "number": 17,
-      "question": "The average of the numbers 12,40, x, 60 and 20 is 36. Find the value of x.",
-      "options": ["28", "33", "36", "48"],
-      "answer": "48"
+      "question": "The last six line of petrarchan sonnet is called",
+      "options": [
+        "octave",
+        "textset",
+        "sestet",
+        "none"
+      ],
+      "answer": "sestet"
     },
     {
       "number": 18,
-      "question": "Find the range of the following set of numbers: 7,2,3,9,5,6,7,12,11,17",
-      "options": ["15", "11", "9", "5"],
-      "answer": "15"
+      "question": "A piece of information supplied at the beginning of a literary work is ______",
+      "options": [
+        "epilogue",
+        "postscript",
+        "prologue",
+        "monologue"
+      ],
+      "answer": "prologue"
     },
     {
       "number": 19,
-      "question": "Find the product of the median and the range of the following set of numbers: 3,7,5,4,3,2,6,2",
-      "options": ["5.5", "15.6", "17.5", "25.5"],
-      "answer": "17.5"
-    }
-     ]
-},
-    {
-      "instruction": "The table below shows the distribution of marks in a mathematics test. Use the information to answer questions 20 and 21",
-      "questions": [
+      "question": "“Death be not proud” illustrates",
+      "options": [
+        "alliteration",
+        "parable",
+        "personification",
+        "oxymoron"
+      ],
+      "answer": "personification"
+    },
     {
       "number": 20,
-      "question": "How many students wrote the test?",
-      "options": ["35", "43", "45", "50"],
-      "answer": "45",
-      "image": "/images/chart.png"
+      "question": "One of the following is regarded as one of the oldest poetic forms in English",
+      "options": [
+        "pastoral poem",
+        "ballad",
+        "sonnet",
+        "ode"
+      ],
+      "answer": "ballad"
     },
     {
       "number": 21,
-      "question": "If the pass mark is 6, how many students passed the test?",
-      "options": ["33", "15", "12", "10"],
-      "answer": "12",
-      "image": "/images/chart.png"
-    }
-     ]
-},
-{
-      "instruction": "Answer the question by choosing the correct option.",
-      "questions": [
+      "question": "A poem that is sung with the accompaniment of an instrument is called ____",
+      "options": [
+        "lyric",
+        "ballad",
+        "sonnet",
+        "ode"
+      ],
+      "answer": "lyric"
+    },
     {
       "number": 22,
-      "question": "Evaluate 110_two × 101_two",
-      "options": ["10110_two", "11001_two", "11100_two", "11110_two"],
-      "answer": "11110_two"
+      "question": "“Beowulf” is an example of ______",
+      "options": [
+        "ballad",
+        "ode",
+        "quatrain",
+        "epic"
+      ],
+      "answer": "epic"
     },
     {
       "number": 23,
-      "question": "Find the simple interest on N20,000.00 for 3 years at 5% per annum",
-      "options": ["N3,000.00", "N3,500.00", "N4,000.00", "N4,200.00"],
-      "answer": "N3,000.00"
+      "question": "The word “ode” is derived from",
+      "options": [
+        "Latin",
+        "French",
+        "Arabic",
+        "Greek"
+      ],
+      "answer": "Greek"
     },
     {
       "number": 24,
-      "question": "Find the value of cos 45° (use tables)",
-      "options": ["0.5736", "0.7071", "1.7586", "1.8452"],
-      "answer": "0.7071"
+      "question": "A person who writes a poem is called",
+      "options": [
+        "dramatist",
+        "poet",
+        "novelist",
+        "prosiest"
+      ],
+      "answer": "poet"
     },
     {
       "number": 25,
-      "question": "Find the value of tan 35° (use tables)",
-      "options": ["1.8452", "0.8192", "0.7002", "0.5732"],
-      "answer": "0.8192"
+      "question": "Through literature, we can achieve the following except",
+      "options": [
+        "you can predict your future",
+        "you gain a lot of experiences",
+        "you learn about your peoples culture",
+        "none"
+      ],
+      "answer": "you can predict your future"
     },
     {
       "number": 26,
-      "question": "Convert 1111_two to denary",
-      "options": ["15", "14", "13", "12"],
-      "answer": "15"
+      "question": "Literature is imaginative means",
+      "options": [
+        "it has ability to form pictures or ideas in one’s mind",
+        "it was oral, then written",
+        "it passes from generation to generation",
+        "It gives life"
+      ],
+      "answer": "it has ability to form pictures or ideas in one’s mind"
     },
     {
       "number": 27,
-      "question": "Subtract 111_two from 1110_two",
-      "options": ["11_two", "101_two", "110_two", "111_two"],
-      "answer": "101_two"
+      "question": "An account of someone written by him is called",
+      "options": [
+        "autobiography",
+        "gothic",
+        "biography",
+        "memoir"
+      ],
+      "answer": "autobiography"
     },
     {
       "number": 28,
-      "question": "Find the interest on N40,000.00 for 2 years at 20% per annum compound interest.",
-      "options": ["N8,000.00", "N9,600.00", "N17,600.00", "N49,600.00"],
-      "answer": "N17,600.00"
+      "question": "Pick out the odd item",
+      "options": [
+        "atmosphere",
+        "stanza",
+        "epic",
+        "verse"
+      ],
+      "answer": "epic"
     },
     {
       "number": 29,
-      "question": "Factorise ef+df-dg-eg",
-      "options": ["(e-d)(f+g)", "(e-d)(f-g)", "(e+d)(f-g)", "(e+d)(f+g)"],
-      "answer": "(e-d)(f+g)"
+      "question": "One of these is defined as a psychological background running through a poem",
+      "options": [
+        "canto",
+        "imagery",
+        "rhyme",
+        "rhythm"
+      ],
+      "answer": "imagery"
     },
     {
       "number": 30,
-      "question": "Expand: -3x(-4p+7n)",
-      "options": ["12xp+21xn", "12xp-21xn", "12xp-10xp", "-12xp-21xn"],
-      "answer": "12xp-21xn"
+      "question": "The lessons derived from a poem is called",
+      "options": [
+        "tone",
+        "subject matter",
+        "theme",
+        "refrain"
+      ],
+      "answer": "subject matter"
     },
     {
       "number": 31,
-      "question": "Simplify (x+1)(x-1)+2x^2",
-      "options": ["2x^2-1", "2x^2+1", "3x^2-1", "3x^2+1"],
-      "answer": "3x^2-1"
+      "question": "A poem that expresses sadness and grief is called",
+      "options": [
+        "dirge",
+        "melancholy",
+        "panegyric",
+        "limerick"
+      ],
+      "answer": "dirge"
     },
     {
       "number": 32,
-      "question": "If 45 is added to a certain number and the result is divided by 9, the quotient is 8. What is the number?",
-      "options": ["12", "19", "25", "27"],
-      "answer": "27"
+      "question": "A poem that revolves around the simplistic charm of rural people is called",
+      "options": [
+        "ode",
+        "pastoral poem",
+        "ballad",
+        "narrative poem"
+      ],
+      "answer": "pastoral poem"
     },
     {
       "number": 33,
-      "question": "Factorise 32x^2 y-8yz^2",
-      "options": ["8y(2x-z)", "8y(2x+z)", "8y(2x-z)(2x+z)", "8y(2x+z)(2x+z)"],
-      "answer": "8y(2x-z)"
+      "question": "Poetry employs the following except",
+      "options": [
+        "emotine language",
+        "memoir",
+        "rhythm",
+        "metre"
+      ],
+      "answer": "memoir"
     },
     {
       "number": 34,
-      "question": "Solve the equation 8/4 (x-2) = 1/10",
-      "options": ["10", "18", "20", "22"],
-      "answer": "22"
+      "question": "A poem used to lure babies to sleep is called",
+      "options": [
+        "Elegy",
+        "idyll",
+        "ode",
+        "lullaby"
+      ],
+      "answer": "lullaby"
     },
     {
       "number": 35,
-      "question": "Expand (n+5)(n-4)",
-      "options": ["n^2+n+20", "n^2+n-20", "n^2-9n-20", "n^2-n-20"],
-      "answer": "n^2-n-20"
+      "question": "The geographical location of any literary work is known as ______",
+      "options": [
+        "plot",
+        "setting",
+        "characterization",
+        "style"
+      ],
+      "answer": "setting"
     },
     {
       "number": 36,
-      "question": "Solve the equation (5p-4)/3 = p+2",
-      "options": ["2", "3", "4", "5"],
-      "answer": "5"
+      "question": "The above literary work was first published in",
+      "options": [
+        "2023",
+        "2021",
+        "2003",
+        "2022"
+      ],
+      "answer": "2021"
     },
     {
       "number": 37,
-      "question": "Solve 2/(y-3) = 4/(3y+5)",
-      "options": ["-22", "-11", "-2", "2"],
-      "answer": "-11"
+      "question": "The novel was set in the fictional village of ______",
+      "options": [
+        "Akra",
+        "Aboli",
+        "Akamu",
+        "Dabara"
+      ],
+      "answer": "Akamu"
     },
     {
       "number": 38,
-      "question": "If 12 is the mean of the following set of numbers: 12,10, x, 8,10, find the value of x",
-      "options": ["12", "15", "20", "40"],
-      "answer": "20"
+      "question": "“The Clock” tells a story of a/an _______",
+      "options": [
+        "aborted dream",
+        "fulfill dream",
+        "anticipating dream",
+        "none of the above"
+      ],
+      "answer": "aborted dream"
     },
     {
       "number": 39,
-      "question": "Solve the equation 1/(a-5) = 1/5",
-      "options": ["5", "7", "10", "15"],
-      "answer": "10"
+      "question": "Before Mama’s disappearance, she meant to teach the people about",
+      "options": [
+        "the clock",
+        "gender equality",
+        "sex",
+        "change"
+      ],
+      "answer": "gender equality"
     },
     {
       "number": 40,
-      "question": "How many students scored 58 or more? (given scores list)",
-      "options": ["5", "8", "13", "15"],
-      "answer": "13"
+      "question": "Akamu Community was famous for Mama’s",
+      "options": [
+        "legendary",
+        "agricultural production",
+        "story telling",
+        "quest"
+      ],
+      "answer": "story telling"
     },
     {
       "number": 41,
-      "question": "What is the range? (given scores list)",
-      "options": ["19", "29", "39", "51"],
-      "answer": "19"
+      "question": "The local calendar of Akamu community is _____ days in a week",
+      "options": [
+        "four",
+        "six",
+        "seven",
+        "two"
+      ],
+      "answer": "four"
     },
     {
       "number": 42,
-      "question": "If 60 is the pass mark, how many students failed? (given scores list)",
-      "options": ["5", "6", "7", "8"],
-      "answer": "8"
+      "question": "Dr. Nkechi is _____ to Mgbafor?",
+      "options": [
+        "school daughter",
+        "school mate",
+        "school friend",
+        "school benefactor"
+      ],
+      "answer": "school daughter"
     },
     {
       "number": 43,
-      "question": "Find the difference between the range and the mean of the given set of numbers: 2,4,6,8,9,10,11,14",
-      "options": ["2", "4", "8", "11"],
-      "answer": "4"
+      "question": "The storyline revolves around",
+      "options": [
+        "Mama Nwankwo",
+        "Dr. Nkechi",
+        "Mgbafor",
+        "Dr. Nkiru"
+      ],
+      "answer": "Mama Nwankwo"
     },
     {
       "number": 44,
-      "question": "If N200,000.00 is saved at simple interest of 5% per annum, calculate the total amount after 4 years.",
-      "options": ["N40,000.00", "N210,000.00", "N240,000.00", "N300,000.00"],
-      "answer": "N240,000.00"
+      "question": "The story is written by _____.",
+      "options": [
+        "Samson O. Shobago",
+        "ChigboUgwuoke",
+        "NgoziChimaUzosike",
+        "ChimaUzosike"
+      ],
+      "answer": "NgoziChimaUzosike"
     },
     {
       "number": 45,
-      "question": "Express 42_seven in base ten",
-      "options": ["12", "18", "24", "30"],
-      "answer": "30"
+      "question": "Mama Nwankwo was diagnosed of _____.",
+      "options": [
+        "acute malaria",
+        "hypertension",
+        "fever",
+        "HIV"
+      ],
+      "answer": "hypertension"
     },
     {
       "number": 46,
-      "question": "Which of the following fractions is a recurring decimal?",
-      "options": ["1/10", "1/5", "1/4", "1/3"],
-      "answer": "1/3"
+      "question": "The FFF received the grant of ______",
+      "options": [
+        "ten million dollars",
+        "hundred million naira",
+        "five million naira",
+        "ten million naira"
+      ],
+      "answer": "hundred million naira"
     },
     {
       "number": 47,
-      "question": "Subtract 11 from 111 in base two",
-      "options": ["100_two", "1001_two", "1010_two", "1100_two"],
-      "answer": "100_two"
+      "question": "The best friend of Mama Nwankwo is ______",
+      "options": [
+        "Nkechi",
+        "Mgbafor",
+        "Isaac",
+        "Nkiru"
+      ],
+      "answer": "Mgbafor"
     },
     {
       "number": 48,
-      "question": "Multiply 110_two by 11_two",
-      "options": ["1101_two", "1110_two", "1111_two", "10010_two"],
-      "answer": "10010_two"
+      "question": "The title “The Legend I” was given to ________",
+      "options": [
+        "Dr. Nkechi",
+        "Dr. Nkiru",
+        "Mama Nwankwo",
+        "Mgbafor"
+      ],
+      "answer": "Mama Nwankwo"
     },
     {
       "number": 49,
-      "question": "Expand (2x+3)^2",
-      "options": ["4x^2+12x+9", "4x^2+6x+9", "x^2+6x+9", "4x^2+9"],
-      "answer": "4x^2+12x+9"
+      "question": "\"So I’ve been creating my destiny by what I thought was mere fun.\" — Who made the above statement?",
+      "options": [
+        "Joy",
+        "Mgbafor",
+        "Mama Nwankwo",
+        "Dr. Nkechi"
+      ],
+      "answer": "Mama Nwankwo"
     },
     {
       "number": 50,
-      "question": "Factorise: 1/2 x^2 y^2 - 1/2 xy^2",
-      "options": ["1/2 xy(x^2 - 1/2 y)", "1/2 xy^2 (x-1)", "1/2 xy(y-x)", "x^2 y^2 (1/2 - xy)"],
-      "answer": "1/2 xy^2 (x-1)"
-   }
+      "question": "Where was the speaker?",
+      "options": [
+        "at the market",
+        "at home",
+        "hospital",
+        "church"
+      ],
+      "answer": "hospital"
+    }
   ]
-}
-
-]
 
 
