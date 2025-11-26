@@ -1,5 +1,8 @@
 [
     {
+      "instruction": "Answerthe following questions",
+      "questions": [
+  {
       "number": 1,
       "question": "The device in which writers use in telling his story is _______",
       "options": [
@@ -94,7 +97,7 @@
         "antithesis",
         "assonance",
         "onomatopoeia",
-        ""
+        "Metonymy"
       ],
       "answer": "onomatopoeia"
     },
@@ -383,8 +386,14 @@
         "style"
       ],
       "answer": "setting"
-    },
-    {
+    }
+  ]
+},
+    
+      {
+      "instruction": "Questions from THE CLOCK",
+      "questions": [
+{
       "number": 36,
       "question": "The above literary work was first published in",
       "options": [
@@ -526,7 +535,12 @@
         "Mgbafor"
       ],
       "answer": "Mama Nwankwo"
-    },
+    }
+  ]
+},
+{
+      "instruction": "Answer the following question",
+      "questions": [
     {
       "number": 49,
       "question": "\"So I’ve been creating my destiny by what I thought was mere fun.\" — Who made the above statement?",
@@ -549,6 +563,8 @@
       ],
       "answer": "hospital"
     }
+  ]
+}
   ]
 
 

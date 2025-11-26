@@ -47,27 +47,27 @@ const [hasStarted, setHasStarted] = useState(false);
 
 
 // Use this for instructional questions where the questions needs to be chosen from a particular number to another number
-// useEffect(() => {
-//   const flattenedQuestions = [];
+useEffect(() => {
+  const flattenedQuestions = [];
 
-//   questionsData.forEach((group) => {
-//     const instruction = group.instruction;
-//     group.questions.forEach((question) => {
-//       flattenedQuestions.push({
-//         ...question,
-//         instruction,
-//         options: question.options, // Keep options in original order
+  questionsData.forEach((group) => {
+    const instruction = group.instruction;
+    group.questions.forEach((question) => {
+      flattenedQuestions.push({
+        ...question,
+        instruction,
+        options: question.options, // Keep options in original order
 
-//         // To shuffle the options use this
-//         // options: shuffleArray(question.options), 
-//         // shuffle options ends here
+        // To shuffle the options use this
+        // options: shuffleArray(question.options), 
+        // shuffle options ends here
 
-//       });
-//     });
-//   });
+      });
+    });
+  });
 
-//   setQuestions(flattenedQuestions); // Keep questions in original order
-// }, []);
+  setQuestions(flattenedQuestions); // Keep questions in original order
+}, []);
 
 
 // instructional questions ends here
@@ -248,7 +248,7 @@ if (!hasStarted) {
         <>
         <p className="text-1xl text-green-800 -mb-2  text-center"><span className="font-medium">{studentName}</span></p>
           
-          <Timer duration={2100} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
+          <Timer duration={1800} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
           {questions.length > 0 && (
             <Question
               questionObj={questions[currentQIndex]}
@@ -296,7 +296,7 @@ if (!hasStarted) {
 
 {/* This portion shows the result after submission */}
 
-{showScore && (
+{/* {showScore && (
   <div className="text-center mt-6">
     <h3 className="text-xl font-semibold mt-6 mb-2">Review:</h3>
     <div className="space-y-4 text-left mt-4">
@@ -314,7 +314,7 @@ if (!hasStarted) {
       })}
     </div>
   </div>
-)}
+)} */}
 
 
 </div>
