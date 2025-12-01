@@ -1,570 +1,552 @@
 [
     {
-      "instruction": "Answer the following questions",
-      "questions": [
-  {
       "number": 1,
-      "question": "The device in which writers use in telling his story is _______",
+      "question": "The art and science that deals with the cultivation of crops and rearing of animal for man use is referred as ______.",
       "options": [
-        "Narrative technique",
-        "setting",
-        "style",
-        "dramatic technique"
+        "crop production",
+        "apiculture",
+        "agriculture",
+        "animal science"
       ],
-      "answer": "Narrative technique"
+      "answer": "agriculture"
     },
     {
       "number": 2,
-      "question": "Beauty in poetry depends mainly on",
+      "question": "______ is not a branch of agriculture.",
       "options": [
-        "expression and rhythm",
-        "length and theme",
-        "vowels and consonants",
-        "mood and verse form"
+        "Soil fertility",
+        "Crop production",
+        "Animal science",
+        "None of the above"
       ],
-      "answer": "expression and rhythm"
+      "answer": "Soil fertility"
     },
     {
       "number": 3,
-      "question": "A poem of fourteen lines is known as ______",
+      "question": "The branch of agriculture that ensures efficient and effective management of farm animal is",
       "options": [
-        "sonnet",
-        "satire",
-        "lyric",
-        "epic"
+        "veterinary medicine",
+        "animal science",
+        "soil science",
+        "none of the above"
       ],
-      "answer": "sonnet"
+      "answer": "animal science"
     },
     {
       "number": 4,
-      "question": "A long narrative poem associated with the deeds of great people is",
+      "question": "Agriculture involves the sales of produce from agriculture.",
       "options": [
-        "satire",
-        "epic",
-        "lyric",
-        "sonnet"
+        "True",
+        "False",
+        "Most time",
+        "At times"
       ],
-      "answer": "epic"
+      "answer": "False"
     },
     {
       "number": 5,
-      "question": "A poem that addresses a person or a thing for a specific purpose is known as",
+      "question": "Which of these is not a branch of agricultural ecology?",
       "options": [
-        "ballad",
-        "ode",
-        "epic",
-        "pastoral poem"
+        "Autecology",
+        "Autotropism",
+        "Syncology",
+        "None of the above"
       ],
-      "answer": "ode"
+      "answer": "Autecology"
     },
     {
       "number": 6,
-      "question": "The figures of speech that involves using one to represent a whole is known as",
+      "question": "The degree formed by the government of Nigeria on land use is called _______.",
       "options": [
-        "hyperbole",
-        "oxymoron",
-        "Euphemism",
-        "synecdoche"
+        "land use decree of 1978",
+        "land use act of 1978",
+        "use land act of 1978",
+        "none of the above"
       ],
-      "answer": "synecdoche"
+      "answer": "land use act of 1978"
     },
     {
       "number": 7,
-      "question": "“Sweet poison” is an example of which figure of speech",
+      "question": "One of these is an objective of agriculture programmes",
       "options": [
-        "porn",
-        "balled",
-        "onomatopoeia",
-        "oxymoron"
+        "agricultural loan scheme",
+        "green revolution",
+        "agricultural scheme loan",
+        "none of the above"
       ],
-      "answer": "oxymoron"
+      "answer": "green revolution"
     },
     {
       "number": 8,
-      "question": "“He is as dark as a charcoal” is an example of",
+      "question": "The type of agriculture in which a farmer cultivates crops and rears animals for himself is referred to as _______.",
       "options": [
-        "simile",
-        "metaphor",
-        "oxymoron",
-        "assonance"
+        "subsistence agriculture",
+        "agriculture subsistence crop",
+        "commercial agriculture",
+        "specialization agriculture"
       ],
-      "answer": "simile"
+      "answer": "subsistence agriculture"
     },
     {
       "number": 9,
-      "question": "“The hissing of the snake” is an example of",
+      "question": "Which of these provides honey for local consumption?",
       "options": [
-        "antithesis",
-        "assonance",
-        "onomatopoeia",
-        "Metonymy"
+        "Heliculture",
+        "Fishery",
+        "Apiculture",
+        "Snailry"
       ],
-      "answer": "onomatopoeia"
+      "answer": "Heliculture"
     },
     {
       "number": 10,
-      "question": "One of the following is not among the features of prose",
+      "question": "_____ promotes agricultural marketing.",
       "options": [
-        "it is written in chapters",
-        "it is written is a serial language",
-        "it has a theme",
-        "it has a lot of characters"
+        "agricultural engineering",
+        "agricultural economics",
+        "crop production",
+        "animal production"
       ],
-      "answer": "it has a lot of characters"
+      "answer": "agricultural economics"
     },
     {
       "number": 11,
-      "question": "“Father Frances, fried five fishes” is an example of",
+      "question": "The early man use _____ tools in farming",
       "options": [
-        "assonance",
-        "alliteration",
-        "vowel",
-        "consonant"
+        "primitive",
+        "crude",
+        "ancient",
+        "old"
       ],
-      "answer": "alliteration"
+      "answer": "primitive"
     },
     {
       "number": 12,
-      "question": "A folk traditional poem that is meant to be sung is known as",
+      "question": "The term agriculture was derived from the Latin word ______ and ______.",
       "options": [
-        "ballad",
-        "ode",
-        "parody",
-        "pastoral poem"
+        "anger and toil",
+        "anger and field",
+        "ager and cultura",
+        "ager and culture"
       ],
-      "answer": "ballad"
+      "answer": "ager and cultura"
     },
     {
       "number": 13,
-      "question": "The underlying central message in a work of art is called",
+      "question": "Which of the following is the foremost concern of the early man?",
       "options": [
-        "didactic",
-        "setting",
-        "mood",
-        "theme"
+        "Shelter",
+        "Food",
+        "Clothing",
+        "Planting"
       ],
-      "answer": "theme"
+      "answer": "Food"
     },
     {
       "number": 14,
-      "question": "The first eight lines of patrician sonnet is called",
+      "question": "The form of agriculture that deals with the production of vegetables, fruits, cereals, oil crops etc. is",
       "options": [
-        "tarcet",
-        "octave",
-        "sestet",
-        "quatrain"
+        "horticulture",
+        "heliculture",
+        "crop farming",
+        "olericulture"
       ],
-      "answer": "octave"
+      "answer": "horticulture"
     },
     {
       "number": 15,
-      "question": "Rhyming words have",
+      "question": "Horticulture is the study that includes _____.",
       "options": [
-        "similar spelling",
-        "sound alike",
-        "one parallel lines",
-        "convey meaning"
+        "fruits, vegetables and flowers",
+        "all food crops",
+        "vegetables, gardens and lawns near hotels only",
+        "some bush apples"
       ],
-      "answer": "sound alike"
+      "answer": "fruits, vegetables and flowers"
     },
     {
       "number": 16,
-      "question": "One of the following is not an element of poetry",
+      "question": "The word agriculture is derived from ____.",
       "options": [
-        "elergy",
-        "quatrain",
-        "mood",
-        "refrain"
+        "Greek",
+        "Latin",
+        "Arabic",
+        "French"
       ],
-      "answer": "elergy"
+      "answer": "Latin"
     },
     {
       "number": 17,
-      "question": "The last six line of petrarchan sonnet is called",
+      "question": "The early man engaged in hunting and gathering in order to ______.",
       "options": [
-        "octave",
-        "textset",
-        "sestet",
-        "none"
+        "feed himself",
+        "feed his animals",
+        "generate income",
+        "produce export crops"
       ],
-      "answer": "sestet"
+      "answer": "feed himself"
     },
     {
       "number": 18,
-      "question": "A piece of information supplied at the beginning of a literary work is ______",
+      "question": "The practice of growing different crops on the same farmland is called",
       "options": [
-        "epilogue",
-        "postscript",
-        "prologue",
-        "monologue"
+        "arable farming",
+        "mixed cropping",
+        "mono cropping",
+        "pastoral farming"
       ],
-      "answer": "prologue"
+      "answer": "mixed cropping"
     },
     {
       "number": 19,
-      "question": "“Death be not proud” illustrates",
+      "question": "Which of these crops is a monocotyledonous plant?",
       "options": [
-        "alliteration",
-        "parable",
-        "personification",
-        "oxymoron"
+        "Banana",
+        "Carrot",
+        "Groundnut",
+        "Kola nut"
       ],
-      "answer": "personification"
+      "answer": "Banana"
     },
     {
       "number": 20,
-      "question": "One of the following is regarded as one of the oldest poetic forms in English",
+      "question": "Which of the following animal is used for race?",
       "options": [
-        "pastoral poem",
-        "ballad",
-        "sonnet",
-        "ode"
+        "Camel",
+        "Cattle",
+        "Goat",
+        "Horse"
       ],
-      "answer": "ballad"
+      "answer": "Horse"
     },
     {
       "number": 21,
-      "question": "A poem that is sung with the accompaniment of an instrument is called ____",
+      "question": "Animals that live in water are called _____.",
       "options": [
-        "lyric",
-        "ballad",
-        "sonnet",
-        "ode"
+        "arboreal",
+        "aquatic",
+        "domestic",
+        "terrestrial"
       ],
-      "answer": "lyric"
+      "answer": "aquatic"
     },
     {
       "number": 22,
-      "question": "“Beowulf” is an example of ______",
+      "question": "Which of the following forms of agriculture deals with the keeping of bees?",
       "options": [
-        "ballad",
-        "ode",
-        "quatrain",
-        "epic"
+        "Apiculture",
+        "Aquaculture",
+        "Horticulture",
+        "Olericulture"
       ],
-      "answer": "epic"
+      "answer": "Apiculture"
     },
     {
       "number": 23,
-      "question": "The word “ode” is derived from",
+      "question": "A dicotyledonous plant possesses",
       "options": [
-        "Latin",
-        "French",
-        "Arabic",
-        "Greek"
+        "fibrous root system",
+        "long leaf petiole",
+        "narrow leaf stalk",
+        "one seed leaf"
       ],
-      "answer": "Greek"
+      "answer": "long leaf petiole"
     },
     {
       "number": 24,
-      "question": "A person who writes a poem is called",
+      "question": "The movement of Fulani herdsmen and their animals from one place to another for survival is termed _____ forming.",
       "options": [
-        "dramatist",
-        "poet",
-        "novelist",
-        "prosiest"
+        "alley",
+        "ley",
+        "nomadic",
+        "mixed"
       ],
-      "answer": "poet"
+      "answer": "nomadic"
     },
     {
       "number": 25,
-      "question": "Through literature, we can achieve the following except",
+      "question": "Which of the following crops is a biennial crop?",
       "options": [
-        "you can predict your future",
-        "you gain a lot of experiences",
-        "you learn about your peoples culture",
-        "none"
+        "Carrot",
+        "Cucumber",
+        "Lettuce",
+        "Tomatoes"
       ],
-      "answer": "you can predict your future"
+      "answer": "Carrot"
     },
     {
       "number": 26,
-      "question": "Literature is imaginative means",
+      "question": "Which of these is an industrial raw material?",
       "options": [
-        "it has ability to form pictures or ideas in one’s mind",
-        "it was oral, then written",
-        "it passes from generation to generation",
-        "It gives life"
+        "Chocolate",
+        "Cotton",
+        "Margarine",
+        "Paper"
       ],
-      "answer": "it has ability to form pictures or ideas in one’s mind"
+      "answer": "Cotton"
     },
     {
       "number": 27,
-      "question": "An account of someone written by him is called",
+      "question": "Rabbits are referred to as “non-ruminants” because they",
       "options": [
-        "autobiography",
-        "gothic",
-        "biography",
-        "memoir"
+        "are relatively small in size",
+        "give birth to their young ones alive",
+        "have simple stomach type",
+        "live and produce on land"
       ],
-      "answer": "autobiography"
+      "answer": "have simple stomach type"
     },
     {
       "number": 28,
-      "question": "Pick out the odd item",
+      "question": "The meat from goat is known as ______.",
       "options": [
-        "atmosphere",
-        "stanza",
-        "epic",
-        "verse"
+        "bacon",
+        "beef",
+        "chevon",
+        "pork"
       ],
-      "answer": "epic"
+      "answer": "chevon"
     },
     {
       "number": 29,
-      "question": "One of these is defined as a psychological background running through a poem",
+      "question": "Agriculture can best be defined as the",
       "options": [
-        "canto",
-        "imagery",
-        "rhyme",
-        "rhythm"
+        "art and science of crop cultivation",
+        "production of crops and animals for man’s use",
+        "collection of fruits and planting of crop",
+        "art and science of rearing of animals for man’s use"
       ],
-      "answer": "imagery"
+      "answer": "production of crops and animals for man’s use"
     },
     {
       "number": 30,
-      "question": "The lessons derived from a poem is called",
+      "question": "Agriculture started with man being a ____ and ____.",
       "options": [
-        "tone",
-        "subject matter",
-        "theme",
-        "refrain"
+        "crop producer, rearer of animals",
+        "fruit gatherer, hunter of animals",
+        "forest raider, seller of animals",
+        "tiller of land, herder of animals"
       ],
-      "answer": "subject matter"
+      "answer": "fruit gatherer, hunter of animals"
     },
     {
       "number": 31,
-      "question": "A poem that expresses sadness and grief is called",
+      "question": "When a man engages in agriculture as a means of livelihood, he will have the following in abundance except",
       "options": [
-        "dirge",
-        "melancholy",
-        "panegyric",
-        "limerick"
+        "fruit",
+        "meat",
+        "milk",
+        "salt"
       ],
-      "answer": "dirge"
+      "answer": "salt"
     },
     {
       "number": 32,
-      "question": "A poem that revolves around the simplistic charm of rural people is called",
+      "question": "The following are forms of agriculture except",
       "options": [
-        "ode",
-        "pastoral poem",
-        "ballad",
-        "narrative poem"
+        "apiculture",
+        "crop farming",
+        "livestock farming",
+        "mixed farming"
       ],
-      "answer": "pastoral poem"
+      "answer": "apiculture"
     },
     {
       "number": 33,
-      "question": "Poetry employs the following except",
+      "question": "Science and technology is applied in the following areas of agriculture except",
       "options": [
-        "emotine language",
-        "memoir",
-        "rhythm",
-        "metre"
+        "development of agricultural policies",
+        "increasing crop yield",
+        "pest and disease control",
+        "reduction of unskilled labour"
       ],
-      "answer": "memoir"
+      "answer": "increasing crop yield"
     },
     {
       "number": 34,
-      "question": "A poem used to lure babies to sleep is called",
+      "question": "The following are cereal crops except",
       "options": [
-        "Elegy",
-        "idyll",
-        "ode",
-        "lullaby"
+        "cowpea",
+        "maize",
+        "millet",
+        "wheat"
       ],
-      "answer": "lullaby"
+      "answer": "cowpea"
     },
     {
       "number": 35,
-      "question": "The geographical location of any literary work is known as ______",
+      "question": "The following are perennial crops except",
       "options": [
-        "plot",
-        "setting",
-        "characterization",
-        "style"
+        "citrus",
+        "pawpaw",
+        "oil palm",
+        "sugar cane"
       ],
-      "answer": "setting"
-    }
-  ]
-},
-    
-      {
-      "instruction": "Questions from THE CLOCK",
-      "questions": [
-{
+      "answer": "sugar cane"
+    },
+    {
       "number": 36,
-      "question": "The above literary work was first published in",
+      "question": "An example of mammal is ______.",
       "options": [
-        "2023",
-        "2021",
-        "2003",
-        "2022"
+        "fish",
+        "snail",
+        "pig",
+        "toad"
       ],
-      "answer": "2021"
+      "answer": "pig"
     },
     {
       "number": 37,
-      "question": "The novel was set in the fictional village of ______",
+      "question": "Farm animals can be used for the following farm operations except",
       "options": [
-        "Akra",
-        "Aboli",
-        "Akamu",
-        "Dabara"
+        "harrowing",
+        "harvesting",
+        "ploughing",
+        "transport"
       ],
-      "answer": "Akamu"
+      "answer": "harvesting"
     },
     {
       "number": 38,
-      "question": "“The Clock” tells a story of a/an _______",
+      "question": "The early men engaged in the following agricultural practice except",
       "options": [
-        "aborted dream",
-        "fulfill dream",
-        "anticipating dream",
-        "none of the above"
+        "commercial farming",
+        "hunting of game",
+        "fruit gathering",
+        "subsistence farming"
       ],
-      "answer": "aborted dream"
+      "answer": "commercial farming"
     },
     {
       "number": 39,
-      "question": "Before Mama’s disappearance, she meant to teach the people about",
+      "question": "Agriculture provided employment for the following individuals except",
       "options": [
-        "the clock",
-        "gender equality",
-        "sex",
-        "change"
+        "coal miners",
+        "extension agent",
+        "farm workers",
+        "school teachers"
       ],
-      "answer": "gender equality"
+      "answer": "school teachers"
     },
     {
       "number": 40,
-      "question": "Akamu Community was famous for Mama’s",
+      "question": "Which of the following is an annual crop?",
       "options": [
-        "legendary",
-        "agricultural production",
-        "story telling",
-        "quest"
+        "Carrot",
+        "Cotton",
+        "Cassava",
+        "Cocoyam"
       ],
-      "answer": "story telling"
+      "answer": "Cocoyam"
     },
     {
       "number": 41,
-      "question": "The local calendar of Akamu community is _____ days in a week",
+      "question": "The early humans on earth protected themselves with _____ and _____.",
       "options": [
-        "four",
-        "six",
-        "seven",
-        "two"
+        "cotton and wool",
+        "wrapper and garment",
+        "leather and wrapper",
+        "leaves and animals skins"
       ],
-      "answer": "four"
+      "answer": "leaves and animals skins"
     },
     {
       "number": 42,
-      "question": "Dr. Nkechi is _____ to Mgbafor?",
+      "question": "The word ‘Horticulture’ is derived from ____.",
       "options": [
-        "school daughter",
-        "school mate",
-        "school friend",
-        "school benefactor"
+        "Latin",
+        "English",
+        "Greek",
+        "Italic"
       ],
-      "answer": "school daughter"
+      "answer": "Latin"
     },
     {
       "number": 43,
-      "question": "The storyline revolves around",
+      "question": "A farmer can increase his farm income by ____.",
       "options": [
-        "Mama Nwankwo",
-        "Dr. Nkechi",
-        "Mgbafor",
-        "Dr. Nkiru"
+        "increasing production",
+        "reducing cost of production",
+        "both a and b",
+        "none of the above"
       ],
-      "answer": "Mama Nwankwo"
+      "answer": "both a and b"
     },
     {
       "number": 44,
-      "question": "The story is written by _____.",
+      "question": "Cultivation of grapes is also known as",
       "options": [
-        "Samson O. Shobago",
-        "Chigbo Ugwuoke",
-        "Ngozi Chima Uzosike",
-        "Chima Uzosike"
+        "viticulture",
+        "horticulture",
+        "sericulture",
+        "pisciculture"
       ],
-      "answer": "Ngozi Chima Uzosike"
+      "answer": "horticulture"
     },
     {
       "number": 45,
-      "question": "Mama Nwankwo was diagnosed of _____.",
+      "question": "The physiological changes that show up during disease attack on crop plants are referred to as ______.",
       "options": [
-        "acute malaria",
-        "hypertension",
-        "fever",
-        "HIV"
+        "signs",
+        "symptoms",
+        "necrosis",
+        "abnormalities"
       ],
-      "answer": "hypertension"
+      "answer": "symptoms"
     },
     {
       "number": 46,
-      "question": "The FFF received the grant of ______",
+      "question": "Which of the following is obtained from rubber tree?",
       "options": [
-        "ten million dollars",
-        "hundred million naira",
-        "five million naira",
-        "ten million naira"
+        "Fibre",
+        "Latex",
+        "Gisal",
+        "Gum"
       ],
-      "answer": "hundred million naira"
+      "answer": "Latex"
     },
     {
       "number": 47,
-      "question": "The best friend of Mama Nwankwo is ______",
+      "question": "The special branch of agriculture that is concerned of disease and pest of livestock is called _______.",
       "options": [
-        "Nkechi",
-        "Mgbafor",
-        "Isaac",
-        "Nkiru"
+        "animal science",
+        "animal treatment",
+        "veterinary medicine",
+        "animal vaccination"
       ],
-      "answer": "Mgbafor"
+      "answer": "veterinary medicine"
     },
     {
       "number": 48,
-      "question": "The title “The Legend I” was given to ________",
+      "question": "Which of the following animal is used for race?",
       "options": [
-        "Dr. Nkechi",
-        "Dr. Nkiru",
-        "Mama Nwankwo",
-        "Mgbafor"
+        "Camel",
+        "Cattle",
+        "Goat",
+        "Horse"
       ],
-      "answer": "Mama Nwankwo"
-    }
-  ]
-},
-{
-      "instruction": "Answer the following question",
-      "questions": [
+      "answer": "Horse"
+    },
     {
       "number": 49,
-      "question": "\"So I’ve been creating my destiny by what I thought was mere fun.\" — Who made the above statement?",
+      "question": "Animals that live in water are called _____.",
       "options": [
-        "Joy",
-        "Mgbafor",
-        "Mama Nwankwo",
-        "Dr. Nkechi"
+        "arboreal",
+        "aquatic",
+        "domestic",
+        "terrestrial"
       ],
-      "answer": "Mama Nwankwo"
+      "answer": "aquatic"
     },
     {
       "number": 50,
-      "question": "Where was the speaker?",
+      "question": "Farmers rear animals due to the following reason except to _______.",
       "options": [
-        "at the market",
-        "at home",
-        "hospital",
-        "church"
+        "be gainfully employed",
+        "control climatic change",
+        "engage in sports and games",
+        "generate income for their family"
       ],
-      "answer": "hospital"
+      "answer": "control climatic change"
     }
   ]
-}
-  ]
-
-
