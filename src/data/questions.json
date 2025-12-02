@@ -1,552 +1,312 @@
-[
+ [
     {
       "number": 1,
-      "question": "The art and science that deals with the cultivation of crops and rearing of animal for man use is referred as ______.",
-      "options": [
-        "crop production",
-        "apiculture",
-        "agriculture",
-        "animal science"
-      ],
-      "answer": "agriculture"
+      "question": "One of this is not an adaptive feature of a cat fish",
+      "options": ["streamlined body", "well developed eyes", "limbs", "gills"],
+      "answer": "limbs"
     },
     {
       "number": 2,
-      "question": "______ is not a branch of agriculture.",
-      "options": [
-        "Soil fertility",
-        "Crop production",
-        "Animal science",
-        "None of the above"
-      ],
-      "answer": "Soil fertility"
+      "question": "One of this is not an adaptive feature of a rat",
+      "options": ["lungs", "limbs", "eyes", "streamlines body"],
+      "answer": "streamlines body"
     },
     {
       "number": 3,
-      "question": "The branch of agriculture that ensures efficient and effective management of farm animal is",
-      "options": [
-        "veterinary medicine",
-        "animal science",
-        "soil science",
-        "none of the above"
-      ],
-      "answer": "animal science"
+      "question": "One of this is not a habitat of spirogyra",
+      "options": ["pond", "river", "clay soil", "stream"],
+      "answer": "clay soil"
     },
     {
       "number": 4,
-      "question": "Agriculture involves the sales of produce from agriculture.",
-      "options": [
-        "True",
-        "False",
-        "Most time",
-        "At times"
-      ],
-      "answer": "False"
+      "question": "One of the following is not a feature of a pigeon",
+      "options": ["possession of four limbs", "streamlined body", "wings", "beak"],
+      "answer": "possession of four limbs"
     },
     {
       "number": 5,
-      "question": "Which of these is not a branch of agricultural ecology?",
-      "options": [
-        "Autecology",
-        "Autotropism",
-        "Syncology",
-        "None of the above"
-      ],
-      "answer": "Autecology"
+      "question": "A relationship whereby an organisms benefits from another organisms and it is not affected is called",
+      "options": ["mutualism", "commensalism", "competition", "parasitism"],
+      "answer": "commensalism"
     },
     {
       "number": 6,
-      "question": "The degree formed by the government of Nigeria on land use is called _______.",
-      "options": [
-        "land use decree of 1978",
-        "land use act of 1978",
-        "use land act of 1978",
-        "none of the above"
-      ],
-      "answer": "land use act of 1978"
+      "question": "A relationship in which organisms benefit from each other is known as",
+      "options": ["mutualism", "predation", "parasitism", "commensalism"],
+      "answer": "mutualism"
     },
     {
       "number": 7,
-      "question": "One of these is an objective of agriculture programmes",
-      "options": [
-        "agricultural loan scheme",
-        "green revolution",
-        "agricultural scheme loan",
-        "none of the above"
-      ],
-      "answer": "green revolution"
+      "question": "A relationship in which one organism benefits while the host is harmed is",
+      "options": ["competition", "mutualism", "predation", "parasitism"],
+      "answer": "parasitism"
     },
     {
       "number": 8,
-      "question": "The type of agriculture in which a farmer cultivates crops and rears animals for himself is referred to as _______.",
-      "options": [
-        "subsistence agriculture",
-        "agriculture subsistence crop",
-        "commercial agriculture",
-        "specialization agriculture"
-      ],
-      "answer": "subsistence agriculture"
+      "question": "The terrestrial habitats includes all except",
+      "options": ["arboreal", "soil", "pond", "under the ground"],
+      "answer": "pond"
     },
     {
       "number": 9,
-      "question": "Which of these provides honey for local consumption?",
-      "options": [
-        "Heliculture",
-        "Fishery",
-        "Apiculture",
-        "Snailry"
-      ],
-      "answer": "Heliculture"
+      "question": "Which of the following comes first in a food chain?",
+      "options": ["Consumers", "Decomposers", "Producers", "Secondary consumers"],
+      "answer": "Producers"
     },
     {
       "number": 10,
-      "question": "_____ promotes agricultural marketing.",
-      "options": [
-        "agricultural engineering",
-        "agricultural economics",
-        "crop production",
-        "animal production"
-      ],
-      "answer": "agricultural economics"
+      "question": "In the trophic levels, green plants are known as",
+      "options": ["herbivores", "producers", "omnivores", "carnivores"],
+      "answer": "producers"
     },
     {
       "number": 11,
-      "question": "The early man use _____ tools in farming",
-      "options": [
-        "primitive",
-        "crude",
-        "ancient",
-        "old"
-      ],
-      "answer": "primitive"
+      "question": "One of the following organism is not a saprophyte",
+      "options": ["rat", "snail", "bacteria", "mushroom"],
+      "answer": "rat"
     },
     {
       "number": 12,
-      "question": "The term agriculture was derived from the Latin word ______ and ______.",
-      "options": [
-        "anger and toil",
-        "anger and field",
-        "ager and cultura",
-        "ager and culture"
-      ],
-      "answer": "ager and cultura"
+      "question": "One of the following animals is not a primate",
+      "options": ["Man", "Gorilla", "Chimpanzee", "Elephant"],
+      "answer": "Elephant"
     },
     {
       "number": 13,
-      "question": "Which of the following is the foremost concern of the early man?",
-      "options": [
-        "Shelter",
-        "Food",
-        "Clothing",
-        "Planting"
-      ],
-      "answer": "Food"
+      "question": "All of these are characteristics of a primate except",
+      "options": ["stereoscopic vision", "they have opposable thumbs", "oviparous", "ability to stand and walk upright"],
+      "answer": "oviparous"
     },
     {
       "number": 14,
-      "question": "The form of agriculture that deals with the production of vegetables, fruits, cereals, oil crops etc. is",
-      "options": [
-        "horticulture",
-        "heliculture",
-        "crop farming",
-        "olericulture"
-      ],
-      "answer": "horticulture"
+      "question": "Possession of a large well developed brain is a characteristics of",
+      "options": ["Ape", "Man", "Gorilla", "Monkey"],
+      "answer": "Man"
     },
     {
       "number": 15,
-      "question": "Horticulture is the study that includes _____.",
-      "options": [
-        "fruits, vegetables and flowers",
-        "all food crops",
-        "vegetables, gardens and lawns near hotels only",
-        "some bush apples"
-      ],
-      "answer": "fruits, vegetables and flowers"
+      "question": "Temporary developmental changes include all except",
+      "options": ["technical skills", "communication skill", "increase in height", "manual skill"],
+      "answer": "increase in height"
     },
     {
       "number": 16,
-      "question": "The word agriculture is derived from ____.",
-      "options": [
-        "Greek",
-        "Latin",
-        "Arabic",
-        "French"
-      ],
-      "answer": "Latin"
+      "question": "One of this is not a factor that affects growth",
+      "options": ["sex", "colour", "nutrition", "heredity"],
+      "answer": "colour"
     },
     {
       "number": 17,
-      "question": "The early man engaged in hunting and gathering in order to ______.",
-      "options": [
-        "feed himself",
-        "feed his animals",
-        "generate income",
-        "produce export crops"
-      ],
-      "answer": "feed himself"
+      "question": "The three states of matter in ascending order of their kinetic energy are",
+      "options": ["gas – solid – water", "solid – water – gas", "water – gas – solid", "water – solid – gas"],
+      "answer": "solid – water – gas"
     },
     {
       "number": 18,
-      "question": "The practice of growing different crops on the same farmland is called",
-      "options": [
-        "arable farming",
-        "mixed cropping",
-        "mono cropping",
-        "pastoral farming"
-      ],
-      "answer": "mixed cropping"
+      "question": "One of this is not an example of a physical change",
+      "options": ["rusting", "breaking", "freezing", "melting"],
+      "answer": "rusting"
     },
     {
       "number": 19,
-      "question": "Which of these crops is a monocotyledonous plant?",
-      "options": [
-        "Banana",
-        "Carrot",
-        "Groundnut",
-        "Kola nut"
-      ],
-      "answer": "Banana"
+      "question": "Which of the changes has no variation in mass?",
+      "options": ["Chemical change", "Temporary change", "Permanent change", "Physical change"],
+      "answer": "Physical change"
     },
     {
       "number": 20,
-      "question": "Which of the following animal is used for race?",
-      "options": [
-        "Camel",
-        "Cattle",
-        "Goat",
-        "Horse"
-      ],
-      "answer": "Horse"
+      "question": "One of this is the boiling point of water",
+      "options": ["80°C", "100°C", "180°C", "120°C"],
+      "answer": "100°C"
     },
     {
       "number": 21,
-      "question": "Animals that live in water are called _____.",
-      "options": [
-        "arboreal",
-        "aquatic",
-        "domestic",
-        "terrestrial"
-      ],
-      "answer": "aquatic"
+      "question": "Cooking is an example of",
+      "options": ["chemical change", "physical change", "domestic change", "colour change"],
+      "answer": "chemical change"
     },
     {
       "number": 22,
-      "question": "Which of the following forms of agriculture deals with the keeping of bees?",
-      "options": [
-        "Apiculture",
-        "Aquaculture",
-        "Horticulture",
-        "Olericulture"
-      ],
-      "answer": "Apiculture"
+      "question": "One of this is not a pharmaceutical chemical",
+      "options": ["insulin", "glucophage", "chlorine", "antibiotics"],
+      "answer": "chlorine"
     },
     {
       "number": 23,
-      "question": "A dicotyledonous plant possesses",
-      "options": [
-        "fibrous root system",
-        "long leaf petiole",
-        "narrow leaf stalk",
-        "one seed leaf"
-      ],
-      "answer": "long leaf petiole"
+      "question": "One of this is not an agro-chemical",
+      "options": ["deodorant", "pesticide", "insecticide", "fungicide"],
+      "answer": "deodorant"
     },
     {
       "number": 24,
-      "question": "The movement of Fulani herdsmen and their animals from one place to another for survival is termed _____ forming.",
-      "options": [
-        "alley",
-        "ley",
-        "nomadic",
-        "mixed"
-      ],
-      "answer": "nomadic"
+      "question": "One of the following is a hazardous chemical",
+      "options": ["paracetamol", "powder", "bromine", "methanol"],
+      "answer": "bromine"
     },
     {
       "number": 25,
-      "question": "Which of the following crops is a biennial crop?",
-      "options": [
-        "Carrot",
-        "Cucumber",
-        "Lettuce",
-        "Tomatoes"
-      ],
-      "answer": "Carrot"
+      "question": "One of the following is not a safety measure",
+      "options": ["Wearing of safety glasses", "Adhere to the manufacturers instruction", "Avoid the use of chemicals", "Wear protective gloves"],
+      "answer": "Avoid the use of chemicals"
     },
     {
       "number": 26,
-      "question": "Which of these is an industrial raw material?",
-      "options": [
-        "Chocolate",
-        "Cotton",
-        "Margarine",
-        "Paper"
-      ],
-      "answer": "Cotton"
+      "question": "First aid is best defined as",
+      "options": ["The medicine given in hospitals", "The immediate care given to a sick or injured person before medical help arrives", "A surgical operation", "A hospital treatment"],
+      "answer": "The immediate care given to a sick or injured person before medical help arrives"
     },
     {
       "number": 27,
-      "question": "Rabbits are referred to as “non-ruminants” because they",
-      "options": [
-        "are relatively small in size",
-        "give birth to their young ones alive",
-        "have simple stomach type",
-        "live and produce on land"
-      ],
-      "answer": "have simple stomach type"
+      "question": "The main aim of first aid is to",
+      "options": ["Cure all diseases", "Save life and prevent condition from worsening", "Replace hospital care", "Delay treatment"],
+      "answer": "Save life and prevent condition from worsening"
     },
     {
       "number": 28,
-      "question": "The meat from goat is known as ______.",
-      "options": [
-        "bacon",
-        "beef",
-        "chevon",
-        "pork"
-      ],
-      "answer": "chevon"
+      "question": "One of the objectives of first aid is to",
+      "options": ["Cause pain", "Promote quick recovery", "Increase bleeding", "Ignore the victim"],
+      "answer": "Promote quick recovery"
     },
     {
       "number": 29,
-      "question": "Agriculture can best be defined as the",
-      "options": [
-        "art and science of crop cultivation",
-        "production of crops and animals for man’s use",
-        "collection of fruits and planting of crop",
-        "art and science of rearing of animals for man’s use"
-      ],
-      "answer": "production of crops and animals for man’s use"
+      "question": "Which of the following is a material found in a first aid box?",
+      "options": ["Paint brush", "Bandage", "Screw driver", "Hammer"],
+      "answer": "Bandage"
     },
     {
       "number": 30,
-      "question": "Agriculture started with man being a ____ and ____.",
-      "options": [
-        "crop producer, rearer of animals",
-        "fruit gatherer, hunter of animals",
-        "forest raider, seller of animals",
-        "tiller of land, herder of animals"
-      ],
-      "answer": "fruit gatherer, hunter of animals"
+      "question": "Which of these should NOT be found in a first aid box?",
+      "options": ["Cotton wool", "Razor blade", "Bread knife", "Scissors"],
+      "answer": "Bread knife"
     },
     {
       "number": 31,
-      "question": "When a man engages in agriculture as a means of livelihood, he will have the following in abundance except",
-      "options": [
-        "fruit",
-        "meat",
-        "milk",
-        "salt"
-      ],
-      "answer": "salt"
+      "question": "The container that holds first aid materials is called?",
+      "options": ["Medicine cabinet", "First aid box", "Lunch box", "Dressing table"],
+      "answer": "First aid box"
     },
     {
       "number": 32,
-      "question": "The following are forms of agriculture except",
-      "options": [
-        "apiculture",
-        "crop farming",
-        "livestock farming",
-        "mixed farming"
-      ],
-      "answer": "apiculture"
+      "question": "Antiseptic in a first aid box is used for",
+      "options": ["Cleaning wounds to prevent infection", "Drinking when tired", "Washing clothes", "Polishing tables"],
+      "answer": "Cleaning wounds to prevent infection"
     },
     {
       "number": 33,
-      "question": "Science and technology is applied in the following areas of agriculture except",
-      "options": [
-        "development of agricultural policies",
-        "increasing crop yield",
-        "pest and disease control",
-        "reduction of unskilled labour"
-      ],
-      "answer": "increasing crop yield"
+      "question": "Bandage is used to",
+      "options": ["Hold a dressing in place", "Wash wounds", "Write names", "Paint walls"],
+      "answer": "Hold a dressing in place"
     },
     {
       "number": 34,
-      "question": "The following are cereal crops except",
+      "question": "The application of simple first aid involves",
       "options": [
-        "cowpea",
-        "maize",
-        "millet",
-        "wheat"
+        "Running away from the injured",
+        "Using materials to stop bleeding, prevent shock, and relieve pain",
+        "Waiting for a doctor",
+        "Watching the victim only"
       ],
-      "answer": "cowpea"
+      "answer": "Using materials to stop bleeding, prevent shock, and relieve pain"
     },
     {
       "number": 35,
-      "question": "The following are perennial crops except",
-      "options": [
-        "citrus",
-        "pawpaw",
-        "oil palm",
-        "sugar cane"
-      ],
-      "answer": "sugar cane"
+      "question": "Before giving first aid, the first thing to do is to",
+      "options": ["Panic", "Check for danger and ensure safety", "Leave the scene", "Call a friend"],
+      "answer": "Check for danger and ensure safety"
     },
     {
       "number": 36,
-      "question": "An example of mammal is ______.",
-      "options": [
-        "fish",
-        "snail",
-        "pig",
-        "toad"
-      ],
-      "answer": "pig"
+      "question": "The term rescue operation means",
+      "options": ["Cooking food", "Helping people escape from danger or accident situations", "Planting trees", "Carrying loads"],
+      "answer": "Helping people escape from danger or accident situations"
     },
     {
       "number": 37,
-      "question": "Farm animals can be used for the following farm operations except",
-      "options": [
-        "harrowing",
-        "harvesting",
-        "ploughing",
-        "transport"
-      ],
-      "answer": "harvesting"
+      "question": "The main objective of rescue operation is to",
+      "options": ["Save lives and prevent further harm", "Destroy property", "Delay help", "Cause panic"],
+      "answer": "Save lives and prevent further harm"
     },
     {
       "number": 38,
-      "question": "The early men engaged in the following agricultural practice except",
-      "options": [
-        "commercial farming",
-        "hunting of game",
-        "fruit gathering",
-        "subsistence farming"
-      ],
-      "answer": "commercial farming"
+      "question": "Rescue workers must have",
+      "options": ["Courage and quick thinking", "Laziness and fear", "Anger and impatience", "Ignorance"],
+      "answer": "Courage and quick thinking"
     },
     {
       "number": 39,
-      "question": "Agriculture provided employment for the following individuals except",
-      "options": [
-        "coal miners",
-        "extension agent",
-        "farm workers",
-        "school teachers"
-      ],
-      "answer": "school teachers"
+      "question": "One type of rescue operation is",
+      "options": ["Fire rescue", "Cooking rescue", "Sports rescue", "Water fetching"],
+      "answer": "Fire rescue"
     },
     {
       "number": 40,
-      "question": "Which of the following is an annual crop?",
-      "options": [
-        "Carrot",
-        "Cotton",
-        "Cassava",
-        "Cocoyam"
-      ],
-      "answer": "Cocoyam"
+      "question": "A fire rescue operation involves",
+      "options": ["Removing victims from burning buildings", "Fishing in rivers", "Cleaning windows", "Playing with candles"],
+      "answer": "Removing victims from burning buildings"
     },
     {
       "number": 41,
-      "question": "The early humans on earth protected themselves with _____ and _____.",
-      "options": [
-        "cotton and wool",
-        "wrapper and garment",
-        "leather and wrapper",
-        "leaves and animals skins"
-      ],
-      "answer": "leaves and animals skins"
+      "question": "A water rescue operation deals with",
+      "options": ["Accident victims on the road", "Drowning victims", "Farmers", "Traffic officers"],
+      "answer": "Drowning victims"
     },
     {
       "number": 42,
-      "question": "The word ‘Horticulture’ is derived from ____.",
+      "question": "The materials used for rescue operations include",
       "options": [
-        "Latin",
-        "English",
-        "Greek",
-        "Italic"
+        "Rope, stretcher, ladder, and first aid kit",
+        "Knife, hammer, and saw",
+        "Pens and books",
+        "Television and phone"
       ],
-      "answer": "Latin"
+      "answer": "Rope, stretcher, ladder, and first aid kit"
     },
     {
       "number": 43,
-      "question": "A farmer can increase his farm income by ____.",
-      "options": [
-        "increasing production",
-        "reducing cost of production",
-        "both a and b",
-        "none of the above"
-      ],
-      "answer": "both a and b"
+      "question": "A stretcher is used to",
+      "options": ["Carry an injured person safely", "Sweep the floor", "Fetch water", "Paint walls"],
+      "answer": "Carry an injured person safely"
     },
     {
       "number": 44,
-      "question": "Cultivation of grapes is also known as",
-      "options": [
-        "viticulture",
-        "horticulture",
-        "sericulture",
-        "pisciculture"
-      ],
-      "answer": "horticulture"
+      "question": "Wood is used for making",
+      "options": ["Bottles and tiles", "Furniture and doors", "Glass and cups", "Wires and cables"],
+      "answer": "Furniture and doors"
     },
     {
       "number": 45,
-      "question": "The physiological changes that show up during disease attack on crop plants are referred to as ______.",
-      "options": [
-        "signs",
-        "symptoms",
-        "necrosis",
-        "abnormalities"
-      ],
-      "answer": "symptoms"
+      "question": "Metal is commonly used to make",
+      "options": ["Clothes", "Machines, tools, and roofing sheets", "Paper", "Food"],
+      "answer": "Machines, tools, and roofing sheets"
     },
     {
       "number": 46,
-      "question": "Which of the following is obtained from rubber tree?",
-      "options": [
-        "Fibre",
-        "Latex",
-        "Gisal",
-        "Gum"
-      ],
-      "answer": "Latex"
+      "question": "Ceramics are used for",
+      "options": ["Making food", "Making plates, cups, and tiles", "Making shoes", "Building bridges"],
+      "answer": "Making plates, cups, and tiles"
     },
     {
       "number": 47,
-      "question": "The special branch of agriculture that is concerned of disease and pest of livestock is called _______.",
-      "options": [
-        "animal science",
-        "animal treatment",
-        "veterinary medicine",
-        "animal vaccination"
-      ],
-      "answer": "veterinary medicine"
+      "question": "Which of the following is a property of wood?",
+      "options": ["Hard and fibrous", "Transparent", "Elastic", "Metallic"],
+      "answer": "Hard and fibrous"
     },
     {
       "number": 48,
-      "question": "Which of the following animal is used for race?",
-      "options": [
-        "Camel",
-        "Cattle",
-        "Goat",
-        "Horse"
-      ],
-      "answer": "Horse"
+      "question": "Metals are good conductors of",
+      "options": ["Light", "Sound and heat", "Wind", "Cold"],
+      "answer": "Sound and heat"
     },
     {
       "number": 49,
-      "question": "Animals that live in water are called _____.",
-      "options": [
-        "arboreal",
-        "aquatic",
-        "domestic",
-        "terrestrial"
-      ],
-      "answer": "aquatic"
+      "question": "Ceramics are usually",
+      "options": ["Soft and flexible", "Hard and brittle", "Elastic and shiny", "Smooth and metallic"],
+      "answer": "Hard and brittle"
     },
     {
       "number": 50,
-      "question": "Farmers rear animals due to the following reason except to _______.",
-      "options": [
-        "be gainfully employed",
-        "control climatic change",
-        "engage in sports and games",
-        "generate income for their family"
-      ],
-      "answer": "control climatic change"
+      "question": "The main reason for learning first aid and rescue operations is to",
+      "options": ["Help people in emergencies", "Wait for doctors", "Avoid helping", "Cause panic"],
+      "answer": "Help people in emergencies"
     }
   ]
