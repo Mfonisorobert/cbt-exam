@@ -1,312 +1,305 @@
  [
     {
       "number": 1,
-      "question": "One of this is not an adaptive feature of a cat fish",
-      "options": ["streamlined body", "well developed eyes", "limbs", "gills"],
-      "answer": "limbs"
+      "question": "Who promised the coming of the Holy Spirit to the disciples?",
+      "options": ["Peter", "Paul", "Jesus Christ", "John the Baptist"],
+      "answer": "Jesus Christ"
     },
     {
       "number": 2,
-      "question": "One of this is not an adaptive feature of a rat",
-      "options": ["lungs", "limbs", "eyes", "streamlines body"],
-      "answer": "streamlines body"
+      "question": "The promise of the Holy Spirit was fulfilled on the day of ______.",
+      "options": ["Passover", "Pentecost", "Purim", "Tabernacle"],
+      "answer": "Pentecost"
     },
     {
       "number": 3,
-      "question": "One of this is not a habitat of spirogyra",
-      "options": ["pond", "river", "clay soil", "stream"],
-      "answer": "clay soil"
+      "question": "The Holy Spirit came upon the disciples in the form of ______.",
+      "options": ["A dove", "Tongues of fire", "Smoke", "Water"],
+      "answer": "Tongues of fire"
     },
     {
       "number": 4,
-      "question": "One of the following is not a feature of a pigeon",
-      "options": ["possession of four limbs", "streamlined body", "wings", "beak"],
-      "answer": "possession of four limbs"
+      "question": "Before the coming of the Holy Spirit, the disciples were told to stay in ______.",
+      "options": ["Galilee", "Nazareth", "Jerusalem", "Bethlehem"],
+      "answer": "Jerusalem"
     },
     {
       "number": 5,
-      "question": "A relationship whereby an organisms benefits from another organisms and it is not affected is called",
-      "options": ["mutualism", "commensalism", "competition", "parasitism"],
-      "answer": "commensalism"
+      "question": "The coming of the Holy Spirit gave the disciples the power to ______.",
+      "options": ["Perform magic", "Travel abroad", "Build temples", "Speak in different tongues"],
+      "answer": "Speak in different tongues"
     },
     {
       "number": 6,
-      "question": "A relationship in which organisms benefit from each other is known as",
-      "options": ["mutualism", "predation", "parasitism", "commensalism"],
-      "answer": "mutualism"
+      "question": "The Holy Spirit gave the disciples courage to ______.",
+      "options": ["Preach the gospel boldly", "Return to fishing", "Leave Jerusalem", "Hide from the Jews"],
+      "answer": "Preach the gospel boldly"
     },
     {
       "number": 7,
-      "question": "A relationship in which one organism benefits while the host is harmed is",
-      "options": ["competition", "mutualism", "predation", "parasitism"],
-      "answer": "parasitism"
+      "question": "How many days after Jesus’ ascension did the Holy Spirit come?",
+      "options": ["Three days", "Seven days", "Ten days", "Forty days"],
+      "answer": "Ten days"
     },
     {
       "number": 8,
-      "question": "The terrestrial habitats includes all except",
-      "options": ["arboreal", "soil", "pond", "under the ground"],
-      "answer": "pond"
+      "question": "The promise of the Holy Spirit is meant for ______.",
+      "options": ["Only the apostles", "Only the Jews", "All believers in Christ", "The priests alone"],
+      "answer": "All believers in Christ"
     },
     {
       "number": 9,
-      "question": "Which of the following comes first in a food chain?",
-      "options": ["Consumers", "Decomposers", "Producers", "Secondary consumers"],
-      "answer": "Producers"
+      "question": "Who preached to the crowd after the Holy Spirit came?",
+      "options": ["James", "Andrew", "John", "Peter"],
+      "answer": "Peter"
     },
     {
       "number": 10,
-      "question": "In the trophic levels, green plants are known as",
-      "options": ["herbivores", "producers", "omnivores", "carnivores"],
-      "answer": "producers"
+      "question": "The coming of the Holy Spirit marked the beginning of ______.",
+      "options": ["The early Church", "The Old Testament", "The Exodus", "The flood"],
+      "answer": "The early Church"
     },
     {
       "number": 11,
-      "question": "One of the following organism is not a saprophyte",
-      "options": ["rat", "snail", "bacteria", "mushroom"],
-      "answer": "rat"
+      "question": "What was the immediate effect of Peter’s speech on the people?",
+      "options": ["They laughed at him", "They repented and were baptized", "They arrested him", "They left Jerusalem"],
+      "answer": "They repented and were baptized"
     },
     {
       "number": 12,
-      "question": "One of the following animals is not a primate",
-      "options": ["Man", "Gorilla", "Chimpanzee", "Elephant"],
-      "answer": "Elephant"
+      "question": "One major effect of Peter’s speech on the Pentecost Day was that",
+      "options": ["The apostles became rich", "The early Church was established", "The Jews scattered to other nations", "Peter became a Roman official"],
+      "answer": "The early Church was established"
     },
     {
       "number": 13,
-      "question": "All of these are characteristics of a primate except",
-      "options": ["stereoscopic vision", "they have opposable thumbs", "oviparous", "ability to stand and walk upright"],
-      "answer": "oviparous"
+      "question": "On the Day of Pentecost, Peter explained that the people were not drunk but were filled with what?",
+      "options": ["Wine", "Joy", "The Holy Spirit", "Anger"],
+      "answer": "The Holy Spirit"
     },
     {
       "number": 14,
-      "question": "Possession of a large well developed brain is a characteristics of",
-      "options": ["Ape", "Man", "Gorilla", "Monkey"],
-      "answer": "Man"
+      "question": "Peter said that the event of Pentecost was a fulfillment of the prophecy by ______.",
+      "options": ["Isaiah", "Amos", "Jeremiah", "Joel"],
+      "answer": "Joel"
     },
     {
       "number": 15,
-      "question": "Temporary developmental changes include all except",
-      "options": ["technical skills", "communication skill", "increase in height", "manual skill"],
-      "answer": "increase in height"
+      "question": "According to Peter’s speech, Jesus was crucified and raised from the dead by ______.",
+      "options": ["The Pharisees", "The Romans", "God", "Peter himself"],
+      "answer": "God"
     },
     {
       "number": 16,
-      "question": "One of this is not a factor that affects growth",
-      "options": ["sex", "colour", "nutrition", "heredity"],
-      "answer": "colour"
+      "question": "What was the reaction of the people after hearing Peter’s message?",
+      "options": ["They asked what they should do", "They arrested Peter", "They left the place", "They mocked him"],
+      "answer": "They asked what they should do"
     },
     {
       "number": 17,
-      "question": "The three states of matter in ascending order of their kinetic energy are",
-      "options": ["gas – solid – water", "solid – water – gas", "water – gas – solid", "water – solid – gas"],
-      "answer": "solid – water – gas"
+      "question": "How many people were baptized and added to the Church after Peter’s speech?",
+      "options": ["About 500", "About 1,000", "About 3,000", "About 5,000"],
+      "answer": "About 3,000"
     },
     {
       "number": 18,
-      "question": "One of this is not an example of a physical change",
-      "options": ["rusting", "breaking", "freezing", "melting"],
-      "answer": "rusting"
+      "question": "Fellowship in the early church means __________.",
+      "options": ["Working alone", "Sharing together in love", "Fighting for leadership", "Living in isolation"],
+      "answer": "Sharing together in love"
     },
     {
       "number": 19,
-      "question": "Which of the changes has no variation in mass?",
-      "options": ["Chemical change", "Temporary change", "Permanent change", "Physical change"],
-      "answer": "Physical change"
+      "question": "The early Christians met regularly for __________.",
+      "options": ["Entertainment", "Games", "Prayers and breaking of bread", "Business meetings"],
+      "answer": "Prayers and breaking of bread"
     },
     {
       "number": 20,
-      "question": "One of this is the boiling point of water",
-      "options": ["80°C", "100°C", "180°C", "120°C"],
-      "answer": "100°C"
+      "question": "The spirit that united the early believers was the __________.",
+      "options": ["Spirit of greed", "Holy Spirit", "Spirit of fear", "Evil spirit"],
+      "answer": "Holy Spirit"
     },
     {
       "number": 21,
-      "question": "Cooking is an example of",
-      "options": ["chemical change", "physical change", "domestic change", "colour change"],
-      "answer": "chemical change"
+      "question": "The early Christians sold their possessions and __________.",
+      "options": ["Gave the money to the apostles", "Hid the money in their houses", "Gave the money to their families only", "Built private houses"],
+      "answer": "Gave the money to the apostles"
     },
     {
       "number": 22,
-      "question": "One of this is not a pharmaceutical chemical",
-      "options": ["insulin", "glucophage", "chlorine", "antibiotics"],
-      "answer": "chlorine"
+      "question": "One major characteristic of the early church was __________.",
+      "options": ["Disunity", "Laziness", "Greed", "Love and Unity"],
+      "answer": "Love and Unity"
     },
     {
       "number": 23,
-      "question": "One of this is not an agro-chemical",
-      "options": ["deodorant", "pesticide", "insecticide", "fungicide"],
-      "answer": "deodorant"
+      "question": "The early Christians devoted themselves to the apostles’ __________.",
+      "options": ["Teaching and fellowship", "Quarrels and debates", "Fishing and farming", "Personal business"],
+      "answer": "Teaching and fellowship"
     },
     {
       "number": 24,
-      "question": "One of the following is a hazardous chemical",
-      "options": ["paracetamol", "powder", "bromine", "methanol"],
-      "answer": "bromine"
+      "question": "Miracles and signs in the early church were done through __________.",
+      "options": ["Peter and John", "Herod and Pilate", "Saul and Barnabas", "The Pharisees"],
+      "answer": "Peter and John"
     },
     {
       "number": 25,
-      "question": "One of the following is not a safety measure",
-      "options": ["Wearing of safety glasses", "Adhere to the manufacturers instruction", "Avoid the use of chemicals", "Wear protective gloves"],
-      "answer": "Avoid the use of chemicals"
+      "question": "The early believers cared for the __________.",
+      "options": ["Temple guards", "Poor and needy", "Rich and powerful", "Roman soldiers"],
+      "answer": "Poor and needy"
     },
     {
       "number": 26,
-      "question": "First aid is best defined as",
-      "options": ["The medicine given in hospitals", "The immediate care given to a sick or injured person before medical help arrives", "A surgical operation", "A hospital treatment"],
-      "answer": "The immediate care given to a sick or injured person before medical help arrives"
+      "question": "The story of Ananias and Sapphira teaches against __________.",
+      "options": ["Honesty", "Fraud and deceit", "Love and giving", "Prayer and fasting"],
+      "answer": "Fraud and deceit"
     },
     {
       "number": 27,
-      "question": "The main aim of first aid is to",
-      "options": ["Cure all diseases", "Save life and prevent condition from worsening", "Replace hospital care", "Delay treatment"],
-      "answer": "Save life and prevent condition from worsening"
+      "question": "Ananias and Sapphira lied about the __________.",
+      "options": ["Number of disciples", "Name of the apostles", "Amount of land they sold", "Time of worship"],
+      "answer": "Amount of land they sold"
     },
     {
       "number": 28,
-      "question": "One of the objectives of first aid is to",
-      "options": ["Cause pain", "Promote quick recovery", "Increase bleeding", "Ignore the victim"],
-      "answer": "Promote quick recovery"
+      "question": "The punishment of Ananias and Sapphira was that they __________.",
+      "options": ["Were forgiven immediately", "Were expelled from the church", "Fell down and died", "Were promoted"],
+      "answer": "Fell down and died"
     },
     {
       "number": 29,
-      "question": "Which of the following is a material found in a first aid box?",
-      "options": ["Paint brush", "Bandage", "Screw driver", "Hammer"],
-      "answer": "Bandage"
+      "question": "Fraud in the church brings __________.",
+      "options": ["Blessings", "Growth", "Happiness", "Fear and punishment"],
+      "answer": "Fear and punishment"
     },
     {
       "number": 30,
-      "question": "Which of these should NOT be found in a first aid box?",
-      "options": ["Cotton wool", "Razor blade", "Bread knife", "Scissors"],
-      "answer": "Bread knife"
+      "question": "The murmuring in the early church arose because __________.",
+      "options": ["The widows of the Greeks were neglected", "The Jews wanted more food", "The apostles refused to preach", "Paul and Barnabas quarreled"],
+      "answer": "The widows of the Greeks were neglected"
     },
     {
       "number": 31,
-      "question": "The container that holds first aid materials is called?",
-      "options": ["Medicine cabinet", "First aid box", "Lunch box", "Dressing table"],
-      "answer": "First aid box"
+      "question": "The apostles decided to appoint men to __________.",
+      "options": ["Take care of the widows", "Build new temples", "Preach in the market", "Collect taxes"],
+      "answer": "Take care of the widows"
     },
     {
       "number": 32,
-      "question": "Antiseptic in a first aid box is used for",
-      "options": ["Cleaning wounds to prevent infection", "Drinking when tired", "Washing clothes", "Polishing tables"],
-      "answer": "Cleaning wounds to prevent infection"
+      "question": "Murmuring and complaint in the church can lead to __________.",
+      "options": ["Unity", "Division and quarrel", "More blessings", "Stronger faith"],
+      "answer": "Division and quarrel"
     },
     {
       "number": 33,
-      "question": "Bandage is used to",
-      "options": ["Hold a dressing in place", "Wash wounds", "Write names", "Paint walls"],
-      "answer": "Hold a dressing in place"
+      "question": "The apostles handled the murmuring issue by __________.",
+      "options": ["Ignoring it", "Praying and choosing helpers", "Fighting the people", "Running away"],
+      "answer": "Praying and choosing helpers"
     },
     {
       "number": 34,
-      "question": "The application of simple first aid involves",
-      "options": [
-        "Running away from the injured",
-        "Using materials to stop bleeding, prevent shock, and relieve pain",
-        "Waiting for a doctor",
-        "Watching the victim only"
-      ],
-      "answer": "Using materials to stop bleeding, prevent shock, and relieve pain"
+      "question": "The first deacons were chosen to __________.",
+      "options": ["Replace the apostles", "Collect church offerings", "Distribute food and help the needy", "Lead the prayers"],
+      "answer": "Distribute food and help the needy"
     },
     {
       "number": 35,
-      "question": "Before giving first aid, the first thing to do is to",
-      "options": ["Panic", "Check for danger and ensure safety", "Leave the scene", "Call a friend"],
-      "answer": "Check for danger and ensure safety"
+      "question": "One of the seven deacons chosen was __________.",
+      "options": ["Peter", "Paul", "Stephen", "Barnabas"],
+      "answer": "Stephen"
     },
     {
       "number": 36,
-      "question": "The term rescue operation means",
-      "options": ["Cooking food", "Helping people escape from danger or accident situations", "Planting trees", "Carrying loads"],
-      "answer": "Helping people escape from danger or accident situations"
+      "question": "The qualities required of the deacons were that they must be __________.",
+      "options": ["Rich and famous", "Full of the Holy Spirit and wisdom", "Young and strong", "Good singers"],
+      "answer": "Full of the Holy Spirit and wisdom"
     },
     {
       "number": 37,
-      "question": "The main objective of rescue operation is to",
-      "options": ["Save lives and prevent further harm", "Destroy property", "Delay help", "Cause panic"],
-      "answer": "Save lives and prevent further harm"
+      "question": "The appointment of deacons helped the apostles to __________.",
+      "options": ["Concentrate on prayer and preaching", "Travel for business", "Become lazy", "Build more houses"],
+      "answer": "Concentrate on prayer and preaching"
     },
     {
       "number": 38,
-      "question": "Rescue workers must have",
-      "options": ["Courage and quick thinking", "Laziness and fear", "Anger and impatience", "Ignorance"],
-      "answer": "Courage and quick thinking"
+      "question": "The persecution of the early believers began shortly after the preaching of the gospel in __________.",
+      "options": ["Antioch", "Rome", "Jerusalem", "Corinth"],
+      "answer": "Jerusalem"
     },
     {
       "number": 39,
-      "question": "One type of rescue operation is",
-      "options": ["Fire rescue", "Cooking rescue", "Sports rescue", "Water fetching"],
-      "answer": "Fire rescue"
+      "question": "One major reason for the opposition to the gospel was that the apostles preached in the name of __________.",
+      "options": ["Moses", "John the Baptist", "Jesus Christ", "Abraham"],
+      "answer": "Jesus Christ"
     },
     {
       "number": 40,
-      "question": "A fire rescue operation involves",
-      "options": ["Removing victims from burning buildings", "Fishing in rivers", "Cleaning windows", "Playing with candles"],
-      "answer": "Removing victims from burning buildings"
+      "question": "The religious leaders opposed the apostles because they were __________.",
+      "options": ["Healing in the name of Jesus", "Selling in the temple", "Teaching false doctrines", "Paying no taxes"],
+      "answer": "Healing in the name of Jesus"
     },
     {
       "number": 41,
-      "question": "A water rescue operation deals with",
-      "options": ["Accident victims on the road", "Drowning victims", "Farmers", "Traffic officers"],
-      "answer": "Drowning victims"
+      "question": "The persecution of the early believers was first led by __________.",
+      "options": ["Peter", "Saul", "Stephen", "The Sanhedrin"],
+      "answer": "Saul"
     },
     {
       "number": 42,
-      "question": "The materials used for rescue operations include",
-      "options": [
-        "Rope, stretcher, ladder, and first aid kit",
-        "Knife, hammer, and saw",
-        "Pens and books",
-        "Television and phone"
-      ],
-      "answer": "Rope, stretcher, ladder, and first aid kit"
+      "question": "The manifestation of the opposition to the gospel included all the following except __________.",
+      "options": ["Beating and imprisonment", "Mocking and threats", "Encouragement and support", "False accusations"],
+      "answer": "Encouragement and support"
     },
     {
       "number": 43,
-      "question": "A stretcher is used to",
-      "options": ["Carry an injured person safely", "Sweep the floor", "Fetch water", "Paint walls"],
-      "answer": "Carry an injured person safely"
+      "question": "Peter and John were arrested because they __________.",
+      "options": ["Healed a lame man and preached about Jesus’ resurrection", "Stole money from the temple", "Fought with the high priest", "Refused to pay temple tax"],
+      "answer": "Healed a lame man and preached about Jesus’ resurrection"
     },
     {
       "number": 44,
-      "question": "Wood is used for making",
-      "options": ["Bottles and tiles", "Furniture and doors", "Glass and cups", "Wires and cables"],
-      "answer": "Furniture and doors"
+      "question": "The main reason the Jewish leaders were angry with Peter and John was that they __________.",
+      "options": ["Spoke against the Roman government", "Gathered too many followers", "Entered the synagogue uninvited", "Preached that Jesus had risen from the dead"],
+      "answer": "Preached that Jesus had risen from the dead"
     },
     {
       "number": 45,
-      "question": "Metal is commonly used to make",
-      "options": ["Clothes", "Machines, tools, and roofing sheets", "Paper", "Food"],
-      "answer": "Machines, tools, and roofing sheets"
+      "question": "When Peter defended himself before the council, he said that salvation could only come through _______.",
+      "options": ["Moses", "The law", "The temple", "Jesus Christ"],
+      "answer": "Jesus Christ"
     },
     {
       "number": 46,
-      "question": "Ceramics are used for",
-      "options": ["Making food", "Making plates, cups, and tiles", "Making shoes", "Building bridges"],
-      "answer": "Making plates, cups, and tiles"
+      "question": "In Peter’s defense, he boldly declared that they must obey __________ rather than men.",
+      "options": ["The priests", "The king", "The elders", "God"],
+      "answer": "God"
     },
     {
       "number": 47,
-      "question": "Which of the following is a property of wood?",
-      "options": ["Hard and fibrous", "Transparent", "Elastic", "Metallic"],
-      "answer": "Hard and fibrous"
+      "question": "The persecution of the early believers helped to __________.",
+      "options": ["Stop the spread of the gospel", "Scatter believers to other places where they preached", "Destroy the church completely", "Cause believers to deny Jesus"],
+      "answer": "Scatter believers to other places where they preached"
     },
     {
       "number": 48,
-      "question": "Metals are good conductors of",
-      "options": ["Light", "Sound and heat", "Wind", "Cold"],
-      "answer": "Sound and heat"
+      "question": "What was the main reason James was killed?",
+      "options": ["He refused to pay tax", "He preached about Jesus Christ", "He broke Roman law", "He disobeyed the Jewish elders"],
+      "answer": "He preached about Jesus Christ"
     },
     {
       "number": 49,
-      "question": "Ceramics are usually",
-      "options": ["Soft and flexible", "Hard and brittle", "Elastic and shiny", "Smooth and metallic"],
-      "answer": "Hard and brittle"
+      "question": "Christians can face persecution today through —",
+      "options": ["Mockery and discrimination", "Good governance", "Moral behavior", "Charity and love"],
+      "answer": "Mockery and discrimination"
     },
     {
       "number": 50,
-      "question": "The main reason for learning first aid and rescue operations is to",
-      "options": ["Help people in emergencies", "Wait for doctors", "Avoid helping", "Cause panic"],
-      "answer": "Help people in emergencies"
+      "question": "Opposition in the community means —",
+      "options": ["Helping others to do good", "Resisting or standing against what is right", "Supporting community leaders", "Promoting peace"],
+      "answer": "Resisting or standing against what is right"
     }
   ]
+
+
+

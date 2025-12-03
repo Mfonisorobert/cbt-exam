@@ -17,13 +17,13 @@ const [hasStarted, setHasStarted] = useState(false);
 
 // This is for shuffling of questions
 // Use this when you want to shuffle the questions
-useEffect(() => {
-  const randomized = shuffleArray(questionsData).map((q) => ({
-    ...q,
-    options: shuffleArray(q.options),
-  }));
-  setQuestions(randomized);
-}, []);
+// useEffect(() => {
+//   const randomized = shuffleArray(questionsData).map((q) => ({
+//     ...q,
+//     options: shuffleArray(q.options),
+//   }));
+//   setQuestions(randomized);
+// }, []);
 
 // Shuffling of questions ends here
 
@@ -34,14 +34,14 @@ useEffect(() => {
 
   // Use this when you don't want to randomized the questions and options
 
-  // useEffect(() => {
-  //   setQuestions(questionsData);
+  useEffect(() => {
+    setQuestions(questionsData);
   
-  //   const savedAnswers = localStorage.getItem("cbt-answers");
-  //   const savedIndex = localStorage.getItem("cbt-current-index");
-  //   if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
-  //   if (savedIndex) setCurrentQIndex(Number(savedIndex));
-  // }, []);
+    const savedAnswers = localStorage.getItem("cbt-answers");
+    const savedIndex = localStorage.getItem("cbt-current-index");
+    if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
+    if (savedIndex) setCurrentQIndex(Number(savedIndex));
+  }, []);
 
   // modified ends
 
@@ -236,7 +236,7 @@ if (!hasStarted) {
     )}
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
       {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
-      {showScore ? studentName : "YEAR 9 - BASIC SCIENCE & TECH"}
+      {showScore ? studentName : "YEAR 9 - CHRISTIAN RELIGIOUS STUDIES"}
       </h3>
 
       
@@ -248,7 +248,7 @@ if (!hasStarted) {
         <>
         <p className="text-1xl text-green-800 -mb-2  text-center"><span className="font-medium">{studentName}</span></p>
           
-          <Timer duration={1800} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
+          <Timer duration={1500} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
           {questions.length > 0 && (
             <Question
               questionObj={questions[currentQIndex]}
@@ -296,7 +296,7 @@ if (!hasStarted) {
 
 {/* This portion shows the result after submission */}
 
-{/* {showScore && (
+{showScore && (
   <div className="text-center mt-6">
     <h3 className="text-xl font-semibold mt-6 mb-2">Review:</h3>
     <div className="space-y-4 text-left mt-4">
@@ -314,7 +314,7 @@ if (!hasStarted) {
       })}
     </div>
   </div>
-)} */}
+)}
 
 
 </div>
